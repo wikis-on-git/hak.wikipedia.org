@@ -41,6 +41,17 @@ Tì chṳn-sṳt ke Wikipedia ke-phêu-thì tông-ngièn he <nowiki>[[Hak-kâ-fa
 * 係唔會讀寫客語白話字[[Help:恁般讀|請看者片！]]
 ----
 {{phêu-thì}}
+
+<inputbox>
+type=create
+width=50
+bgcolor=#ffffff
+preload=Template:Standard content for new page
+editintro=Template:Instructions
+default=
+</inputbox>
+</div>
+
 {| style="border:1px solid #006699;" cellspacing="0" cellpadding="5"
 | style="font: 125% Verdana; color:Red" align="center" bgcolor="#d0e2ee" |Khì-thâ ngî-ngièn ke Wikipedia
 |-
