@@ -1,36 +1,37 @@
 <!-- ---------- BEGINNING OF HEADER SECTION --------------------------- -->
-{|style="width:100%; margin-top:+.7em; background-color:#fcfcfc; border: 1px solid #ccc"
-|style="width:56%;color:#000"|
-{| width="370px" style="border:solid 0px;background:none"
-|-
-| style="width:370px;text-align:center; white-space: color:#000" |
-<h1 style="font-size: 162%; border: none; margin: 0; padding:.1em; color:#000">
-Fôn-ngiàng kông-lìm lòi [[Wikipedia]] ke [[Hak-kâ-fa]] pak-khô pán-pún!  </h1> Thai-kâ tû-nèn phiên-cho liá-chúng ngî-ngièn ke chhṳ-yù [[Pak-khô-chhiòn-sû]]. Yû mun-thì hàn-he kien-ngi? Lòi-hi [http://sii-tien.lomaji.com/ Hak-ngî Sṳ-tién] chhâm-kháu! Vi-liáu chṳn-sòng hién-sṳ [[Pha̍k-fa-sṳ]] sṳ-mû, chhiáng hâ-chhòn [http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=CharisSIL_download#FontsDownload Charis SIL sṳ-thí]. Hakkâpedia ke pán-pún hien-chhai yû [[Special:Statistics|{{NUMBEROFARTICLES}}]] vùn-chông.
-<blockquote>
-| style="width:370px;text-align:center; white-space: color:#000" |
-<h1 style="font-size: 162%; border: none; margin: 0; padding:.1em; color:#000">
-歡迎光臨來[[Wikipedia]]个[[Hak-kâ-fa |客家話]] 百科版本. </H2>
-
+{| style="width:100%; margin-top:+.7em; background-color:#fcfcfc; border: 1px solid #ccc"
+|style="width:65%"|
+{| border="0" style="background:none"
+| style="width:50%;text-align:center" |
+<h1 style="font-size: 162%; margin: 0; padding:.1em;">
+Fôn-ngiàng kông-lìm lòi [[Wikipedia]] ke [[Hak-kâ-fa]] pak-khô pán-pún!
+</h1>
+Thai-kâ tû-nèn phiên-cho liá-chúng ngî-ngièn ke chhṳ-yù [[Pak-khô-chhiòn-sû]]. Yû mun-thì hàn-he kien-ngi? Lòi-hi [http://sii-tien.lomaji.com/ Hak-ngî Sṳ-tién] chhâm-kháu! Vi-liáu chṳn-sòng hién-sṳ [[Pha̍k-fa-sṳ]] sṳ-mû, chhiáng hâ-chhòn [http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=CharisSIL_download#FontsDownload Charis SIL sṳ-thí]. Hakkâpedia ke pán-pún hien-chhai yû [[Special:Statistics|{{NUMBEROFARTICLES}}]] vùn-chông.
+| style="width:50%;text-align:center;" |
+<h1 style="font-size: 162%; margin: 0; padding:.1em;>
+歡迎光臨來[[Wikipedia]]个[[Hak-kâ-fa |客家話]] 百科版本.
+</h1>
 大家都能編做這種語言个自由[[Pak-khô-chhiòn-sû | 百科全書]]. 有問題還係建議? 來去[http://sii-tien.lomaji.com/ 客語字典] 參考! 為了正常顯示[[Pha̍k-fa-sṳ | 白話字]]字母,請下傳 [http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=CharisSIL_download#FontsDownload Charis SIL 字體] . Hakkâpedia 客語百科个版本現在有[[Special:Statistics|{{NUMBEROFARTICLES}}]] 文章.
-</blockquote>
-|}<!-- 
-|-
 |}
+|style="width:35%"|
 <!-- ----------Categories Follow---------------------------- -->
-|style="width:16%;font-size:95%"|
+{| border="0"
+|- valign="top"
+|style="width:40%;font-size:95%"|
 *[[:Category:Khô-ho̍k|Khô-ho̍k 科學]]
 *[[:Category:Kî-su̍t|Kî-su̍t 技術]]
 *[[:Category:Thi-lî|Thi-lî 地理]]
 *[[:Category:Kîn-chi|Kîn-chi 經濟]]
 *[[:Category:Ngìn-vu̍t|Ngìn-vu̍t 人物]]
 *[[:Category:Vùn-fa|Vùn-fa 文化]]
-|style="width:16%;font-size:95%"|
+|style="width:60%;font-size:95%"|
 *[[:Category:Li̍t-sṳ́|Li̍t-sṳ́ 歷史]]
 *[[:Category:Sa-fi|Sa-fi 社會]] 
 *[[:Category:Sâng-vu̍t-ho̍k|Sâng-vu̍t-ho̍k 生物學]]
 *[[:Category:Chûng-kau|Chûng-kau 宗教]]
 *[[:Category:Chet-ho̍k|Chet-ho̍k 哲學]]
 *[[:Category:Thí-yuk|Thí-yuk 體育]]
+|}
 <!-- -------End Categories----- -->
 |}
 <!-- ---------- END OF HEADER SECTION ------------------ -->
@@ -40,7 +41,7 @@ Fôn-ngiàng kông-lìm lòi [[Wikipedia]] ke [[Hak-kâ-fa]] pak-khô pán-pún!
 Yá-têu mióng-ya̍p he [http://www.sil.org/iso639-3/documentation.asp?id=hak Hak-kâ-fa (客家話)] ke Wikipedia. Yi fôn-ngiàng ngì lòi khiung-ha siá Hak-Ngî. Hak-kâ Wikipedia yí-kîn sṳ̀n-lı̍p, chòn-phu ke nui-yòng chang cho-ha pân-hi chṳn-sṳt ke Wikipedia.
 Tì chṳn-sṳt ke Wikipedia ke-phêu-thì tông-ngièn he <nowiki>[[Hak-kâ-fa]]</nowiki>.
 
-== 客語==
+== 客語 ==
 {{Hanzi}}
 者兜網頁係客家話个Wikipedia。異歡迎汝來共下寫客語。客家Wikipedia已經成立，全部个內容正做下搬去正式个Wikipedia。佇正式个Wikipedia个標題當然係<nowiki>[[Hak-kâ-fa]]</nowiki>.
 
@@ -49,6 +50,7 @@ Tì chṳn-sṳt ke Wikipedia ke-phêu-thì tông-ngièn he <nowiki>[[Hak-kâ-fa
 ----
 {{phêu-thì}}
 
+<div align="center">
 <inputbox>
 type=create
 width=50
@@ -67,7 +69,7 @@ default=
 |}
 
 <!-- Chí-moi kie-va̍k -->
-<div colspan="1" style="border:2px solid;border-color:#ddd #888 #666 #ccc;padding:0 1em;color:black;background:#fff;margin:4px">
+<div style="border:2px solid; border-color:#ddd #888 #666 #ccc; padding:0 1em; color:black; background:#fff; margin:4px">
 <h3 style="text-align:center" id="wikipediatoc">Chí-moi kie-va̍k</h3>
 {| align="center" cellpadding="2" width="100%" style="text-align:left"
 | [[Image:Wikimedia-logo.svg|35px|<nowiki></nowiki>]]
@@ -86,7 +88,7 @@ default=
 |}
 
 Chhâm-siòng [http://www.wikipedia.org Khì-thâ ngî-ngièn] ke Wikipedia pán-pún.
-
+</div>
 [[cdo:]]
 [[als:]]
 [[de:]]
