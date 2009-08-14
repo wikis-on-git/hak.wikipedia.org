@@ -35,6 +35,18 @@ Thai-kâ tû-nèn phiên-cho liá-chúng ngî-ngièn ke chhṳ-yù [[Pak-khô-ch
 <!-- -------End Categories----- -->
 |}
 <!-- ---------- END OF HEADER SECTION ------------------ -->
+{| style="border-spacing:8px;margin:0px -8px"
+|class="MainPageBG" style="width: 55%; border:1px solid #cef2e0; background-color:#f5fffa; vertical-align:top;color:#000"|
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#f5fffa"
+! <h2 style="margin: 0; background-color:#cef2e0; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;">[[Wikipedia:正文|是日正文]]</h2>
+|-
+|style="color:#000"|{{Wikipedia:是日正文/{{CURRENTYEAR}}年{{CURRENTMONTHNAME}}}}
+|-
+! <h2 style="margin: 0; background:#cef2e0; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;">[[Template talk:你知唔知|你知唔知...]]</h2>
+|-
+| style="color:#000"|{{你知唔知}}
+|-
+|}
 
 [[Image:Map of sinitic languages-en.svg|right|thumb|Hak-kâ-fa ke thi-khî]]
 == Hak-kâ-fa ==
