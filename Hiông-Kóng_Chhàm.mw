@@ -2,6 +2,75 @@
 
 [[Chûng-Wàn-Tshàm／Hiông-Kóng-Tshàm(MTR)]]
 
+{{NoteTA
+|1=月台
+|2=恒生}}
+{{Otheruses|紅磡站|subject=[[香港]][[港鐵]]{{東涌綫}}和{{機場快綫}}上的一個車站|other=[[京九鐵路]]位于[[香港]]的車站}}
+{{香港鐵路車站
+|name=香港
+|engname=Hong Kong
+|livery=#FFFFFF
+|namecolour=#274060
+|linecolour={{機場快綫色彩}}
+|linecolour2={{東涌綫色彩}}
+|image=Hong Kong Station Outside View 2009.jpg
+|caption=香港站外貌
+|code=HOK
+|location=[[香港]][[中西區 (香港)|中西區]][[中環]][[港景街]]一號
+|coordinates={{coord|22|17|5.15|N|114|9|28.86|E|type:railwaystation}}
+|map=[http://www.mtr.com.hk/jplanner/images/maps/hok.pdf 港鐵網站]<ref name="map">{{Cite web|language=|publisher=港鐵公司|title=香港站街道圖|url=http://www.mtr.com.hk/jplanner/images/maps/hok.pdf|accessdate=2009-05-04}}</ref>
+|colour=<span style="color:white;background:black">白色</span>、<span style="color:#274060;">灰色</span>
+|line=[[港鐵]]{{機場快綫}}及{{東涌綫}}
+|stationhours=[http://www.mtr.com.hk/jplanner/images/timetables/hok.pdf 0540-0114]<ref name="timetable">{{Cite web|language=|publisher=港鐵公司|title=香港站列車服務時間|url=http://www.mtr.com.hk/jplanner/images/timetables/hok.pdf|accessdate=2009-05-03}}</ref>
+|hours=[http://www.mtr.com.hk/jplanner/images/timetables/hok.pdf 0550-0050]<ref name="timetable" />
+|connection=[[港鐵]]{{荃灣綫}}及{{港島綫}}[[中環站]]、<br />[[香港巴士|巴士]]、[[香港小巴|小巴]]、[[香港電車|電車]]、[[渡輪]]、[[山頂纜車]]、[[香港的士|的士]]
+|openday=[[1998年]][[6月21日]]
+|stationtype=地底車站
+|platformtype=機場快綫－[[側式月台]]<br />東涌綫－[[島式月台]]
+|platform=3
+|exit=9
+|lift=11
+|escalator=42
+|shop=31}}
+{|{{railway line header2}}
+{{BS-header|路軌月台配置||#274060||auto}}
+{{BS-table|track}}
+|-
+|colspan=2|'''<big>L2</big>'''
+|-style="font-size:80%"
+|colspan=2 align=center|往[[九龍站]]
+{{BS2-2|uSTRg|uSTRf}}
+{{BS2-2|uSTR|STR|O1=uÜWcru|O2=uÜWor}}
+{{BS2-2|uÜWo+l|uÜWclo|O1=uSTR|O2=STR}}
+{{BS2-2|uSTR+BSr|exleer+BSl|O1=num1r|O2=STR}}
+{{BS2-2|uSTR+BSr|exleer+BSl|O2=STR|O22=num2l}}
+{{BS2-2|exSTR|exÜWor|O1=exÜWcru}}
+{{BS2-2|exÜWo+l|exÜWclo|O1=exSTR}}
+{{BS2-2|exENDEe|}}
+|-style="font-size:80%"
+|colspan=2 align=center style="border-bottom:black 1px solid;"|
+|-
+|colspan=2|'''<big>L4</big>'''
+|-style="font-size:80%"
+|colspan=2 align=center|往[[九龍站]]
+{{BS2-2|uSTRg|uSTRf}}
+{{BS2-2|ÜWol|ÜWor|O1=uSTR|O2=uSTR}}
+{{BS2-2|ÜWo+l|ÜWo+r|O1=uSTR|O2=uSTR}}
+{{BS2-2|uSTR+BSl|uSTR+BSr|O1=num4l}}
+{{BS2-2|uSTR+BSl|uSTR+BSr|O2=num3r}}
+{{BS2-2|uENDEe|uENDEe}}
+|}
+|}
+[[File:Art in MTR HKStation CentralSubway SwiftandSafe GaylordChan HongKong.jpg|thumb|250px|位於[[干諾道|干諾道中]]行人隧道的藝術品]]
+[[File:Hong Kong MTR Concourse.JPG|thumb|250px|[[機場快綫]]市區預辦登機服務櫃檯]]
+[[File:MTR HOK (28).JPG|thumb|250px|德忌利士街大堂]]
+[[File:MTR HOK (3).JPG|thumb|250px|位於東涌綫大堂的自助客務機]]
+[[File:MTR HOK (16).JPG|thumb|250px|連接機場快綫預留大堂及預留月台的扶手電梯預留位]]
+[[File:HongKongStationplatform1 20070922.jpg|thumb|250px|東涌綫月台]]
+[[File:HongKongStationMTRConcourse 20070922.jpg|thumb|250px|東涌綫大堂]]
+[[File:MTR HOK (1).JPG|thumb|250px|香港站C出口]]
+
+
 [[Category:Hiông-kóng]]
 [[Category:Chûng-Wàn]]
 [[Category:Kóng-thiet]]
