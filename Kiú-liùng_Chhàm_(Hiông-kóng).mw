@@ -3,6 +3,67 @@
 
 [[Chûng-Wàn-Tshàm／Hiông-Kóng-Tshàm(MTR)|Hiông-Kóng-Tshàm]] he [[Hiông-kóng-tó]] [[Chûng-Wàn]] e-接駁 Tshàm
 
+{{香港鐵路車站
+|name=九龍
+|engname=Kowloon
+|livery=#EEEDED
+|namecolour=#274060
+|linecolour={{機場快綫色彩}}
+|linecolour2={{東涌綫色彩}}
+|image=HK MTR KOW Platform 20070922.jpg
+|caption=九龍站東涌綫月台
+|code=KOW
+|location=[[香港]][[九龍]][[油尖旺區]][[西九龍填海區]]<br />[[雅翔道]]
+|coordinates={{Coor dms|22|18|17.64|N|114|9|41|E|type:railwaystation}}
+|map=[http://www.mtr.com.hk/jplanner/images/maps/kow.pdf 港鐵網站]<ref name="map">{{cite web|language=|publisher=港鐵公司|title=九龍站街道圖|url=http://www.mtr.com.hk/jplanner/images/maps/kow.pdf|accessdate=2009-05-16}}</ref>
+|colour=<span style="color:white;background:black">白色</span>、<span style="color:#274060;">灰色</span>
+|line=[[港鐵]]{{機場快綫}}及{{東涌綫}}
+|stationhours=[http://www.mtr.com.hk/jplanner/images/timetables/kow.pdf 0543-0120]<ref name="timetable">{{cite web|language=|publisher=港鐵公司|title=九龍列車服務時間|url=http://www.mtr.com.hk/jplanner/images/timetables/kow.pdf|accessdate=2009-05-16}}</ref>
+|hours=[http://www.mtr.com.hk/jplanner/images/timetables/kow.pdf 0553-0107]<ref name="timetable" />
+|connection=[[香港巴士|巴士]]、[[香港小巴|小巴]]、[[跨境巴士]]、[[穿梭巴士]]、[[渡輪]]、[[香港的士|的士]]
+|openday=[[1998年]][[6月22日]]
+|stationtype=地底車站
+|platformtype=機場快綫－[[側式月台]]<br />東涌綫－[[島式月台]]
+|platform=4
+|exit=6
+|lift=9
+|escalator=25
+|shop=18}}
+{|{{railway line header2}}
+{{BS-header|路軌月台配置||#274060||auto}}
+{{BS-table|track}}
+|-
+|colspan=2|'''<big>L2</big>'''
+|-style="font-size:80%"
+|colspan=2 align=center|往[[青衣站]]
+{{BS3-2||uSTRg|uSTRf}}
+{{BS3-2||uSTR+BSr|uSTR+BSl|O2=num1r}}
+{{BS3-2||uSTR+BSr|uSTR+BSl|O3=num2l}}
+{{BS3-2|uÜWcru|STR|ÜWor|O2=uÜWor|O22=ÜWcru|O3=uSTR}}
+{{BS3-2|uÜWo+l|STR|ÜWclo|O2=uÜWclo|O22=ÜWo+l|O3=uSTR}}
+{{BS3-2|uSTRg|ENDEe|uSTRf}}
+|-style="font-size:80%"
+|colspan=2 align=center style="border-bottom:black 1px solid;"|往[[香港站]]
+|-
+|colspan=2|'''<big>L4</big>'''
+|-style="font-size:80%"
+|colspan=2 align=center|往[[奧運站]]
+{{BS2-2|uSTRg|uSTRf}}
+{{BS2-2|ÜWol|ÜWclu|O1=uSTR|O2=uSTR}}
+{{BS2-2|uSTR|ÜWo+r|O1=ÜWcro|O2=uSTR}}
+{{BS2-2|uSTR+BSl|uSTR+BSr|O1=num3l}}
+{{BS2-2|uSTR+BSl|uSTR+BSr|O2=num4r}}
+{{BS2-2|uSTRg|uSTRf}}
+|-style="font-size:80%"
+|colspan=2 align=center|往[[香港站]]
+|}
+|}
+[[File:MTR-AirportEx-Kowloon.JPG|thumb|機場快綫九龍站月台]]
+[[File:HKMTR KOW Elevator 20070922.jpg|thumb|特長扶手電梯]]
+[[File:MTR Kowloon Station Concourse.jpg|thumb|九龍站[[東涌綫]]大堂（G）]]
+[[File:Elements Wood Zone 03.jpg|thumb|九龍站C1出口：[[圓方]]]]
+
+
 [[Category:Hiông-kóng]]
 [[Category:Kiú-liùng]]
 [[Category:Kóng-thiet]]
