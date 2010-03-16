@@ -1,7 +1,64 @@
 Fó-Than-Tsham(火炭站，實際原名喊Hò-Than河灘)
 
+
+
 {{MTR}}
 [[Category:MTR templates| MTR]]
+
+{{noteTA
+|1=月台
+|2=恒生}}
+{{香港鐵路車站
+|name=火炭
+|engname=Fo Tan
+|livery=orange
+|namecolour=white
+|linecolour={{東鐵綫色彩}}
+|image=Fo Tan Station Exit.jpg
+|caption=火炭站B及D出口（後方的扶手電梯）
+|code=FOT
+|location=[[香港]][[新界]][[沙田區]][[火炭]]樂景街
+|coordinates={{Coord|22|23|41.45|N|114|11|52.41|E|type:railwaystation}}
+|map=[http://www.mtr.com.hk/jplanner/images/maps/fot.pdf 港鐵網站]
+|colour=<span style="color:#ff8000;">橙色</span>（[[木棉]]/火炭工業區中心）
+|line=[[港鐵]]{{東鐵綫}} 
+|stationhours=[http://www.mtr.com.hk/jplanner/images/timetables/fot.pdf 0527-0104]
+|hours=[http://www.mtr.com.hk/jplanner/images/timetables/fot.pdf 0537-0054]
+|connection=[[香港巴士|巴士]]、[[香港小巴|小巴]]
+|openday=[[1985年]][[2月15日]]
+|stationtype=地面車站
+|platformtype=[[島式月台]]
+|platform=4
+|exit=4
+|lift=
+|escalator=10
+|shop=4}}
+{|{{railway line header2}}
+{{BS-header|路軌月台配置||orange}}
+{{BS-table|track}}
+|colspan=5 style="font-size:80%" align=center|往[[大學站 (新界)|大學站]]
+{{BS7-2|||uSTRu|uSTRd|}}
+{{BS7-2|||ÜWcru|O3=uSTR|ÜWor|O4=uSTR}}
+{{BS7-2|||ÜWo+l|O3=uSTR|ÜWclo|O4=uSTR}}
+{{BS7-2||ÜWcru|O2=ENDEa|ÜWor|O3=uSTR|uSTR}}
+{{BS7-2| |ÜWo+l|O2=STR|O23=|ÜWclo|O3=uSTRu|uSTRd}}
+{{BS7-2|ÜWcru|ÜWor|O2=STR|ÜWol|O3=uSTR|ÜWclu|O4=STR|O42=uÜWol|uÜWclu}}
+{{BS7-2|ÜWo+l|STR|O2=ÜWclo|ÜWcro|O3=uSTR|ÜWo+r|O4=STR|O42=uÜWcro|uÜWo+r|}}
+{{BS7-2|eGRENZE|eGRENZE|uSTRu|STR|uSTRd}}
+{{BS7-2|STR|STR|uSTR+BSl|O3=num1l|STR+BSlr|uSTR+BSr|O5=num4r}}
+{{BS7-2|STR|STR|uSTR+BSl|STR+BSlr|uSTR+BSr|10=火炭貨物起卸場}}
+{{BS7-2|ENDEe|ENDEe|uSTR+BSl|STR+BSlr|O4=num2r|O42=num3l|uSTR+BSr|CONTg|CONTg|11=往車廠}}
+{{BS7-2|||ÜWcru|O3=uSTRu|ÜWor|O4=STR|uSTRd|O5=ÜWcru|ÜWor|STR|11=及[[馬場站 (東鐵綫)|馬場站]]}}
+{{BS7-2|||ÜWo+l|O3=uSTR|ÜWclo|O4=uÜWcru|O42=STR|ÜWorl|O5=uÜWor|ÜWcru|O6=ÜWclo|ÜWor|9=}}
+{{BS7-2|||uSTR|STR|O4=uÜWo+l|uÜWclo|O5=ÜWcru|ÜWorl|ÜWclo|9=}}
+{{BS7-2|||ÜWcru|O3=uSTR|ÜWor|O4=ÜWcru|O42=uSTR|ÜWorl|ÜWclo|9=}}
+{{BS7-2|||ÜWo+l|O3=uSTR|ÜWo+l|O4=ÜWclo|O42=uSTR|ÜWclo|9=}}
+{{BS7-2|||uSTRu|uSTRd|9=}}
+|-
+|colspan=5 style="font-size:80%;" align=center|往[[沙田站]]
+|}
+|}
+
 
 [[Category:Kóng-thiet]]
 [[Category:Tûng-Thiet-Sien]]
