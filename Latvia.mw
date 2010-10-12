@@ -1,19 +1,19 @@
 {{Infobox Country
-| koet-kâ miàng-chhṳ̂n = Lâ-thot-vì-â
+| koet-kâ miàng-chhṳ̂n = Lâ-thot-vì-â <br /> {{ngî+lv|Latvija}}
 | koet-khì vùn-khien-miàng = Flag of Latvia.svg
 | khì-ho vùn-khien-miàng = Coat of Arms of Latvia.svg
-| koet-kâ kiet-ngièn = Tēvzemei un Brīvībai
-| koet-kô miàng-chhṳ̂n = Dievs, svētī Latviju! 
+| koet-kâ kiet-ngièn = {{ngî*lv|Tēvzemei un Brīvībai}}
+| koet-kô miàng-chhṳ̂n = {{ngî*lv|Dievs, svētī Latviju!}}
 | koet-kâ vi-chṳ thù-hìn vùn-khien-miàng = EU location LAT.png
 | koet-kâ sú-tû miàng-chhṳ̂n = [[Riga]]<!--kâ-ngi̍p [[]]-->
 | chui-thai sàng-sṳ miàng-chhṳ̂n = [[Riga]]<!--kâ-ngi̍p [[]]-->
-| koet-thú mien-chit su-kí = 64,589 
+| koet-thú mien-chit su-kí = 64589 
 | mien-chit phài-miàng = 124
 | hói-kóng = 
 | chui-chhòng hò-liù = <!--kâ-ngi̍p [[]]-->
 | sṳ̀-khî = 
 | kôn-fông ngî-ngièn = [[Lâ-thot-vì-â-vùn]] <!--kâ-ngi̍p [[]]-->
-| chúng ngìn-khiéu su-kí = 2,270,700 <!--kâ-ngi̍p ngièn-fun -->
+| chúng ngìn-khiéu su-kí = 2270700 <!--kâ-ngi̍p ngièn-fun -->
 | ngìn-khiéu phài-miàng = 143
 | ngìn-khiéu me̍t-thu su-kí = 36
 | ngìn-khiéu me̍t-thu phài-miàng = 166
@@ -38,7 +38,7 @@
 | koet-chi khî-khî suk-siá = .lv
 | koet-chi thien-fa khî-ho = +371
 |}}
-'''Lâ-thot-vì-â''' he [[Êu-chû]] yit-ke koet-kâ. 
+'''Lâ-thot-vì-â''' ({{ngî+lv|Latvija}}) he [[Êu-chû]] yit-ke koet-kâ. 
 
 == Li̍t-sṳ́ ==
 [[File:Rezekne Holy Trinity Church.jpg|right|thumb|250px]]
@@ -56,15 +56,16 @@
 == Chûng-kau ==
 ==Kiûn-sṳ==
 
-<!--Other languages-->
+{{Êu-chû Lièn-mèn}}
 
+<!-- Categories -->
+{{DEFAULTSORT:Laâ-thot-viì-aâ}}
+
+[[Category:Lâ-thot-vì-â| ]]
 [[Category:Êu-chû]]
-[[Category:Latvia| ]]
-[[Category:Republics]]
-[[Category:Liberal democracies]]
+[[Category:Êu-chû Lièn-mèn]]
 
-[[frr:Letlönj]]
-
+<!-- Interwikis -->
 [[ace:Latvia]]
 [[af:Letland]]
 [[als:Lettland]]
@@ -117,6 +118,7 @@
 [[fo:Lettland]]
 [[fr:Lettonie]]
 [[frp:Lètonie]]
+[[frr:Letlönj]]
 [[fur:Letonie]]
 [[fy:Letlân]]
 [[ga:An Laitvia]]
