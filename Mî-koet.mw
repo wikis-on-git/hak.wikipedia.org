@@ -1,5 +1,5 @@
 {{Infobox Country
-| koet-kâ miàng-chhṳ̂n = Mî-koet
+| koet-kâ miàng-chhṳ̂n = Mî-koet<br />{{ngî*en|United States of America}}
 | koet-khì vùn-khien-miàng = Flag of the United States.svg
 | khì-ho vùn-khien-miàng = USSeal.png
 | koet-kâ kiet-ngièn = Sin-ngióng Song-ti 
@@ -7,13 +7,13 @@
 | koet-kâ vi-chṳ thù-hìn vùn-khien-miàng = Average precipitation in the lower 48 states of the USA.png
 | koet-kâ sú-tû miàng-chhṳ̂n = [[Fà-sṳn-tun, D.C.]]<!--kâ-ngi̍p [[]]-->
 | chui-thai sàng-sṳ miàng-chhṳ̂n = [[Néu-yok-sṳ]]<!--kâ-ngi̍p [[]]-->
-| koet-thú mien-chit su-kí = 9,631,420 
+| koet-thú mien-chit su-kí = 9631420 
 | mien-chit phài-miàng = sâm 
 | hói-kóng = 
 | chui-chhòng hò-liù = <!--kâ-ngi̍p [[]]-->
 | sṳ̀-khî = 
 | kôn-fông ngî-ngièn = [[Yîn-vùn]] <!--kâ-ngi̍p [[]]-->
-| chúng ngìn-khiéu su-kí = 301,610,970<!--kâ-ngi̍p ngièn-fun -->
+| chúng ngìn-khiéu su-kí = 301610970<!--kâ-ngi̍p ngièn-fun -->
 | ngìn-khiéu phài-miàng = sâm 
 | ngìn-khiéu me̍t-thu su-kí = sâm-sṳ̍p-ngi  
 | ngìn-khiéu me̍t-thu phài-miàng = 140
@@ -41,9 +41,9 @@
 
 [[File:MtHood TrilliumLake.jpg|right|thumb|280px]]
 
-'''Mî-li-kiên Ha̍p-chung-koet'''（[[Yîn-vùn|Yîn-ngî]]：United States of America）, thûng-sòng chhṳ̂n-cho '''Mî-koet''', he vi-yî [[Pet-mî-chû|Pet-Mî-chû]] ke lièn-pâng khiung-fò chṳ koet-kâ, ya-he sṳ-kie sông chui yû-kiú ke koet-kâ。
+'''Mî-li-kiên Ha̍p-chung-koet''' ({{ngî+en|United States of America}}) thûng-sòng chhṳ̂n-cho '''Mî-koet''' ({{ngî-en|America}}), he vi-yî [[Pet-mî-chû|Pet-Mî-chû]] ke lièn-pâng khiung-fò chṳ koet-kâ, ya-he sṳ-kie sông chui yû-kiú ke koet-kâ.
 
-Mî-koet pún-thú hiong-tûng he [[Thai Sî-yòng]], sî-lìm [[Thai-phìn-yòng]], pet piên-kie kho-chho̍k [[Kâ-nâ-thai]], nàm-fông chiap [[Me̍t-sî-kô]] khi̍p Me̍t-sî-kô vân. Sú-tû he [[Fà-sṳn-tun]] Kô-lùn-pí-â thi̍t-khî。
+Mî-koet pún-thú hiong-tûng he [[Thai Sî-yòng]], sî-lìm [[Thai-phìn-yòng]], pet piên-kie kho-chho̍k [[Kâ-nâ-thai]], nàm-fông chiap [[Me̍t-sî-kô]] khi̍p Me̍t-sî-kô vân. Sú-tû he [[Fà-sṳn-tun]] Kô-lùn-pí-â thi̍t-khî.
 
 Mî-koet ngièn chhṳ chhut-yì [[1776-ngièn]] thot-lì [[Yîn-koet]] thúng-chhṳ ke Pet-Mî chhṳ̍t-mìn-thi, Sṳ̍p-sâm chû ke chhṳ̍t-mìn-thi thoi-péu yit-thùng fat-péu liáu "[[Mî-koet Thu̍k-li̍p Siên-ngièn]]", chhai kîn-li̍t kiên-khú ke thu̍k-li̍p chan-chên heu, yî [[1783-ngièn]] lâu Yîn-koet chhiâm-thin Pâ-lì hia̍p-yok, chhiùng-chhṳ́ su-tó sṳ-kie kok-koet ke sṳ̀n-ngin.
 
@@ -53,8 +53,6 @@ Kien-koet lióng-pak tô ngièn yî-lòi, Mî-koet chên kîn-li̍t ko nui-chan 
 
 == Li̍t-sṳ́ ==
 ==Thi-lî==
-CUBE CUBE CUBE CUBE CUBE CUBE
-
 == Liâng-thú kiu-fun ==
 ==Kîn-chi==
 == Chṳn-chhṳ ==
@@ -66,11 +64,16 @@ CUBE CUBE CUBE CUBE CUBE CUBE
 == Chhâm-siòng ==
 ==Chûng-kau==  
 == Kiûn-sṳ ==
+
 {{Mî-koet}}
 
-[[Category:Mî-koet]]
+<!-- Categories -->
+{{DEFAULTSORT:Miî-koet}}
+
+[[Category:Mî-koet| ]]
 [[Category:Pet-mî-chû]]
 
+<!-- Interwikis -->
 {{Link FA|ceb}}
 {{Link FA|fa}}
 {{Link FA|fo}}
