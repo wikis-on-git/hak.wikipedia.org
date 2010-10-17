@@ -1,34 +1,18 @@
-{| border="1" cellpadding="2" cellspacing="0" align="right" width="300"
-! colspan="2" bgcolor="#dddddd" style="font-size:120%"|Nò-man-thi-ngî</br>
-'''Normand'''
-|-
-| valign="top"|Koet-kâ:
-|[[Fap-koet]]
-|-
-| valign="top"|Thi-khî:
-|[[Nò-man-thi]] 
-|-
-| valign="top"|Sṳ́-yung ngìn-su:
-| ?
-|-
-| valign="top"|[[Ngî-ngièn fûn-lui|Fûn-lui]]:
-|[[Yin-Êu Ngî-ne]]
+{{Infobox Language
+| nativename = {{ngî*nrm|Nouormand}}
+| koet-kâ = {{FRA}}, [[海峡群岛]]
+| thi-khî = [[Nò-man-thi]] 
+| sṳ́-yung ngìn-su = ?
+| fûn-lui = [[Yin-Êu Ngî-ne]]
 :[[Yi-thai-li Ngî-tshu̍k]]
 ::[[Lò-man Ngî-tshu̍k]]
 :::[[Yi-thai-li Sî Lò-man Ngî-tshu̍k]]
-::'''Nò-man-thi-ngî'''
-|-
-! colspan="2" bgcolor="#dddddd"|Ngî-ngièn thoi-ho
-|-
-|[[ISO 639]]-1||-
-|-
-|ISO 639-2|| roa
-|-
-|ISO 639-3||[http://www.sil.org/iso639-3/documentation.asp?id=nrm nrm]
-|}
+::::'''Nò-man-thi-ngî'''
+| iso639-2 = roa
+| iso639-3 = nrm
+}}
 
-
-'''Nò-man-thi-ngî''' he yit-tsúng [[ngî-ngièn]].
+'''Nò-man-thi-ngî''' he [[Lò-man-tshu̍k]] ke yit-tsúng [[ngî-ngièn]].
 
 == Li̍t-sṳ́ ==
 ==Lui-phe̍t ==
@@ -42,8 +26,13 @@
 ==Ngoi-phu Lièn-kiet== 
 {{InterWiki|code=nrm}}
 
-[[Category:Ngî-ngièn]]
+<!-- Categories -->
+{{DEFAULTSORT:Noò-man-thi}}
 
+[[Category:Ngî-ngièn]]
+[[Category:Yi-thai-li Sî Lò-man Ngî-tshu̍k]]
+
+<!-- Interwikis -->
 [[als:Normännische Sprache]]
 [[am:ኖርማንኛ]]
 [[an:Idioma normando]]
