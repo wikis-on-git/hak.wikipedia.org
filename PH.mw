@@ -4,6 +4,10 @@ pH ke kie-son kûng-sṳt:
 
 :<math>\mbox{pH} = -\log_{10} \left[ \mbox{H}^+ \right]= \log_{10} \frac{1}{\left[ \mbox{H}^+ \right]}</math>
 
+Nernst kûng-sṳt:
+
+:<math> E = E^0 + \frac{RT}{nF} \ln(a_{\textrm{H}^+}); \qquad \mathrm{pH} = \frac{E^0-E}{2.303 RT/F}</math>
+
 [[Category:Sâng-vu̍t-ho̍k]]
 
 [[af:PH]]
