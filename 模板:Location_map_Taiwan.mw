@@ -1,0 +1,48 @@
+{{#switch:{{{1}}}
+|name   = 臺灣
+|top    = 26.4
+|bottom = 21.7
+|left   = 118.0
+|right  = 122.3
+|image  = Taiwan location map.svg
+}}<noinclude>{{Location map/Info}}
+[[Category:地理位置图模板|{{PAGENAME}}]]
+
+<noinclude>
+[[ba:Ҡалып:ПозКарта Ҡытай Республикаһы]]
+[[be:Шаблон:На карце/Тайвань]]
+[[bg:Шаблон:ПК Тайван]]
+[[cs:Šablona:LocMap Tchaj-wan]]
+[[da:Skabelon:Kortpositioner Taiwan]]
+[[de:Vorlage:Positionskarte Taiwan]]
+[[diq:Şablon:Location map Taywan]]
+[[en:Template:Location map Taiwan]]
+[[es:Plantilla:Mapa de localización de República de China]]
+[[eu:Txantiloi:Kokapen mapa/TWN]]
+[[fa:الگو:Location map Taiwan]]
+[[fr:Modèle:Géolocalisation/Taïwan]]
+[[he:תבנית:מפת מיקום/הרפובליקה הסינית]]
+[[hr:Predložak:Lokacijska karta Tajvan]]
+[[hu:Sablon:Pozíciós térkép Tajvan]]
+[[hy:Կաղապար:Տեղորոշման քարտեզ Թայվան]]
+[[id:Templat:Location map Taiwan]]
+[[it:Template:Mappa di localizzazione/TWN]]
+[[ja:Template:Location map Taiwan]]
+[[ka:თარგი:პოზრუკა ტაივანი]]
+[[ko:틀:위치 지도 타이완]]
+[[ku:Şablon:Nexşeya cihan Taywan]]
+[[lt:Šablonas:Location map Taivanas]]
+[[ml:ഫലകം:Location map Taiwan]]
+[[my:Template:Location map Taiwan]]
+[[nl:Sjabloon:Positiekaart Taiwan]]
+[[no:Mal:Kartposisjon Taiwan]]
+[[os:Шаблон:ПозКартæ Тайван]]
+[[pl:Szablon:Mapa lokalizacyjna/TWN]]
+[[pt:Predefinição:Mapa de localização/Taiwan]]
+[[ro:Format:Harta de localizare Taiwan]]
+[[ru:Шаблон:ПозКарта Китайская Республика]]
+[[szl:Muster:Mapa lokalizacyjno/TWN]]
+[[tr:Şablon:Location map Taiwan]]
+[[vi:Bản mẫu:Bản đồ định vị Đài Loan]]
+[[zh:Template:Location map Taiwan]]
+</noinclude>
