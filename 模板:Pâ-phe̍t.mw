@@ -138,6 +138,4 @@ In order to have Babel boxes on another Wikimedia project, just copy this page t
 You also need to copy over a bunch of files with names like "Template:User en", "Template:User en-1", "Template:User fr", etc. etc.  Once you've done that, users can put e.g. "<nowiki>{{Babel:en-1|fr}}</nowiki>" on their user page and the Babel boxes will be displayed.
 
 [[Category:Templates using ParserFunctions|{{PAGENAME}}]]
-[[hi:साँचा:Babel]]
-[[mk:Шаблон:Babel]]
 </noinclude>
