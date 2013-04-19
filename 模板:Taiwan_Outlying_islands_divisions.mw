@@ -1,0 +1,50 @@
+{{Navbox
+| name  = Taiwan Outlying islands divisions
+| title = '''[[Phàng-fù-yen]]''', '''[[Kîm-mùn-yen]]''', '''[[Lièn-kông-yen]]''' Hàng-tsṳn Khî-va̍k
+| above = [[Yen-sàng]]'
+| image      = [[Image:Outlying Islands Location Map.PNG|85px|Location of Penghu, Kinmen, Lienchiang Counties]]
+| titlestyle = background: #BBDDBB;
+| abovestyle = background: #BBDDBB;
+| groupstyle = background: #BBDDBB;
+|group1 = [[Thòi-vân|Thòi-vân]]
+| list1 =
+{{Navbox subgroup
+    | groupstyle = background: #BBDDBB;width:11em;
+    | liststyle = width:auto;
+| group1 = [[Phàng-fù-yen]] [[Image:Penghu County flag.svg|25px]]
+| list1 = {{Navbox subgroup
+    | groupstyle = background: #BBDDBB;width:11em;
+    | liststyle = width:auto;
+    | group1 = [[Yen-hot-sṳ|Sàng-sṳ]]
+    | list1  = '''[[Mâ-kûng-sṳ]]'''
+
+    | group2 = [[Hiông (Thòi-vân)|Hiông]]
+    | list2  = [[Pha̍k-sâ-hiông]]{{·}}[[Tshit-mî-hiông]]{{·}}[[Fù-sî-hiông]]{{·}}[[Sî-yí-hiông]]{{·}}[[Mong-ôn-hiông]]
+    }}
+}}
+| group2 = [[Fuk-kien-sén|Fuk-kien]]
+| list2 =
+{{Navbox subgroup
+    | groupstyle = background: #BBDDBB;width:11em;
+    | liststyle = width:auto;
+| group1 = [[Kîm-mùn-yen]] [[Image:Kinmen County flag.svg|25px]]
+| list1  = {{Navbox subgroup
+    | groupstyle = background: #BBDDBB;width:11em;
+    | liststyle = width:auto;
+    | group1 = [[Tsṳ́n (Thòi-vân)|Tsṳ́n]]
+    | list1 = '''[[Kîm-sàng-tsṳ́n]]'''{{·}}[[Kîm-sâ-tsṳ́n]]{{·}}[[Kîm-fù-tsṳ́n]]
+    | group2 = [[Hiông (Thòi-vân)|Hiông]]
+    | list2 = [[Kîm-nèn-hiông]]{{·}}[[Lie̍t-yí-hiông]]{{·}}[[Vû-hiu-hiông]]
+    }}
+| group2 = [[Lièn-kông-yen]] [[Image:Lienchiang County flag.svg|25px]]
+| list2 = {{Navbox subgroup
+    | groupstyle = background: #BBDDBB;width:11em;
+    | liststyle = width:auto;
+    | group1 = [[Hiông (Thòi-vân)|Hiông]]
+    | list1 = '''[[Nàm-kôn-hiông]]'''{{·}}[[Pet-kôn-hiông]]{{·}}[[Kí-kóng-hiông]]{{·}}[[Tûng-yín-hiông]]
+    }}
+}}
+}}<noinclude>
+
+[[Category:Republic of China (Taiwan) county templates|Outlying]]
+</noinclude>
