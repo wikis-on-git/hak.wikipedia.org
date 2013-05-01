@@ -1,0 +1,58 @@
+<table class="plainlinks imbox 
+{{#switch:{{{type|}}}
+| speedy     = imbox-speedy
+| delete     = imbox-delete
+| content    = imbox-content
+| style      = imbox-style
+| move       = imbox-move
+| protection = imbox-protection
+| license    = imbox-license
+| featured   = imbox-featured
+| notice          <!-- notice = default -->
+| #default   = imbox-notice
+}}" style="{{{style|}}}">
+<tr>
+{{#ifeq:{{{image|}}}|none
+| <!-- No image. Cell with some width or padding necessary for text cell to have 100% width. --><td class="mbox-empty-cell"></td>
+| <td class="mbox-image">
+  {{#if:{{{image|}}}
+  | {{{image}}}
+  | {{#switch:{{{type|}}}
+    | speedy     = [[File:Imbox speedy deletion.png|40x40px]] 
+    | delete     = [[File:Imbox deletion.png|40x40px]] 
+    | content    = [[File:Imbox content.png|40x40px]]
+    | style      = [[File:Imbox style.png|40x40px]]
+    | move       = [[File:Imbox move.png|40x40px]]
+    | protection = [[File:Imbox protection.png|40x40px]]
+    | license    = [[File:Imbox license.png|40x40px]]
+    | featured   = [[File:Imbox featured.png|40x40px]]
+    | notice          <!-- notice = default -->
+    | #default   = [[File:Imbox notice.png|40x40px]]
+    }}
+  }}</td>
+}}
+<td class="mbox-text" style="{{{textstyle|}}}"> {{{text}}} </td>
+{{#if:{{{imageright|}}}
+| <td class="mbox-imageright"> {{{imageright}}} </td>
+}}
+</tr>
+{{#if:{{{below|}}}
+| <tr><td colspan={{#if:{{{imageright|}}}|3|2}} class="mbox-text" style="{{{textstyle|}}}"> {{{below}}} </td></tr>
+}}
+</table><!-- Detect and report usage with faulty "type" parameter:
+-->{{#switch:{{{type|}}}
+|   <!-- No type fed, is also valid input -->
+| speedy
+| delete
+| content
+| style
+| move
+| protection
+| license
+| featured
+| notice     =    <!-- Do nothing, valid "type" -->
+| #default   = [[Category:需要修复的信息框|{{main other|Main:}}{{FULLPAGENAME}}]]<!-- Sort on namespace -->
+}}<includeonly>{{#ifeq:{{BASEPAGENAME}}|{{SUBPAGENAME}}|{{#ifeq:{{NAMESPACE}}|Template|[[Category:檔案訊息模板|{{PAGENAME}}]]}}}}</includeonly><noinclude>
+{{documentation}}
+<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>
