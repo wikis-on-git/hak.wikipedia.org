@@ -1,5 +1,6 @@
+<onlyinclude>
 {{Navbox
-|name  = Province-level divisions of the People's Republic of China
+|name  = 中華人民共和國省級行政區
 |title = [[中華人民共和國]] 省級行政區劃
 |image = [[Image:Flag of the People's Republic of China.svg|border|76px|中華人民共和國國旗]]
 
@@ -25,10 +26,11 @@
 
 {{nowrap end}}
 </div>
-}}<noinclude>
+}}
+<noinclude>
 
 <!--Categories-->
-[[Category:People's Republic of China province-level subdivision templates| ]]
+[[Category:中国模板| ]]
 
 <!--Interwikis-->
 [[bg:Шаблон:Административно деление на Китайската народна република]]
