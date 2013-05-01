@@ -1,5 +1,5 @@
-<noinclude>{{shortcut|T:W}}</noinclude><div style="width:100%;margin:0.2em 0;padding:0.3em 0;border-top:1px solid #ddd;border-bottom :1px solid #ddd;font-size:120%;">'''您好，{{#if:{{{1|}}}|{{{1}}}|{{#ifeq:{{ NAMESPACE}}|User talk|{{BASEPAGENAME}}}}}}！歡迎加入維基百科！ '''</div>
-感謝您對維基百科的興趣與貢獻，希望您會喜歡這裡。除了[[:zh:WP:WELCOME|'''歡迎辭''']]以外，也請您了解以下重要文章：
+<noinclude>{{shortcut|T:W}}</noinclude><div style="width:100%;margin:0.2em 0;padding:0.3em 0;border-top:1px solid #ddd;border-bottom :1px solid #ddd;font-size:120%;">'''汝好，{{#if:{{{1|}}}|{{{1}}}|{{#ifeq:{{ NAMESPACE}}|User talk|{{BASEPAGENAME}}}}}}！歡迎加入維基百科！ '''</div>
+感謝汝對維基百科个興趣與貢獻，希望汝會喜歡這裡。除了[[:zh:WP:WELCOME|'''歡迎辭''']]以外，也請汝了解以下重要文章：
 {|style="background:transparent;border-top:1px solid #ddd;border-bottom:1px solid #ddd;border-collpase:collapse;"
 |-style="vertical-align:top;"
 |style="background:#f4f4f4;padding:.8em .2em;"|[[File:Nuvola apps korganizer.svg|35px|left|政策|link=]]<div style="margin-left:45px;" >[[:zh:WP:5P|'''五大支柱''']]<br /><small>[[:zh:WP:NOT|百科]]、[[:zh:WP:NPOV|中立]]、[[:zh:WP:CRFAQ|開放]]、[[:zh:WP:CIV|互重]]、[[:zh:WP:IAR|勇於創新]]</small></div>
