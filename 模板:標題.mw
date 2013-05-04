@@ -1,7 +1,7 @@
 {{Main Page navigation}}
 __NOEDITSECTION__
  __NOTOC__
-<div style="position: fixed; top:0px; left:155px;color:#005994; font-size:0.8em;">現在嘅[[GMT]] 時間係{{CURRENTYEAR}}年{{CURRENTMONTH}}月{{CURRENTDAY}}日{{CURRENTTIME}} {{CURRENTDAYNAME}}，亻厓兜嘅當地時間（北京時間撈臺北時間）{{UTC|+08}}([[時區|GMT+8]])
+<div style="position: fixed; top:0px; left:155px;color:#005994; font-size:0.8em;">現在嘅[[GMT]]時間係{{CURRENTYEAR}}年{{CURRENTMONTH}}月{{CURRENTDAY}}日{{CURRENTTIME}} {{CURRENTDAYNAME}}，亻厓兜嘅當地時間（北京時間撈臺北時間）係{{UTC|+08}}([[時區|GMT+8]])。
 </div>
 <!-- ---------- BEGINNING OF HEADER SECTION --------------------------- -->
 {| style="width:100%; margin-top:+.7em; background-color:#fcfcfc; border: 1px solid #ccc"
