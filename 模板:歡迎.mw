@@ -1,9 +1,24 @@
+{| align="right"
+| <div style="position: relative; height: 1%;">
+ <div style="position: relative; margin: 0 1.5em 0 0; padding: 0; background-color: transparent; border: 0px none #ddd; height: 1%;">
+  <div style="position: relative; margin: 0 auto; width: 187px; border: 1px solid #EEE; height: 1%; box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.1);">
+   <div style="position: relative; overflow: hidden; height: 200px;">
+    <div style="position: relative; overflow: hidden; margin: 0;">[[File:Wikipe-tan_holding_sign_cropped.png|x200px]]</div>
+<div align="center" style="position: absolute; top: 25px; left:30px; z-index: 10; border: none; padding-top:1em; padding-bottom:0; font-size:400%;">
+歡迎
+</div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
+|}
 <noinclude>{{shortcut|T:W}}</noinclude><div style="width:100%;margin:0.2em 0;padding:0.3em 0;border-top:1px solid #ddd;border-bottom :1px solid #ddd;font-size:120%;">'''汝好{{#if:{{{1|}}}|{{{1}}}|{{#ifeq:{{ NAMESPACE}}|User talk|{{BASEPAGENAME}}}}}}！歡迎加入維基百科！ '''</div>
 承蒙汝對維基百科个興趣與貢獻，希望汝會中意邇位。除開[[:zh:WP:WELCOME|'''歡迎辭''']]以外，也請汝了解以下重要文章：
 {|style="background:transparent;border-top:1px solid #ddd;border-bottom:1px solid #ddd;border-collpase:collapse;"
 |-style="vertical-align:top;"
 |style="background:#f4f4f4;padding:.8em .2em;"|[[File:Nuvola apps korganizer.svg|35px|left|政策|link=]]<div style="margin-left:45px;" >[[:zh:WP:5P|'''五大支柱''']]<br /><small>[[:zh:WP:NOT|百科]]、[[:zh:WP:NPOV|中立]]、[[:zh:WP:CRFAQ|開放]]、[[:zh:WP:CIV|互重]]、[[:zh:WP:IAR|勇於創新]]</small></div>
-|style="background:#faf1df;padding:.8em .2em;"|[[File:Nuvola apps emacs.png|45px|left|GNU|link=]]<div style="margin-left:55px;" >[[:zh:WP:CRFAQ|'''版權問題解答''']]<br /><small>貢獻內容必須係'''汝所著或獲得授權'''、<br />並同意在[ [WP:C|CC-by-sa-3.0與GFDL]]條款下發布</small></div>
+|style="background:#faf1df;padding:.8em .2em;"|[[File:Nuvola apps emacs.png|45px|left|GNU|link=]]<div style="margin-left:55px;" >[[:zh:WP:CRFAQ|'''版權問題解答''']]<br /><small>貢獻內容必須係'''汝所著或獲得授權'''、<br />並同意在[ [:zh:WP:C|CC-by-sa-3.0與GFDL]]條款下發布</small></div>
 |style="background:#f4f4f4;padding:.8em .2em;"|[[File:Postscript-viewer.svg|35px|left|手冊|link=]]<div style="margin-left:45px;" >[[:zh:WP:T|'''使用指南''']]<br /><small>[[:zh:WP:VISIT|安全訪問]] / [[:zh:WP:SB|測試編輯]] / [[:zh:WP: HEP|如何編輯]]<br /> [[:zh:WP:HELP|使用手冊]] / [[:zh:Help:中文維基百科个繁簡處理|繁簡處理]] / [[:zh:WP:改進條目|寫個好條目]]</small></div>
 |-
 |colspan="3" style="border-top:1px solid #ddd;padding-top:.3em;"|[[File:Icon apps query.svg|18px|left|問號|link=]]'''有問題？ '''請到[[:zh:WP:VP|'''互助客棧''']]詢問，或在'''對話頁'''提出。莫添忘訖矣：討論後愛[[:zh:WP:SIG|'''簽名''']]，方式之一係留下4條波浪紋「 <nowiki>~~</nowiki><nowiki>~~</nowiki > 」。 <div lang="en" style="font-style:italic;font-size:90%;">If you have any questions about the Hakka Wikipedia, please leave a message ''[http://hak.wikipedia.org/w/index.php?title=Talk:%E9%A0%AD%E9%A0%81&action=edit&section=new here]'', Thank you for visiting!</div>
