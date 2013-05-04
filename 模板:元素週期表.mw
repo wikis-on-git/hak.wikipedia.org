@@ -1,0 +1,201 @@
+<center>
+{|
+|-----align="center"
+|'''元素週期表'''
+|----- align="center"
+|width="1.8%"|&nbsp;||width="5.3%"|'''1'''||width="5.3%"|'''2'''||width="5.3%"|'''3'''
+|width="5.3%"|'''4'''
+|width="5.3%"|'''5'''||width="5.3%"|'''6'''
+|width="5.3%"|'''7'''||width="5.3%"|'''8'''
+|width="5.3%"|'''9'''||width="5.3%"|'''10'''
+|width="5.3%"|'''11'''||width="5.3%"|'''12'''
+|width="5.3%"|'''13'''||width="5.3%"|'''14'''
+|width="5.3%"|'''15'''||width="5.3%"|'''16'''
+|width="5.3%"|'''17'''||width="5.3%"|'''18'''
+|----- align="center"
+|colspan="20"|
+----
+|----- align="center"
+|
+|'''I''' A
+|colspan="16"|
+|'''0'''
+|----- align="center"
+|rowspan="2"|'''1'''
+|rowspan="2" bgcolor="#a0ffa0"|<span style="color:green">1</span><br />H<br />[[氫]]
+|colspan="16"|
+|rowspan="2" bgcolor="#c0ffff"|<span style="color:green">2</span><br />He<br />[[氦]]
+|----- align="center" valign="bottom"
+|'''II''' A
+|colspan="10"|
+|'''III''' A
+|'''IV''' A
+|'''V''' A
+|'''VI''' A
+|'''VII''' A
+|----- align="center"
+|'''2'''
+|style="background-color:#ff6666"|3<br />Li<br />[[鋰]]
+|style="background-color:#ffdead"|4<br />Be<br />[[鈹]]
+|colspan="10"|
+|style="background-color:#cccc99"|5<br />B<br />[[硼]]
+|style="background-color:#a0ffa0"|6<br />C<br />[[碳]]
+|style="background-color:#a0ffa0"|<span style="color:green">7</span><br />N<br />[[氮]]
+|style="background-color:#a0ffa0"|<span style="color:green">8</span><br />O<br />[[氧]]
+|style="background-color:#ffff99"|<span style="color:green">9</span><br />F<br />[[氟]]
+|style="background-color:#c0ffff"|<span style="color:green">10</span><br />Ne<br />[[氖]]
+|----- align="center"
+|rowspan="2"|'''3'''
+|rowspan="2" bgcolor="#ff6666"|11<br />Na<br />[[鈉]]
+|rowspan="2" bgcolor="#ffdead"|12<br />Mg<br />[[鎂]]
+|colspan="10"|
+|rowspan="2" bgcolor="#cccccc"|13<br />Al<br />[[鋁]]
+|rowspan="2" bgcolor="#cccc99"|14<br />Si<br />[[硅]]
+|rowspan="2" bgcolor="#a0ffa0"|15<br />P<br />[[磷]]
+|rowspan="2" bgcolor="#a0ffa0"|16<br />S<br />[[硫]]
+|rowspan="2" bgcolor="#ffff99"|<span style="color:green">17</span><br />Cl<br />[[氯]]
+|rowspan="2" bgcolor="#c0ffff"|<span style="color:green">18</span><br />Ar<br />[[氬]]
+|----- align="center" valign="bottom"
+|'''III''' B
+|'''IV''' B
+|'''V''' B
+|'''VI''' B
+|'''VII''' B
+|colspan="3"|'''VIII''' B
+|'''I''' B
+|'''II''' B
+|----- align="center"
+|'''4'''
+|style="background-color:#ff6666"|19<br />K<br />[[鉀]]
+|style="background-color:#ffdead"|20<br />Ca<br />[[鈣]]
+|style="background-color:#ffc0c0"|21<br />Sc<br />[[鈧]]
+|style="background-color:#ffc0c0"|22<br />Ti<br />[[鈦]]
+|style="background-color:#ffc0c0"|23<br />V<br />[[釩]]
+|style="background-color:#ffc0c0"|24<br />Cr<br />[[鉻]]
+|style="background-color:#ffc0c0"|25<br />Mn<br />[[錳]]
+|style="background-color:#ffc0c0"|26<br />Fe<br />[[鐵]]
+|style="background-color:#ffc0c0"|27<br />Co<br />[[鈷]]
+|style="background-color:#ffc0c0"|28<br />Ni<br />[[鎳]]
+|style="background-color:#ffc0c0"|29<br />Cu<br />[[銅]]
+|style="background-color:#ffc0c0"|30<br />Zn<br />[[鋅]]
+|style="background-color:#cccccc"|31<br />Ga<br />[[鎵]]
+|style="background-color:#cccc99"|32<br />Ge<br />[[鍺]]
+|style="background-color:#cccc99"|33<br />As<br />[[砷]]
+|style="background-color:#a0ffa0"|34<br />Se<br />[[硒]]
+|style="background-color:#ffff99"|<span style="color:blue">35</span><br />Br<br />[[溴]]
+|style="background-color:#c0ffff"|<span style="color:green">36</span><br />Kr<br />[[氪]]
+|----- align="center"
+|'''5'''
+|style="background-color:#ff6666"|37<br />Rb<br />[[銣]]
+|style="background-color:#ffdead"|38<br />Sr<br />[[鍶]]
+|style="background-color:#ffc0c0"|39<br />Y<br />[[釔]]
+|style="background-color:#ffc0c0"|40<br />Zr<br />[[鋯]]
+|style="background-color:#ffc0c0"|41<br />Nb<br />[[鈮]]
+|style="background-color:#ffc0c0"|42<br />Mo<br />[[鉬]]
+|style="background-color:#ffc0c0"|43<br />Tc<br />[[鎝]]
+|style="background-color:#ffc0c0"|44<br />Ru<br />[[釕]]
+|style="background-color:#ffc0c0"|45<br />Rh<br />[[銠]]
+|style="background-color:#ffc0c0"|46<br />Pd<br />[[鈀]]
+|style="background-color:#ffc0c0"|47<br />Ag<br />[[銀]]
+|style="background-color:#ffc0c0"|48<br />Cd<br />[[鎘]]
+|style="background-color:#cccccc"|49<br />In<br />[[銦]]
+|style="background-color:#cccccc"|50<br />Sn<br />[[錫]]
+|style="background-color:#cccc99"|51<br />Sb<br />[[銻]]
+|style="background-color:#cccc99"|52<br />Te<br />[[碲]]
+|style="background-color:#ffff99"|53<br />I<br />[[碘]]
+|style="background-color:#c0ffff"|<span style="color:green">54</span><br />Xe<br />[[氙]]
+|----- align="center"
+|'''6'''
+|style="background-color:#ff6666"|55<br />Cs<br />[[銫]]
+|style="background-color:#ffdead"|56<br />Ba<br />[[鋇]]
+|style="background-color:#ffbfff"|57-<br />71<br />[[鑭系元素|鑭系]]
+|style="background-color:#ffc0c0"|72<br />Hf<br />[[鉿]]
+|style="background-color:#ffc0c0"|73<br />Ta<br />[[鉭]]
+|style="background-color:#ffc0c0"|74<br />W<br />[[鎢]]
+|style="background-color:#ffc0c0"|75<br />Re<br />[[錸]]
+|style="background-color:#ffc0c0"|76<br />Os<br />[[鋨]]
+|style="background-color:#ffc0c0"|77<br />Ir<br />[[銥]]
+|style="background-color:#ffc0c0"|78<br />Pt<br />[[鉑]]
+|style="background-color:#ffc0c0"|79<br />Au<br />[[金]]
+|style="background-color:#ffc0c0"|<span style="color:blue">80</span><br />Hg<br />[[汞]]
+|style="background-color:#cccccc"|81<br />Tl<br />[[鉈]]
+|style="background-color:#cccccc"|82<br />Pb<br />[[鉛]]
+|style="background-color:#cccccc"|83<br />Bi<br />[[鉍]]
+|style="background-color:#cccc99"|84<br />Po<br />[[釙]]
+|style="background-color:#ffff99"|85<br />At<br />[[砈]]
+|style="background-color:#c0ffff"|<span style="color:green">86</span><br />Rn<br />[[氡]]
+|----- align="center"
+|'''7'''
+|style="background-color:#ff6666"|87<br />Fr<br />[[鍅]]
+|style="background-color:#ffdead"|88<br />Ra<br />[[鐳]]
+|style="background-color:#ff99cc"|89-<br />103<br />[[錒系元素|錒系]]
+|style="background-color:#ffc0c0"|<span style="color:red">104</span><br />Rf<br />[[鑪]]
+|style="background-color:#ffc0c0"|<span style="color:red">105</span><br />Db<br />[[&#166336;]]
+|style="background-color:#ffc0c0"|<span style="color:red">106</span><br />Sg<br />[[&#166734;]]
+|style="background-color:#ffc0c0"|<span style="color:red">107</span><br />Bh<br />[[&#166415;]]
+|style="background-color:#ffc0c0"|<span style="color:red">108</span><br />Hs<br />[[&#166726;]]
+|style="background-color:#ffffff"|<span style="color:red">109</span><br />Mt<br />[[䥑]]
+|style="background-color:#ffffff"|<span style="color:red">110</span><br />Ds<br />[[鐽]]
+|style="background-color:#ffffff"|<span style="color:red">111</span><br />Rg<br />[[錀]]
+|style="background-color:#ffc0c0"|<span style="color:red">112</span><br />Cn<br />[[鎶]]
+|style="background-color:#ffffff"|<span style="color:red">113</span><br />[[Uut]]<br />&nbsp;
+|style="background-color:#ffffff"|<span style="color:red">114</span><br />[[Uuq|Fl]]<br />&nbsp;
+|style="background-color:#ffffff"|<span style="color:red">115</span><br />[[Uup]]<br />&nbsp;
+|style="background-color:#ffffff"|<span style="color:red">116</span><br />[[Uuh|Lv]]<br />&nbsp;
+|style="background-color:#ffffff"|<span style="color:red">117</span><br />[[Uus]]<br />&nbsp;
+|style="background-color:#ffffff"|<span style="color:red">118</span><br />[[Uuo]]<br />&nbsp;
+|----- align="center"
+|colspan="21"|
+|----- align="center"
+|colspan="3" align="right"|[[鑭系元素]]
+|style="background-color:#ffbfff"|57<br />La<br />[[鑭]]'''*'''
+|style="background-color:#ffbfff"|58<br />Ce<br />[[鈰]]
+|style="background-color:#ffbfff"|59<br />Pr<br />[[鐠]]
+|style="background-color:#ffbfff"|60<br />Nd<br />[[釹]]
+|style="background-color:#ffbfff"|61<br />Pm<br />[[鉕]]
+|style="background-color:#ffbfff"|62<br />Sm<br />[[釤]]
+|style="background-color:#ffbfff"|63<br />Eu<br />[[銪]]
+|style="background-color:#ffbfff"|64<br />Gd<br />[[釓]]
+|style="background-color:#ffbfff"|65<br />Tb<br />[[鋱]]
+|style="background-color:#ffbfff"|66<br />Dy<br />[[鏑]]
+|style="background-color:#ffbfff"|67<br />Ho<br />[[鈥]]
+|style="background-color:#ffbfff"|68<br />Er<br />[[鉺]]
+|style="background-color:#ffbfff"|69<br />Tm<br />[[銩]]
+|style="background-color:#ffbfff"|70<br />Yb<br />[[鐿]]
+|style="background-color:#ffbfff"|71<br />Lu<br />[[鎦]]
+|----- align="center"
+|colspan="3" align="right"|[[錒系元素]]
+|style="background-color:#ff99cc"|89<br />Ac<br />[[錒]]'''**'''
+|style="background-color:#ff99cc"|90<br />Th<br />[[釷]]
+|style="background-color:#ff99cc"|91<br />Pa<br />[[鏷]]
+|style="background-color:#ff99cc"|92<br />U<br />[[鈾]]
+|style="background-color:#ff99cc"|93<br />Np<br />[[錼]]
+|style="background-color:#ff99cc"|94<br />Pu<br />[[鈽]]
+|style="background-color:#ff99cc"|<span style="color:red">95</span><br />Am<br />[[鋂]]
+|style="background-color:#ff99cc"|<span style="color:red">96</span><br />Cm<br />[[鋦]]
+|style="background-color:#ff99cc"|<span style="color:red">97</span><br />Bk<br />[[鉳]]
+|style="background-color:#ff99cc"|<span style="color:red">98</span><br />Cf<br />[[鉲]]
+|style="background-color:#ff99cc"|<span style="color:red">99</span><br />Es<br />[[鑀]]
+|style="background-color:#ff99cc"|<span style="color:red">100</span><br />Fm<br />[[鐨]]
+|style="background-color:#ff99cc"|<span style="color:red">101</span><br />Md<br />[[鍆]]
+|style="background-color:#ff99cc"|<span style="color:red">102</span><br />No<br />[[鍩]]
+|style="background-color:#ff99cc"|<span style="color:red">103</span><br />Lr<br />[[鐒]]
+|}</center>
+{|align="center"
+|-----
+|style="background-color:#ff6666"|[[鹼金屬]]||bgcolor="#ffdead"|[[鹼土金屬]]
+|style="background-color:#ffbfff"|[[鑭系元素]]
+|style="background-color:#ff99cc"|[[錒系元素]]||bgcolor="#ffc0c0"|[[過渡金屬]]
+|-----
+|style="background-color:#cccccc"|[[主族金屬]]||bgcolor="#cccc99"|[[類金屬]]
+|style="background-color:#a0ffa0"|[[非金屬]]
+|style="background-color:#ffff99"|[[鹵素]]||bgcolor="#c0ffff"|[[惰性氣體]]
+|style="background-color:#ffffff|化學特性還吂知
+|}
+</center>
+
+注：
+*序號<span style="color:green;">綠色</span>在[[標準狀況]]下係[[氣體]]；
+*序號<span style="color:blue;">藍色</span>係[[液體]]；
+*序號烏色係[[固體]]；
+*序號<span style="color:red;">紅色</span>係[[人工合成元素]]。
