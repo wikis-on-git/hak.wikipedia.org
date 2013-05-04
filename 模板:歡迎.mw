@@ -29,6 +29,4 @@
 *希望汝能享受共同編寫百科个樂趣，成為一名充實个[[:zh:WP:EDIANS|維基百科人]]。
 <includeonly><span style="display:none">{{</includeonly><includeonly>subst:#if:{{{sign|}}}
 |{{</includeonly><includeonly>subst:var1|</}}{{</includeonly><includeonly>subst:var1|span>}}我係歡迎汝个維基人：{{{sign|}} }{{</includeonly><includeonly>subst:var1|<}}{{</includeonly><includeonly>subst:var1|1=span style="display:none">}}
-|{{</includeonly><includeonly>subst:var1|</}}{{</includeonly><includeonly>subst:var1|span>}}我係歡迎汝个維基人：~~</includeonly>< includeonly>~~{{</includeonly><includeonly>subst:var1|<}}{{</includeonly><includeonly>subst:var1|1=span style="display:none">}}
-}}</span></includeonly><noinclude>
-{{Doc}}</noinclude>
+|{{</includeonly><includeonly>subst:var1|</}}{{</includeonly><includeonly>subst:var1|span>}}我係歡迎汝个維基人: <includeonly>~~</includeonly>~~<noinclude>~~</noinclude>
