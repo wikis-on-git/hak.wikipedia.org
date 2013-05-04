@@ -1,4 +1,4 @@
-<noinclude>{{shortcut|T:W}}</noinclude><div style="width:100%;margin:0.2em 0;padding:0.3em 0;border-top:1px solid #ddd;border-bottom :1px solid #ddd;font-size:120%;">'''汝好，{{#if:{{{1|}}}|{{{1}}}|{{#ifeq:{{ NAMESPACE}}|User talk|{{BASEPAGENAME}}}}}}！歡迎加入維基百科！ '''</div>
+<noinclude>{{shortcut|T:W}}</noinclude><div style="width:100%;margin:0.2em 0;padding:0.3em 0;border-top:1px solid #ddd;border-bottom :1px solid #ddd;font-size:120%;">'''汝好{{#if:{{{1|}}}|{{{1}}}|{{#ifeq:{{ NAMESPACE}}|User talk|{{BASEPAGENAME}}}}}}！歡迎加入維基百科！ '''</div>
 承蒙汝對維基百科个興趣與貢獻，希望汝會中意邇位。除開[[:zh:WP:WELCOME|'''歡迎辭''']]以外，也請汝了解以下重要文章：
 {|style="background:transparent;border-top:1px solid #ddd;border-bottom:1px solid #ddd;border-collpase:collapse;"
 |-style="vertical-align:top;"
