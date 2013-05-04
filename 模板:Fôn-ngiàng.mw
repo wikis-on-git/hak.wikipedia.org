@@ -1,4 +1,4 @@
-== 歡迎 ==
+== Fôn-ngiàng ==
 {| align="right"
 | <div style="position: relative; height: 1%;">
  <div style="position: relative; margin: 0 1.5em 0 0; padding: 0; background-color: transparent; border: 0px none #ddd; height: 1%;">
@@ -14,7 +14,7 @@ Fôn-ngiàng
  </div>
 </div>
 |}
-<div style="width: 100%; margin: 0.2em 0; padding: 0.3em 0; border-top: 1px solid #ddd; border-bottom: 1px solid #ddd; font-size: 120%;">Ngì hó '''{{#if:|{{{1}}}|{{#ifeq:{{NAMESPACE}}|User talk|{{BASEPAGENAME}}}}}}, fôn-ngiàng kâ-ngi̍p Wikipedia！'''</div>
+<div style="width: 100%; margin: 0.2em 0; padding: 0.3em 0; border-top: 1px solid #ddd; border-bottom: 1px solid #ddd; font-size: 120%;">Ngì hó '''{{#if:|{{{1}}}|{{#ifeq:{{NAMESPACE}}|User talk|{{BASEPAGENAME}}}}}}, Fôn-ngiàng kâ-ngi̍p Wikipedia！'''</div>
 Kám-chhia ngì tui Wikipedia ke him-chhi lâu kung-hien, hî-mong ngì chiông-voi hí-fôn liá-piên. Chhù-liáu ''' [[:zh:WP:WELCOME|Fôn-ngiàng chhṳ̀]]''' ngoi, ya chhiáng-ngì  liáu-kié yî-ha chhung-yeu vùn-chông:
 {| style="background: transparent; border-top: 1px solid #ddd; border-bottom: 1px solid #ddd; border-collpase: collapse;"
 |- style="vertical-align: top;"
