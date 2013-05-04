@@ -1,19 +1,19 @@
 <noinclude>{{shortcut|T:W}}</noinclude><div style="width:100%;margin:0.2em 0;padding:0.3em 0;border-top:1px solid #ddd;border-bottom :1px solid #ddd;font-size:120%;">'''汝好，{{#if:{{{1|}}}|{{{1}}}|{{#ifeq:{{ NAMESPACE}}|User talk|{{BASEPAGENAME}}}}}}！歡迎加入維基百科！ '''</div>
-感謝汝對維基百科个興趣與貢獻，希望汝會喜歡這裡。除了[[:zh:WP:WELCOME|'''歡迎辭''']]以外，也請汝了解以下重要文章：
+承蒙汝對維基百科个興趣與貢獻，希望汝會中意邇位。除開[[:zh:WP:WELCOME|'''歡迎辭''']]以外，也請汝了解以下重要文章：
 {|style="background:transparent;border-top:1px solid #ddd;border-bottom:1px solid #ddd;border-collpase:collapse;"
 |-style="vertical-align:top;"
 |style="background:#f4f4f4;padding:.8em .2em;"|[[File:Nuvola apps korganizer.svg|35px|left|政策|link=]]<div style="margin-left:45px;" >[[:zh:WP:5P|'''五大支柱''']]<br /><small>[[:zh:WP:NOT|百科]]、[[:zh:WP:NPOV|中立]]、[[:zh:WP:CRFAQ|開放]]、[[:zh:WP:CIV|互重]]、[[:zh:WP:IAR|勇於創新]]</small></div>
-|style="background:#faf1df;padding:.8em .2em;"|[[File:Nuvola apps emacs.png|45px|left|GNU|link=]]<div style="margin-left:55px;" >[[:zh:WP:CRFAQ|'''版權問題解答''']]<br /><small>貢獻內容必須係'''汝所著或獲得授權'''、<br />並同意在[ [WP:C|CC-by-sa-3.0撈GFDL]]條款下發布</small></div>
+|style="background:#faf1df;padding:.8em .2em;"|[[File:Nuvola apps emacs.png|45px|left|GNU|link=]]<div style="margin-left:55px;" >[[:zh:WP:CRFAQ|'''版權問題解答''']]<br /><small>貢獻內容必須係'''汝所著或獲得授權'''、<br />並同意在[ [WP:C|CC-by-sa-3.0與GFDL]]條款下發布</small></div>
 |style="background:#f4f4f4;padding:.8em .2em;"|[[File:Postscript-viewer.svg|35px|left|手冊|link=]]<div style="margin-left:45px;" >[[:zh:WP:T|'''使用指南''']]<br /><small>[[:zh:WP:VISIT|安全訪問]] / [[:zh:WP:SB|測試編輯]] / [[:zh:WP: HEP|如何編輯]]<br /> [[:zh:WP:HELP|使用手冊]] / [[:zh:Help:中文維基百科个繁簡處理|繁簡處理]] / [[:zh:WP:改進條目|寫個好條目]]</small></div>
 |-
-|colspan="3" style="border-top:1px solid #ddd;padding-top:.3em;"|[[File:Icon apps query.svg|18px|left|問號|link=]]'''有問題？ '''請到[[:zh:WP:VP|'''互助客棧''']]詢問，或在'''崖个對話頁'''提出。別忘記：討論後要[[:zh:WP:SIG|'''簽名''']]，方式之一係留下4個波浪紋「 <nowiki>~~</nowiki><nowiki>~~</nowiki > 」。 <div lang="en" style="font-style:italic;font-size:90%;">If you have any questions about the Hakka Wikipedia, please leave a message ''[http://hak.wikipedia.org/w/index.php?title=Talk:%E9%A0%AD%E9%A0%81&action=edit&section=new here]'', Thank you for visiting!</div>
+|colspan="3" style="border-top:1px solid #ddd;padding-top:.3em;"|[[File:Icon apps query.svg|18px|left|問號|link=]]'''有問題？ '''請到[[:zh:WP:VP|'''互助客棧''']]詢問，或在'''我个對話頁'''提出。莫添忘訖矣：討論後愛[[:zh:WP:SIG|'''簽名''']]，方式之一係留下4條波浪紋「 <nowiki>~~</nowiki><nowiki>~~</nowiki > 」。 <div lang="en" style="font-style:italic;font-size:90%;">If you have any questions about the Hakka Wikipedia, please leave a message ''[http://hak.wikipedia.org/w/index.php?title=Talk:%E9%A0%AD%E9%A0%81&action=edit&section=new here]'', Thank you for visiting!</div>
 |}
 *閱讀新手應該注意个七種[[:zh:Wikipedia:避免常見錯誤|'''常見錯誤''']]、理解[[:zh:WP:KID|維基百科的立場撈常見注意事項]]。
-*有任何編輯上的問題？請試試[http://hak.wikipedia.org/w/index.php?title=Talk:%E9%A0%AD%E9%A0%81&action=edit&section=new 頭頁討論]。也可[{{fullurl:Wikipedia:互助客棧/求助|action=edit&section=new&preload=Template:Sign&editintro=Template:SignNotice&preloadtitle={{urlencode:問：}}}} 到此處提問]，其他[[:zh:WP:維基人|維基人]]見到後就會來提供幫助。
-*不知道有甚麼可寫？ [[:zh:WP:RA|條目請求]]、[[:zh:WP:SA|最多語言版本个待撰條目]]、[[:zh:WP:MEA|缺少个傳統百科全書條目]]和[[:zh:WP:專題/首頁个缺失條目|首頁的缺失條目]]中列出了許多維基百科目前還沒有个條目，歡迎您來[[:zh:WP:NEW|撰寫]]！
+*有任何編輯上嘅問題？請試一下[http://hak.wikipedia.org/w/index.php?title=Talk:%E9%A0%AD%E9%A0%81&action=edit&section=new 頭頁討論]。也可[{{fullurl:Wikipedia:互助客棧/求助|action=edit&section=new&preload=Template:Sign&editintro=Template:SignNotice&preloadtitle={{urlencode:問：}}}} 到此處提問]，其他[[:zh:WP:維基人|維基人]]見到後就會來提供幫助。
+*不知道有麽内容可寫？ [[:zh:WP:RA|條目請求]]、[[:zh:WP:SA|最多語言版本个待撰條目]]、[[:zh:WP:MEA|缺少个傳統百科全書條目]]和[[:zh:WP:專題/首頁个缺失條目|首頁的缺失條目]]中列出矣異多維基百科目前還無个條目，歡迎汝來[[:zh:WP:NEW|撰寫]]！
 *希望汝能享受共同編寫百科个樂趣，成為一名充實个[[:zh:WP:EDIANS|維基百科人]]。
 <includeonly><span style="display:none">{{</includeonly><includeonly>subst:#if:{{{sign|}}}
-|{{</includeonly><includeonly>subst:var1|</}}{{</includeonly><includeonly>subst:var1|span>}}崖係歡迎汝个維基人：{{{sign|}} }{{</includeonly><includeonly>subst:var1|<}}{{</includeonly><includeonly>subst:var1|1=span style="display:none">}}
-|{{</includeonly><includeonly>subst:var1|</}}{{</includeonly><includeonly>subst:var1|span>}}崖係歡迎汝个維基人：~~</includeonly>< includeonly>~~{{</includeonly><includeonly>subst:var1|<}}{{</includeonly><includeonly>subst:var1|1=span style="display:none">}}
+|{{</includeonly><includeonly>subst:var1|</}}{{</includeonly><includeonly>subst:var1|span>}}我係歡迎汝个維基人：{{{sign|}} }{{</includeonly><includeonly>subst:var1|<}}{{</includeonly><includeonly>subst:var1|1=span style="display:none">}}
+|{{</includeonly><includeonly>subst:var1|</}}{{</includeonly><includeonly>subst:var1|span>}}我係歡迎汝个維基人：~~</includeonly>< includeonly>~~{{</includeonly><includeonly>subst:var1|<}}{{</includeonly><includeonly>subst:var1|1=span style="display:none">}}
 }}</span></includeonly><noinclude>
 {{Doc}}</noinclude>
