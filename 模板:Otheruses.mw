@@ -47,5 +47,3 @@ or ( {{#if:{{{1|}}}|0|1}} and {{#ifexist:{{FULLPAGENAME}} (消歧义)|0|1}} )
 |#default =(消歧義)
 }} }}{{#if:{{{2|}}}|{{!}}{{{2}}}}}]]'''」{{{extend|}}}。
 }}<noinclude>{{Documentation}}</noinclude>
-
-[[Category:多義指向條目]]
