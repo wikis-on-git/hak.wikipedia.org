@@ -9,7 +9,6 @@
 or ( {{#if:{{{1|}}}|0|1}} and {{#ifexist:{{FULLPAGENAME}} (消歧义)|0|1}} )
 |
 
-}}
 </div></div><includeonly>{{#switch:{{LC:{{NAMESPACE}}}}
 |user|user_talk|user talk=
 |#default=[[Category:{{#if:{{{want|}}}|請求消歧義目標頁面嘅條目|未有消歧義目標頁面嘅條目}}{{!}}{{FULLPAGENAME}}]]
