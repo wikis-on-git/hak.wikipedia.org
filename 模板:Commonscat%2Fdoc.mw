@@ -1,0 +1,67 @@
+<!-- 在本行下編寫模板說明 -->
+使用邇隻模版，做得在維基百科條目肚引用其姊妹計劃——[[維基共享資源]]嘅分類。
+
+== 使用說明 ==
+係講使用
+ <nowiki>{{Commonscat}}</nowiki>
+則默認引用當前條目嘅同名維基共享資源嘅分類。假使汝想愛引用其他特定嘅分類，也做得使用
+ <nowiki>{{Commonscat|你想愛嘅分類}}</nowiki>
+來引用汝想愛嘅分類。
+
+==參見==
+* [[Wikipedia:姊妹計劃]]——來獲得引用其它維基計劃嘅更多信息。
+
+==相關模板==
+* {{tl|Commons}}，使用框格引用維基共享資源嘅條目（多媒體資源）。
+* {{tl|Commons-inline}}，撈{{tl|Commons}}類似，采用左側條列式。
+* {{tl|Commons cat}}，重定向至本模板{{tl|Commonscat}}。
+* {{tl|Commons cat multi}}，支持多隻頁面。
+
+<includeonly>
+<!-- Categories -->
+[[Category:Templates]]
+
+<!-- Interwikis -->
+[[af:Sjabloon:CommonsKategorie]]
+[[als:Vorlage:Commonscat]]
+[[az:Şablon:CommonsKat]]
+[[bg:Шаблон:Commonscat]]
+[[ca:Plantilla:Commonscat]]
+[[cs:Šablona:Commonscat]]
+[[da:Skabelon:Commonscat]]
+[[en:Template:Commonscat]]
+[[eo:Ŝablono:Commonscat]]
+[[eu:Txantiloi:Commonskat]]
+[[fi:Malline:Commonscat]]
+[[hr:Predložak:Commonscat]]
+[[hu:Sablon:Közvagyonkat]]
+[[id:Templat:Commonscat]]
+[[io:Template:Commonscat]]
+[[is:Snið:Commonscat]]
+[[ja:Template:Commonscat]]
+[[ko:틀:Commonscat]]
+[[lt:Šablonas:Commonscat]]
+[[lv:Veidne:Commonscat]]
+[[mk:Шаблон:Ризница-врска]]
+[[ms:Templat:Commonscat]]
+[[nl:Sjabloon:Commonscatklein]]
+[[oc:Modèl:Commonscat]]
+[[os:Шаблон:Commonscat]]
+[[pl:Szablon:Commonscat]]
+[[pt:Predefinição:Commonscat]]
+[[ro:Format:Commonscat]]
+[[ru:Шаблон:Commonscat]]
+[[sh:Template:Commonscat]]
+[[simple:Template:Commonscat]]
+[[sk:Šablóna:Commonscat]]
+[[sl:Predloga:Kategorija v Zbirki]]
+[[sr:Шаблон:Commonscat]]
+[[su:Citakan:Commonscat]]
+[[sv:Mall:Commonscat-box]]
+[[th:แม่แบบ:Commonscat]]
+[[tr:Şablon:CommonsKat]]
+[[uk:Шаблон:Commonscat]]
+[[vi:Tiêu bản:Commonscat]]
+[[zh:Template:Commonscat]]
+[[zh-yue:Template:同享類]]
+</includeonly>
