@@ -205,12 +205,12 @@ http://www.example.com
 |文本縮進
 <div style="padding: 0.7em .5em; font-size:0.9em;">''邇係用來回答討論頁嘅討論上使用嘅''</div>
 |
-<tt>沒有縮進（正常）</tt><br />
+<tt>無縮進（正常）</tt><br />
 <tt><nowiki>:</nowiki>第一次縮進</tt><br />
 <tt><nowiki>::</nowiki>第二次縮進</tt><br />
 <tt><nowiki>:::</nowiki>第三次縮進</tt>
 |
-沒有縮進（正常）<br />
+無縮進（正常）<br />
 :第一次縮進
 ::第二次縮進
 :::第三次縮進
