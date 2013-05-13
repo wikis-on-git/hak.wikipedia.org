@@ -1,2 +1,235 @@
-　　正體漢字嘅用法做得參照臺灣方面推出嘅客家語書寫推薦用字（[http://163.21.6.4/lt/gallery/60/9810教育部公佈客家語書寫推薦用字.pdf 第一批]撈[http://blog.ceag.kh.edu.tw/gallery/4/4-1808.pdf 第二批]），[http://hakka.dict.edu.tw/hakkadict/index.htm 臺灣客家語常用詞]也做得幫到汝。假使汝發現部分字符無法正常顯示，[http://www.zdic.net/appendix/f18.htm 邇肚]可能會幫到汝。<br />
-　　更多嘅幫手信息，請看[[Help:目錄|幫手目錄]]。
+*邇肚展示編寫過程可能愛用到嘅代碼，有關更多幫手信息，請轉頭到[[help:目錄|目錄頁]]。
+<!--Comment markup would be helpful in this table.   Displays:  Edit mode only -->
+<div align="center">
+<onlyinclude>{| style="border:1px solid #B8C7D9; text-align:left;  background:#f5faff; font-size: 95%;"
+|-
+| width="25%" style="background: #cedff2; padding: 0.3em; text-align:center;"|'''說明'''
+| style="background: #cedff2; padding: 0.3em; text-align:center;"|'''輸入'''
+| width="25%" style="background: #cedff2; padding: 0.3em; text-align:center;"|'''效果'''
+|-
+| colspan="3" style="background: #cedff2; padding: 0.2em; font-family: sans-serif; font-size: 0.9em; text-align:center;" | 作用在任何地方
+|-
+|斜體字
+|
+<tt><nowiki>''</nowiki>斜體字<nowiki>''</nowiki></tt>
+|
+''斜體字''
+|-
+|colspan="3" style="border-top:1px solid #cedff2;"|
+|-
+|粗體字
+|
+<tt><nowiki>'''</nowiki>粗體字<nowiki>'''</nowiki></tt>
+|
+'''粗體字'''
+|-
+|colspan="3" style="border-top:1px solid #cedff2;"|
+|-
+|粗體加斜體
+|
+<tt><nowiki>'''''</nowiki>粗體加斜體<nowiki>'''''</nowiki></tt>
+|
+'''''粗體加斜體'''''
+|-
+|colspan="3" style="border-top:1px solid #cedff2;"|
+|-
+|下劃線
+<div style="padding: 0.7em .5em; font-size:0.9em;">''推薦替代斜體''</div>
+|
+<tt><nowiki><u></nowiki>下劃線<nowiki></u></nowiki></tt>
+|
+<u>下劃線</u>
+|-
+|colspan="3" style="border-top:1px solid #cedff2;"|
+|-
+|粗體加下劃線
+<div style="padding: 0.7em .5em; font-size:0.9em;">''推薦替代粗體加斜體''</div>
+|
+<tt><nowiki><u>'''</nowiki>粗體加下劃線<nowiki>'''</u></nowiki></tt>
+|
+<u>'''粗體加下劃線'''</u>
+|-
+|colspan="3" style="border-top:1px solid #cedff2;"|
+|-
+|內部鏈接
+<div style="padding: 0.7em .5em; font-size:0.9em;">''用於基金會各項目間''</div>
+|
+<tt><nowiki>[[</nowiki>條目名稱<nowiki>]]</nowiki></tt><br />
+<tt><nowiki>[[</nowiki>條目名稱|顯示文字<nowiki>]]</nowiki></tt><br />
+|
+[[條目名稱]]<br />
+[[條目名稱|顯示文字]]<br />
+|-
+|colspan="3" style="border-top:1px solid #cedff2;"|
+|-
+|
+鏈接至條目嘅一隻小節
+|
+<tt><nowiki>[[</nowiki>條目名#小節名<nowiki>]]</nowiki></tt><br />
+<tt><nowiki>[[</nowiki>條目名#小節名|汝愛顯示嘅名<nowiki>]]</nowiki></tt>
+|
+[[條目名#小節名]]<br />
+[[條目名#小節名|汝愛顯示嘅名]]
+|-
+|colspan="3" style="border-top:1px solid #cee0f2;"|
+|-
+|重定向
+|
+<tt>{{span-tl|<nowiki>#</nowiki>REDIRECT <nowiki>[[</nowiki>重定向頁<nowiki>]]</nowiki>|或者使用 &#35;REDIRECT [[重定向頁]] 嘅形式}}</tt>
+|
+<div id="contentSub">{{int:redirectpagesub}}</div>[[File:Redirectltr.png|link=]]<span class="redirectText" id="softredirect">[[重定向頁]]</span>
+|-
+|colspan="3" style="border-top:1px solid #cedff2;"|
+|-
+|外部鏈接
+<div style="padding: 0.7em .5em; font-size:0.9em;">''到其他網站''</div>
+|
+<tt><nowiki>[http://www.example.com]</nowiki></tt><br />
+<tt><nowiki>[http://www.example.com </nowiki>顯示文字<nowiki>]</nowiki></tt><br />
+<tt><nowiki>http://www.example.com</nowiki></tt>
+|
+[http://www.example.com]<br />
+[http://www.example.com 顯示文字]<br />
+http://www.example.com
+|-
+|colspan="3" style="border-top:1px solid #cedff2;"|
+|-
+|
+參考和腳注
+<div style="padding: 0.7em .5em; font-size:0.9em;">''參考撈腳注通常嘅情況下將出現在文章肚<nowiki>{{reflist}}</nowiki>嘅下背''</div>
+<div style="padding: 0.7em .5em; font-size:0.9em;"></div>
+|
+<tt><nowiki>汝好，<ref></nowiki></tt>美國國會圖書館<tt><nowiki></ref>世界。<ref>http://www.w3.org/</ref></nowiki></tt><br />
+<br />
+<tt>
+參考資料：
+
+<nowiki>{{reflist}}</nowiki>
+
+</tt>
+|
+汝好，<ref>美國國會圖書館</ref> 世界。<ref>http://www.w3.org/</ref>
+
+參考資料:
+
+{{reflist}}
+|-
+|colspan="3" style="border-top:1px solid #cee0f2;"|
+|-
+|
+簽名
+<div style="padding: 0.7em .5em; font-size:0.9em;">''發表討論時將簽上汝設定嘅簽名''</div>
+|
+<tt><nowiki>~~~~</nowiki></tt><br /><br /><span style="font-size:0.9em;">''請毋好在條目裏簽上自家嘅簽名，單淨可以在討論頁簽名''</span>
+
+|
+[[Special:Mypage|用戶名]] ([[Special:Mytalk|討論]]) {{CURRENTYEAR}}年{{CURRENTMONTHNAME}}{{CURRENTDAY}}日 {{CURRENTTIME}} (UTC)
+|-
+|colspan="3" style="border-top:1px solid #cee0f2;"|
+|-
+|
+爲條目添加分類
+|
+<tt><nowiki>[[Category:</nowiki>分類名<nowiki>]]</nowiki></tt><br /><br /><span style="font-size:0.9em;">''請放在條目底部''</span>
+|
+[[Special:頁面分類|1個分類]]：[[:Category:分類名|分類名]]<br /><br /><span style="font-size:0.9em;">分類名會顯示在條目預覽或保存嘅時候</span>
+
+|-
+|colspan="3" style="border-top:1px solid #cee0f2;"|
+|-
+|毋使用維基代碼
+|
+<tt><nowiki>使用''代碼''</nowiki></tt><br />
+<tt><nowiki><nowiki>不使用''代碼''</nowiki></nowiki></tt>
+|
+使用''代碼''<br />
+<nowiki>不使用''代碼''</nowiki>
+|-
+| colspan="3" style="background: #cedff2; padding: 0.2em; font-family: sans-serif; font-size: 0.9em; text-align:center;" | 單淨作用於第一行
+|-
+|不同大細嘅標題
+|
+<tt><nowiki>==</nowiki> 一級標題 <nowiki>==</nowiki></tt><br />
+<tt><nowiki>===</nowiki> 二級標題 <nowiki>===</nowiki></tt><br />
+<tt><nowiki>====</nowiki> 三級標題 <nowiki>====</nowiki></tt><br />
+<tt><nowiki>=====</nowiki> 四級標題 <nowiki>=====</nowiki></tt>
+|
+<!-- 直接使用Wiki語句會使套用矣本頁面嘅其他頁面出現多余小節撈目錄，改用HTML代碼。 -->
+<div style="font-size:150%;border-bottom:1px solid #AAA;padding:.5em 0 .17em;">一級標題</div><br />
+<div style="font-size:132%;font-weight:bold;">二級標題</div><br />
+<div style="font-size:116%;font-weight:bold;">三級標題</div><br />
+<div style="font-size:100%;font-weight:bold;">四級標題</div> 
+|-
+|colspan="3" style="border-top:1px solid #cedff2;"|
+|-
+|無序列表
+|
+<tt>&#42; 第一大點</tt><br />
+<tt>&#42; 第二大點</tt><br />
+<tt>&#42;&#42; 第二大點之第一小點</tt><br />
+<tt>&#42; 第三大點</tt>
+|
+* 第一大點
+* 第二大點
+** 第二大點之第一小點
+* 第三大點
+|-
+|colspan="3" style="border-top:1px solid #cedff2;"|
+|-
+|有序列表
+|
+<tt>&#35; 第一大點</tt><br />
+<tt>&#35; 第二大點</tt><br />
+<tt>&#35;&#35; 第二大點之第一小點</tt><br />
+<tt>&#35; 第三大點</tt>
+|
+# 第一大點
+# 第二大點
+## 第二大點之第一小點
+# 第三大點
+|-
+|colspan="3" style="border-top:1px solid #cedff2;"|
+|-
+| 定義列表
+|
+<tt>&#59; 定義</tt><br />
+<tt>&#58; 項目一</tt><br />
+<tt>&#58; 項目二</tt>
+|
+; 定義
+: 項目一
+: 項目二
+|-
+|colspan="3" style="border-top:1px solid #cedff2;"|&nbsp;
+|-
+|文本縮進
+<div style="padding: 0.7em .5em; font-size:0.9em;">''邇係用來回答討論頁嘅討論上使用嘅''</div>
+|
+<tt>沒有縮進（正常）</tt><br />
+<tt><nowiki>:</nowiki>第一次縮進</tt><br />
+<tt><nowiki>::</nowiki>第二次縮進</tt><br />
+<tt><nowiki>:::</nowiki>第三次縮進</tt>
+|
+沒有縮進（正常）<br />
+:第一次縮進
+::第二次縮進
+:::第三次縮進
+|-
+|colspan="3" style="border-top:1px solid #cee0f2;"|
+|-
+|略圖
+|
+<nowiki>[[File:Wiki.png|thumb|</nowiki>說明文字<nowiki>]]</nowiki>
+|
+[[File:Wiki.png|thumb|說明文字]]
+|-
+|colspan="3" align="center" style="border-top:1px solid #B8C7D9;"|[[Wikipedia:新手入門|新手入門]] <tt>|</tt>  [[Help:目錄|更多編寫指南]]
+|}</onlyinclude>
+</div>
+
+==另見==
+[[File:Cheatsheet-zh.pdf|thumb|right|簡體中文版本嘅編寫備忘單PDF文檔（已陳舊）]]
+*[[:m:Cheatsheet|備忘單PDF文檔]]，用來印刷並有多國語言。
+*使用[[Wikipedia:沙盒|沙盒]]來用實驗性嘅編輯。
+*[[Wikipedia:完美條目|完美條目]]提供一張製作「完美」條目所需要素的核對清單。
+<!--*百科條目嘅基本編寫幫手信息。-->
