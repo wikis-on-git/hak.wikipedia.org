@@ -140,14 +140,14 @@ http://www.example.com
 |毋使用維基代碼
 |
 <tt><nowiki>使用''代碼''</nowiki></tt><br />
-<tt><nowiki><nowiki>不使用''代碼''</nowiki></nowiki></tt>
+<tt><nowiki><nowiki>毋使用''代碼''</nowiki></nowiki></tt>
 |
 使用''代碼''<br />
-<nowiki>不使用''代碼''</nowiki>
+<nowiki>毋使用''代碼''</nowiki>
 |-
 | colspan="3" style="background: #cedff2; padding: 0.2em; font-family: sans-serif; font-size: 0.9em; text-align:center;" | 單淨作用於第一行
 |-
-|不同大細嘅標題
+|毋同大細嘅標題
 |
 <tt><nowiki>==</nowiki> 一級標題 <nowiki>==</nowiki></tt><br />
 <tt><nowiki>===</nowiki> 二級標題 <nowiki>===</nowiki></tt><br />
