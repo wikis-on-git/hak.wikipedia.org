@@ -1,0 +1,163 @@
+{{Distinguish|半正多面體}}
+'''阿基米德立體'''是一種高度對稱的[[半正多面體]]，且使用兩種或以上的[[正多邊形]]為面的凸多面體，並且都是可以從正多面體經過截角、截半、截邊等操作構造。'''阿基米德立體'''的每個頂點的情況相同，共有13種。[[阿基米德]]曾研究半正多面體（雖然其研究紀錄已佚），故有人將半正多面體喚作'''阿基米德立體'''。因為面是由正多邊形組成的，每個相鄰的正多邊形的邊長相等，故'''阿基米德立體'''的邊均有相同長度。'''阿基米德立體'''的对偶多面体是[[卡塔蘭立體]]。
+
+半正多面體一詞指13種阿基米德立體，而是指所有具有對稱群且由2種貨2種以上正多邊形所組成的多面體<ref>《圖解數學辭典》天下遠見出版 ISBN 986-417-614-5</ref><ref>Illustrated Dictionary of Maths 2003 Usborne Publishing Ltd.</ref>。
+
+==截半多面體(阿基米德立體)(Archimedean Solid)==
+在[[正多面體]]中，從一條棱斬去另一條棱的中點所得出的多面體。
+{| class="wikitable" style="text-align:center"
+|-
+! 名稱<br>([[頂點]]佈局)
+! 透視圖
+! 旋轉透視圖
+! 立體圖
+! 展開圖
+! colspan=2|面
+! 邊
+! 頂點
+! 所屬點群
+
+|-
+| [[截半立方體]]<br>(截半八面體)<br>(3.4.3.4)
+| [[File:cuboctahedron.svg|80px|Cuboctahedron]]
+| [[File:cuboctahedron.gif|80px|Cuboctahedron]]
+| [[File:cuboctahedron.png|80px]]
+| [[File:cuboctahedron_flat.svg|80px]]
+| &nbsp;14&nbsp; ||  [[三角形]]×8<br>[[正方形]]×6
+| 24 || 12
+| [[無手性八面體群|O<sub>h</sub>群]]
+|-
+| [[截半二十面體]]<br>(截半十二面體)<br>(三十二面體)<br>(3.5.3.5)
+| [[File:icosidodecahedron.jpg|80px|Icosidodecahedron]]
+| [[File:icosidodecahedron.gif|80px|Icosidodecahedron]]
+| [[File:Icosidodecahedron.png|80px]]
+| [[File:icosidodecahedron_flat.svg|80px]]
+| 32 || 三角形×20<br>[[五邊形]]×12
+| 60 || 30
+| [[無手性二十面體群|I<sub>h</sub>群]]
+|}
+
+==截角多面體==
+{| class="wikitable" style="text-align:center"
+|-
+! 名稱<br>([[頂點]]佈局)
+! 透視圖
+! 旋轉透視圖
+! 立體圖
+! 展開圖
+! colspan=2|面
+! 邊
+! 頂點
+! 所屬點群
+
+|-
+| [[截角四面體]]<br>(3.6.6)
+| [[File:truncatedtetrahedron.jpg|80px|Truncated tetrahedron]] 
+| [[File:truncatedtetrahedron.gif|80px|Truncated tetrahedron]]
+| [[File:truncated_tetrahedron.png|80px]]
+| [[File:truncated_tetrahedron_flat.svg|80px]]
+| 8 || 三角形×4<br>[[六邊形]]×4 || 18
+| 12
+| [[黃鐵礦晶型四面體群|T<sub>d</sub>群]]
+
+|-
+| [[截角立方體]]<BR>(3.8.8)
+| [[File:truncatedhexahedron.jpg|80px|Truncated hexahedron]] 
+| [[File:truncatedhexahedron.gif|80px|Truncated hexahedron]]
+| [[File:truncated_hexahedron.png|80px]]
+| [[File:truncated_hexahedron_flat.svg|80px]]
+| 14 || 三角形×8<br>[[八邊形]]×6 || 36
+| 24
+| O<sub>h</sub>群
+|-
+| [[截角八面體]]<BR>(4.6.6)
+| [[File:truncatedoctahedron.jpg|80px|Truncated octahedron]]
+| [[File:truncatedoctahedron.gif|80px|Truncated octahedron]]
+| [[File:truncated_octahedron.png|80px]]
+| [[File:truncated_octahedron_flat.png|80px]]
+| 14 || 正方形×6<br>六邊形×8|| 36 || 24
+| O<sub>h</sub>群
+|-
+| [[小斜方截半立方體]]<br>(3.4.4.4 )
+| [[File:rhombicuboctahedron.jpg|80px|Rhombicuboctahedron]] 
+| [[File:rhombicuboctahedron.gif|80px|Rhombicuboctahedron]]
+| [[File:small_rhombicuboctahedron.png|80px]]
+| [[File:Rhombicuboctahedron_flat.png|80px]]
+| 26 ||三角形×8<br>正方形×18|| 48 || 24
+| O<sub>h</sub>群
+|-
+| [[大斜方截半立方體]]<br>(4.6.8)
+| [[File:truncatedcuboctahedron.jpg|80px|Truncated cuboctahedron]] 
+| [[File:truncatedcuboctahedron.gif|80px|Truncated cuboctahedron]]
+| [[File:Great rhombicuboctahedron.png|80px]]
+| [[File:Truncated_cuboctahedron_flat.svg|80px]]
+| 26 || 正方形×12<br>六邊形×8<br>八邊形×6
+| 72 || 48 || O<sub>h</sub>群
+|-
+| [[扭稜立方體]]<br>(3.3.3.3.4)<br />(具有兩種[[手性]]鏡像)
+| [[File:snubhexahedronccw.jpg|80px|Snub hexahedron (Ccw)]] <br />[[File:snubhexahedroncw.jpg|80px|Snub hexahedron (Cw)]]
+| [[File:snubhexahedronccw.gif|80px|Snub hexahedron (Ccw)]] <br />[[File:snubhexahedroncw.gif|80px|Snub hexahedron (Cw)]]
+| [[File:snub_hexahedron.png|80px]]
+| [[File:snub_cube_flat.svg|80px]]
+| 38 ||三角形×32<br>正方形×6|| 60 || 24
+| [[手性八面體群|O群]]
+|-
+| [[截角十二面體]]<BR>(3.10.10)
+| [[File:truncateddodecahedron.jpg|80px|Truncated dodecahedron]]
+| [[File:truncateddodecahedron.gif|80px|Truncated dodecahedron]]
+| [[File:truncated_dodecahedron.png|80px]]
+| [[File:truncated_dodecahedron_flat.png|80px]]
+| 32 ||三角形×20<br>[[十邊形]]×12 || 90
+| 60
+| I<sub>h</sub>群
+|-
+| [[截角二十面體]]([[足球]]的形狀)<br>(5.6.6)
+| [[File:truncatedicosahedron.jpg|80px|Truncated icosahedron]]
+| [[File:truncatedicosahedron.gif|80px|Truncated icosahedron]]
+| [[File:truncated_icosahedron.png|90px]]
+| [[File:truncated_icosahedron_flat-2.svg|90px]]
+| 32 || 五邊形×12<br>六邊形×20|| 90
+| 60
+| I<sub>h</sub>群
+|-
+| [[小斜方截半二十面體]]<br />(小斜方三十二面體)<BR>(3.4.5.4)
+| [[File:rhombicosidodecahedron.jpg|80px|Rhombicosidodecahedron]]
+| [[File:rhombicosidodecahedron.gif|80px|Rhombicosidodecahedron]]
+| [[File:small rhombicosidodecahedron.png|80px]]
+| [[File:Rhombicosidodecahedron_flat.png|80px]]
+| 62 || 三角形×20<br>正方形×30<br>五邊形×12
+| 120 || 60
+| I<sub>h</sub>群
+|-
+| [[大斜方截半二十面體]]<br />(大截角截半二十面體)<br />(大斜方三十二面體)<br />(大截角三十二面體)<BR>(4.6.10)
+| [[File:truncatedicosidodecahedron.jpg|80px|Truncated icosidodecahedron]]
+| [[File:truncatedicosidodecahedron.gif|80px|Truncated icosidodecahedron]]
+| [[File:Great rhombicosidodecahedron.png|80px]]
+| [[File:Truncated_icosidodecahedron_flat.svg|80px]]
+| 62 ||正方形×30<br>六邊形×20<br>十邊形×12
+| 180 || 120
+| I<sub>h</sub>群
+
+|-
+| [[扭稜十二面體]]<br>(3.3.3.3.5)<br />(具有兩種[[手性]]鏡像)
+| [[File:snubdodecahedronccw.jpg|80px|Snub dodecahedron (Ccw)]]<br />[[File:snubdodecahedroncw.jpg|80px|Snub dodecahedron (Cw)]] 
+| [[File:snubdodecahedronccw.gif|80px|Snub dodecahedron (Ccw)]]<br>[[File:snubdodecahedroncw.gif|80px|Snub dodecahedron (Cw)]]
+| [[File:snub_dodecahedron_ccw.png|80px]]
+| [[File:snub_dodecahedron_flat.svg|80px]]
+| 92 || 三角形×80<br>五邊形×12|| 150
+| 60
+| [[手性二十面體群|I群]]
+|}
+
+==參考文獻==
+<references/>
+*[http://www.korthalsaltes.com/cn/Archemedean_solids.html 多面体纸制模型   阿基米得（Archimedean）多面体]
+
+{{半正多面体}}
+{{Polyhedron navigator}}
+
+[[Category:多面体]]
+[[Category:多面體]]
+[[Category:多面体类型]]
+[[Category:半正多面體]]
+[[Category:跨服战]]
