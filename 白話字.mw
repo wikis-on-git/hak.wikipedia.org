@@ -5,6 +5,175 @@
 == 歷史 ==
 == 現狀 ==
 == 音標系統 ==
+===字母===
+白話字使用17隻基本[[拉丁字母]]（A, C, E, F, H, I, K, L, M, N, O, P, S, T, U, V, Y）、一隻變體字母（Ṳ）、五隻二合字母（Ch, Kh, Ng, Ph, Th）、一隻三合字母（Chh），另外還使用四（或五）種附加符號來標示聲調。
+{| class=wikitable style="font-size: 1.25em;"
+|-align=center
+!大寫[[字母]]
+|A||Ch||Chh||E||F||H||I||K||Kh||L||M||N||Ng||O||P||Ph||S||T||Th||U||Ṳ||V||Y
+|-align=center
+!小寫[[字母]]
+|a||ch||chh||e||f||h||i||k||kh||l||m||n||ng||o||p||ph||s||t||th||u||ṳ||v||y
+|}
+* 其餘十隻基本[[拉丁字母]]（B, D, G, J, Q, R, W, X, Z）单净在書寫[[外來語]]時使用。
+* 部分腔調肚Ch, Chh, S 後接 i 時會形成[[顎音化|顎化音]]，故所有時會將Chi, Chhi, Si看做合成字母。
+
+===子音===
+{| class=wikitable style="text-align:center;"
+!rowspan=2 colspan=2| !!colspan=2|[[雙唇音]]!!colspan=2|[[唇齒音]]||colspan=2|[[齒齦音]]
+![[齦後音]]||[[齦顎音]]||[[硬顎音]]||colspan=2|[[軟顎音]]||[[聲門音]]
+|-
+![[清濁音|清音]]!![[清濁音|濁音]]!![[清濁音|清音]]!![[清濁音|濁音]]!![[清濁音|清音]]!![[清濁音|濁音]]!![[清濁音|清音]]!![[清濁音|清音]]
+![[清濁音|濁音]]!![[清濁音|清音]]!![[清濁音|濁音]]!![[清濁音|清音]]
+|-
+!colspan=2|[[鼻音]]
+| ||[[雙唇鼻音|<big>'''m'''</big> [m]]]|| || || ||[[齒齦鼻音|<big>'''n'''</big> [n]]]|| ||
+|[[硬顎鼻音|<big>'''ngi'''</big> [ɲ]]]|| ||[[軟顎鼻音|<big>'''ng'''</big> [ŋ]]]||
+|-
+!rowspan=2|[[塞音]]||[[送氣|不送氣]]
+|[[清雙唇塞音|<big>'''p'''</big> [p]]]|| || || ||[[清齒齦塞音|<big>'''t'''</big> [t]]]|| || || || ||[[清軟顎塞音|<big>'''k'''</big> [k]]]|| ||
+|-
+![[送氣]]
+|[[清雙唇塞音|<big>'''ph'''</big> [pʰ]]]|| || || ||[[清齒齦塞音|<big>'''th'''</big> [tʰ]]]|| || || ||
+|[[清軟顎塞音|<big>'''kh'''</big> [kʰ]]]|| ||
+|-
+!rowspan=2|[[塞擦音]]!![[送氣|不送氣]]
+| || || || ||[[清齒齦塞擦音|<big>'''ch'''</big> [ʦ]]]||
+|[[清齦後塞擦音|<big>'''ch'''</big> [ʧ]]]||[[清齦顎塞擦音|<big>'''chi'''</big> [ʨ]]]|| || || ||
+|-
+![[送氣]]
+| || || || ||[[清齒齦塞擦音|<big>'''chh'''</big> [ʦʰ]]]||
+|[[清齦後塞擦音|<big>'''chh'''</big> [ʧʰ]]]||[[清齦顎塞擦音|<big>'''chhi'''</big> [ʨʰ]]]|| || || ||
+|-
+!colspan=2|[[擦音]]
+| || ||[[清唇齒擦音|<big>'''f'''</big> [f]]]||[[濁唇齒擦音|<big>'''v'''</big> [v]]]||[[清齒齦擦音|<big>'''s'''</big> [s]]]||
+|[[清齦後擦音|<big>'''s'''</big> [ʃ]]]||[[清齦顎擦音|<big>'''si'''</big> [ɕ]]]|| || || ||[[清喉擦音|<big>'''h'''</big> [h]]]
+|-
+!colspan=2|[[近音]]
+| || || || || || || || ||[[硬顎近音|<big>'''y'''</big> [j]]]|| || ||
+|-
+!colspan=2|[[邊音]]
+| || || || || ||[[齒齦邊音|<big>'''l'''</big> [l]]]|| || || || ||
+|}
+
+{|class=wikitable border=1
+!白話字!![[臺湾方音符號]]!![[國際音標]]!!範例
+|-align=center
+|p||ㄅ||p||pak-kûng 伯公
+|-align=center
+|ph||ㄆ||pʰ||pha̍k-fa 白話
+|-align=center
+|m||ㄇ||m||mí-kuet 美國
+|-align=center
+|f||ㄈ||f||fî-kî 飛機
+|-align=center
+|v||ㄪ||v/ʋ||vùn-si 文字
+|-align=center
+|t||ㄉ||t||tú-sṳ́ 肚笥
+|-align=center
+|th||ㄊ||tʰ||thai-ngìn 大人
+|-align=center
+|n||ㄋ||n||nài-sâ 泥沙
+|-align=center
+|l||ㄌ||l||lî-mà 鯉嬤
+|-align=center
+|ch||ㄗ／ㄐ／ㄓ||ʦ/ʨ/ʧ||khiung-ha 共下
+|-align=center
+|chh||ㄘ／ㄑ／ㄔ||ʦʰ/ʨʰ/ʧʰ||chhâ-é 車-é
+|-align=center
+|s||ㄙ／ㄒ／ㄕ||s/ɕ/ʃ||se-ngìn 細人
+|-align=center
+|k||ㄍ||k||kâ-yèn 家園
+|-align=center
+|kh||ㄎ||kʰ||khiung-ha 共下
+|-align=center
+|ng||ㄫ||ŋ||ngiù-ngiuk 牛肉
+|-align=center
+|h||ㄏ||h||heu-sâng 後生
+|-align=center
+|y||ㄧ||j||yá-têu 迓兜
+|-align=center
+| -p||ㆴ||p̚||入聲韻尾
+|-align=center
+| -t||ㆵ||t̚||入聲韻尾
+|-align=center
+| -k||ㆶ||k̚||入聲韻尾
+|}
+
+===母音===
+{|class=wikitable
+! !![[前元音]]!![[央元音]]!!colspan=2|[[後元音]]
+|-align=center 
+![[閉元音]]
+|[[閉前不圓唇元音|<big>'''i'''</big> [i]]]<br>ㄧ||[[閉央不圓唇元音|<big>'''ṳ'''</big> [ɨ]]]<br>ㆨ
+|colspan=2|[[閉後圓唇元音|<big>'''u'''</big> [u]]]<br>ㄨ
+|-align=center
+![[中元音]]
+|[[半開前不圓唇元音|<big>'''e'''</big> [ɛ]]]<br>ㄝ|| ||[[半閉後不圓唇元音|<big>'''er'''</big> [ɤ]/[ə]]]<br>ㄜ
+|[[半閉後圓唇元音|<big>'''o'''</big> [o]]]<br>ㄛ
+|-align=center
+![[開元音]]
+|[[開前不圓唇元音|<big>'''a'''</big> [a]]]<br>ㄚ|| ||colspan=2|
+|}
+
+===聲調===
+{|class=wikitable border=1
+|-
+!align=center|白話字
+!align=center|傳統調名
+!align=center|調值（四縣腔）
+!align=center|調值（海陸腔）
+!align=center|範例
+|-
+|align=center|â
+|align=center|陰平
+|align=center|24
+|align=center|42
+|align=center|fôn 歡
+|-
+|align=center|á
+|align=center|陰上
+|align=center|41
+|align=center|14
+|align=center|hí 喜
+|-
+|align=center|a
+|align=center|陰去
+|align=center|44
+|align=center|33
+|align=center|mien 面
+|-
+|align=center|ap
+|align=center|陰入
+|align=center|2
+|align=center|4
+|align=center|chuk 粥
+|-
+|align=center|à
+|align=center|陽平
+|align=center|11
+|align=center|44
+|align=center|thèu 頭
+|-
+|align=center|á
+|align=center|陽上 (歸陰上)
+|align=center|41
+|align=center|14
+|align=center|hí 喜
+|-
+|align=center|(å)
+|align=center|陽去
+|align=center|--
+|align=center|11
+|align=center|
+|-
+|align=center|a̍k
+|align=center|陽入
+|align=center|4
+|align=center|2
+|align=center|sṳ̍t 食
+|-
+|}
 == 使用規則 ==
 [[Category:文化]]
 [[Category:語言]]
