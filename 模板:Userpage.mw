@@ -1,0 +1,61 @@
+<!--建議：請複製本頁代碼至您的用戶頁，而不是直接使用本模板，可以有效防止機器人修改。--><div style="overflow:auto;">
+{| style="border: 1px solid #ffc9c9; background-color:#FFFFF3; font-size: 85%; padding: .5em; border-radius:15px; margin:0px; width:100%; "
+|-
+| <div style="text-align: center; font-size: 120%; font-weight: bold; padding: .5em; letter-spacing: .8em;">這是<span style="white-space: nowrap;">維基百科</span>用戶頁</div>
+<div class="vcard"><center>所述的資料僅代表用戶，維基百科不對此內容負責。若您现在访问的网站不是維基百科，那麼您正在瀏覽一個鏡像網站。最新頁面請訪問[//zh.wikip<!--防止機器人修改-->edia.org/wi<!--以侵犯版權為恥-->ki/{{FULLPAGENAMEE}} 這裡]。</center></div>
+|<imagemap>
+File:Wikimedia Foundation RGB logo with text.svg|60px|
+rect 0 0 143 143 [[維基媒體基金會]]
+desc none
+</imagemap>
+|}
+</div><noinclude>
+{{pp-protected}}
+{{UF-hcard-person}}
+[[Category:用戶頁模板|{{PAGENAME}}]]
+[[Category:跨服战]]
+[[af:Sjabloon:Userpage]]
+[[ar:قالب:صفحة مستخدم]]
+[[az:Şablon:İstifadəçi səhifəsi]]
+[[bg:Шаблон:Потребителска страница]]
+[[bn:টেমপ্লেট:ব্যবহারকারী পাতা]]
+[[cs:Šablona:Uživatelská stránka]]
+[[da:Skabelon:Brugerside]]
+[[de:Vorlage:Wikimedia-Benutzer]]
+[[dsb:Pśedłoga:Wužywaŕski bok]]
+[[en:Template:User page]]
+[[et:Mall:Kasutajaleht]]
+[[el:Πρότυπο:Σελίδα χρήστη]]
+[[eo:Ŝablono:Uzula paĝo]] 
+[[es:Plantilla:Página usuario]]
+[[fr:Modèle:Page personnelle]]
+[[ga:Teimpléad:Leathanach Úsáideora]]
+[[gl:Modelo:Páxina usuario]]
+[[hy:Կաղապար:Մասնակցի էջ]]
+[[he:תבנית:דף משתמש]]
+[[hsb:Předłoha:Wužiwarska strona]]
+[[id:Templat:Halaman pengguna]]
+[[it:Template:Pagina utente]]
+[[ja:Template:Userpage]]
+[[jv:Cithakan:Userpage]]
+[[ko:Template:사용자]]
+[[hu:Sablon:Userlap]]
+[[mk:Шаблон:Корисничка страница]]
+[[mn:Template:Userpage]]
+[[nl:Sjabloon:Gebruikerspagina]]
+[[no:Mal:Brukerside]]
+[[nn:Mal:Brukarside]]
+[[pl:Szablon:Strona użytkownika]]
+[[pt:Predefinição:Página de usuário]]
+[[ro:Format:Pagină de utilizator]]
+[[ru:Шаблон:Userpage]]
+[[sk:Šablóna:Redaktorská stránka]]
+[[sl:Predloga:Userpage]]
+[[fi:Malline:Käyttäjäsivuni]]
+[[sv:Mall:Wikipediaanvändare]]
+[[tr:Şablon:Kullanıcı sayfası]]
+[[uk:Шаблон:Userpage]]
+[[vi:Bản mẫu:Trang thành viên]]
+[[zh:Template:Userpage]]
+[[zh-classical:Template:Userpage]]
+</noinclude>
