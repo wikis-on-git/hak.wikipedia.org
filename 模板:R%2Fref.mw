@@ -1,0 +1,5 @@
+<includeonly>{{#tag:ref||name={{{1}}}|group={{{2}}}}}{{#if:{{{3}}}|<sup class="reference" style="white-space:nowrap;"><nowiki>:</nowiki>{{{3}}}</sup>}}</includeonly><noinclude>
+==Usage==
+<pre>{{r/ref|name|group|page numbers}}</pre>
+
+</noinclude>
