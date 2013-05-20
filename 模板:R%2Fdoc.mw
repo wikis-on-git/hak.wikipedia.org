@@ -1,0 +1,53 @@
+{{documentation subpage}}
+
+===用法===
+若有多個同來源的註腳被標記在頁面中，使用此模版可讓編輯的原文檔較容易解讀。
+
+{| class="wikitable"
+|-
+! 用法
+! 語法範例
+|-
+| <code><nowiki>{{r|註腳名稱}}</nowiki></code>
+| 在內文中加上<code><nowiki>{{r|註腳名稱}}</nowiki></code>相同於<code>&lt;ref name="註腳名稱" /&gt;</code>，而此功能也可混合使用，例如「<code><nowiki>{{r|註腳名稱|註腳名稱2|註腳名稱3|註腳名稱4}}</nowiki></code>」等同於「<code>&lt;ref name="註腳名稱" /&gt;&lt;ref name="註腳名稱2" /&gt;&lt;ref name="註腳名稱3" /&gt;&lt;ref name="註腳名稱4" /&gt;</code>」。
+|-
+| <code><nowiki>{{r|註腳名稱|group=例}}</nowiki></code>
+| 在內文中加上<code><nowiki>{{r|註腳名稱|group=例}}</nowiki></code>可對應至名為「例」的註腳組別（reference group）。
+|-
+| <code><nowiki>{{r|註腳名稱|page1=100}}</nowiki></code>
+| 在內文中加上<code><nowiki>{{r|註腳名稱|page1=100}}</nowiki></code>可標明該資料來源的頁數。 
+|}
+
+===使用教學===
+====比較====
+{| class="wikitable"
+|-
+! {{nowrap begin}}原始語法{{nowrap end}}
+| <code><nowiki>原文<ref name="註腳一" /><ref name="註腳二" /><ref name="註腳三" />，原文<ref name="註腳四" /><ref name="註腳五" /><ref name="註腳六" />。</nowiki></code>
+|-
+! {{nowrap begin}}模板語法{{nowrap end}}
+| <code><nowiki>原文{{r|註腳一|註腳二|註腳三}}，原文{{r|註腳四|註腳五|註腳六}}。</nowiki></code>
+|}
+
+====頁數====
+加入頁數的語法可讓頁碼數字上標在註腳數字的旁邊，例如<code><nowiki>{{r|註1|註2|註3|page1=20|page3=5–12}}</nowiki></code>可變為「{{r|註1|註2|註3|page1=20|page3=5–12}}」，而註腳名稱必須要定義，通常在頁面中的「資料來源」段落定義即可，如下：
+<pre><nowiki>{{reflist|refs=</nowiki>
+<nowiki><ref name="註1">123</ref></nowiki>
+<nowiki><ref name="註2">456</ref></nowiki>
+<nowiki><ref name="註3">789</ref></nowiki>
+}}</pre>
+
+可顯示為：
+{{reflist|refs=
+<ref name="註1">123</ref>
+<ref name="註2">456</ref>
+<ref name="註3">789</ref>
+}}
+
+===相關條目===
+*[[幫助:註腳]]
+*[[Wikipedia:列明來源]]
+
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+[[Category:引用模板|R]]
