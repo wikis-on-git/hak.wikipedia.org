@@ -12,10 +12,10 @@
 | 在內文中加上<code><nowiki>{{r|註腳名稱}}</nowiki></code>相同於<code>&lt;ref name="註腳名稱" /&gt;</code>，而此功能也可混合使用，例如「<code><nowiki>{{r|註腳名稱|註腳名稱2|註腳名稱3|註腳名稱4}}</nowiki></code>」等同於「<code>&lt;ref name="註腳名稱" /&gt;&lt;ref name="註腳名稱2" /&gt;&lt;ref name="註腳名稱3" /&gt;&lt;ref name="註腳名稱4" /&gt;</code>」。
 |-
 | <code><nowiki>{{r|註腳名稱|group=例}}</nowiki></code>
-| 在內文中加上<code><nowiki>{{r|註腳名稱|group=例}}</nowiki></code>可對應至名為「例」的註腳組別（reference group）。
+| 在內文中加上<code><nowiki>{{r|註腳名稱|group=例}}</nowiki></code>做得對應到名為“例”嘅註腳組別（reference group）。
 |-
 | <code><nowiki>{{r|註腳名稱|page1=100}}</nowiki></code>
-| 在內文中加上<code><nowiki>{{r|註腳名稱|page1=100}}</nowiki></code>可標明該資料來源的頁數。 
+| 在內文中加上<code><nowiki>{{r|註腳名稱|page1=100}}</nowiki></code>做得標明該資料來源嘅頁數。 
 |}
 
 ===使用教學===
