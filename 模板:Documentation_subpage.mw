@@ -2,8 +2,8 @@
 |<!-- reconstruction of original  Template:Template doc page pattern (now the redirected to " Template:Documentation subpage") template... ca mid-November 2007 -->
 <table  class="messagebox" style="line-height:1.1em;" style=" background:#f9f9b7;">
 <tr> <td rowspan="3" style="width:60px;text-align:center;" > [[File:Edit-paste.svg|40px]]</td>
-<td> 本-{zh-cn:文档; zh-tw:文件;}-是[[{{NAMESPACE}}:{{{1|{{BASEPAGENAME}}}}}]]的[[Wikipedia:模板文档|模板-{zh-cn:文档; zh-tw:文件;}-]]<!--
--->页。</td></tr>
+<td> 本文檔係[[{{NAMESPACE}}:{{{1|{{BASEPAGENAME}}}}}]]的[[Wikipedia:模板文檔|模板文檔}-]]<!--
+-->頁。</td></tr>
 <tr><td><small>This page may not be intended to be viewed directly. <br/
 >Links using [[Help:Variable|variable]]s may appear broken; do not replace these with [[hardcoded]] page names or URLs.</small></td></tr>
 </table>{{#if:{{{inhib|x}}}{{{inhibit|}}}|<!-- skip --->|<includeonly>[[Category:模板說明文件|{{PAGENAME}}]]</includeonly>
@@ -22,7 +22,7 @@ Of course, if you all want to start updating all the interwiki exported template
       | type = notice
       | image = [[File:Edit-copy green.svg|40px]]
       | text = 
-'''本-{zh-cn:文档; zh-tw:文件;}-是{{{1|[[{{SUBJECTSPACE}}:{{BASEPAGENAME}}]]}}}的[[Wikipedia:模板文档|-{zh-cn:文档; zh-tw:文件;}-]][[Wikipedia:子页面|子页面]]''' <small>（见{{ #if: {{SUBJECTSPACE}} | {{lc:{{SUBJECTSPACE ZH}}}} | 条目 }}页自身）</small>。<br />本页包含用法-{zh-cn:信息; zh-tw:資訊;}-、[[Wikipedia:分类|分类]]和其他非原{{ #if: {{SUBJECTSPACE}} |{{lc:{{SUBJECTSPACE ZH}}}}页面|条目}}的内容。
+'''本文檔係{{{1|[[{{SUBJECTSPACE}}:{{BASEPAGENAME}}]]}}}嘅[[Wikipedia:模板文檔]][[Wikipedia:子頁面|子頁面]]''' <small>（見{{ #if: {{SUBJECTSPACE}} | {{lc:{{SUBJECTSPACE ZH}}}} | 條目 }}頁自身）</small>。<br />本頁包含用法信息、[[Wikipedia:分類|分類]]撈其他非原{{ #if: {{SUBJECTSPACE}} |{{lc:{{SUBJECTSPACE ZH}}}}頁面|條目}}嘅內容。
       }}
     }}{{DEFAULTSORT:{{PAGENAME}}}}{{
     #if: {{{inhibit|}}}
