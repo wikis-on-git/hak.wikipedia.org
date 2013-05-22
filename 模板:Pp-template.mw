@@ -1,64 +1,36 @@
-<includeonly>{{pp-meta
-|type={{#switch:{{{demolevel|{{#ifeq:{{PROTECTIONLEVEL:edit}}-{{PROTECTIONLEVEL:move}}|-sysop|move|{{PROTECTIONLEVEL:edit}}}}}}}
-   |semi
-   |autoconfirmed=semi
-   |administrator
-   |full
-   |sysop=indef
-   |move=move
-   |#default=indef<!--fallback value-->}}
-|small={{{small|no}}}
-|demospace={{{demospace|}}}
-|demolevel={{#ifeq:{{PAGENAME}}/{{NAMESPACE}}|{{SUBPAGENAME}}/{{ns:Template}}|{{{demolevel|undefined}}}|{{#ifeq:{{lc:{{SUBPAGENAME}}}}|sandbox|sysop|{{{demolevel|undefined}}}}}}}
-|expiry=<!--not applicable-->
-|dispute=no
-|icon-text=本{{#ifeq:{{NAMESPACE}}|{{ns:6}}|-{zh-hant:檔案;zh-hans:文件}-由於已使用於高风险模板或系统消息故|高风险模板}}已獲永久{{#switch:{{{demolevel|{{#ifeq:{{PROTECTIONLEVEL:edit}}-{{PROTECTIONLEVEL:move}}|-sysop|move|{{PROTECTIONLEVEL:edit}}}}}}}
-   |semi
-   |autoconfirmed=半保护
-   |move=移动保护
-   |administrator
-   |full
-   |sysop
-   |#default=<!--fallback value-->保护}}以免遭到破坏
-|reason-text=本{{#switch:{{NAMESPACE}}
-  |{{ns:image}}=-{zh-hant:檔案;zh-hans:文件}-由於已使用於高风险模板{{#switch:{{{demolevel|{{PROTECTIONLEVEL:edit}}}}}
-   |semi
-   |autoconfirmed=
-   |administrator
-   |full
-   |sysop=或[[Special:Allmessages|系统訊息]]
-   |#default=<!--fallback value-->}}故
-  |#default=[[Wikipedia:HRT|高风险模板]]
-}}已獲得[[Wikipedia:獲保護頁面|{{#switch:{{{demolevel|{{#ifeq:{{PROTECTIONLEVEL:edit}}-{{PROTECTIONLEVEL:move}}|-sysop|move|{{PROTECTIONLEVEL:edit}}}}}}}
-   |semi
-   |autoconfirmed=半
-   |move=移动
-   |administrator
-   |full
-   |sysop<!--uses default-->
-   |#default=<!--fallback value-->}}保护]]{{#ifeq:{{PROTECTIONLEVEL:edit}}-{{PROTECTIONLEVEL:move}}|-sysop||}}以免受到破坏。{{#switch:{{{demolevel|{{PROTECTIONLEVEL:edit}}}}}
-   |semi
-   |autoconfirmed=
-   |administrator
-   |full
-   |sysop<!--uses default-->
-   |#default={{#switch:{{NAMESPACE}}|{{ns:image}}=<br /><small>'''請勿移动此-{zh-hant:檔案;zh-hans:文件}-'''到[[commons:|维基共享]]。</small>}}}}
-|categories={{{categories|{{#ifeq:{{NAMESPACE}}|{{ns:10}}|{{#switch:{{{demolevel|{{#ifeq:{{PROTECTIONLEVEL:edit}}-{{PROTECTIONLEVEL:move}}|-sysop|move|{{PROTECTIONLEVEL:edit}}}}}}}
-   |semi
-   |autoconfirmed=[[Category:被保护的模板|{{PAGENAME}}]]{{#ifeq:{{PROTECTIONLEVEL:move}}|sysop|[[Category:被保护的模板|{{PAGENAME}}]]}}
-   |move=[[Category:被保护的模板|{{PAGENAME}}]]
-   |administrator
-   |full
-   |sysop<!--uses default-->
-   |#default=[[Category:被保护的模板|{{PAGENAME}}]]<!--fallback value-->}}}}{{#ifeq:{{NAMESPACE}}|{{ns:6}}|[[Category:{{#switch:{{{demolevel|{{PROTECTIONLEVEL:edit}}}}}
-   |semi
-   |autoconfirmed=被保护的
-   |administrator
-   |full
-   |sysop<!--uses default-->
-   |#default=被保护的<!--fallback value-->}}页面|{{PAGENAME}}]]}}}}}}}</includeonly><noinclude>
-{{pp-template|categories=no}}  <!-- Show the large version -->
-{{pp-template|small=yes}}      <!-- Show the small version -->
-{{Documentation}}
-<!-- Add categories and interwikis to the /doc subpage, not here! -->
+<noinclude>{{pp-template|small=yes}}
+</noinclude>{{#ifeq:{{{small|}}}{{{expiry|ʁ}}}|yesʁ
+|
+<div style="position:absolute; z-index:100; right:20px; top:10px; height:10px; width:300px;"></div>
+<div style="position:absolute; z-index:100; right:10px; top:10px;" class="metadata" id="administrator">
+<imagemap>
+ Image:Padlock.svg|20px
+ default [[Wikipedia:Protection policy|This high-risk template or image included in one has been protected from editing to prevent vandalism]]
+ desc none
+</imagemap>
+</div>
+|
+<table class="messagebox protected" style="border:2px solid #99B; padding:0px; font-size:0.9em;">
+<tr>
+<td valign="middle" > [[Image:Padlock.svg|45px| ]]</td>
+<td>
+'''邇頁係{{#switch:{{NAMESPACE}}
+  |{{ns:image}}=一幅圖或相，分一隻或好多隻[[Wikipedia:High-risk templates|高危模]]撈／或界面用緊，
+  |#default=[[Wikipedia:High-risk templates|高危模]]
+}}分[[Wikipedia:管理員|管理員]][[Wikipedia:This page is protected|鎖矣]]（保護矣），因為有好多頁靠其，暫時毋做得改<span class="plainlinks">（[{{fullurl:Special:Log|type=protect&page={{FULLPAGENAMEE}}}} 保護日誌]）</span>。 <br />{{howtoedit}}
+{{#switch:{{NAMESPACE}}|{{ns:image}}=<small>註：邇幅圖或相'''毋'''應該搬去 commons 肚</small>}}
+</td>
+</tr>
+</table>
+}}<includeonly>[[Category:鎖咗嘅模|{{PAGENAME}}]]</includeonly><noinclude>
+----
+* Use {{tlx|{{lc:{{PAGENAME}}}}}} for the normal template
+* Use {{tlx|{{lc:{{PAGENAME}}}}|small&#61;yes}} for just an icon at the top
+
+This template is not to be used as a bluff. '''''Only use it on FULLY PROTECTED pages.''''' Please note that only [[Wikipedia:Administrators|administrators]] can protect pages.
+
+{{protection templates}}
+
+{{in category|Protected templates}}
+[[Category:Protection templates|{{PAGENAME}}]]
 </noinclude>
