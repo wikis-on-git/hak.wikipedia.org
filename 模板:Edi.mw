@@ -1,0 +1,18 @@
+<small class="editlink noprint plainlinksneverexpand">[{{fullurl:Template:{{{1}}}|action=edit}} {{{2|+/-}}}]</small><noinclude>
+----
+:The default link text for {{Tlx|edi|xyz}} is +/-: {{edi|xyz}}
+:{{Tlx|edi|xyz&#124;}} with blank link text results in: {{edi|xyz|}}
+:{{Tlx|edi|xyz|arbitrary link text}}&#160; results in: {{edi|xyz|arbitrary link text}}
+;See also
+:{{lts|Ed}}
+:{{lts|Edi}}
+:{{ltsmeta|Ed}}
+:{{ltsmeta|Edi}}
+:{{lts|Ed right}}
+:{{lts|Edit}}
+:{{lts|Ed2}}
+:{{lts|Ed right2}}
+
+[[Category:Handbook templates]]
+[[Category:內連模板]]
+</noinclude>
