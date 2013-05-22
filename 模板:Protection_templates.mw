@@ -1,0 +1,35 @@
+<noinclude>{{shortcut|[[WP:Pt]]}}</noinclude>
+{| class="messagebox protected" style="width:auto; border:1px solid #88A; padding:0px; font-size:0.9em; text-align: center;"
+|rowspan="11" style="vertical-align: top;"|[[Image:Padlock.svg|40px]]
+|-
+! [[:Category:Protection templates|Protection templates]] {{edi|Protection templates}} !! 全保護 !! 半保護
+|-
+!style="text-align: right;"| Dispute:
+| {{tlx|pp-dispute}} || {{N/A}}
+|-
+!style="text-align: right;"| Vandalism:
+| {{tlx|pp-vandalism}} || {{tlx|pp-semi-vandalism}}
+|-
+!style="text-align: right;"| 高風險模板:
+| {{tlx|pp-template}} || {{tlx|pp-semi-template}}
+|-
+!style="text-align: right;"| 封鎖矣戶口嘅交流頁:
+| {{tlx|pp-usertalk}} || {{tlx|pp-semi-usertalk}}
+|-
+!style="text-align: right;"| Spambot target:
+| {{N/A}} || {{tlx|pp-semi-spambot}}
+|-
+!style="text-align: right;"| Sockpuppetry:
+| {{N/A}} || {{tlx|pp-semi-sock}}
+|-
+!style="text-align: right;"| Generic (other protection):
+| {{tlx|pp-protected}} || {{tlx|pp-semi-protected}}
+|-
+!style="text-align: right;"| Scrutiny of the [[WP:OFFICE|Office]]:
+| {{tlx|pp-office}} || {{N/A}}
+|-
+!style="text-align: right;"| 搬版:
+|colspan="2"| {{tlx|pp-move}}
+|}<noinclude>
+[[Category:保護模板|*]]
+</noinclude>
