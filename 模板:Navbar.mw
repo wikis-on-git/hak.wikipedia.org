@@ -1,0 +1,29 @@
+<includeonly>{{#if:{{{nodiv|}}}|&nbsp;<span|<div}} class="noprint plainlinks navbar" style="background:none; padding:0; font-weight:normal;{{{fontstyle|}}}; font-size:xx-small; {{{style|}}}"><!--
+
+-->{{#if:{{{mini|}}}{{{plain|}}}|<!--nothing-->|<!--else:
+-->This box:&#32;}}<!--
+
+-->{{#if:{{{brackets|}}}|&#91;}}<!--
+
+-->[[{{transclude|{{{1}}}}}|<span title="看邇隻模板" style="{{{fontstyle|}}}"><!--
+-->{{#if:{{{mini|}}}|睇|去睇}}</span>]]<!--
+
+-->&nbsp;<span style="font-size:80%;">•</span>&nbsp;[[{{TALKPAGENAME:{{transclude|{{{1}}}}}}}|<span title="討論邇隻模板" style="{{{fontstyle|}}}">{{#if:{{{mini|}}}|論|討論}}</span>]]<!--
+
+-->{{#if:{{{noedit|}}}|<!--nothing-->|<!--else:
+-->&nbsp;<span style="font-size:80%;">•</span>&nbsp;[{{fullurl:{{transclude|{{{1}}}}}|action=edit}}<span title="編寫邇隻模板" style="{{{fontstyle|}}};">{{#if:{{{mini|}}}|寫|編寫}}</span>]<!--
+-->}}<!--
+
+-->{{#if:{{{nohistory|}}}|<!--nothing-->|<!--else:
+-->&nbsp;<span style="font-size:80%;">•</span>&nbsp;[{{fullurl:{{transclude|{{{1}}}}}|action=history}}<span title="查看邇隻模板" style="{{{fontstyle|}}};">{{#if:{{{mini|}}}|歷|歷史}}</span>]<!--
+-->}}<!--
+
+-->{{#if:{{{brackets|}}}|]}}<!--
+
+-->{{#if:{{{nodiv|}}}|<!--then:
+--></span>&nbsp;|<!--else:
+--></div>}}</includeonly><noinclude>
+
+{{pp-template|small=yes}}
+{{documentation}}
+</noinclude>
