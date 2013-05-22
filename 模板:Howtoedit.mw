@@ -1,0 +1,4 @@
+{{#ifeq:{{NAMESPACE}}|{{TALKSPACE}}|係講汝想改東西，可以|麻煩在[[{{TALKPAGENAME}}|交流頁]]交流下仰改或}}[[Wikipedia:Requests for page protection|要求解鎖]]。{{#ifeq:{{NAMESPACE}}|{{TALKSPACE}}||汝也可以在[[{{TALKPAGENAME}}|交流頁]]用 {{tlx|editprotected}} 喊管理員幫汝改}}。<noinclude>
+{{hprotected}}
+[[Category:用ParserFunctions嘅模]]
+</noinclude>
