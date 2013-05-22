@@ -15,7 +15,7 @@
 <td valign="middle" > [[Image:Padlock.svg|45px| ]]</td>
 <td>
 '''邇頁係{{#switch:{{NAMESPACE}}
-  |{{ns:image}}=一幅圖或相，分一隻或好多隻[[Wikipedia:High-risk templates|高危模]]撈／或界面用緊，
+  |{{ns:image}}=一幅圖或相，分一隻或好多隻[[Wikipedia:High-risk templates|高危模板]]撈／或界面用緊，
   |#default=[[Wikipedia:High-risk templates|高危模]]
 }}分[[Wikipedia:管理員|管理員]][[Wikipedia:This page is protected|鎖矣]]（保護矣），因為有好多頁靠其，暫時毋做得改<span class="plainlinks">（[{{fullurl:Special:Log|type=protect&page={{FULLPAGENAMEE}}}} 保護日誌]）</span>。 <br />{{howtoedit}}
 {{#switch:{{NAMESPACE}}|{{ns:image}}=<small>註：邇幅圖或相'''毋'''應該搬去 commons 肚</small>}}
