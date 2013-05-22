@@ -1,98 +1,36 @@
-{{#ifeq:{{#switch:{{lc:{{{type}}}}}
-  |move=<!--
- -->{{#ifeq:
-      {{#switch:{{lc:{{{demolevel|undefined}}}}}
-        |semi
-        |autoconfirmed=autoconfirmed
-        |administrator
-        |full
-        |sysop=sysop
-        |undefined={{PROTECTIONLEVEL:move}}
-        |#default=<!--fallback value: null
-   -->}}
-      |sysop|yes|no
-    }}
-  |create=<!--
- -->{{#if:
-      {{#switch:{{lc:{{{demolevel|undefined}}}}}
-        |semi
-        |autoconfirmed=autoconfirmed
-        |administrator
-        |full
-        |sysop=sysop
-        |undefined={{PROTECTIONLEVEL:create}}
-        |#default=<!--fallback value: null
-   -->}}
-      |yes|no
-    }}
-|#default<!--includes all other types-->=<!--
- -->{{#if:
-      {{#switch:{{lc:{{{demolevel|undefined}}}}}
-        |semi
-        |autoconfirmed=autoconfirmed
-        |administrator
-        |full
-        |sysop=sysop
-        |undefined={{PROTECTIONLEVEL:edit}}
-        |#default=<!--fallback value: null
-   -->}}
-      |{{#ifeq:{{#switch:{{lc:{{{disallowlevel|}}}}}
-                 |semi
-                 |autoconfirmed=autoconfirmed
-                 |administrator
-                 |full
-                 |sysop=sysop
-                 |#default=<!--fallback value: null-->}}
-         |{{#switch:{{lc:{{{demolevel|undefined}}}}}
-            |semi
-            |autoconfirmed=autoconfirmed
-            |administrator
-            |full
-            |sysop=sysop
-            |undefined={{PROTECTIONLEVEL:edit}}
-            |#default=<!--fallback value: null
-       -->}}
-         |no|yes
-       }}
-   |no}}
-}}|yes|{{#ifeq:{{lc:{{{small|}}}}}|yes|
-<div class="metadata topicon" id="protected-icon" style="display:none; right:55px;">[[Image:{{{image|{{#switch:{{lc:{{{type}}}}}
- |full=Padlock.svg
- |semi=Padlock-silver.svg
- |move=Padlock-olive.svg
- |indef=Padlock-red.svg
- |office=Padlock-black.svg
- |create=Padlock-skyblue.svg
- |#default=Transparent.gif
-}}}}}|20px|link={{{icon-link|Wikipedia:頁面保護方針#{{lc:{{{type}}}}}}}}|{{{icon-text|}}}]]</div>
-|<!-- else, not small -->
-{{mbox 
-| demospace = {{{demospace|}}}
-| type = protection
-| image = [[Image:{{{image|{{#switch:{{lc:{{{type}}}}}
- |full=Padlock.svg
- |semi=Padlock-silver-medium.svg
- |move=Padlock-olive.svg
- |indef=Padlock-red.svg
- |office=Padlock-black.svg
- |create=Padlock-skyblue.svg
- |#default=Transparent.gif
-}}}}}|40px|{{{icon-text|}}}]]
-| text = ''' {{#if:{{{reason|}}}|{{{reason}}}，|}}{{{reason-text|{{#switch:{{lc:{{{type}}}}}
- |full=依據[[Wikipedia:頁面保護方針|方針]]，本{{NS}}已獲[[Wikipedia:这个页面被保护|保護]]
- |semi=依據[[Wikipedia:頁面保護方針|方針]]，本{{NS}}已獲[[WP:SEMI|半保護]]
- |move=依據[[Wikipedia:頁面保護方針|方針]]，本{{NS}}不可移動
- |indef=依據[[Wikipedia:頁面保護方針|方針]]，本{{NS}}已獲永久保护
- |office=依據[[Wikipedia:頁面保護方針|方針]]，本{{NS}}已獲[[Wikipedia:这个页面被保护|保護]]
- |create=依據[[Wikipedia:頁面保護方針|方針]]，本{{NS}}已獲白纸保护
-}}{{#ifeq:{{lc:{{{type}}}}}|indef||{{#if:{{{expiry|}}}|直至{{#time:Y年Fj日H時i分|{{{expiry}}}}}}}}}。}}} '''<br /><small>{{{explanation-text|{{#ifeq:{{lc:{{{dispute}}}}}|yes|請注意保护'''并非'''对{{#ifeq:{{{type}}}|move|[{{fullurl:Special:Log|type=move&page={{FULLPAGENAMEE}}}} 当前标题]|[{{fullurl:{{FULLPAGENAMEE}}|action=history}} 当前版本]}}的认可。}}請参閱[[WP:頁面保護方針|页面保护方针]]及[{{fullurl:Special:Log|type=protect&page={{FULLPAGENAMEE}}}} 保护日志]以获取更多-{zh-cn:信息; zh-tw:資訊;}-。{{#switch:{{lc:{{{type}}}}}
- |full|indef=請在[[{{TALKPAGENAME}}|讨论页]]提交您打算进行的修改。取得共识以后，您可以使用{{tlx|editprotected}}请求[[WP:SYSOP|管理员]]进行修改，{{#ifeq:{{NAMESPACE}}|{{ns:8}}<!--MediaWiki-->||或[[Wikipedia:请求保护页面|申请解除保护]]。}}
- |semi=如果您不能修改此{{NS}}，您可以{{#ifeq:{{NAMESPACE}}|{{TALKSPACE}}||[[Template:Editprotected|请求修改]]、[[{{TALKPAGENAME}}|在讨论页提出修改提议]]、}}[[Wikipedia:请求保护页面|申请解除保护]]、[[Special:Userlogin|-{zh-hant:登入;zh-hans:登录}-]]或<span class="plainlinks">[http://zh.wikipedia.org/w/index.php?title=Special:Userlogin&type=signup <span style="color:#002bb8;" title="-{zh-hans:创建账号;zh-hant:創建帳戶;}-">-{zh-hans:创建账号;zh-hant:創建帳戶;}-</span>]。
- |move=如您打算移动本{{NS}}，请在[[{{TALKPAGENAME}}|讨论页]]提案或[[Wikipedia:移动请求|遞交移动請求]]，您亦可以[[Wikipedia:请求保护页面|申请解除保护]]。
- |office=无论您能否编辑本{{NS}}，请務必先提案至[[{{TALKPAGENAME}}|讨论页]]。除非您獲得[[wmf:|维基媒体基金会]]授權，請勿解除保护。
- |create=请查看{{#if:{{{xfd|}}}|'''[[{{{xfd}}}|存废讨论]]'''或}} [{{fullurl:Special:Log|type=delete&page={{FULLPAGENAMEE}}}} 刪除日志]以获取本页遭刪除之原因。如您打算創建此頁面，請務先申请[[Wikipedia:请求保护页面|解除保护]]或[[Wikipedia:页面恢复请求|恢復已刪除內容]]。
-}}}}}</small>
-}}
-}}|[[Category:保护状态与保护标志不符的页面]]}}<!--End if small--><includeonly>{{#ifeq:{{lc:{{{categories|no}}}}}|no||{{{categories|}}}}}</includeonly><noinclude>
-{{documentation}}
+<noinclude>{{pp-template|small=yes}}
+</noinclude>{{#ifeq:{{{small|}}}{{{expiry|ʁ}}}|yesʁ
+|
+<div style="position:absolute; z-index:100; right:20px; top:10px; height:10px; width:300px;"></div>
+<div style="position:absolute; z-index:100; right:10px; top:10px;" class="metadata" id="administrator">
+<imagemap>
+ Image:Padlock.svg|20px
+ default [[Wikipedia:Protection policy|This high-risk template or image included in one has been protected from editing to prevent vandalism]]
+ desc none
+</imagemap>
+</div>
+|
+<table class="messagebox protected" style="border:2px solid #99B; padding:0px; font-size:0.9em;">
+<tr>
+<td valign="middle" > [[Image:Padlock.svg|45px| ]]</td>
+<td>
+'''邇頁係{{#switch:{{NAMESPACE}}
+  |{{ns:image}}=一幅圖或相，分一隻或好多隻[[Wikipedia:High-risk templates|高危模]]撈／或界面用緊，
+  |#default=[[Wikipedia:High-risk templates|高危模]]
+}}分[[Wikipedia:管理員|管理員]][[Wikipedia:This page is protected|鎖矣]]（保護矣），因為有好多頁靠其，暫時毋做得改<span class="plainlinks">（[{{fullurl:Special:Log|type=protect&page={{FULLPAGENAMEE}}}} 保護日誌]）</span>。 <br />{{howtoedit}}
+{{#switch:{{NAMESPACE}}|{{ns:image}}=<small>註：邇幅圖或相'''毋'''應該搬去 commons 肚</small>}}
+</td>
+</tr>
+</table>
+}}<includeonly>[[Category:鎖矣嘅模|{{PAGENAME}}]]</includeonly><noinclude>
+----
+* Use {{tlx|{{lc:{{PAGENAME}}}}}} for the normal template
+* Use {{tlx|{{lc:{{PAGENAME}}}}|small&#61;yes}} for just an icon at the top
+
+This template is not to be used as a bluff. '''''Only use it on FULLY PROTECTED pages.''''' Please note that only [[Wikipedia:Administrators|administrators]] can protect pages.
+
+{{protection templates}}
+
+{{in category|Protected templates}}
+[[Category:Protection templates|{{PAGENAME}}]]
 </noinclude>
