@@ -10,7 +10,7 @@
   | <!--Add the [view][edit][history][purge] or [create] links-->
     <span class="editsection plainlinks" id="doc_editlinks">{{
     #if: {{{doc exist|yes}}}
-    | &#91;[[{{{docpage|{{FULLPAGENAME}}/解}}}|看]]&#93; [[{{fullurl:{{{docpage|{{FULLPAGENAME}}/解}}}|action=edit}} 改]] [[{{fullurl:{{{docpage|{{FULLPAGENAME}}/解}}}|action=history}} 史]] [{{purge|purge}}] 
+    | &#91;[[{{{docpage|{{FULLPAGENAME}}/解}}}|看]]&#93; [[{{fullurl:{{{docpage|{{FULLPAGENAME}}/解}}}|action=edit}} 改]] [[{{fullurl:{{{docpage|{{FULLPAGENAME}}/解}}}|action=history}} 史]] [{{purge|清}}] 
     | <!--/doc doesn't exist-->
       [[{{fullurl:{{{docpage|{{FULLPAGENAME}}/解}}}| action=edit&preload={{
         #if: {{{preload|}}} 
@@ -18,7 +18,7 @@
         | {{#ifeq: {{SUBJECTSPACE}} | {{ns:File}}
           | Template:Documentation/preload-filespace
           | Template:Documentation/preload
-          }} }} }} 開版]]
+          }} }} }} 建版]]
     }}</span>
   }} <span style="{{#if: {{{heading-style|}}}
   | {{{heading-style|}}}
@@ -30,7 +30,7 @@
   | ¬ =   
     <!--"heading" not defined in this or previous level-->
     {{#switch: {{SUBJECTSPACE}} 
-    | {{ns:Template}} = [[File:Template-info.png|50px|link=|alt=Documentation icon]] 模嘅說明文件|說明文件
+    | {{ns:Template}} = [[File:Template-info.png|50px|link=|alt=Documentation icon]] 模板嘅說明文檔|說明文檔
     | {{ns:File}} = Summary
     | #default = Documentation
     }}
