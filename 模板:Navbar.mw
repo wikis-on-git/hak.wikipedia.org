@@ -6,7 +6,7 @@
 -->{{#if:{{{brackets|}}}|&#91;}}<!--
 
 -->[[{{transclude|{{{1}}}}}|<span title="看邇隻模板" style="{{{fontstyle|}}}"><!--
--->{{#if:{{{mini|}}}|睇|去睇}}</span>]]<!--
+-->{{#if:{{{mini|}}}|看|去看}}</span>]]<!--
 
 -->&nbsp;<span style="font-size:80%;">•</span>&nbsp;[[{{TALKPAGENAME:{{transclude|{{{1}}}}}}}|<span title="討論邇隻模板" style="{{{fontstyle|}}}">{{#if:{{{mini|}}}|論|討論}}</span>]]<!--
 
