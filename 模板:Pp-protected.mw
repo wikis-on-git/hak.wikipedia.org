@@ -1,44 +1,37 @@
-<includeonly>{{pp-meta
-|type={{#switch:{{{demolevel|{{PROTECTIONLEVEL:edit}}}}}
-   |semi
-   |autoconfirmed=semi
-   |administrator
-   |full
-   |sysop=full
-   |#default=full<!--fallback value-->}}
-|small={{{small|}}}
-|demospace={{{demospace|}}}
-|demolevel={{{demolevel|undefined}}}
-|expiry={{{expiry|}}}
-|dispute=no
-|reason={{#if:{{{reason|}}}|因为{{lcfirst:{{{reason|}}}}}}}
-|categories={{{category|
-{{#switch:{{{demolevel|{{PROTECTIONLEVEL:edit}}}}}
- |semi
- |autoconfirmed={{#switch: {{{demospace|{{NAMESPACE}}}}}
-   | {{ns:2}}
-   | {{ns:3}} = [[Category:分半保護嘅用戶頁|{{PAGENAME}}]]
-   | {{ns:6}} = [[Category:分保護嘅圖像|{{PAGENAME}}]]
-   | {{ns:4}}
-   | {{ns:12}} = [[Category:被半保护的页面|{{PAGENAME}}]]
-   | {{ns:100}} = [[Category:被半保护的页面|{{PAGENAME}}]]
-   | {{ns:10}} = [[Category:被半保護的模板|{{PAGENAME}}]]
-   | {{ns:14}} = [[Category:被半保護的分类|{{PAGENAME}}]]
-   | #default = {{talk other|[[Category:被半保护的页面|{{PAGENAME}}]]|[[Category:被半保护的页面|{{PAGENAME}}]]}}}}
- |administrator
- |full
- |sysop={{#switch: {{{demospace|{{NAMESPACE}}}}}
-   | {{ns:2}}
-   | {{ns:3}} = [[Category:被保護的用戶頁|{{PAGENAME}}]]
-   | {{ns:6}} = [[Category:被保護的圖像]]
-   | {{ns:4}}
-   | {{ns:12}} = [[Category:被保护的页面|{{PAGENAME}}]]
-   | {{ns:10}} = [[Category:被保護的模板|{{PAGENAME}}]]
-   | {{ns:14}} = [[Category:被保護的分类|{{PAGENAME}}]]
-   | #default = {{talk other|[[Category:被保护的页面|{{PAGENAME}}]]|[[Category:被保护的页面|{{PAGENAME}}]]}}}}}}}}}}}</includeonly><noinclude>
-{{pp-protected|demospace=main|categories=no}}
+<noinclude>{{pp-template|small=yes}}
+</noinclude>{{#ifeq:{{{small|}}}{{{expiry|ʁ}}}|yesʁ
+|
+<div style="position:absolute; z-index:100; right:25px; top:8px; height:10px; width:300px;"></div>
+<div style="position:absolute; z-index:100; right:54px; top:8px;" class="metadata" id="administrator">
+<imagemap>
+ Image:Padlock.svg|20px
+ rect 0 0 1000 1000 [[Wikipedia:Protection policy|This page has been protected from editing]]
+ desc none
+</imagemap>
+</div>
+|
+<table class="messagebox protected" style="border:2px solid #99B; padding:0px; font-size:0.9em;">
+<tr>
+<td valign="center" > [[Image:Padlock.svg|45px| ]]</td>
+<td>
+'''邇頁{{#if:{{{tprot|}}}|暫時|今下}}分[[Wikipedia:管理員|管理員]][[Wikipedia:This page is protected|鎖矣]]（保護矣），{{#if:{{{expiry|}}}|直到 {{#time:[[Y]]年[[n]]月[[j]]號，|{{{expiry}}}}} <small>(UTC)</small>}}暫時做毋得改。{{#if:{{{reason<includeonly>|</includeonly>}}}|因為{{lcfirst:{{{reason|<noinclude>恁樣嘅理由。</noinclude>}}}}}}}'''<span class="plainlinks">（[{{fullurl:Special:Log|type=protect&page={{FULLPAGENAMEE}}}} 保護日誌]）</span>。 <br />{{howtoedit}}
+</td>
+</tr>
+</table>
+}}<includeonly>[[Category:鎖矣|{{PAGENAME}}]]{{#ifexpr:{{#if:{{{expiry|}}}|{{#time:U|today}}>{{#time:U|{{{expiry}}}}}|0}}|[[Category:Protected pages with expiry expired|{{PAGENAME}}]]}}</includeonly><noinclude>
 
-{{pp-template|small=yes}}
-{{template doc}}
-<!-- Add categories and inter-wikis to the /doc subpage, not here! -->
+----
+* Use {{tlx|{{lc:{{PAGENAME}}}}}} for the normal template
+* Use {{tlx|{{lc:{{PAGENAME}}}}|reason&#61;text}} for applying a specific reason
+* Use {{tlx|{{lc:{{PAGENAME}}}}|expiry&#61;{{#time:F j, Y|+1 month}}}} for a specific expiration date
+* Use {{tlx|{{lc:{{PAGENAME}}}}|small&#61;yes}} for just an icon at the top
+* Use {{tlx|{{lc:{{PAGENAME}}}}|expiry&#61;<nowiki>{{subst:#time:Y n j|+7 days}}</nowiki>}} for a specific expiration time period
+
+Note that ''(UTC)'' will be added automatically.
+
+This template is not to be used as a bluff. '''''Only use it on FULLY PROTECTED pages.''''' Only [[Wikipedia:Administrators|administrators]] can protect pages.
+
+{{protection templates}}
+{{in category|Protected|Protected pages with expiry expired}}
+[[Category:Protection templates|{{PAGENAME}}]]
 </noinclude>
