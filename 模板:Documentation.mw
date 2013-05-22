@@ -1,50 +1,69 @@
-<div class="template-documentation"><!--
+<!--
+  Automatically add {{template sandbox notice}} when on a /sandbox page.
+-->{{#ifeq: {{SUBPAGENAME}} | sandbox
+| <div style="clear: both;"></div>{{template sandbox notice|{{{livepage|}}}}}
+}}<!--
+  Automatically add {{pp-template}} to protected templates.
+-->{{template other
+| {{#ifeq: {{PROTECTIONLEVEL:move}} | sysop
+  | {{pp-template|docusage=yes}}
+  | {{#if: {{PROTECTIONLEVEL:edit}}
+    | {{pp-template|docusage=yes}}
+    | <!--Not protected, or only semi-move-protected-->
+    }}
+  }}
+}}<!--
+  Start of green doc box.
+-->{{documentation/start box2
+| preload = {{{preload|}}}   <!--Allow custom preloads-->
+| heading = {{{heading|¬}}}   <!--Empty but defined means no header-->
+| heading-style = {{{heading-style|}}}
+| content = {{{content|}}}
 
-These are the literal class definitions in common.css:
- 
-/* For template documentation */
-.template-documentation {
-    clear: both;
-    margin: 1em 0 0 0;
-    border: 1px solid #aaa; 
-    background-color: #ecfcf4; 
-    padding: 5px;
-}
+<!--Some namespaces must have the /doc, /sandbox and /testcases 
+    in talk space-->
+| docspace = {{documentation/docspace}}
 
+| 1 = {{{1|}}}   <!--Other docname, if fed-->
 
- -->{{#ifeq:{{{heading|μ}}}|<!--**DEFINED BUT EMPTY**-->
-  |<!--**NOTHING**-->
-  |<div style="padding-bottom:3px; border-bottom: 1px solid #aaa; margin-bottom:1ex">{{#ifeq:{{{content|μ}}}|μ
-   |<span class="editsection plainlinks" id="doc_editlinks">{{#ifexist: {{{1|{{Documentation/docname}}}}}
-    |<!--**    /doc EXISTS**   -->[[{{fullurl:{{{1|{{Documentation/docname}}}}}|action=edit}} edit]] [{{purge|purge}}] 
-    |<!--**/doc DOESN'T EXIST**-->[[{{fullurl:{{{1|{{Documentation/docname }}}}}|action=edit&preload=Template:Documentation/preload}} create]]
-   }}</span>
-  }} <span style="{{#if:{{{heading-style|}}}|{{{heading-style}}}|{{#ifeq:{{NAMESPACE}}|{{ns:template}}|font-weight: bold; font-size: 125%|font-size: 150%}}}}">{{#if:{{{heading|}}}|{{{heading}}}|{{#ifeq:{{NAMESPACE}}|{{ns:template}}|[[Image:Template-info.svg|50px|link=]] Template documentation|Documentation}}}}</span></div>
- }}<!--
+<!--The namespace is added in /start box2-->
+| template page = {{documentation/template page}}
 
- --><div id="template_doc_page_transcluded" class="dablink plainlinks"><!--
-  -->{{#ifexist: {{{1|{{Documentation/docname}}}}}
-  |<!--**/doc EXISTS**-->This [[Wikipedia:Template documentation|documentation]] is [[Wikipedia:Transclusion|transcluded]] from [[{{{1|{{Documentation/docname}}}}}]]. <small style="font-style: normal">([{{fullurl:{{{1|{{Documentation/docname}}}}}|action=edit}} edit] &#124; [{{fullurl:{{{1|{{Documentation/docname}}}}}|action=history}} history])</small><br />
- }}<!--
+}}<!-- Start content --><!--
+  Start load the /doc content:
+  Note: The line breaks between this comment and the next line are necessary
+  so  "=== Headings ===" at the start and end of docs are interpreted.
+-->
+{{#switch: {{#if:{{{content|}}}|1|0}}{{#if:{{{1|}}}|1|0}}{{#ifexist:{{{1|}}}|1|0}}{{#ifexist:{{documentation/docspace}}:{{documentation/template page}}/解|1|0}}
+| 1000 | 1001 | 1010 | 1011 | 1100 | 1101 | 1110 
+| 1111 = {{{content|}}}
+| 0110 | 0111 = {{ {{{1}}} }}
+| 0001 | 0011 = {{ {{documentation/docspace}}:{{documentation/template page}}/解 }}
+| 0000 | 0100 | 0010 | 0101 = 
+}}
+<!--
+  End load the /doc content:
+  Note: The line breaks between this comment and the previous line are necessary
+  so  "=== Headings ===" at the start and end of docs are interpreted.
+-->{{documentation/end box2
+| preload = {{{preload|}}}   <!--Allow custom preloads-->
+| content = {{{content|}}}
+| link box = {{{link box|}}}   <!--So "link box=off" works-->
 
- -->{{#switch: {{SUBPAGENAME}}
-   |sandbox|testcases=<!--**DO NOT SHOW THESE LINKS ON THE SANDBOX/TESTCASES PAGES**-->
-   |#default=
-    {{#switch: {{SUBJECTSPACE}}
-     |{{ns:template}}
-     |{{ns:user}}=
-      {{#ifexist: {{FULLPAGENAME}}/sandbox
-       |This template has a [[/sandbox|sandbox]] <small style="font-style: normal">([{{fullurl:{{ #rel2abs: /sandbox }}|action=edit}} edit])</small> <!--
-        -->{{#ifexist: {{FULLPAGENAME}}/testcases
-         |and [[/testcases|testcases]] <small style="font-style: normal">([{{fullurl:{{ #rel2abs: /testcases }}|action=edit}} edit])</small>}} for editors to experiment.
-       |{{#ifexist: {{FULLPAGENAME}}/testcases
-        |This template has [[/testcases|testcases]] <small style="font-style: normal">([{{fullurl:{{ #rel2abs: /testcases }}|action=edit}} edit])</small> for editors to experiment.}}
- }}}}}}
- </div>
-{{#if:{{{content|}}}|{{{content}}}|{{#ifexist:{{{1|{{Documentation/docname}}}}} | {{ {{{1|{{Documentation/docname}}}}} }} }}}}
-<div style="clear: both;"></div>
-</div><noinclude>
+<!--Some namespaces must have the /doc, /sandbox and /testcases 
+    in talk space-->
+| docspace = {{documentation/docspace}}
 
-{{pp-template|small=yes}}
+| 1 = {{{1|}}}   <!--Other docname, if fed-->
+
+<!--The namespace is added in /end box2-->
+| template page = {{documentation/template page}}
+
+}}<!--
+  End of green doc box
+--><noinclude>
+
 <!-- Add categories and interwikis to the /doc subpage, not here! -->
+[[la:Formula:Documentation]]
+[[vi:Bản mẫu:Documentation]]
 </noinclude>
