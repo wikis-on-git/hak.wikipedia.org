@@ -1,0 +1,53 @@
+:<div class="notice metadata" id="disambig">[[Image:Disambig.svg|left|25px]]
+{{#if:{{{subject|{{{題|}}}}}}|<small>邇篇文章講嘅係{{{subject|{{{題}}}}}}。</small>}}{{#if:{{{3|}}}|
+*}}<small>想尋{{{other|{{{他|邇隻詞嘅其他意思}}}}}}，看下“'''[[{{#if:{{{o|}}}|{{#if:{{{t|}}}|{{{1|{{PAGENAME}}}}}（消歧義）|{{{1|{{PAGENAME}}}}} （消歧義）}}|{{{1|{{#if:{{{t|}}}|{{PAGENAME}} （消歧義）|{{PAGENAME}} （消歧義）}}}}}}}]]'''”</small>{{#if:{{{2|}}}|<small>撈「'''[[{{{2}}}]]'''」</small>}}<small>。</small>{{#if:{{{3|}}}|
+*<small>想尋{{{other2|{{{他2|邇隻詞嘅其他意思}}}}}}，麻煩跳去“'''[[{{{3}}}]]'''”</small>{{#if:{{{4|}}}|<small>撈“'''[[{{{4}}}]]'''”</small>}}<small>。</small>}}<div style="font-size: small;"></div></div><noinclude>
+----
+
+==仰用其？==
+ <code><nowiki>{{其他|題=邇一頁講嘅係|他=其他名或相像嘅條目|其他名}}</nowiki></code>
+或
+ <code><nowiki>{{Otheruses|subject=邇一頁講嘅係|other=其他名或相像嘅條目|其他名}}</nowiki></code>
+或
+ <code><nowiki>{{他用|題=邇一頁講嘅係|他=其他名或相像嘅條目|其他名}}</nowiki></code>
+
+
+{|class="prettytable" cellpadding=5|
+! 參數
+! 說明
+|-
+| 隱名參數
+| 必揀參數，鏈接目標（一般都係“條目名（消歧義）”）。
+|-
+| 題 / subject
+| 做得揀嘅參數，邇一頁愛講嘅主題
+|-
+| 他 / other
+| 可以揀嘅參數，其他同名或相像條目愛講嘅主題，默認係“其他關聯意思”
+|}
+
+[[Category:消歧義模板]]
+
+[[az:Şablon:Digər məna]]
+[[en:Template:Other uses]]
+[[eo:Ŝablono:AliajSignifoj]]
+[[es:Plantilla:Otros usos]]
+[[eu:Txantiloi:Argitzeko]]
+[[fr:Modèle:Voir homonymes]]
+[[ia:Patrono:Altereusos]]
+[[it:Template:Nota disambigua]]
+[[ja:Template:Otheruses]]
+[[ko:틀:다른 뜻]]
+[[la:Formula:Alius]]
+[[ln:Modèle:Ndoí]]
+[[no:Mal:Andrebetydninger]]
+[[pl:Szablon:Inne znaczenia]]
+[[ru:Шаблон:Другие значения]]
+[[sc:Template:Nota disambigua]]
+[[sl:Predloga:Drugipomeni]]
+[[sv:Mall:Olika betydelser]]
+[[th:แม่แบบ:ความหมายอื่น]]
+[[tr:Şablon:Diğer anlamı]]
+[[vi:Bản mẫu:Bài cùng tên]]
+[[zh:Template:Otheruses]]
+</noinclude>
