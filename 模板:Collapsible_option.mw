@@ -1,0 +1,24 @@
+;{{larger|仰般控制本模板嘅可見性}}
+*使用<code>{&#123;<!--
+  --><includeonly>{{BASEPAGENAME}}</includeonly><!--
+  --><noinclude>模板名</noinclude><!--
+  -->|{{#ifeq:{{{statename|}}}|optional | |state=}}collapsed}}</code><!--
+  -->使本模板顯示爲折疊（隱藏）狀態。
+*使用<code>{&#123;<!--
+  --><includeonly>{{BASEPAGENAME}}</includeonly><!--
+  --><noinclude>模板名</noinclude><!--
+  -->|{{#ifeq:{{{statename|}}}|optional | |state=}}expanded}}</code><!--
+  -->使本模板顯示爲展開（顯示）狀態。
+*使用<code>{&#123;<!--
+  --><includeonly>{{BASEPAGENAME}}</includeonly><!--
+  --><noinclude>模板名</noinclude><!--
+  -->|{{#ifeq:{{{statename|}}}|optional | |state=}}autocollapse}}</code><!--
+  -->使本模板'''單淨在'''頁面上有其他相同類型嘅模板時，顯示爲折疊（隱藏）狀態。
+*   {{#if:{{{state|{{{default|}}}}}}
+     |'''{{{state|{{{default}}}}}}'''已被設爲
+     |除非另有設定（請見模板代碼內嘅''state''參數），autocollapse爲
+    }}默認狀態。<noinclude>
+
+{{documentation}}
+<!-- Add categories, interwiki links etc on the bottom of /doc page, not here -->
+</noinclude>
