@@ -18,7 +18,7 @@
         | {{#ifeq: {{SUBJECTSPACE}} | {{ns:File}}
           | Template:Documentation/preload-filespace
           | Template:Documentation/preload
-          }} }} }} 建版]]
+          }} }} }} 建立版面]]
     }}</span>
   }} <span style="{{#if: {{{heading-style|}}}
   | {{{heading-style|}}}
