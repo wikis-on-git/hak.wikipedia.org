@@ -1,0 +1,18 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Yî-lóng 
+| flag alias = Flag of Iran.svg
+| flag alias-1925 = State Flag of Iran (1925).svg
+| flag alias-1964 = State flag of Iran 1964-1980.svg
+| link alias-naval = Islamic Republic of Iran Navy
+| size = {{{size|}}}
+| name = {{#if: {{{name|}}} | {{{name|}}} | Yî-lóng  }}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1925
+| var2 = 1964
+| redir1 = IRN
+| redir2 = IRI
+</noinclude>
+}}
