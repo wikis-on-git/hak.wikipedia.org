@@ -610,7 +610,7 @@ SECOND LINE TOTAL PRECIPITATION-->{{#if:{{{Jan_Precip_cm|}}}{{{Feb_Precip_cm|}}}
 {{!-}}
 {{!}}colspan="14"{{!}}<font color="red">'''Error: <code>{{{scprecip}}}</code> is not a valid precipitation color alternative, use <code><nowiki>|scprecip=green</nowiki></code> or remove the <code>scprecip</code> parameter for the standard blue coloring.'''</font>|green|p=<nowiki/>
 {{Infobox weather/line/date
-|label=[[Kong-súi-liòng]]  {{#if:{{{metric_first|}}}|英寸)|{{#if:{{{Jan_Precip_cm|}}}{{{Feb_Precip_cm|}}}{{{Mar_Precip_cm|}}}{{{Apr_Precip_cm|}}}{{{May_Precip_cm|}}}{{{Jun_Precip_cm|}}}{{{Jul_Precip_cm|}}}{{{Aug_Precip_cm|}}}{{{Sep_Precip_cm|}}}{{{Oct_Precip_cm|}}}{{{Nov_Precip_cm|}}}{{{Dec_Precip_cm|}}}|c|{{#if:{{{Jan_Precip_mm|}}}{{{Feb_Precip_mm|}}}{{{Mar_Precip_mm|}}}{{{Apr_Precip_mm|}}}{{{May_Precip_mm|}}}{{{Jun_Precip_mm|}}}{{{Jul_Precip_mm|}}}{{{Aug_Precip_mm|}}}{{{Sep_Precip_mm|}}}{{{Oct_Precip_mm|}}}{{{Nov_Precip_mm|}}}{{{Dec_Precip_mm|}}}|m|{{#ifexpr:{{Precision1|{{{Jan_Precip_inch|}}}}}<1|c|m}}}}}}m}}
+|label=[[Kong-súi-liòng]]  {{#if:{{{metric_first|}}}|Yîn-chhun)|{{#if:{{{Jan_Precip_cm|}}}{{{Feb_Precip_cm|}}}{{{Mar_Precip_cm|}}}{{{Apr_Precip_cm|}}}{{{May_Precip_cm|}}}{{{Jun_Precip_cm|}}}{{{Jul_Precip_cm|}}}{{{Aug_Precip_cm|}}}{{{Sep_Precip_cm|}}}{{{Oct_Precip_cm|}}}{{{Nov_Precip_cm|}}}{{{Dec_Precip_cm|}}}|c|{{#if:{{{Jan_Precip_mm|}}}{{{Feb_Precip_mm|}}}{{{Mar_Precip_mm|}}}{{{Apr_Precip_mm|}}}{{{May_Precip_mm|}}}{{{Jun_Precip_mm|}}}{{{Jul_Precip_mm|}}}{{{Aug_Precip_mm|}}}{{{Sep_Precip_mm|}}}{{{Oct_Precip_mm|}}}{{{Nov_Precip_mm|}}}{{{Dec_Precip_mm|}}}|m|{{#ifexpr:{{Precision1|{{{Jan_Precip_inch|}}}}}<1|c|m}}}}}}m}}
 |show={{#if:{{{metric_first|}}}|2|1}}
 |alt=
 |sc={{#if:{{{scprecip|}}}|{{{scprecip}}}|p}}
@@ -817,10 +817,10 @@ SUNSHINE HOURS-->{{#if:{{{Jan_Sun|}}}{{{Feb_Sun|}}}{{{Mar_Sun|}}}{{{Apr_Sun|}}}{
 |yr1={{#if:{{{Year_Sun|}}}|{{{Year_Sun}}}|{{#iferror:{{#expr: {{#if:{{{Jan_Sun|}}}|{{{Jan_Sun}}}|foo}}+{{#if:{{{Feb_Sun|}}}|{{{Feb_Sun}}}|foo}}+{{#if:{{{Mar_Sun|}}}|{{{Mar_Sun}}}|foo}}+{{#if:{{{Apr_Sun|}}}|{{{Apr_Sun}}}|foo}}+{{#if:{{{May_Sun|}}}|{{{May_Sun}}}|foo}}+{{#if:{{{Jun_Sun|}}}|{{{Jun_Sun}}}|foo}}+{{#if:{{{Jul_Sun|}}}|{{{Jul_Sun}}}|foo}}+{{#if:{{{Aug_Sun|}}}|{{{Aug_Sun}}}|foo}}+{{#if:{{{Sep_Sun|}}}|{{{Sep_Sun}}}|foo}}+{{#if:{{{Oct_Sun|}}}|{{{Oct_Sun}}}|foo}}+{{#if:{{{Nov_Sun|}}}|{{{Nov_Sun}}}|foo}}+{{#if:{{{Dec_Sun|}}}|{{{Dec_Sun}}}|foo}}}}}}}}<!--
 -->}}}}
 |-<!--SOURCES-->
-|colspan="14" style="text-align:center;font-size:85%" {{#if:{{{source1|}}}{{{source|}}}|{{!}} {{#if:{{{source2|}}}|来源 #1：|来源：}} {{{source|{{{source1}}}}}} {{#if:{{{dateformat|}}}|{{Date |{{{accessdate|{{{accessdate1}}}}}} |{{{dateformat}}} }}|{{#if:{{{accessdate|}}}|{{{accessdate}}}|{{#if:{{{accessdate1|}}}|{{{accessdate1}}}|<nowiki>{{{accessdate1}}}</nowiki>}}}}}}<!--
+|colspan="14" style="text-align:center;font-size:85%" {{#if:{{{source1|}}}{{{source|}}}|{{!}} {{#if:{{{source2|}}}|Lòi-ngièn  #1：|Lòi-ngièn : }} {{{source|{{{source1}}}}}} {{#if:{{{dateformat|}}}|{{Date |{{{accessdate|{{{accessdate1}}}}}} |{{{dateformat}}} }}|{{#if:{{{accessdate|}}}|{{{accessdate}}}|{{#if:{{{accessdate1|}}}|{{{accessdate1}}}|<nowiki>{{{accessdate1}}}</nowiki>}}}}}}<!--
 -->{{#if:{{{source2|}}}|<nowiki/>
 {{!-}}
-{{!}}colspan="14" style="text-align:center; font-size:85%"{{!}}来源 #2：{{{source2}}} {{#if:{{{dateformat|}}}|{{Date |{{{accessdate2}}} |{{{dateformat}}} }}|{{#if:{{{accessdate2|}}}|{{{accessdate2}}}|<nowiki>{{{accessdate2}}}</nowiki>}}}}}}|height="8"{{!}} &#91;[[Wikipedia:Lie̍t-mìn Lòi-ngièn|''Lòi-ngièn chhiáng-khiù]]&#93;
+{{!}}colspan="14" style="text-align:center; font-size:85%"{{!}}Lòi-ngièn   #2：{{{source2}}} {{#if:{{{dateformat|}}}|{{Date |{{{accessdate2}}} |{{{dateformat}}} }}|{{#if:{{{accessdate2|}}}|{{{accessdate2}}}|<nowiki>{{{accessdate2}}}</nowiki>}}}}}}|height="8"{{!}} &#91;[[Wikipedia:Lie̍t-mìn Lòi-ngièn|''Lòi-ngièn chhiáng-khiù]]&#93;
 [[Category:有未列明来源语句的条目]]}}
 |}</includeonly><noinclude>
 {{Documentation}}
