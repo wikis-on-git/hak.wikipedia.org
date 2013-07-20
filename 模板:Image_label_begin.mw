@@ -1,0 +1,5 @@
+<includeonly><div class="nounderlines" style="width: {{{width|400}}}px; float: {{{float|none}}}; margin: {{{margin|none}}}; padding: {{{padding|none}}}; border: {{{border|none}}}; clear: {{{float|none}}}; background-color: {{{background-color|#ffffff}}}; position: relative;">
+<div style="background-color: {{{svg-background-color|}}};">[[File:{{{image|Example.png}}}{{#if:{{{thumb|}}}|{{!}}thumb|}}|{{{width|400}}}px{{#ifeq:{{{link|File:}}}|File:||{{!}}link={{{link|}}}}}|alt={{{alt|}}}|{{{caption|}}}]]</div></includeonly><noinclude>
+</div>
+{{doc}}
+</noinclude>
