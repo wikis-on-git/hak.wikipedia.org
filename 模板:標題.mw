@@ -13,9 +13,9 @@ __NOEDITSECTION__
 </h1>
 大家都做得編寫邇種語言嘅自由[[百科全書]]。客家語版百科今下有[[Special:Statistics|<span style="color: green; font-size: 120%;">{{NUMBEROFARTICLES}}</span>]]隻條目。客家語維基百科期待汝嘅加入！
 |}
-|style="width:20%"|
+|style="text-align:right;width:20%"|
 <!-- ----------Categories Follow---------------------------- -->
-{| border="0"
+{| border="0" style="white-space:nowrap"
 |- valign="top"
 |style="width:60%;font-size:95%"|
 *[[:Category:科學|科學]]
