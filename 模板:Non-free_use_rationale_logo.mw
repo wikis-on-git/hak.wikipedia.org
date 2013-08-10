@@ -1,0 +1,80 @@
+{{Non-free use rationale
+ |Special_header= – non-free {{{Type|logo}}}
+ |Article={{#if:{{{Article<includeonly>|</includeonly>}}}|{{{Article}}}|<!--{{error|message=Must include parameter: ''Article=xxxxx''}}-->}}
+ |Description=This is a {{{Type|logo}}} {{#if:{{{Owner|}}}
+  |owned by {{{Owner}}}
+ }} for {{#if:{{{Used for|}}}
+  |{{{Used for}}}
+  |{{{Article}}}
+ }}. {{#if:{{{History|}}}
+  |It is a historical {{{Type|logo}}}. Its historical usage is as follows: {{{History}}}.
+ }} {{#if:{{{Description|}}}
+  |Further details: {{{Description}}}
+ }}
+ |Source={{#if:{{{Website|}}}
+  |The {{{Type|logo}}} is from the {{{Website}}} website.
+ }} {{#if:{{{Source|}}}
+  |{{{Source}}}
+  |{{#if:{{{Website|}}}|
+   |The {{{Type|logo}}} may be obtained from {{#if:{{{Owner|}}}
+    |{{{Owner}}}
+    |{{#if:{{{Used for|}}}
+     |{{{Used for}}}
+     |{{{Article}}}
+    }}
+   }}.
+  }}
+ }}
+ |Portion={{#if:{{{Portion|}}}
+  |{{{Portion}}}
+  |The entire {{{Type|logo}}} is used to convey the meaning intended and avoid tarnishing or misrepresenting the intended image.
+ }}
+ |Low_resolution={{#if:{{{Low_resolution|{{{Low resolution|}}}}}}
+  |{{{Low_resolution|{{{Low resolution|}}}}}}
+  |The {{{type|logo}}} is of a size and resolution sufficient to maintain the quality intended by the company or organization, without being unnecessarily high resolution.
+ }}
+ |Purpose=<noinclude>''Choose "Use=" Infobox / Org / Brand / Product / Public facility / Other '''''</noinclude>{{#switch:{{{Use|}}}
+  |Infobox=The image is placed in the infobox at the top of the article discussing {{#if:{{{Used for|}}}
+   |{{{Used for}}}
+   |{{{Article}}}
+  }}, a subject of public interest. The significance of the {{{Type|logo}}} is to help the reader identify the organization, assure the readers that they have reached the right article containing critical commentary about the organization, and illustrate the organization's intended branding message in a way that words alone could not convey.
+  |Org=The image is used to identify the organization {{#if:{{{Used for|}}}
+   |{{{Used for}}}
+   |{{{Article}}}
+  }}, a subject of public interest. The significance of the {{{Type|logo}}} is to help the reader identify the organization, assure the readers that they have reached the right article containing critical commentary about the organization, and illustrate the organization's intended branding message in a way that words alone could not convey.
+  |Brand=The image is used to identify the brand {{#if:{{{Used for|}}}
+   |{{{Used for}}}
+   |{{{Article}}}
+  }}, a subject of public interest. The significance of the {{{type|logo}}} is to help the reader identify the brand, assure the readers that they have reached the right article containing critical commentary about the brand, and illustrate the nature of the brand in a way that words alone could not convey.
+  |Product= The image is used to identify {{#if:{{{Used for|}}}
+   |{{{Used for}}}
+   |{{{Article}}}
+  }}, a notable product or service. The significance of the {{{Type|logo}}} is to help the reader identify the product or service, assure the readers that they have reached the right article containing critical commentary about that product or service, and illustrate branding associations of the product or service in a way that words alone could not convey.
+  |Public facility=The image is used to identify the following notable public facility: {{#if:{{{Used for|}}}
+   |{{{Used for}}}
+   |{{{Article}}}
+  }}. The significance of the {{{Type|logo}}} is to help the reader identify a facility (such as a road, airport, station, city, neighborhood, or the like), and assure the readers that they have reached the right article containing critical commentary about the facility.
+  |Public authority=
+The image is used to identify the following notable public authority or agency: {{#if:{{{Used for|}}}
+   |{{{Used for}}}
+   |{{{Article}}}
+  }}. The significance of the {{{Type|logo}}} is to help the reader identify the agency or public authority, and assure the readers that they have reached the right article containing critical commentary about that body.
+
+  |Other={{{Purpose|}}}
+  |#default={{#if:{{{Purpose|}}}
+   |{{{Purpose|}}}<br />{{error|message=Purpose was stated, but Use parameter of the template was not set. Choose "Use=" Infobox / Org / Brand / Product / Public facility / Other}}
+  }}
+ }} {{#if:{{{Commentary|}}}
+  |''There is commentary in the article about the {{{type|logo}}} itself as follows:'' "{{{Commentary}}}"
+ }}
+ |Replaceability={{#if:{{{Replaceability|}}}
+  |{{{Replaceability}}}
+  |Because it is a non-free {{{Type|logo}}} there is almost certainly no free repesentation. Any substitute that is not a derivative work would fail to convey the meaning intended, would tarnish or misrepresent its image, or would fail its purpose of identification or commentary.
+ }}
+ |other_information={{#if:{{{other_information|{{{Other information|}}}}}}
+  |{{{other_information|{{{Other information|}}}}}}
+  |Use of the {{{Type|logo}}} in the article complies with Wikipedia [[Wikipedia:Non-free content|non-free content policy]], [[Wikipedia:Logos|logo guidelines]], and fair use under [[Fair use|United States copyright law]] as described above.
+ }}
+}}<noinclude>
+{{Documentation}}
+</noinclude>
