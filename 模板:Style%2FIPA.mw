@@ -3,11 +3,4 @@
 [[image:RPGA international.svg|thumb|{{ #ifeq: {{urlencode:{{DIRECTIONMARK}}}} | %E2%80%8E | right | left }}|<span dir="ltr" class="plainlinks" >[[w:en:IPA|IPA]] [[m:commons:category:International Phonetic Alphabet|c:]] [http://tools.wikimedia.de/~daniel/WikiSense/CheckUsage.php?i=RPGA_international.svg&w=_100000#end &nbsp;·&nbsp;] [[m:wikt:en:international|{{style/IPA|IPA=/ˌɪntɚˈnæʃnəl/}}]]</span>]]
 '''{{ns:help}}''' {{ #ifeq: {{urlencode:{{DIRECTIONMARK}}}} | %E2%80%8E | → | ← }} [[m:commons:template:style/IPA|commons:template:style/IPA]] · [[m:commons:template talk:style/IPA|{{ns:talk}}]]
 
-[[gd:Template:Style/IPA]]
-[[ks:Template:Style/IPA]]
-[[lad:Xabblón:Style/IPA]]
-[[tl:Suleras:Style/IPA]]
-[[tpi:Template:Style/IPA]]
-[[tt:Үрнәк:Style/IPA]]
-[[war:Template:Style/IPA]]
 </noinclude>
