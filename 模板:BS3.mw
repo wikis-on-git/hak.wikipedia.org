@@ -1,0 +1,33 @@
+<includeonly>|-
+| style="padding:0; white-space:nowrap;text-align:center;"  bgcolor={{{bg|transparent}}}|
+{|  cellspacing=0 cellpadding=0 style="padding:0;margin:0 auto;background-color:transparent;"
+|-
+{{BS-overlap|{{{1|}}}|{{{O1|}}}|{{{PX|{{BSpx}}}}}}}
+{{BS-overlap|{{{2|}}}|{{{O2|}}}|{{{PX2|{{#if: {{{PX|}}}|{{{PX}}}|{{BSpx}}}}}}}}}
+{{BS-overlap|{{{3|}}}|{{{O3|}}}|{{{PX3|{{#if: {{{PX|}}}|{{{PX}}}|{{BSpx}}}}}}}}}
+|}
+| style="text-align:right; vertical-align:middle; padding:0 .5em; font-size:80%;" {{{HI|}}}| {{#if: {{{km|}}}|{{{km}}}|{{{4|}}}}}
+| {{#if: {{{7|}}}||colspan="2"}} {{#if:{{{tw|}}}|width={{{tw}}}|}}|{{{5|}}} <span style="font-size:80%;">{{{6|}}}</span>
+{{#if: {{{7|}}}|{{!}} style="text-align:right; padding-left:.5em; font-size:80%; white-space:nowrap;" {{!}} {{{7}}}
+|}}</includeonly><noinclude>
+{{template shortcut|bs3}}
+Template for '''BS-table''' row comprising four symbols.
+* Parameter1: ID of 1st Image (<code>leer</code> or leave blank for no symbol)
+* Parameter2: ID of 2nd Image (<code>leer</code> or leave blank for no symbol)
+* Parameter3: ID of 3rd Image (<code>leer</code> or leave blank for no symbol)
+* Parameter4: mileage
+* Parameter5: Name
+* Parameter6: Note 1
+* Parameter7: Note 2 - right-aligned
+** designated parameter PX: Global width of all images or the particular width of 1st image (e.g. PX=50px), default {{BSpx}} 
+*** designated parameter PX2, PX3: Width of the 2nd and 3rd image respectively, they apply the result of PX by default
+** designated parameter bg: Use color name or RGB code to "highlight", in order to emphasize certain sections
+** designated parameter tw: width of the text column. This is especially required for joining the icons cohesively when the text length in the "normal" BS row template text column isn't wide enough to override the BS row collapsible section(s).
+** designated parameter O1, O2, O3: ID of the '''O'''verlapping image on the 1st, 2nd or 3rd image respectvely 
+
+{{BS warning}}
+[[Category:Rail routemap templates]]
+
+[[eo:Ŝablono:SP3]]
+[[no:Mal:JBS3]]
+</noinclude>
