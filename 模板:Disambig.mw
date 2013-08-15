@@ -1,0 +1,32 @@
+{| class="notice metadata plainlinks" id="disambig" style="width:100%; margin:16px 0; background:none;"
+|style="vertical-align:middle;"|[[File:{{{image|Disambig.svg}}}|30px|link=Wikipedia:Disambiguation]]
+|style="vertical-align:middle; font-style:italic;"|{{{text| This [[Help:Disambiguation|disambiguation]] page lists articles associated with the same title. <br /> <small>If an [{{fullurl:Special:WhatLinksHere/{{{page-title|{{FULLPAGENAME}}}}}|namespace=0}} internal link] led you here, you may wish to change the link to point directly to the intended article.</small>}}}
+|}{{#if:{{{nocat|}}}{{NAMESPACE}}||[[Category:Disambiguation pages]]}}<noinclude>
+{{doc}}
+
+
+[[als:Vorlage:Begriffsklärung]]
+[[an:Plantilla:Desambig]]
+[[arc:Template:ܕ]]
+[[bar:Vorlage:Begriffsklärung]]
+[[bat-smg:Šablonas:Disambig]]
+[[be-x-old:Шаблён:Неадназначнасьць]]
+[[cdo:Template:Gì-ngiê]]
+[[en:Template:Disambig]]
+[[fur:Model:Disambig]]
+[[hy:Կաղապար:Երկիմաստ]]
+[[ko:틀:Disambig]]
+[[kw:Template:Klerheans]]
+[[lv:Veidne:Disambig]]
+[[ml:ഫലകം:നാനാര്‍ത്ഥങ്ങള്‍]]
+[[mzn:الگو:گجگجی بایری]]
+[[nds-nl:Sjabloon:Dv]]
+[[no:Mal:Peker]]
+[[pl:Szablon:Disambig]]
+[[simple:Template:Disambig]]
+[[stq:Foarloage:Begriepskläärenge]]
+[[th:แม่แบบ:แก้กำกวม]]
+[[ur:سانچہ:Disambig]]
+[[zh-classical:Template:釋義]]
+[[zh-yue:Template:搞清楚]]
+</noinclude>
