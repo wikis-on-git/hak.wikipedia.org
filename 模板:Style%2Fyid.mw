@@ -3,12 +3,4 @@
 == noinclude ==
 '''{{ns:help}}''' {{ #ifeq: {{urlencode:{{DIRECTIONMARK}}}} | %E2%80%8E | → | ← }} [[m:commons:template:style/yid|commons:template:style/yid]] · [[m:commons:template talk:style/yid|{{ns:talk}}]]
 
-[[gd:Template:Style/yid]]
-[[ks:Template:Style/yid]]
-[[lad:Xabblón:Style/yid]]
-[[or:ଟେମ୍ପଲେଟ:Style/yid]]
-[[tl:Suleras:Style/yid]]
-[[tpi:Template:Style/yid]]
-[[tt:Үрнәк:Style/yid]]
-[[war:Template:Style/yid]]
 </noinclude>
