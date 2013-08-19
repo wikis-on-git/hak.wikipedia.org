@@ -1,0 +1,291 @@
+<noinclude>{{esoteric}}
+</noinclude>{|class="infobox vcard" style="border: 1px solid #ccd2d9; width: {{{box_width|24em}}}; text-align: left; font-size: 88%; margin: 0 0 1em 1em;" cellspacing="0"  cellpadding="0"
+| style="font-size: 110%; background:#cccccc;" align="center" colspan="2" class="fn org"| '''{{{chinese_name|}}}{{#if:{{{official_name|}}}| <br /><span style="white-space: nowrap; font-size: small">{{{official_name}}}</span>}}'''
+|-<!--        天際線        -->
+{{#if:{{{image_skyline|}}}|
+{{!}} colspan="2" style="text-align: center; border-top: 1px solid #ccd2d9; border-bottom: 1px solid #ccd2d9; padding: 0.4em 0em 0.4em 0em" {{!}} [[File:{{{image_skyline|}}}|{{#if:{{{imagesize|}}}|{{{imagesize}}}|250px}}|none|{{{image_caption|{{{chinese_name|}}}天際線}}}]]{{#if:{{{image_caption|}}}|{{{image_caption|}}}}}
+{{!}}-
+}}<!--        市旗、市徽        -->
+{{#if:{{{image_flag|}}}{{{image_seal|}}}|
+{{!}} class="maptable" colspan="2" align="center" style="padding: 0.4em 0.8em 0.4em 0.8em;" {{!}}
+{{{!}} style="width: 100%; background: none; text-align: center;"
+{{!}}-
+{{#if:{{{image_flag|}}}| {{!}} style="vertical-align: middle;"{{!}} <center><span style="border: solid 1px #BBBBBB;">[[File:{{{image_flag|}}}|{{{image_flag_size|100px}}}|{{{chinese_name|}}}{{{image_flag_name|市旗}}}]]</span></center> }}
+{{#if:{{{image_seal|}}}| {{!}} style="vertical-align: middle;"{{!}} [[File:{{{image_seal|}}}|{{{image_seal_size|100px}}}|{{{chinese_name|}}}{{{image_seal_name|市徽}}}]] }}
+{{!}}-
+{{#if:{{{image_flag|}}}| {{!}} {{{image_flag_name|市旗}}}}}
+{{#if:{{{image_seal|}}}| {{!}} {{{image_seal_name|市徽}}}}}
+{{!}}}
+{{!}}- class="mergedrow"
+}}<!--        別名        -->
+{{#if:{{{nickname|}}}|
+{{!}} colspan="2" align="center" style="font-size: 85%; line-height:140%;  {{#if:{{{image_flag|}}}{{{image_seal|}}}| padding: 0.3em 0em 0em 0em" | " }} {{!}} [[花名]]：<span class="nickname">{{{nickname|}}}</span>
+{{!}}-
+}}<!--        標語        -->
+{{#if:{{{motto|}}}|
+{{!}} colspan="2" align="center" style="font-size: 85%; line-height:140%; {{#if:{{{image_flag|}}}{{{image_seal|}}}{{{nickname|}}}| padding: 0.3em 0em 0em 0em" | " }} {{!}} [[標語]]：{{{motto|}}}
+{{!}}-
+}}<!--        地圖        -->
+{{#if:{{{image_map|}}}|
+{{!}}-
+{{!}} colspan="2" style="text-align: center; padding-top: 0.7em; padding-bottom: 0.7em;" {{!}} 
+[[File:{{{image_map|}}}|{{#if:{{{mapsize|}}}|{{{mapsize}}}|200px}}|none|{{#if:{{{image_map|}}}|{{{chinese_name|}}}位置圖}}]]{{#if:{{{image_map|}}}|{{{chinese_name|}}}位置圖}}
+{{!}}-
+}}<!--        經緯度        -->
+{{#if:{{{latNS|}}}|
+! colspan="2" style="text-align: center; {{#if:{{{image_map|}}}|padding-bottom: 0.7em; font-size: 90%;|}}" {{!}} 經緯度  {{coor dms|{{{latd}}}|{{{latm}}}|{{{lats|0}}}|{{{latNS}}}|{{{longd}}}|{{{longm}}}|{{{longs|0}}}|{{{longEW}}}}}
+{{!}}-
+}}<!--        政府        -->
+|- class="mergedrow"
+! style="padding: 0.1em 0em 0em 0.1em; width: 38%" | {{{subdivision_type}}}
+| style="padding: 0.1em 0em 0em 0.1em; width: 62%" | {{{subdivision_name}}}
+|- class="mergedrow"
+{{#if:{{{subdivision_type1|}}}|
+! style="padding: 0.1em 0em 0em 0.1em; width: 38%" {{!}} {{{subdivision_type1}}}
+{{!}} style="padding: 0.1em 0em 0em 0.1em; width: 62%" {{!}} {{{subdivision_name1}}}
+{{!}}- class="mergedrow
+}}
+{{#if:{{{subdivision_type2|}}}|
+! style="padding: 0.1em 0em 0em 0.1em; width: 38%" {{!}} {{{subdivision_type2}}}
+{{!}} style="padding: 0.1em 0em 0em 0.1em; width: 62%" {{!}} {{{subdivision_name2}}}
+{{!}}- class="mergedrow"
+}}<!--        創建        --> 
+{{#if:{{{found_title|}}}|
+! style="padding: 0.1em 0em 0em 0.1em; width: 38%" {{!}} {{{found_title}}}
+{{!}} style="padding: 0.1em 0em 0em 0.1em; width: 62%" {{!}} {{{found_date}}}
+{{!}}- class="mergedrow"
+}}
+{{#if:{{{established_title|}}}|
+! style="padding: 0.1em 0em 0em 0.1em; width: 38%" {{!}} {{{established_title}}}
+{{!}} style="padding: 0.1em 0em 0em 0.1em; width: 62%" {{!}} {{{established_date}}}
+{{!}}- class="mergedrow"
+}}
+{{#if:{{{established_title1|}}}|
+! style="padding: 0.1em 0em 0em 0.1em; width: 38%" {{!}} {{{established_title1}}}
+{{!}} style="padding: 0.1em 0em 0em 0.1em; width: 62%" {{!}} {{{established_date1}}}
+{{!}}- class="mergedrow"
+}}<!--        領袖        -->
+{{#if:{{{leader_title|}}}|
+! style="padding: 0.1em 0em 0em 0.1em; width: 38%" {{!}} {{{leader_title}}}
+{{!}} style="padding: 0.1em 0em 0em 0.1em; width: 62%" {{!}} {{{leader_name}}}
+{{!}}-
+}}
+{{#if:{{{leader_title1|}}}|
+! style="padding: 0.1em 0em 0em 0.1em; width: 38%" {{!}} {{{leader_title1}}}
+{{!}} style="padding: 0.1em 0em 0em 0.1em; width: 62%" {{!}} {{{leader_name1}}}
+{{!}}-
+}}<!--        人文地理        -->
+|- <!--        面積        -->
+! style="border-top: solid 1px #ccd2d9; padding: 0.3em 0em 0em 0.2em;" colspan="2" |[[面積]]
+|-
+! style="text-indent: 0.50em; padding: 0.1em 0em 0em 0.1em; width: 38%" | 總面積
+{{!}} style="padding: 0.1em 0em 0em 0.1em; width: 62%" {{!}} {{#if:{{{area_magnitude|}}}|[[{{{area magnitude}}} m²|{{{area_total}}} km²]]|{{{area_total}}} [[平方千米|km²]]}} {{#if:{{{TotalArea_sq_mi|}}}|({{{TotalArea_sq_mi}}} [[平方英里|mi²]]) }}
+|-
+{{#if:{{{area_land|}}}|
+! style="text-indent: 0.50em; padding: 0.1em 0em 0em 0.1em; width: 38%" {{!}} 陸地面積
+{{!}} style="padding: 0.1em 0em 0em 0.1em; width: 62%" {{!}} {{{area_land}}} km² {{#if:{{{LandArea_sq_mi|}}}|({{{LandArea_sq_mi}}} mi²)}} }}
+|- class="mergedrow"
+{{#if:{{{area_water|}}}|
+! style="text-indent: 0.50em; padding: 0.1em 0em 0em 0.1em; width: 38%" {{!}} 水域面積
+{{!}} style="padding: 0.1em 0em 0em 0.1em; width: 62%" {{!}} {{{area_water}}} km² {{#if:{{{WaterArea_sq_mi|}}}|({{{WaterArea_sq_mi}}} mi²)}} {{#if:{{{area_water_percent|}}}|{{{area_water_percent}}}%}}}}
+|- class="mergedrow"
+{{#if:{{{area_urban|}}}|
+! style="text-indent: 0.50em; padding: 0.1em 0em 0em 0.1em; width: 38%" {{!}} 市區
+{{!}} style="padding: 0.1em 0em 0em 0.1em; width: 62%" {{!}} {{{area_urban}}} km² {{#if:{{{UrbanArea_sq_mi|}}}|({{{UrbanArea_sq_mi}}} mi²)}} }}
+|- class="mergedrow"
+{{#if:{{{area_metro|}}}| 
+! style="text-indent: 0.50em; padding: 0.1em 0em 0em 0.1em; width: 38%" {{!}} 都會區
+{{!}} style="padding: 0.1em 0em 0em 0.1em; width: 62%" {{!}} {{{area_metro}}} km² {{#if:{{{MetroArea_sq_mi|}}}|({{{MetroArea_sq_mi}}} mi²)}} }}
+|- class="mergedrow"
+{{#if:{{{area_note|}}}|
+{{!}}  
+{{!}} style="padding: 0.1em 0em 0em 0.1em; width: 62%" {{!}} <small>''{{{area_note}}}''</small> }}
+|- <!--        人口       -->
+! style="border-top: solid 1px #ccd2d9; padding: 0.1em 0em 0em 0.1em;" colspan="2" | [[人口]]
+|- class="mergedrow"
+! style="text-indent: 0.50em; padding: 0.1em 0em 0em 0.1em; width: 38%" | 總人口（{{{population_as_of|{{{pop_as_of}}}}}}）
+| style="padding: 0.1em 0em 0em 0.1em; width: 62%" | {{{population_total}}}
+|- class="mergedrow"
+{{#if:{{{population_density|}}}|
+! style="text-indent: 0.50em; padding: 0.1em 0em 0em 0.1em; width: 38%" {{!}} [[人口密度]] 
+{{!}} style="padding: 0.1em 0em 0em 0.1em; width: 62%" {{!}} {{{population_density}}}/km² {{#if:{{{population_density_mi2|}}}| ({{{population_density_mi2}}}/mi²)}}}}
+|- class="mergedrow"
+{{#if:{{{population_urban|}}}| 
+! style="text-indent: 0.50em; padding: 0.1em 0em 0em 0.1em; width: 38%" {{!}} 市區
+{{!}} style="padding: 0.1em 0em 0em 0.1em; width: 62%" {{!}} {{{population_urban}}} }}
+|- class="mergedrow"
+{{#if:{{{population_metro|}}}| 
+! style="text-indent: 0.50em; padding: 0.1em 0em 0em 0.1em; width: 38%" {{!}} [[都會區]]
+{{!}} style="padding: 0.1em 0em 0em 0.1em; width: 62%" {{!}} {{{population_metro}}} }}
+|- class="mergedrow"
+{{#if:{{{population_note|}}}|
+{{!}}  
+{{!}} style="padding: 0.1em 0em 0em 0.1em; width: 62%" {{!}} <small>''{{{population_note}}}''</small> }}
+|-<!--       海拔       -->
+{{#if:{{{elevation|}}}|
+! style="border-top:1px solid #ccd2d9; padding: 0.1em 0em 0em 0.1em; width: 38%" {{!}} [[海拔]]
+{{!}} style="border-top:1px solid #ccd2d9; padding: 0.1em 0em 0em 0.1em; width: 62%"  {{!}} {{{elevation}}} [[米 (單位)|m]] {{#if:{{{elevation_ft|}}}| ({{{elevation_ft}}} [[英尺|ft]])}}
+{{!}}-
+}}<!--       時區       -->
+{{#if:{{{timezone|}}}|
+! style="border-top:1px solid #ccd2d9; padding: 0.1em 0em 0em 0.1em; width: 38%" {{!}} [[時區]] 
+{{!}} style="border-top:1px solid #ccd2d9; padding: 0.1em 0em 0em 0.1em; width: 62%" {{!}} {{{timezone}}}（<span class="tz" title="{{{utc_offset|}}}:00">[[UTC{{{utc_offset|}}}]]</span>）
+{{!}}-
+}}
+{{#if:{{{timezone_DST|}}}|
+! style="text-indent: 0.50em; padding: 0.1em 0em 0em 0.1em; width: 38%" {{!}} [[日光節約時間|夏令時間]]
+{{!}} style="padding: 0.1em 0em 0em 0.1em; width: 62%" {{!}} {{{timezone_DST|}}}（[[UTC{{{utc_offset_DST|}}}]]）
+{{!}}-
+}}<!--       備註       -->
+{{#if:{{{footnotes|}}}|
+{{!}} colspan="2" align="center" class="note"{{!}} <small>{{{footnotes}}}</small>
+{{!}}-
+}}<!--       網站       -->
+{{#if:{{{website|}}}|
+{{!}}-
+{{!}} colspan="2" align="center" style="border-top: solid 1px #ccd2d9; padding: 0.1em 0em 0em 0.1em;" {{!}} '''[[網站]]：'''  {{{website}}}
+{{!}}-
+}}
+|}<noinclude>
+* 以下為可供複製使用的原始碼。除特別標示的欄位之外均為「非必填」。
+* 使用說明與範例請參閱[[Template talk:Infobox_City|討論頁]]
+{| 
+|<small><pre>
+<!-- 城市信息框開始 -->
+{{Infobox City
+|chinese_name =
+|official_name = 
+|nickname = 
+|motto = 
+|image_skyline =  
+|imagesize = 
+|image_caption = 
+|image_flag = 
+|image_seal = 
+|image_map = 
+|mapsize = 
+|map_caption = 
+|subdivision_type = 
+|subdivision_name = 
+|subdivision_type1 = 
+|subdivision_name1 = 
+|subdivision_type2 = 
+|subdivision_name2 = 
+|leader_title = 
+|leader_name = 
+|leader_title1 =
+|leader_name1 = 
+|found_title = 
+|found_date = 
+|established_title = 
+|established_date = 
+|established_title1 = 
+|established_date1 = 
+|area_magnitude = 
+|area_total = 
+|TotalArea_sq_mi = 
+|area_note =
+|area_land  = 
+|LandArea_sq_mi = 
+|area_water = 
+|WaterArea_sq_mi = 
+|area_water_percent = 
+|area_urban =
+|UrbanArea_sq_mi =
+|area_metro  =
+|MetroArea_sq_mi =
+|population_as_of  = 
+|population_note = 
+|population_total = 
+|population_urban = 
+|population_metro  = 
+|population_density = 
+|population_density_mi2 = 
+|timezone = 
+|utc_offset = 
+|timezone_DST = 
+|utc_offset_DST = 
+|latd= |latm= |lats= |latNS= 
+|longd= |longm= |longs= |longEW= 
+|elevation = 
+|elevation_ft = 
+|website = 
+|footnotes = 
+}} <!-- 城市信息框結束 -->
+</pre></small>
+|<small><pre>
+
+中文城市名稱（必填）
+原文城市名稱
+城市暱稱
+標語
+天際線圖片名稱（不須加上「File:」）
+天際線圖片大小
+天際線圖片說明
+旗幟圖片名稱
+徽章圖片名稱
+地圖圖片名稱
+地圖大小
+地圖說明
+所屬行政區種類（必填）
+所屬行政區名稱（必填）
+所屬行政區種類1
+所屬行政區名稱1
+所屬行政區種類2
+所屬行政區名稱2
+城市首長職銜
+城市首長姓名
+城市首長職銜1
+城市首長姓名1
+成立時的名稱
+成立日期
+成立時的名稱
+成立日期
+成立時的名稱1
+成立日期1
+面積等級
+總面積（平方公里）（必填）
+總面積（平方英里）
+面積資料注釋
+陸地面積（平方公里）
+陸地面積（平方英里）
+水域面積（平方公里）
+水域面積（平方英里）
+水域面積百分比
+都會區面積（平方公里）
+都會區面積（平方英里）
+市區面積（平方公里）
+市區面積（平方英里）
+人口資料年份 
+人口資料注釋
+總人口（必填）
+市區人口
+都會區人口
+人口密度（每平方公里）
+人口密度（每平方英里）
+時區
+標準時差
+日光節約時區
+日光節約標準時差
+座標資料
+座標資料
+海拔（米）
+海拔（呎）
+網站
+註解
+
+</pre></small>
+|}
+{{UF-hcard-place}}
+[[Category:地理模|{{PAGENAME}}]]
+[[Category:行政區劃信息框模|*]]
+[[am:መልጠፊያ:የቦታ መረጃ]]
+[[bg:Шаблон:НМ]]
+[[ca:Plantilla:Infotaula de municipi]]
+[[da:Skabelon:Infoboks by]]
+[[gd:Template:Baile]]
+[[ja:Template:世界の市]]
+[[pdc:Vorlage:Infobox Ort]]
+[[pt:Predefinição:Info/Cidade]]
+[[sv:Mall:Ortsfakta Sverige]]
+</noinclude>
