@@ -148,7 +148,9 @@
 {{!}} colspan="2" align="center" style="border-top: solid 1px #ccd2d9; padding: 0.1em 0em 0em 0.1em;" {{!}} '''[[網站]]：'''  {{{website}}}
 {{!}}-
 }}
-|}<noinclude>
+|}
+</div>
+<noinclude>
 * 以下為可供複製使用的原始碼。除特別標示的欄位之外均為「非必填」。
 * 使用說明與範例請參閱[[Template talk:Infobox_City|討論頁]]
 {| 
