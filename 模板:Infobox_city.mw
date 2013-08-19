@@ -1,5 +1,7 @@
 <noinclude>{{esoteric}}
-</noinclude>{|class="infobox vcard" style="border: 1px solid #ccd2d9; width: {{{box_width|24em}}}; text-align: left; font-size: 88%; margin: 0 0 1em 1em;" cellspacing="0"  cellpadding="0"
+</noinclude>
+<div style="position: relative; style="float: right; font-size: small;">
+{|class="infobox vcard" style="border: 1px solid #ccd2d9; width: {{{box_width|24em}}}; text-align: left; font-size: 88%; margin: 0 0 1em 1em;" cellspacing="0"  cellpadding="0"
 | style="font-size: 110%; background:#cccccc;" align="center" colspan="2" class="fn org"| '''{{{chinese_name|}}}{{#if:{{{official_name|}}}| <br /><span style="white-space: nowrap; font-size: small">{{{official_name}}}</span>}}'''
 |-<!--        天際線        -->
 {{#if:{{{image_skyline|}}}|
