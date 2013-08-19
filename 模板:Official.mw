@@ -1,0 +1,1 @@
+<span class="official website">{{URL|1={{{1|{{{URL|}}}}}}|2={{{2|{{{name|Official website}}}}}}}}</span> {{#ifeq:{{{format}}}|flash|{{link note|note=Requires [[Adobe Flash Player]]}} }} {{#if:{{{1|{{{URL|}}}|}}}|{{#if:{{{mobile|}}}|({{URL|1={{{mobile}}}|2=Mobile}})}} }}<noinclude>{{documentation}}</noinclude>
