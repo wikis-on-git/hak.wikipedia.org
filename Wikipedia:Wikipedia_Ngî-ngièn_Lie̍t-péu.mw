@@ -672,7 +672,65 @@
 | [[:simple:Special:ActiveUsers|592]]
 | [[:simple:Special:Imagelist|23]]
 | 84
+|}
 
+===Chhêu-ko 10 000 ke Thiàu-muk===
+{| class="wikitable sortable" style="width:100%; text-align: right; font-size: 90%"
+|-
+!style="white-space:nowrap;"|Phài-miàng
+!style="white-space:nowrap;"|Ngî-ngièn 
+!style="white-space:nowrap;"|Tông-thi Ngî-ngièn 
+!style="white-space:nowrap;"|Ngùi-kî 
+!style="white-space:nowrap;"|Thiàu-muk
+!style="white-space:nowrap;"|Chúng-su 
+!style="white-space:nowrap;"|Phiên-chho chhṳ-su
+!style="white-space:nowrap;"|Kón-lî-yèn 
+!style="white-space:nowrap;"|Yung-fu
+!style="white-space:nowrap;"|Fa̍t-yok yung-fu
+!style="white-space:nowrap;"|Vùn-khien 
+!style="white-space:nowrap;"|Chhṳ̂m-thu |-
+| 47
+| [[Â-set-pai-kiông-ngî]] 
+| class="plainlinksneverexpand" | [{{fullurl:az:Azərbaycan dili}} Azərbaycanca]
+| [[:az:|az]]
+| class="plainlinksneverexpand" | [{{fullurl:az:Special:Statistics|action=raw}} '''95,930''']
+
+| 242,656
+| [[:az:Special:Statistics|2,855,669]]
+| [[:az:Special:Listadmins|15]]
+| [[:az:Special:Listusers|61,554]]
+| [[:az:Special:ActiveUsers|345]]
+| [[:az:Special:Imagelist|14,348]]
+| 28
+|-
+| 48
+| [[Lâ-tên-ngî]] 
+| class="plainlinksneverexpand" | [{{fullurl:la:Lingua_Latina}} Latina]
+| [[:la:|la]]
+| class="plainlinksneverexpand" | [{{fullurl:la:Special:Statistics|action=raw}} '''95,013''']
+
+| 178,904
+| [[:la:Special:Statistics|2,693,188]]
+| [[:la:Special:Listadmins|14]]
+| [[:la:Special:Listusers|60,206]]
+| [[:la:Special:ActiveUsers|181]]
+| [[:la:Special:Imagelist|1]]
+| 12
+|-
+| 49
+| [[Hî-lia̍p-ngî]] 
+| class="plainlinksneverexpand" | [{{fullurl:el:Ελληνική_γλώσσα}} Ελληνικά]
+| [[:el:|el]]
+| class="plainlinksneverexpand" | [{{fullurl:el:Special:Statistics|action=raw}} '''91,298''']
+
+| 241,010
+| [[:el:Special:Statistics|4,370,637]]
+| [[:el:Special:Listadmins|22]]
+| [[:el:Special:Listusers|130,646]]
+| [[:el:Special:ActiveUsers|659]]
+| [[:el:Special:Imagelist|9,147]]
+| 49
+|-
 |}
 
 [[cv:Википедин чĕлхе уйрăмĕсем]]
