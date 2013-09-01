@@ -1,1 +1,41 @@
+{{NoteTA
+|1=月台
+|2=恒生}}
+{{香港鐵路車站
+|name=深水埗
+|engname=Sham Shui Po
+|livery=#005533
+|namecolour=#FFFFFF
+|linecolour={{荃灣綫色彩}}
+|image=Sham Shui Po Station 2013 05.JPG
+|caption=車站月台
+|code=SSP
+|location=[[香港]][[九龍]][[深水埗區]][[深水埗]]<br />[[長沙灣道]][[欽州街]]與[[南昌街]]之間地底
+|coordinates={{coord|22|19|52.7|N|114|9|48.8|E|display=it|type:railwaystation}}
+|map=[http://www.mtr.com.hk/jplanner/images/maps/ssp.pdf 深水埗站街道圖]
+|colour={{colorbox|#005533|border=none}} 深綠色
+|line=[[港鐵]][[荃灣綫]]
+|stationhours=[http://www.mtr.com.hk/jplanner/images/timetables/ssp.pdf 0604－0119]
+|hours=[http://www.mtr.com.hk/jplanner/images/timetables/ssp.pdf 0614－0108]
+|connection=[[香港巴士|巴士]]、[[香港小巴|小巴]]
+|openday=1982年5月17日
+|stationtype=地底車站
+|platformtype=[[島式月台]]
+|platform=2
+|exit=8
+|lift=2
+|escalator=9
+|shop=13<ref name="shop">{{cite web|url=http://www.mtr.com.hk/chi/mtrshop_engine/mtrshop_engine.php?query_type=search&start=17|title=車站商店、自助售賣機及免稅品商店搜尋器|work=港鐵網頁|publisher=[[港鐵公司]]|accessdate=2012年2月19日|language=zh-hant}}</ref>
+|trackmap = {{BS-table3|no}}
+{{BS2|utSTRg|utSTRf||{{RoutemapRoute|Licon=U|[[長沙灣站]]}}}}
+{{BS2|utSTR+BSl|utSTR+BSr|O1=num1l}}
+{{BS2|utSTR+BSl|utSTR+BSr|O2=num2r}}
+{{BS2|utSTRg|utSTRf||{{RoutemapRoute|Licon=D|[[太子站]]}}}}
+{{!}}}
+}}
+{{ multiple image | align = right | direction = vertical | width = 220
+| image1 = HK MTR Sham Shui Po Concourse.jpg | caption1 = 車站大堂
+| image2 = MTR SSP Internet Kiosk.jpg | caption2 = 「iCentre」免費上網服務
+}}
+
 深水埗站（英語：Sham Shui Po Station）是[[Kóng-thiet]]荃灣線的一個地底車站，位於深水埗區的深水埗，於1982年5月17日啟用。車站以深綠色為主要色調。
