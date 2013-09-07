@@ -102,6 +102,7 @@ Ngien Songchú sufuk Liènha̍p Koet, sṳkie kok koet ngìnmìn lâu phùsṳ k
 <!--最近發現客家語維基百科已經啓用了 [[:zh:WOFF|WOFF]] 技術，我沒有安裝 Charis SIL 字體也能看到使用 Charis SIL 載入的頁面。--[[User:Great Brightstar|Great Brightstar]] ([[User talk:Great Brightstar|talk]]) 03:38, 16 八月 2013 (UTC)
 -->
 我聼中文維基百科的管理員說這個需要修改一個叫“common.css”的文檔，但是我不知道該怎麽做，去那邊的[[:zh:Wikipedia:互助客栈|互助客棧]]求助就有辦法解決。--[[User:Great Brightstar|Great Brightstar]] ([[User talk:Great Brightstar|talk]]) 10:33, 26 八月 2013 (UTC)
+::找到了，在<big>[[MediaWiki:Common.css|這裡]]</big>。--[[User:Great Brightstar|Great Brightstar]] ([[User talk:Great Brightstar|talk]]) 14:48, 7 九月 2013 (UTC)
 
 == 請教客家語維基百科的管理員一個問題 ==
 
