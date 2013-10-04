@@ -1,6 +1,6 @@
 :<div class="notice metadata" id="disambig">[[Image:Disambig.svg|left|25px]]
 {{#if:{{{subject|{{{題|}}}}}}|<small>邇篇文章講嘅係{{{subject|{{{題}}}}}}。</small>}}{{#if:{{{3|}}}|
-*}}<small>想尋{{{other|{{{他|邇隻詞嘅其他意思}}}}}}，看下“'''[[{{#if:{{{o|}}}|{{#if:{{{t|}}}|{{{1|{{PAGENAME}}}}}（消歧義）|{{{1|{{PAGENAME}}}}} （消歧義）}}|{{{1|{{#if:{{{t|}}}|{{PAGENAME}} （消歧義）|{{PAGENAME}} （消歧義）}}}}}}}]]'''”</small>{{#if:{{{2|}}}|<small>撈“'''[[{{{2}}}]]'''”</small>}}<small>。</small>{{#if:{{{3|}}}|
+*}}<small>想尋{{{other|{{{他|邇隻詞嘅其他意思}}}}}}，看下“'''[[{{#if:{{{o|}}}|{{#if:{{{t|}}}|{{{1|{{PAGENAME}}}}}（消歧義）|{{{1|{{PAGENAME}}}}} （消歧義）}}|{{{1|{{#if:{{{t|}}}|{{PAGENAME}}（消歧義）|{{PAGENAME}}（消歧義）}}}}}}}]]'''”</small>{{#if:{{{2|}}}|<small>撈“'''[[{{{2}}}]]'''”</small>}}<small>。</small>{{#if:{{{3|}}}|
 *<small>想尋{{{other2|{{{他2|邇隻詞嘅其他意思}}}}}}，麻煩跳去“'''[[{{{3}}}]]'''”</small>{{#if:{{{4|}}}|<small>撈“'''[[{{{4}}}]]'''”</small>}}<small>。</small><br />}}<div style="font-size: small;"></div></div>
 <noinclude>
 
