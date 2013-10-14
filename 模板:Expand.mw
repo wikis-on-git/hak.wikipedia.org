@@ -1,0 +1,13 @@
+<!--{{Template error}}判斷-->{{#if:{{Template_error|date={{{date|}}}|time={{{time|<noinclude>1976-09-09</noinclude>}}}}}|{{Template_error|template_name=Expand|other_parameter=none|date={{{date|}}}|time={{{time|<noinclude>1976-09-09</noinclude>}}}}}
+|<!--{{Expand}} 開始-->{{ambox
+| name  = Expand
+| subst = <includeonly>{{subst:</includeonly><includeonly>substcheck}}</includeonly>
+| type  = style
+| image = [[File:Antistub.svg|44px]]
+| sect  = {{{1|}}}
+| issue = '''需要擴充{{#if:{{{2|{{{content|}}}}}}|關于''{{{2|{{{content|}}}}}}''嘅內容|}}。'''
+| fix   = 請協助[{{fullurl:{{PAGENAME}}|action=edit}} 改善{{{1|邇篇條目}}}]，更進一步嘅信息可能會在[[{{TALKPAGENAME}}|討論頁]]或[[Wikipedia:擴充請求|擴充請求]]肚尋到。請在擴充條目後將邇模板移除。
+| date  = {{{date|}}}
+| time  = {{{time|}}}
+| cat   = 擴充中嘅條目
+}}<!-- {{Expand}} 結束 -->}}<noinclude>{{Documentation}}</noinclude>
