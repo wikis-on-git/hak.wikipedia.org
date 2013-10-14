@@ -1,0 +1,43 @@
+<includeonly>{{pp-protected}}</includeonly><noinclude>{{template doc page viewed directly}}</noinclude>
+<!-- 在本行下編寫模板說明 -->
+本模板會將模板參數錯誤嘅頁面分入[[:Category:模板參數錯誤嘅頁面]]肚。
+
+== 代碼說明 ==
+
+=== date撈time參數 ===
+date撈time嘅狀態構成代碼嘅第1、2位：
+{|class="wikitable"
+|-
+!colspan=2 rowspan=2| +
+!colspan=3|date
+|-
+!正確1!!錯誤2!!未填4
+|-
+!rowspan=3|time!!正確8
+|09
+|10
+|12
+|-
+!錯誤16
+|17
+|18
+|20
+|-
+!未填32
+|33
+|34
+|36
+|}
+
+其中，09、10、12、17、33都會分看做參數正常發揮作用，而18、20、34、36則會返回相應嘅錯誤結果。
+
+date撈time參數可以提高模板自動分類嘅效率。而本模板提供嘅date撈time參數判斷則能簡化其中嘅過程。
+
+但請慎爲正在使用嘅模板增加此模板嘅判斷，因爲恁樣可能會導致分類嘅問題更加嚴重；但對于絕大部分嘅使用都標明矣date或time參數嘅模板，本模板則有助于進一步提高其分類嘅效率。
+<includeonly>
+<!-- 本行下加入模板嘅分類 -->
+[[Category:模板頁嘅模板]]
+
+<!-- 本行下加入模板嘅跨語言鏈接 -->
+
+</includeonly>
