@@ -2,7 +2,7 @@
 </div>
 <!-- ---------- BEGINNING OF HEADER SECTION --------------------------- -->
 {| style="width:100%; margin-top:+.7em; background-color:#fcfcfc; border: 1px solid #ccc"
-|style="width:65%"|
+|
 {| border="0" style="background:none"
 | style="width:50%;text-align:center" |
 <h1 style="font-size: 170%; margin: 0; padding:.1em;">
@@ -11,18 +11,18 @@
 大家都做得編寫邇種語言嘅自由[[百科全書]]。有問題還係建議？來去[http://sii-tien.lomaji.com/ 客語字典]撈[http://hakka.fhl.net/dict/index_enhakka.html 客英字典]參考！客家語版百科今下有[[Special:Statistics|<span style="color: green; font-size: 130%;">
 '''{{NUMBEROFARTICLES}}'''</span>]]隻條目。客家語維基百科期待汝嘅加入！
 |}
-|style="text-align:right;width:20%"|
+|style="width:20%;text-align:right;"|
 <!-- ----------Categories Follow---------------------------- -->
 {| border="0" style="white-space:nowrap"
 |- valign="top"
-|style="width:60%;font-size:95%"|
+|style="width:10%;text-align:left;font-size:95%"|
 *[[:Category:科學|科學]]
 *[[:Category:技術|技術]]
 *[[:Category:地理|地理]]
 *[[:Category:經濟|經濟]]
 *[[:Category:人物|人物]]
 *[[:Category:文化|文化]]
-|style="width:60%;font-size:95%"|
+|style="width:10%;text-align:left;font-size:95%"|
 *[[:Category:歷史|歷史]]
 *[[:Category:社會|社會]] 
 *[[:Category:生物|生物]]
