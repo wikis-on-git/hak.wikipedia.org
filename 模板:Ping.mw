@@ -1,0 +1,14 @@
+{{{{{|safesubst:}}}#if:{{{1|<noinclude>$</noinclude>}}}
+ |@[[User:{{{1|Example}}}|{{{1|Example}}}]]{{{{{|safesubst:}}}#if:{{{2|}}}
+  |, [[User:{{{2}}}|{{{2}}}]]{{{{{|safesubst:}}}#if:{{{3|}}}
+   |, [[User:{{{3}}}|{{{3}}}]]{{{{{|safesubst:}}}#if:{{{4|}}}
+    |, [[User:{{{4}}}|{{{4}}}]]{{{{{|safesubst:}}}#if:{{{5|}}}
+     |, [[User:{{{5}}}|{{{5}}}]]
+    }}
+   }}
+  }}
+ }}{{p|:}}
+ |{{error|Error in replyto template: Username not given. See [[Template:Ping]] for usage.}}
+}}<noinclude>
+{{documentation}}
+</noinclude>
