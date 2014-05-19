@@ -901,3 +901,21 @@ For more information:
 
 == No one needs free knowledge in Esperanto ==
 There is a [[:de:Wikipedia Diskussion:Kurier#.E2.80.9ENiemand braucht freies Wissen auf Esperanto.E2.80.9C|current discussion]] on German Wikipedia on a decision of Asaf Bartov, Head of WMF Grants and Global South Partnerships, Wikimedia Foundation, who rejected a request for funding a proposal from wikipedians from eowiki one year ago with the explanation ''[[:meta:Grants_talk:PEG/KuboF_-_Esperanto_kaj_Libera_Scio/WikiTrans_training_and_work_session_2013#An_Esperanto_Wikipedia_does_not_advance_our_mission|the existence, cultivation, and growth of the Esperanto Wikipedia does not advance our educational mission. No one needs free knowledge in Esperanto]]''. On meta there has also started a discussion about that decision. --[[用戶:Holder|Holder]]（[[用戶討論:Holder|討論]]） 10:05, 5 五月 2014 (UTC)
+
+== Using only [[commons:Special:MyLanguage/Commons:Upload Wizard|UploadWizard]] for uploads ==
+
+[[Image:Commons-logo.svg|right|220px|alt=Wikimedia Commons logo]]
+<div lang="en" dir="ltr" class="mw-content-ltr">
+Hello! It was noted that on this wiki you have [[Special:Statistics|less than 10 local files]]. Presumably, you therefore don't have interest nor energies to have [[commons:Category:Licensing templates|hundreds templates]] with the [[mw:Multimedia/Media Viewer/Template compatibility|now required HTML]], even less a local [[m:EDP|EDP]]. However, this means that users here will experience a mostly broken and/or [[wmf:Resolution:Licensing policy|illegal]] uploading.
+I propose to
+* '''have [[Special:Upload|local upload]] [[commons:Commons:Turning off local uploads|restricted]]''' to the "{{int:group-sysop}}" group (for emergency uploads) and
+* the '''sidebar point to [[commons:Special:UploadWizard]]''',
+so that you can avoid local maintenance and all users can have a functioning, easy upload interface [[translatewiki:Special:Translate/ext-uploadwizard|in their own language]]. All registered users can upload on Commons and [[Special:ListFiles|existing files]] will not be affected.
+
+I'll get this done in one week from now.
+# If you disagree with the proposal, just [[m:User:Nemo bis/Unused local uploads|remove your wiki from the list]].
+# To make the UploadWizard even better, please tell your experience and ideas on [[commons:Commons:Upload Wizard feedback]].
+
+[[m:User:Nemo_bis|Nemo]] 20:38, 19 五月 2014 (UTC)
+</div>
+<!-- Message sent by User:Nemo bis@metawiki using the list at http://meta.wikimedia.org/w/index.php?title=User_talk:Nemo_bis/Unused_local_uploads&oldid=8578536 -->
