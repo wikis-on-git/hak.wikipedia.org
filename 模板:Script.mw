@@ -1,0 +1,30 @@
+{{#switch: {{{1|}}}
+<!--scripts with dedicated templates-->
+|Arab = {{script/Arabic|1={{{2}}}}}
+|fa-Arab|ps-Arab|ur-Arab = {{script/Nastaliq|2={{{2}}}}}
+|Bugi = {{script/Lontara|2={{{2}}}}}
+|Copt = {{script/Coptic|1={{{2}}}}}
+|Cyrs = {{script/Slavonic|2={{{2}}}}}
+|Grek = {{script/Greek|1={{{2}}}}}
+|Hebr = {{script/Hebrew|1={{{2}}}}}
+|Latg = {{script/Gaelic|1={{{2}}}}}
+|Phnx = {{script/Phoenician|1={{{2}}}}}
+|Runr = {{script/Runic|1={{{2}}}}}
+|Syre = {{script/Strng|1={{{2}}}}}
+|Syrj = {{script/Serto|1={{{2}}}}}
+|Syrn = {{script/Mdnh|1={{{2}}}}}
+|Xsux = {{script/Cuneiform|1={{{2}}}}}
+<!--other scripts use standard language spans-->
+|#default = <span {{#switch: {{{1}}}
+  <!--tweaks which should be moved to global CSS classes, with fonts supported in the Universal Language Selector-->
+  |Cprt = style="font-size:125%;font-family:Code2001;"<!--SMP, rarely supported, state font explicltly-->
+  |Goth = style="font-size:125%;"
+  |Latf = style="font-size:125%;"
+  |Linb = style="font-size:125%;"
+  |Ugar = style="font-size:125%;"
+  |Xpeo = style="font-size:125%;font-family:Xerxes;"<!--Use Xerxes for Old Persian-->
+  |#default = class="Unicode"<!--BMP, use generic "unicode" CSS class for all other scripts, including "Latn" for IPA-->
+ }}>{{{2}}}</span>
+}}<noinclude>
+{{template doc}}<!-- Add categories, documentation, and interwiki links to the /doc subpage, not here! -->
+</noinclude>
