@@ -1,0 +1,15 @@
+[[File:Dydx zh.jpg|thumb|450px| Hâm-sú chhai Yit-tiám ke Mì-fûn. Khì-chûng fùng-sien phu-fûn he Mì-fûn liòng <math>dy</math>, yì kâ sông fôi-sien phu-fûn heu he sṳ̍t-chi ke kói-pien liòng <math>\Delta y</math>]]
+'''Mì-fûn''' (Differential Calculus) chhai [[Sú-ho̍k]] chûng he tui [[hâm-sú]] ke khiu̍k-phu pien-fa-sut ke yit-chúng "sien-sin mèu-shu̍t". Mì-fûn khó-yî khiûn sṳ thi mèu-shu̍t tông hâm-sú chhṳ-pien liòng ke chhí-chhṳ̍t chok chiuk-kèu séu ke kói-pien sṳ̀, hâm-sú ke chhṳ̍t he tsen ngióng kói-pien ke. Tông mêu-sia hâm-sú <math>\scriptstyle f</math> ke chhṳ-pien liòng <math>\scriptstyle x</math> yû yit-ke mì-séu ke kói-pien <math>\scriptstyle h</math> sṳ̀, hâm-sú ke pien-fa cho-tet fûn-kié vì lióng-ke phu-fûn. Yit-ke phu-fûn he [[sien-sin pien-von | sien-sin]] phu-fûn: chhai yit vì chhìn-khóng hâ, kì [[chang-pí]] yî chhṳ-pien liòng ke pien-fa-liòng <math>\scriptstyle h</math>, khó-yî péu-sṳ sṳ̀n <math>\scriptstyle h</math> khi̍p yit-ke lâu <math>\scriptstyle h</math> mò-kôan, chṳ́ lâu hâm-sú <math>\scriptstyle f</math> khi̍p <math>\scriptstyle x</math> yû-kôan ke liòng ke sṳ̀n-chit; chhai kiên kóng-fàm ke chhìn-khóng hâ, kì he yit-ke [[sien-sin yàng-sa]] chok-yung chhai <math>\scriptstyle h</math> sông ke chhṳ̍t. Nang yit phu-fûn he pí <math>\scriptstyle h</math> kiên kô kiê ke [[Mò-khiùng-séu]], ya chhiu-he kong chhù yî <math>\scriptstyle h</math> heu yìn-yèn fi tshi yî làng. Tông kói-pien liòng <math>\scriptstyle h</math> hàn séu-sṳ̀, thi-ngi phu-fûn khó-yî fut-lio̍k put-kie, hâm-sú ke pien-fa liòng yok tén yî thi-yit phu-fûn, ya chhiu-he hâm-sú chhai <math>\scriptstyle x</math> chhú ke Mì-fûn, ki chok <math>\displaystyle f'(x)h</math> fe̍t <math>\displaystyle df_x(h)</math>.
+
+=== Li-é ===
+Hâm-sú <math> f: (x, y) \mapsto \left(x^2 + y^2, (1 - x^2 - y^2)x -y, x - (1 - x^2 - y^ 2)y \right)</math> he yit-ke chhiùng '''R'''<sup>2</sup> sa to '''R'''<sup>3</sup> ke hâm-sú. Kì chhai mêu Yit-tiám <math>(x, y)</math> ke [[Ngâ-khó-pí-kí-chhṳn]] hhṳn vì: 
+:<math>J_f(x,y) = \begin{bmatrix} 2x & 2y \\
+1 - 3x^2 - y^2 & -2xy - 1 \\
+1 + 2xy & -1 + x^2 + 3y^2 \end{bmatrix} </math>
+Mì-fûn vì: <math>df_{(x, y)}: h \mapsto J_f(x,y)(h)</math>, ya chhiu-he: 
+:<math>df_{(x, y)}: h = \begin{pmatrix} h_1 \\ h_2 \end{pmatrix} \mapsto \begin{bmatrix} 2x & 2y \\
+1 - 3x^2 - y^2 & -2xy - 1 \\
+1 + 2xy & -1 + x^2 + 3y^2 \end{bmatrix} \begin{pmatrix} h_1 \\ h_2 \end{pmatrix}
+= \begin{pmatrix} 2xh_1 + 2yh_2 \\
+(1 - 3x^2 - y^2)h_1 -(2xy +1)h_2 \\
+(1 + 2xy)h_1 -(1 - x^2 - 3y^2)h_2 \end{pmatrix}</math>
