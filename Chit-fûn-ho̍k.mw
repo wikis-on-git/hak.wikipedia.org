@@ -1,0 +1,10 @@
+[[File:Riemann Integration and Darboux Upper Sums.gif|right|thumb|370px]]
+[[File:Riemann sum convergence.png|thumb|370px|right|Khok-thin ke chṳ́ -khî kiên sông put-thùng ke chhí-ngióng fông-sṳt kèu-sṳ̀n ke lì màn lâu：<span style="color:#0081cd">■</span>&nbsp;Yu-tôn-chhṳ̍t，<span style="color:#bc1e47">■</span>&nbsp;Khi̍t-séu-chhṳ̍t， <span style="color:#009246">■</span>&nbsp;Khi̍t-thai-chhṳ̍t， <span style="color:#fec200">■</span>&nbsp;Chó-tôn-chhṳ̍t.]]
+
+'''Chit-fûn-ho̍k''' (Integral) he [[Mì-chit-fûn-ho̍k]] lâu [[Sú-ho̍k Fûn-sak]] lî ke yit-ke fu̍t-sîm khói-ngiam. Thûng-sòng fûn-vì '''Thin Chit-fûn ''' fò '''Put-thin Chit-fûn ''' lióng-chúng. Chhṳ̍t-kôn kóng, tui-yî yit-ke pûn thin ke [[chang sú | chang]] sṳ̍t chhṳ̍t [[hâm-sú]]<math> f(x)</math>, <math> f(x)</math> chhai yit-ke sṳ̍t-sú [[Khî-kiên]]<math> [a,b]</math> sông ke thin chit-fûn
+: <math>\int_a^b f(x)\,\mathrm{d}x </math>
+
+Cho-tet lî-kié vì chhai <math> \scriptstyle Oxy</math> chhô-phiêu phìn-mien sông, yù khiuk-sien <math> (x,f(x))</math>, chhṳ̍t-sien <math>x=a,x=b</math > yî-khi̍p <math>x</math> tshu̍k vì-sṳ̀n ke [[Khiuk-piên-thôi-hìn]] ke [[mien-chit]] chhṳ̍t (yit-chúng khok thin ke '''[[sṳ̍t-sú]]''' chhṳ̍t).
+Chit-fûn ke kî-pún ngièn-lî: [[Mì-chit-fûn Kî-pún Thin-lî]], yù [[Ngie-sat-khiet Ngiù-tun]] lâu [[Kô-thi̍t-fut-lî-tet Vî-liâm Lòi-pu-nì-tshṳ]] chhai Sṳ̍p-chhit Sṳ-ki fûn-phe̍t thu̍k chhṳ khok-li̍p. [[Mì-chit-fûn Kî-pún Thin-lî]] chiông [[Mì-fûn]] lâu chit-fûn lien-hì chhai yit-hí, liá-ngióng, thûng-ko tsáu-chhut yit-ke hâm-sú ke ngièn hâm-sú, chhiu khó-yî fông-phien kie-son kì chhai yit-ke khî-kiên sông ke chit-fûn. Chit-fûn lâu thô-sú yí sṳ̀n-vì kô-tén Sú-ho̍k chûng chui kî-pún ke kûng-khí, pin chhai Chhṳ-yèn Khô-ho̍k lâu Kûng-chhàng ho̍k chûng tet-to kóng-fàm yun yung.
+
+[[Category:Sú-ho̍k ]]
