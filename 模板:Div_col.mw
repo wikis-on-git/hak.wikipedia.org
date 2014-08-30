@@ -1,0 +1,64 @@
+<includeonly><div class="div-col columns <!--
+ -->{{#if: {{{colwidth|{{{2|}}}}}}
+    | column-width
+    | column-count column-count-{{{cols|{{{1|2}}}}}} }}" style="<!--
+ -->{{#if: {{{colwidth|{{{2|}}}}}}
+    | {{column-width|{{{colwidth|{{{2}}}}}}}}
+    | {{column-count|{{{cols|{{{1|2}}}}}}}} }} <!--
+ -->{{#if: {{{rules|}}}
+    | {{#ifeq:{{{rules}}}|yes
+      | {{column-rule}}
+      | {{column-rule|{{{rules}}}}} }} }} <!--
+ -->{{#ifeq: {{{small|}}}|yes
+    | font-size:90%; }} <!--
+ -->{{#if: {{{style|}}}
+    | {{{style}}} }}"><!--
+ -->{{#if: {{{content|}}}
+    |{{{content}}}</div>}}</includeonly><noinclude>
+{{Documentation}}
+
+==TemplateData==
+{{TemplateDataHeader}}
+
+<templatedata>
+{
+    "description": "Breaks a list into columns. It automatically breaks each column to an equal space, so you do not manually have to find the half way point on two columns. The list is closed with {{div col end}}.",
+    "params": {
+        "cols": {
+            "label": "cols",
+            "description": "Specifies the number of columns.",
+            "type": "string",
+            "default": "2",
+            "aliases": ["1"],
+            "required": false
+        },
+        "colwidth": {
+            "label": "colwidth",
+            "description": "Specifies the width of columns, and determines dynamically the number of columns based on screen width; more columns will be shown on wider displays. This overrides the 'cols' setting.",
+            "type": "string",
+            "aliases": ["2"],
+            "required": false
+        },
+        "rules": {
+            "label": "rules",
+            "description": "Produces vertical rules between the columns if set to yes.",
+            "type": "string",
+            "required": false
+        },
+        "small": {
+            "label": "small",
+            "description": "Specifies small font size (90%) if set to yes.",
+            "type": "string",
+            "required": false
+        },
+        "style": {
+            "label": "style",
+            "description": "Specify any custom styling.",
+            "type": "string",
+            "required": false
+        }
+    }
+}
+</templatedata>
+
+</noinclude>
