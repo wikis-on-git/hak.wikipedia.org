@@ -1,0 +1,14 @@
+'''Khi̍t-han''' (Limit) he hien-thoi [[Sú-ho̍k]] thi̍t-phe̍t he [[Fûn-sak-ho̍k]] chûng ke kî-chhú khói-ngiam chṳ̂-yit. Khi̍t-han cho-tet yung-lòi mèu-shu̍t yit-ke [[sì-lie̍t]] ke chṳ́ -phiêu yì-lòi yì thai-sṳ̀, sì-lie̍t chûng Ngièn-su ke sin-chṳt pien-fa ke tshi-sṳ. Khi̍t-han ya khó-yî mèu-shu̍t [[hâm-sú]] ke [[chhṳ-pien-sú]] chiap-khiûn mêu yit-ke chhṳ̍t ke sṳ̀-hèu, siông tui-yin ke hâm-sú chhṳ̍t pien-fa ke tshi-sṳ. Chok-vì Mì-chit-fûn lâu Sú-ho̍k fûn-sak ke khì-thâ fûn-kî chui kî-pún ke khói-ngiam chṳ̂-yit, lièn-sa lâu thô-sú ke khói-ngiam tû-he thûng-ko Khi̍t-han lòi thin-ngi ke. 
+"hâm-sú ke Khi̍t-han" liá-chak khói-ngiam cho-tet kiên yit-pân thi thûi-kóng to [[mióng]] chûng, yì "sì-lie̍t ke khi̍t-han" chet lâu [[Fam-tshiû-lun]] chûng ke khi̍t-han fò yû hiong khi̍t-han ke khói-ngiam me̍t-chhiet siông-kôan. 
+
+== Sòng-yung sin-chṳt ==
+*<math>\lim_{n \to c} S \sdot f(n) = S \sdot \lim_{n \to c} f(n)</math>, liá-piên S he [[tiám-chit]] son-fap. 
+*<math>\lim_{n \to c} b{f(n)} = b{\lim_{n \to c} f(n)}</math>, liá ''b'' he sòng-liòng. 
+
+Yî-hâ kûi-chet chṳ́-yû tông tén-ho yu-piên ke Khi̍t-han chhùn-chhai pin-chhiâ put vì mò-khiùng sṳ̀ chhòi sṳ̀n-li̍p 
+*<math>\lim_{n \to c} (f(n) + g(n)) = \lim_{n \to c} f(n) + \lim_{n \to c} g(n)< /math>
+*<math>\lim_{n \to c} (f(n) - g(n)) = \lim_{n \to c} f(n) - \lim_{n \to c} g(n)< /math>
+*<math>\lim_{n \to c} (f(n) \sdot g(n)) = \lim_{n \to c} f(n) \sdot \lim_{n \to c} g(n)</math>
+*<math>\lim_{n \to c} \frac{f(n)}{g(n)} = \frac{\lim_{n \to c} f(n)}{\lim_{n \to c} g(n)}</math>.
+
+[[Category:Sú-ho̍k]]
