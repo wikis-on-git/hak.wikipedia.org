@@ -1,0 +1,20 @@
+[[File:Sec2tan.gif|right|thumb|400px|Mì-chit-fûn-ho̍k.]]
+''' Mì-chit-fûn-ho̍k''' (Calculus, [[Là-tên-ngî]] yi vì yung-lòi kie-sú ke séu-sa̍k-thèu) he ngièn-kiu [[Khi̍t-han]], [[Mì-fûn-ho̍k]], [[Chit-fûn-ho̍k]] lâu [[Mò-khiùng-kip-sú]] ke yit-ke [[Sú-ho̍k]] fûn-kî, pin sṳ̀n-vì-liáu hien-thoi [[Thai-ho̍k]] [[kau-yuk]] ke chhùng-yeu chû-sṳ̀n phu-fûn. Li̍t-sṳ́ sông, Mì-chit-fûn chên-kîn chṳ́ [[Mò-khiùng-séu]] ke kie-son. Kiên pún-chṳt ke kóng, Mì-chit-fûn-ho̍k he yit mùn [[ngièn-kiu]] pien-fa ke [[Khô-ho̍k]], chang yì [[Kí-hò-ho̍k]] he ngièn-kiu hìn-chhong ke Khô-ho̍k, [[Thoi-sú-ho̍k]] he ngièn-kiu thoi-sú yun-son lâu kié fông-chhàng ke Khô-ho̍k yit-ngióng. Mì-chit-fûn he khiù hâm-sú khiuk-sien ke chhiet-sien chhià sut, khiù hâm-sú thù-hìn ke mien-chit, khiù thù-hìn ke thí-chit ke yit-chúng fông-fap lâu ko-chhàng, ngièn-lî he: chiông Mò-khiùng-séu-liòng fe̍t khi̍t-séu-sú (dx) tai-ngi̍p kie-son chṳ̂ chûng, pin chin-hàng sêu-hi, Mò-khiùng-séu liòng chok-vì kie-son mien-chit lâu thí-chit Chui-séu ke tân-ngièn, mì-fûn he se-fûn, chit-fûn he lùi-chit. Khì-chûng dx=0.000...1,10dx=dx,dx=0, than-he 0 pún-sṳ̂n he put-nèn chhṳ̍t-chiap tai-ngi̍p kie-son ke, liá-ke he sòng-sṳt, yung dx chet fa-kié liáu liá-ke mun-thì. Mì-chit-fûn chûng chhùng-yeu ke khói-ngiam yû: mì-fûn, chit-fûn, thô-sú, khiù-thô kûng-sṳt, Mò-khiùng-séu liòng, mò-khiùng thai-liòng, kiê, tén-tén.
+
+== Li̍t-sṳ́==
+{| style="width: 323px; float:right; margin:0 0 1em 1em; border:1px solid #CCCCCC; background:#F9F9F9"
+| style="border:1px solid #CCCCCC"|[[Image:GodfreyKneller-IsaacNewton-1689.jpg|150px|[[Ngie-sat-khiet Ngiù-tun]][[File:Gottfried Wilhelm von Leibniz.jpg|163px|Kô-thi̍t-fut-lî-tet Lòi-pu-nì-tshṳ]]
+|--
+|Lióng-vi thu̍k-li̍p khok-li̍p Mì-chit-fûn thí-hì ke Sú-ho̍k-kâ：<br />[[Ngie-sat-khiet Ngiù-tun]] Tsiok-sṳ (chho-piên) lâu [[Kô-thi̍t-fut-lî-tet Lòi-pu-nì-tshṳ]] (yu-piên)
+|}
+
+==Chú-yeu khói-ngiam==
+:<math>\begin{align}f'(3) &=\lim_{h \to 0}{(3+h)^2 - 3^2\over{h}} \\
+&=\lim_{h \to 0}{9 + 6h + h^2 - 9\over{h}} \\
+&=\lim_{h \to 0}{6h + h^2\over{h}} \\
+&=\lim_{h \to 0} (6 + h) \\
+&= 6.
+\end{align}
+</math>
+
+[[Category:Sú-ho̍k]]
