@@ -1,0 +1,4 @@
+<span class="LangWithName">{{#ifeq:{{{links|}}}|no
+ |{{{2}}}
+ |[[{{{2}}}]]
+}}：{{lang|{{{1}}}|{{{3}}}}}</span><noinclude>{{Documentation}}</noinclude>
