@@ -2,49 +2,49 @@
 {{Main Page navigation}}
 __NOEDITSECTION__
  __NOTOC__
-<div id="mp_header" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0 0 0.5em; overflow: hidden; padding: 0.5em; font-size: small; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius:0.8em;">
+<div id="mp_header" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0 0 0.5em; overflow: hidden; padding: 0.5em; font-size: small; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;">
 {| width="100%" 
-| <div style="float: left; width: 0em; height: 0em; margin: -0.5em 0em 0em -2.5em; overflow: visible;">[[File:Wikipedia-logo-v2-200px-transparent.png|140px|link=]]</div>
+| <div style="float: left; width: 0em; height: 0em; margin: -0.5em 0em 0em -2.5em; overflow: visiable;">[[File:Wikipedia-logo-v2-200px-transparent.png|225px|링크=]]</div>
+|-
+| style="width:100%; text-align:center; white-space:nowrap; color:#000;" |
+<div style="font-size:222%; border:none; margin:0; padding:.1em; color:#000;"><span style="color: #17b;">Hak-kâ-ngî </span> [[Wikipedia|Ngùi-kî Pak-khô]]</div>
+<div style="top:+0.2em; font-size:102%;">Thai-kâ tû cho-tet [[phiên-siá]] liá-chúng ngî-ngièn ke chhṳ-yù [[Pak-khô-chhiòn-sû]].</div>
+<div id="articlecount" style="font-size:105%;">[[Hak-kâ-ngî]] ke pán-pún kîm-ha yû [[Special:Statistics|<span style="color: green; font-size: 130%;">{{NUMBEROFARTICLES}} </span>]] vùn-chông.</div>
 
-<div style="position: fixed; top:0px; left:155px;color:#005994; font-size:0.8em;">Hien-chhai ke [[GMT]] sṳ̀-kiên he {{CURRENTYEAR}}ngièn {{CURRENTMONTH}}ngie̍t {{CURRENTDAY}}ngit {{CURRENTTIME}} {{CURRENTDAYNAME}}, Ngài-ke tong-thi sṳ-kiên he {{UTC|+08}}([[時區|GMT+8]])
+|style="width:100%; font-size:95%; color:#000; text-align:left;"|
+
+{|style="width:100%; background:transparent;"
+| style="width:10%; font-size:95%;" |
+*[[:Category:Khô-ho̍k|Khô-ho̍k]]<br />
+*[[:Category:Kî-su̍t|Kî-su̍t]]<br />
+*[[:Category:Thi-lî|Thi-lî]]<br />
+<!-- [[Портал:Ғылым|Ғылым]]-->
+| style="width:10%; font-size:95%;" |
+*[[:Category:Ngìn-vu̍t|Ngìn-vu̍t]]<br />
+*[[:Category:Li̍t-sṳ́|Li̍t-sṳ́]]<br />
+*[[:Category:Sa-fi|Sa-fi]]<br />
+<!-- [[Портал:Ғылым|Ғылым]]<br /> -->
+| style="width:10%; font-size:95%;" |
+<!-- [[Портал:Ғылым|Ғылым]]<br /> -->
+*[[:Category:Sâng-vu̍t-ho̍k|Sâng-vu̍t]]<br />
+*[[:Category:Chûng-kau|Chûng-kau]]<br />
+*[[:Category:Chet-ho̍k|Chet-ho̍k]]<br />
+| style="width:10%; font-size:95%;" |
+*[[:Category:Kîn-chi|Kîn-chi]]<br />
+*[[:Category:Vùn-fa|Vùn-fa]]<br />
+*[[:Category:Thí-yuk|Thí-yuk]]<br />
+|}
+|}
 </div>
-<!-- ---------- BEGINNING OF HEADER SECTION --------------------------- -->
-{| style="width:100%; margin-top:+.7em; background-color:#fcfcfc; border: 1px solid #ccc"
-|<!--style="width:65%"|-->
-{| border="0" style="background:none"
-| style="width:50%;text-align:center" |
-<h1 style="font-size: 162%; margin: 0; padding:.1em;">
-Fôn-ngiàng kông-lìm lòi-to [[Ngùi-kî pak-khô]] ke [[Hak-kâ-ngî]] pak-khô pán-pún!
-</h1>
-Thai-kâ tû cho-tet phiên-siá liá-chúng ngî-ngièn ke chhṳ-yù [[Pak-khô-chhiòn-sû]]. Yû mun-thì hàn-he kien-ngi? Lòi-hi [http://hakka.fhl.net/dict/index_hakka.html Hak-ngî Sṳ-tién], [http://hakka.fhl.net/dict/index_enhakka.html Hak-Yîn Sṳ-tién] lâu [http://hakka.dict.edu.tw Thòi-vàn Kau-iuk-pu Hak-kâ-ngî Sòng-yung-chhṳ̀ Chhṳ̀-tién] chhâm-kháu! Hakkâpedia ke pán-pún kîm-ha yû [[Special:Statistics|<span style="color: green; font-size: 130%;">{{NUMBEROFARTICLES}} </span>]] vùn-chông.
-|}
-|style="text-align:right;"|
-<!-- ----------Categories Follow---------------------------- -->
-{| border="0"
-|- valign="top"
-|style="white-space:nowrap;font-size:95%;text-align:left;"|
-*[[:Category:Khô-ho̍k|Khô-ho̍k]]
-*[[:Category:Kî-su̍t|Kî-su̍t]]
-*[[:Category:Thi-lî|Thi-lî]]
-*[[:Category:Kîn-chi|Kîn-chi]]
-*[[:Category:Ngìn-vu̍t|Ngìn-vu̍t]]
-*[[:Category:Vùn-fa|Vùn-fa]]
-|style="white-space:nowrap;font-size:95%;text-align:left;"|
-*[[:Category:Li̍t-sṳ́|Li̍t-sṳ́]]
-*[[:Category:Sa-fi|Sa-fi]] 
-*[[:Category:Sâng-vu̍t-ho̍k|Sâng-vu̍t-ho̍k]]
-*[[:Category:Chûng-kau|Chûng-kau]]
-*[[:Category:Chet-ho̍k|Chet-ho̍k]]
-*[[:Category:Thí-yuk|Thí-yuk]]
-|}
+
 <!-- -------End Categories----- -->
-|}
-<!-- ---------- END OF HEADER SECTION ------------------ -->
+
 
 [[Image:Map of sinitic languages-en.svg|right|thumb|Hak-kâ-fa ke thi-khî]]
+<!-- ---------- END OF HEADER SECTION ------------------ -->
+
 == Khái-shu̍t ==
-Yá-têu mióng-ya̍p he [http://www.sil.org/iso639-3/documentation.asp?id=hak Hak-kâ-ngî] ke Wikipedia. Yi fôn-ngiàng ngì lòi khiung-ha siá Hak-Ngî. Hak-kâ Wikipedia yí-kîn sṳ̀n-lı̍p, chòn-phu ke nui-yòng chang cho-ha pân-hi chṳn-sṳt ke Wikipedia.
-Tì chṳn-sṳt ke Wikipedia ke-phêu-thì tông-ngièn he <nowiki>[[Hak-kâ-ngî]]</nowiki>.
+Yá-têu mióng-ya̍p he [http://www.sil.org/iso639-3/documentation.asp?id=hak Hak-kâ-ngî] ke Wikipedia. Yi fôn-ngiàng kông-lìm lòi khiung-ha siá Hak-Ngî. Yû mun-thì hàn-he kien-ngi? Lòi-hi [http://hakka.fhl.net/dict/index_hakka.html Hak-ngî Sṳ-tién], [http://hakka.fhl.net/dict/index_enhakka.html Hak-Yîn Sṳ-tién] lâu [http://hakka.dict.edu.tw Thòi-vàn Kau-iuk-pu Hak-kâ-ngî Sòng-yung-chhṳ̀ Chhṳ̀-tién] chhâm-kháu! 
 
 * 係唔會讀寫客語白話字[[Help:恁般讀|請看者片！]]
 
