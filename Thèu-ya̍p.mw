@@ -75,15 +75,25 @@ PVZ PAVEIKSLAS
 <center>{{Wikipedia:Yù-mî thù-phién}}</center>
 <div style="text-align:right"><small> </small></div>
 |-
+<!--------------------------------
+SAV INIC
+---------------------------------->
+! style="background-color: #CEF2E8; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 130%; border: 1px solid #8BE0C9; text-align: left;  padding-left: 7px;  border-radius: 10px; -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_green1.jpg]]</div><div style="float:left;">[[Image:Pp clock 8bits.png]] '''Ngì hiáu-tet mò'''</div>
+|-
+| style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 105%" | {{Wikipedia:Ngì hiáu-tet mò?}}<div style="text-align:right"><small>
+ </small></div></div>
+|-
+<!--------------------------------
+KATEGORIJOS
+---------------------------------->
 |}
-----
-
+|}
 {{phêu-thì}}
 
 <div align="center">
 <inputbox>
 type=create
-width=50
+width=70
 bgcolor=#ffffff
 preload=Template:Standard content for new page
 editintro=Template:Instructions
