@@ -2,19 +2,19 @@
 <div style="border:2px solid; border-color:#ddd #888 #666 #ccc; padding:0 1em; color:black; background:#fff; margin:4px">
 <h3 style="text-align:center" id="wikipediatoc">維基姊妹計劃</h3>
 {| align="center" cellpadding="2" width="100%" style="text-align:left"
-| [[Image:Wikimedia_Community_Logo.svg|35px|<nowiki></nowiki>]]
-| [[m:|元維基''']]<br />目標係協調各維基計劃
 | [[Image:Commons-logo.svg|35px|<nowiki></nowiki>]]
 | [[commons:|'''維基共享資源''']]<br />共享嘅多媒體資料庫
+| [[Image:Wiktprintable_without_text.svg|35px|<nowiki></nowiki>]]
+| [[:incubator:/Wt/hak/頭頁|'''維基詞典''']]<br />多種語言嘅字典撈詞典
+| [[Image:Wikimedia_Community_Logo.svg|35px|<nowiki></nowiki>]]
+| [[m:|元維基''']]<br />目標係協調各維基計劃
+|-
 | [[Image:Wikibooks.png|35px|<nowiki></nowiki>]]
 | [[Wikibooks:|'''維基教科書''']]<br />樹立自由嘅教科書
-|-
 | [[Image:Wikinews-logo.png|35px|<nowiki></nowiki>]]
 | [[Wikinews:|'''維基新聞''']]<br />提供自由嘅新聞資源
 | [[Image:Wikiversity-logo.svg|35px|<nowiki></nowiki>]]
 | [[Wikiversity:|'''維基學堂''']]<br />開放嘅學習環境撈研究社區
-| [[Image:Wiktprintable_without_text.svg|35px|<nowiki></nowiki>]]
-| [[Wiktionary:|'''維基詞典''']]<br />多種語言嘅字典撈詞典
 |}
 
 參詳[//www.wikimedia.org 其他姊妹計劃]。
