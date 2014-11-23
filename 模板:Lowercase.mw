@@ -1,11 +1,3 @@
-<includeonly>{{DISPLAYTITLE|
-  {{#if:
-    {{NAMESPACE}}|
-    {{NAMESPACE}}:|
-  }}<noinclude>
-  </noinclude>{{lcfirst:
-    {{PAGENAME}}
-  }}
-}}</includeonly><noinclude>
-{{Documentation}}
+<span>{{DISPLAYTITLE:{{#if:{{NAMESPACE}}|{{NAMESPACE}}:|}}{{lcfirst:{{PAGENAME}}}}}}</span><noinclude>
+{{documentation}}
 </noinclude>
