@@ -1,0 +1,4 @@
+<p></p>
+| {{#if:{{{width<includeonly>|</includeonly>}}}|width="{{{width}}}"}} style="text-align:{{{align|left}}};vertical-align:{{{valign|top}}};{{#if: {{{gap<includeonly>|</includeonly>}}} | padding-left:{{{gap}}}; }}" |<noinclude>
+{{Documentation}}
+</noinclude>
