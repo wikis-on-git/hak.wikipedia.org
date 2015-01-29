@@ -1,4 +1,4 @@
-<div style="position: relative; style="float: right; font-size: small;">
+<div style="position: right; style="float: right; font-size: 90%;">
 {| class="infobox bordered" style="width:274px; font-size: 90%; margin: 0 0 1em 1em"<!--274px appears to match width of [[Template:Contains X text]], where X = Indic, Chinese, etc-->
 ! Colspan="3" style="text-align: center; font-size: 120%; background-color: {{#switch: {{LC:{{{type}}}}}|abjad|[[abjad]]| phú-yîm sṳ-mû |[[phú-yîm sṳ-mû]]=mediumseagreen|alphabet|[[alphabet]]| sṳ-mû |[[sṳ-mû]]=lightblue|abugida|[[abugida]]=chocolate|syllabary|[[syllabary]]| yîm-chiet vùn-sṳ |[[yîm-chiet vùn-sṳ]]=tomato|manual=darkcyan|pictographic|[[pictographic]]| siong hìn vùn-sṳ |[[siong hìn vùn-sṳ]]=goldenrod|ideographic|[[ideographic]]| hìn yi vùn-sṳ |[[hìn yi vùn-sṳ]]=gold|logographic|[[logographic]]|[[logographic]] with syllabic elements| yi yîm vùn-sṳ |[[yi yîm vùn-sṳ]]=darksalmon|undeciphered=gainsboro|alternative=khaki|white}};" | {{{name|[[:Template:Infobox_WS#Instructions | Sot-mìn <includeonly> chhai Infobox WS</includeonly><noinclude> yì-hâ </noinclude>]]}}}
 |-
