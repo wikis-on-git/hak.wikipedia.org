@@ -1,0 +1,90 @@
+{| class="infobox bordered" style="width:274px; font-size: 90%; margin: 0 0 1em 1em"<!--274px appears to match width of [[Template:Contains X text]], where X = Indic, Chinese, etc-->
+! Colspan="3" style="text-align: center; font-size: 120%; background-color: {{#switch: {{LC:{{{type}}}}}|abjad|[[abjad]]| phú-yîm sṳ-mû |[[phú-yîm sṳ-mû]]=mediumseagreen|alphabet|[[alphabet]]| sṳ-mû |[[sṳ-mû]]=lightblue|abugida|[[abugida]]=chocolate|syllabary|[[syllabary]]| yîm-chiet vùn-sṳ |[[yîm-chiet vùn-sṳ]]=tomato|manual=darkcyan|pictographic|[[pictographic]]| siong hìn vùn-sṳ |[[siong hìn vùn-sṳ]]=goldenrod|ideographic|[[ideographic]]| hìn yi vùn-sṳ |[[hìn yi vùn-sṳ]]=gold|logographic|[[logographic]]|[[logographic]] with syllabic elements| yi yîm vùn-sṳ |[[yi yîm vùn-sṳ]]=darksalmon|undeciphered=gainsboro|alternative=khaki|white}};" | {{{name|[[:Template:Infobox_WS#Instructions | Sot-mìn <includeonly> chhai Infobox WS</includeonly><noinclude> yì-hâ </noinclude>]]}}}
+|-
+| style="padding-left: 0.5em;" | lui-hîn: 
+| style="padding-left: 0.5em;" colspan="2" | {{{type|}}} {{{typedesc|}}}
+|-
+| style="padding-left: 0.5em;" | ngî-ngièn: 
+| style="padding-left: 0.5em;" colspan="2" | {{{languages|}}}
+{{#if:{{{creator|}}}|
+{{!}}- colspan="{{#if: {{{date|}}}|1|2}}"
+{{!}} style="padding-left: 0.5em;" {{!}} Fat-mìn-chá: 
+{{!}} style="padding-left: 0.5em;" {{!}} {{{creator}}}
+{{#if: {{{date|}}}|
+{{!}} style="padding-left: 0.5em;" {{!}} {{{date}}} }} }}
+|-
+| style="padding-left: 0.5em;" | Sṳ́-yung sṳ̀-khì: 
+| style="padding-left: 0.5em;" colspan="2" | {{{time|}}}
+|-
+{{#if: {{{status|}}}|
+{{!}} style="padding-left: 0.5em;" {{!}} Chhong-thai: 
+{{!}} style="padding-left: 0.5em;" colspan="2" {{!}} {{{status}}} }}
+|-
+{{#if: {{{family|}}}{{{fam1|}}}{{{creator|}}}|
+{{!}} style="padding-left: 0.5em;white-space: nowrap" {{!}} Sṳ-mû sû-siá hì-thúng: 
+{{!}} colspan="2" style="padding-left: 0.5em; text-align: left;" {{!}} {{{family|{{{fam1|{{#if:{{{creator|}}}|[[artificial script]]}}}}}}}}{{
+#if:{{{fam2|}}}
+|<br /><span style="font-size:66%;">&nbsp;</span>{{{fam2|}}}<br /><span style="font-size:66%;">&nbsp;&nbsp;</span>{{
+#if:{{{fam3|}}}
+|{{{fam3|}}}<br /><span style="font-size:66%;">&nbsp;&nbsp;&nbsp;</span>{{
+#if:{{{fam4|}}}
+|{{{fam4|}}}<br /><span style="font-size:66%;">&nbsp;&nbsp;&nbsp;&nbsp;</span>{{
+#if:{{{fam5|}}}
+|{{{fam5|}}}<br /><span style="font-size:66%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>{{
+#if:{{{fam6|}}}
+|{{{fam6|}}}<br /><span style="font-size:66%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>{{
+#if:{{{fam7|}}}
+|{{{fam7|}}}<br /><span style="font-size:66%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>{{
+#if:{{{fam8|}}}
+|{{{fam8|}}}<br /><span style="font-size:66%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>{{
+#if:{{{fam9|}}}
+|{{{fam9|}}}<br /><span style="font-size:66%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>{{
+#if:{{{fam10|}}}
+|{{{fam10|}}}<br /><span style="font-size:66%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>{{
+#if:{{{fam11|}}}
+|{{{fam11|}}}<br /><span style="font-size:66%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>{{
+#if:{{{fam12|}}}
+|{{{fam12|}}}<br /><span style="font-size:66%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>{{
+#if:{{{fam13|}}}
+|{{{fam13|}}}<br /><span style="font-size:66%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>{{
+#if:{{{fam14|}}}
+|{{{fam14|}}}<br /><span style="font-size:66%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>{{
+#if:{{{fam15|}}}
+|{{{fam15|}}}<br /><span style="font-size:66%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>'''{{{name|}}}'''
+|'''{{{name| }}}'''}}<!--close 15-->
+|'''{{{name| }}}'''}}<!--close 14-->
+|'''{{{name| }}}'''}}<!--close 13-->
+|'''{{{name| }}}'''}}<!--close 12-->
+|'''{{{name| }}}'''}}<!--close 11-->
+|'''{{{name| }}}'''}}<!--close 10-->
+|'''{{{name| }}}'''}}<!--close 9-->
+|'''{{{name| }}}'''}}<!--close 8-->
+|'''{{{name| }}}'''}}<!--close 7-->
+|'''{{{name| }}}'''}}<!--close 6-->
+|'''{{{name| }}}'''}}<!--close 5-->
+|'''{{{name| }}}'''}}<!--close 4-->
+|'''{{{name| }}}'''}}<!--close 3-->
+|<br />'''{{{name| }}}'''}}<!--close 2-->}}
+|-
+{{#if: {{{children|}}}|
+{{!}} style="padding-left: 0.5em;white-space: nowrap" {{!}} Chṳ́ sû-siá hì-thúng: 
+{{!}} style="padding-left: 0.5em;" colspan="2" {{!}} {{{children}}} }}
+|-
+{{#if: {{{sisters|}}}|
+{{!}} style="padding-left: 0.5em;white-space: nowrap" {{!}} Chí-moi sû-siá hì-thúng: 
+{{!}} style="padding-left: 0.5em;" colspan="2" {{!}} {{{sisters}}} }}
+|-
+{{#if: {{{unicode|}}}|
+{{!}} style="padding-left: 0.5em;white-space: nowrap" {{!}} Unicode fam-vì: 
+{{!}} style="padding-left: 0.5em;" colspan="2" {{!}} {{{unicode}}} }}
+|-
+{{#if: {{{iso15924|}}}|
+{{!}} style="padding-left: 0.5em;white-space: nowrap" {{!}} ISO 15924 ma: 
+{{!}} style="padding-left: 0.5em;" colspan="2" {{!}} <tt>{{{iso15924}}}</tt> }}
+|-
+{{#if:{{{sample|}}}|
+{{!}} colspan="3" align="center" {{!}} [[File:{{{sample}}}|{{{image_size|225x400px}}}]]{{#if: {{{caption|}}}|<br />{{{caption}}}}}}}
+{{Infobox Language/IPA notice}}
+|}<noinclude>
+<br clear=all>{{Mù-pán:Infobox WS/doc}}
+</noinclude>
