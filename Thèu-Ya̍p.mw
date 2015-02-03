@@ -10,7 +10,7 @@ __NOEDITSECTION__
 |-
 | style="width:100%; text-align:center; white-space:nowrap; color:#000;" |
 <div style="font-size:222%; border:none; margin:0; padding:.1em; color:#000;"><span style="color: #17b;">Hak-kâ-ngî </span> [[Vì-kî Pak-khô]]</div>
-<div style="top:+0.2em; font-size:102%;">Thai-kâ tû cho-tet [[Wikipedia:Chhóng-kien Sîn Thiàu-muk|Phiên-siá]] liá-chak ngî-ngièn ke chhṳ-yù [[Pak-khô-chhiòn-sû]].</div>
+<div style="top:+0.2em; font-size:102%;text-transform:uppercase;">Thai-kâ tû cho-tet [[Wikipedia:Chhóng-kien Sîn Thiàu-muk|Phiên-siá]] liá-chak ngî-ngièn ke chhṳ-yù [[Pak-khô-chhiòn-sû]].</div>
 <div id="articlecount" style="font-size:108%;">[[Hak-kâ-ngî]] ke pán-pún kîm-ha yû <b>[[Special:Statistics|<span style="color: green; font-size: 130%;">{{NUMBEROFARTICLES}} </span>]]</b> vùn-chông.</div>
 
 |style="width:100%; font-size:95%; color:#000; text-align:left;"|
@@ -47,7 +47,7 @@ __NOEDITSECTION__
 |class="MainPageBG" style="width: 60%; border: 1px solid #cedff2; background-color: #ffffff; vertical-align: top;   border-radius: 10px; -moz-border-radius:10px" | 
 {| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#ffffff;   border-radius: 10px; -moz-border-radius:10px"
 <!---->
-! style="background-color: #DCF4CC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 130%; border: 1px solid #9EE072; text-align: left; padding-left: 7px;    border-radius: 10px; -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_green2.jpg]]</div><div style="float:left;">[[image:Wikipedia-logo.png|20px]] Khái-shu̍t
+! style="background-color: #DCF4CC; font-family:'Linux Libertine',Georgia,Times,serif; font-size: 1.5em; border: 1px solid #9EE072; text-align: left; padding-left: 7px;    border-radius: 10px; -moz-border-radius:10px; font-variant:small-caps;"  | <div style="float:right;">[[Image:wbar_green2.jpg]]</div><div style="float:left;">[[image:Wikipedia-logo.png|20px]] Khái-shu̍t
 |-
 | style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%" | 
 {{Wikipedia:Khái-shu̍t}}
@@ -58,7 +58,7 @@ __NOEDITSECTION__
 <!--------------------------------
 2.1 SAV STR
 ---------------------------------->
-! style="background-color: #cedff2; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 130%; border: 1px solid #B1CDEB; text-align: left;  padding-left: 7px;    border-radius: 10px; -moz-border-radius:10px"  | <div style="float:right;">[[Image:Wbar_blue.jpg]]</div><div style="float:left;">[[Image:Star Ouro 8bits.png]] Thi̍t-set Thiàu-muk
+! style="background-color: #cedff2; font-family: 'Linux Libertine',Georgia,Times,serif; font-size: 1.5em; border: 1px solid #B1CDEB; text-align: left;  padding-left: 7px;    border-radius: 10px; -moz-border-radius:10px; font-variant:small-caps;"  | <div style="float:right;">[[Image:Wbar_blue.jpg]]</div><div style="float:left;">[[Image:Star Ouro 8bits.png]] Thi̍t-set Thiàu-muk
 |-
 | style="; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 105%" | {{Wikipedia:Thi̍t-set Thiàu-muk}}
 <div style="text-align:right"><small>  </small></div></div>
@@ -71,7 +71,7 @@ __NOEDITSECTION__
 <!--------------------------------
 PVZ PAVEIKSLAS
 ---------------------------------->
-! style="background-color: #F7CADA; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 130%; border: 1px solid #EF98B7; text-align: left;  padding-left: 7px;   border-radius: 10px; -moz-border-radius:10px"  | <div style="float:right;">[[Image:Wbar_pink.jpg]]</div><div style="float:left;">[[Image:Nuvola filesystems camera.png|20px]] Yù-mî Thù-phién
+! style="background-color: #F7CADA; font-family: 'Linux Libertine',Georgia,Times,serif; font-size: 1.5em; border: 1px solid #EF98B7; text-align: left;  padding-left: 7px;   border-radius: 10px; -moz-border-radius:10px; font-variant:small-caps;"  | <div style="float:right;">[[Image:Wbar_pink.jpg]]</div><div style="float:left;">[[Image:Nuvola filesystems camera.png|20px]] Yù-mî Thù-phién
 |-
 | style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 105%" | 
 <center>{{Wikipedia:Yù-mî thù-phién}}</center>
@@ -80,7 +80,7 @@ PVZ PAVEIKSLAS
 <!--------------------------------
 SAV INIC
 ---------------------------------->
-! style="background-color: #CEF2E8; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 130%; border: 1px solid #8BE0C9; text-align: left;  padding-left: 7px;  border-radius: 10px; -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_green1.jpg]]</div><div style="float:left;">[[Image:Pp clock 8bits.png]] '''Ngì hiáu-tet mò'''</div>
+! style="background-color: #CEF2E8; font-family: 'Linux Libertine',Georgia,Times,serif; font-size: 1.5em; border: 1px solid #8BE0C9; text-align: left;  padding-left: 7px;  border-radius: 10px; -moz-border-radius:10px; font-variant:small-caps;"  | <div style="float:right;">[[Image:wbar_green1.jpg]]</div><div style="float:left;">[[Image:Pp clock 8bits.png]] '''Ngì hiáu-tet mò'''</div>
 |-
 | style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 105%" | {{Wikipedia:Ngì hiáu-tet mò?}}<div style="text-align:right"><small>
  </small></div></div>
@@ -94,7 +94,7 @@ KATEGORIJOS
  <!-- Phiêu-thì-->
 {| width="100%" cellpadding="2" cellspacing="3" style="vertical-align: top; background-color:#ffffff; -moz-border-radius:10px;"
 |-
-! style="background-color: #FFFDD0; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 130%; border: 1px solid #FBEC5D; text-align: left;  padding-left: 7px;  border-radius: 10px; -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_yellow.jpg]]</div><div style="float:center;">[[Image:Disambigua compass.svg|20px]] Phiêu-thì</div>
+! style="background-color: #FFFDD0; font-family: 'Linux Libertine',Georgia,Times,serif; font-size: 1.5em; border: 1px solid #FBEC5D; text-align: left;  padding-left: 7px;  border-radius: 10px; -moz-border-radius:10px; font-vatiant:small-caps;"  | <div style="float:right;">[[Image:wbar_yellow.jpg]]</div><div style="float:center;">[[Image:Disambigua compass.svg|20px]] Phiêu-thì</div>
 |-
 | style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 105%" |{{Wikipedia:Phiêu-thì}}
 |}
