@@ -3,9 +3,8 @@
 {{Main Page navigation}}
 __NOEDITSECTION__
  __NOTOC__
-<div id="mp_header" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0 0 0.5em; overflow: hidden; padding: 0.5em; font-size: small; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius:0.8em;">
 {| width="100%" 
-| <div style="float: left; width: 0em; height: 0em; margin: -0.5em 0em 0em -2.5em; overflow: visible;">[[File:Wikipedia-logo-v2-200px-transparent.png|140px|link=]]</div>
+|
 {{標題}}
 {{分類}}
 {{頭頁輸入框}}
@@ -13,4 +12,3 @@ __NOEDITSECTION__
 {{姊妹計劃}}
 {{noexternallanglinks}}
 |}
-</div>
