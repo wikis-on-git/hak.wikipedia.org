@@ -99,16 +99,7 @@ KATEGORIJOS
 | style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 105%" |{{Wikipedia:Phiêu-thì}}
 |}
 
-<div align="center">
-<inputbox>
-type=create
-width=75
-bgcolor=#ffffff
-preload=Template:Standard content for new page
-editintro=Template:Instructions
-default=
-</inputbox>
-</div>
+{{Wikipedia:Chhóng-kien Sîn Thiàu-muk|width=75}}
 
 {| style="border:1px solid #006699;" cellspacing="0" cellpadding="5"
 | style="font: 125% Verdana; color:Red" align="center" bgcolor="#d0e2ee" |Khì-thâ Ngî-ngièn ke Vì-kî Pak-khô
