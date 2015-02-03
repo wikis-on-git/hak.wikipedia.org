@@ -1,39 +1,40 @@
+<div id="mp_header" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0 0 0.5em; overflow: hidden; padding: 0.5em; font-size: small; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;">
 <div style="position: fixed; top:0px; left:155px;color:#005994; font-size:0.8em;">現在嘅[[GMT]]時間係{{CURRENTYEAR}}年{{CURRENTMONTH}}月{{CURRENTDAY}}日{{CURRENTTIME}} {{CURRENTDAYNAME}}，𠊎兜嘅當地時間（北京時間撈臺北時間）係{{UTC|+08}}([[時區|GMT+8]])。
 </div>
 <!-- ---------- BEGINNING OF HEADER SECTION --------------------------- -->
-{| style="width:100%; margin-top:+.7em; background-color:#fcfcfc; border: 1px solid #ccc"
-|
-{| border="0" style="background:none"
-| style="width:50%;text-align:center" |
-<h1 style="font-size: 170%; margin: 0; padding:.1em;">
-歡迎光臨來到[[維基百科]]嘅[[客家語]]百科版本。<!-- 寫法來自 [[Thèu-ya̍p]] -->
-</h1>
-大家都做得編寫邇種語言嘅自由[[百科全書]]。有問題還係建議？來去[http://hakka.dict.edu.tw 教育部客家語常用詞辭典]、[http://hakka.fhl.net/dict/index_hakka.html 客英辭典]撈[http://hakka.fhl.net/dict/index_enhakka.html 客英字典]參考！客家語版百科今下有[[Special:Statistics|<span style="color: green; font-size: 130%;">
-'''{{NUMBEROFARTICLES}}'''</span>]]隻條目。客家語維基百科期待汝嘅加入！
-|}
-|style="width:20%;text-align:right;"|
-<!-- ----------Categories Follow---------------------------- -->
-{| border="0" style="white-space:nowrap"
-|- valign="top"
-|style="width:10%;text-align:left;font-size:95%"|
-*[[:Category:科學|科學]]
-*[[:Category:技術|技術]]
-*[[:Category:地理|地理]]
-*[[:Category:經濟|經濟]]
-*[[:Category:人物|人物]]
-*[[:Category:文化|文化]]
-|style="width:10%;text-align:left;font-size:95%"|
-*[[:Category:歷史|歷史]]
-*[[:Category:社會|社會]] 
-*[[:Category:生物|生物]]
-*[[:Category:宗教|宗教]]
-*[[:Category:哲學|哲學]]
-*[[:Category:體育|體育]]
-|}
-<!-- -------End Categories----- -->
-|}
-<!-- ---------- END OF HEADER SECTION ------------------ -->
+{| width="100%" 
+| <div style="float: left; width: 0em; height: 0em; margin: -0.5em 0em 0em -2.5em; overflow: visiable;">[[File:Wikipedia-logo-v2-200px-transparent.png|225px|Vì-kî Pak-khô Phiêu-chì]]</div>
+|-
+| style="width:100%; text-align:center; white-space:nowrap; color:#000;" |
+<div style="font-size:250%; font-family:DFKai-SB,KaiTi,SimKai-GB2312; border:none; margin:0; padding:.1em; color:#000;"><span style="color: #17b;">客家語</span>[[維基百科]]</div>
+<div style="top:+0.2em; font-size:102%;text-transform:uppercase;">大家都做得[[Wikipedia:Chhóng-kien Sîn Thiàu-muk|編寫]]邇種語言嘅自由[[百科全書]]。</div>
+<div id="articlecount" style="font-size:108%;">[[客家語]]嘅版本今下有<b>[[Special:Statistics|<span style="color: green; font-size: 130%;">{{NUMBEROFARTICLES}}</span>]]</b>文章。</div>
 
+|style="width:100%; font-size:95%; color:#000; text-align:left;"|
+
+{|style="width:100%; background:transparent; white-space:nowrap;"
+| style="width:10%; font-size:99%;" |
+*[[:Category:科學|科學]]<br />
+*[[:Category:技術|技術]]<br />
+*[[:Category:地理|地理]]<br />
+<!-- [[Портал:Ғылым|Ғылым]]-->
+| style="width:10%; font-size:99%;" |
+*[[:Category:人物|人物]]<!--Ngìn-vu̍t--><br />
+*[[:Category:歷史|歷史]]<br />
+*[[:Category:社會|社會]]<br />
+<!-- [[Портал:Ғылым|Ғылым]]<br /> -->
+| style="width:10%; font-size:99%;" |
+<!-- [[Портал:Ғылым|Ғылым]]<br /> -->
+*[[:Category:生物|生物]]<br />
+*[[:Category:宗教|宗教]]<br />
+*[[:Category:哲學|哲學]]<br />
+| style="width:10%; font-size:99%;" |
+*[[:Category:經濟|經濟]]<br />
+*[[:Category:文化|文化]]<br />
+*[[:Category:體育|體育]]<br />
+|}
+|}
+</div>
 [[Image:Map of sinitic languages-zh-Hant.svg|right|thumb|客家語嘅地區（橙色部分）]]
 <br />
 　　邇面係客家語嘅維基百科嘅頭頁。當歡迎汝來共下編寫客家語百科，同大家分享知識撈財富。客家語維基百科已經成立，並且已經開放正體漢字版，全部內容都做得用正體漢字（中國大陸等地區喊做繁體漢字）來編寫。𠊎兜正式嘅維基百科標題當然係[[客家語]]。<br />
