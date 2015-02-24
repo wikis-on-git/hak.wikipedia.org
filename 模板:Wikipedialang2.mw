@@ -1,18 +1,22 @@
 <div class="plainlinks">
-[[:zh-min-nan:|閩南語]] - 
-[[:zh-yue:|粵語]]  -
-[[:cdo:|閩東語]] - 
-[[:gan:|贛語]] - 
-[[:wuu:|吳語]] -
-[[:zh:|中文（國語·華語·普通話）]] - 
-[[:zh-classical:|文言]] - 
-[[:za:|壯語]]  -
-[[:ja:|日本語]] - 
-[[:ko:|朝鮮語（韓國語）]] - 
-[[:en:|英語]] - 
-[[:vi:|越南語]] - 
-[[:mn:|蒙古語]] -
-[[:th:|泰語（暹羅語）]]
+[[:en:|{{lang|en|English}} <small>('''英語''')</small>]] - 
+[[:fr:|{{lang|fr|Français}} <small>('''法語''')</small>]] - 
+[[:ru:|{{lang|ru|Русский}} <small>('''俄語''')</small>]] -
+[[:es:|{{lang|es|Español}} <small>('''西班牙語''')</small>]] -
+[[:zh:|{{lang|zh|中文}} <small>('''國語/華語/普通話''')</small>]] -
+[[:zh-min-nan:|{{lang|nan|Bân-lâm-gú}} <small>('''閩南語''')</small>]] - 
+[[:cdo:|{{lang|cdo|Mìng-dĕ̤ng-ngṳ̄}}  <small>('''閩東語''')</small>]] - 
+[[:gan:|{{lang|gan|贛語}} <small>('''贛語''')</small>]] -
+[[:wuu:|{{lang|wuu|吴语}} <small>('''吳語''')</small>]] -
+[[:zh-classical:|{{lang|lzh|文言}} <small>('''文言/古文''')</small>]] - 
+[[:zh-yue:|{{lang|yue|粵語}} <small>('''粵語''')]] - 
+[[:ja:|{{lang|ja|日本語}} <small>('''日本語''')</small>]] - 
+[[:ko:|{{lang|ko|한국어}} <small>('''韓國語''')</small>]] - 
+[[:vi:|{{lang|vi|Tiếng Việt}} <small>('''越南語''')</small>]] - 
+[[:za:|{{lang|za|Vahcuengh}}  <small>('''壯語''')</small>]] - 
+[[:mn:|{{lang|mn|Монгол хэл}} <small>('''蒙古語''')</small>]] -
+[[:ar:|{{lang|ar|العربية}} <small>('''阿拉伯語''')</small>]] -
+[[:th:|{{lang|th|ภาษาไทย}} <small>('''泰語''')</small>]] [[meta:List of Wikipedias|...]]
 
 <noinclude>
 [[Category:Templates]]
