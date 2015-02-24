@@ -1,21 +1,25 @@
 <!-- 姊妹計劃-->
-<div style="border:2px solid; border-color:#ddd #888 #666 #ccc; padding:0 1em; color:black; background:#fff; margin:4px">
-<h3 style="text-align:center" id="wikipediatoc">維基姊妹計劃</h3>
-{| align="center" cellpadding="2" width="100%" style="text-align:left"
-| [[Image:Commons-logo.svg|35px|<nowiki></nowiki>]]
-| [[commons:|'''維基共享資源''']]<br />共享嘅多媒體資料庫
-| [[Image:Wiktprintable_without_text.svg|35px|<nowiki></nowiki>]]
-| [[:incubator:Wt/hak/頭頁|'''維基詞典''']]<br />多種語言嘅字典撈詞典
-| [[Image:Wikimedia_Community_Logo.svg|35px|<nowiki></nowiki>]]
-| [[m:|元維基''']]<br />目標係協調各維基計劃
+{| width="100%" cellpadding="2" cellspacing="3" style="vertical-align: top; background-color:#ffffff; -moz-border-radius:10px;"
 |-
-| [[Image:Wikibooks.png|35px|<nowiki></nowiki>]]
-| [[Wikibooks:|'''維基教科書''']]<br />樹立自由嘅教科書
-| [[Image:Wikinews-logo.png|35px|<nowiki></nowiki>]]
-| [[Wikinews:|'''維基新聞''']]<br />提供自由嘅新聞資源
-| [[Image:Wikiversity-logo.svg|35px|<nowiki></nowiki>]]
-| [[Wikiversity:|'''維基學堂''']]<br />開放嘅學習環境撈研究社區
+! style="background-color: #faf5ff; font-family: DFKai-SB,KaiTi,SimKai-GB2312; font-size: 1.5em; border: 1px solid #FBEC5D; text-align: left;  padding-left: 7px;  border-radius: 10px; -moz-border-radius:10px; font-vatiant:small-caps;"  | <h3 style="text-align:center" id="wikipediatoc">[[File:Wikimedia-logo2.svg|25px]] 維基姊妹計劃</h3>
+|-
+| style="color:#000; padding:2px;" | 
+<div>
+{| align="center" cellpadding="2" width="100%" style="text-align:left"
+| [[File:Commons-logo.svg|35px|<nowiki></nowiki>]]
+| [[commons:|'''維基共享資源''']]<br />共享嘅多媒體資料庫
+| [[File:Wiktprintable_without_text.svg|35px|<nowiki></nowiki>]]
+| [[:incubator:Wt/hak/頭頁|'''維基詞典''']]<br />多種語言嘅字典撈詞典
+| [[File:Wikimedia_Community_Logo.svg|35px|<nowiki></nowiki>]]
+| '''[[m:|元維基''']]'''<br />目標係協調各維基計劃
+|-
+| [[File:Wikispecies-logo.svg|35px|<nowiki></nowiki>]]
+| [[wikispecies:|'''維基物種''']]<br />自由嘅物種資料庫
+| [[File:Wikisource-logo.svg|35px|<nowiki></nowiki>]]
+| [[oldwikisource:Main Page/Hak-kâ-ngî|'''維基圖書館''']]<br />自由嘅圖書館
+| [[File:MediaWiki-smaller-logo.png|35px|<nowiki></nowiki>]]
+| [[mw:|'''Mediawiki''']]<br />自由嘅軟體開發
 |}
-
-參詳[//www.wikimedia.org 其他姊妹計劃]。
 </div>
+<center>參詳[//www.wikimedia.org 其他姊妹計劃]。</center>
+|}
