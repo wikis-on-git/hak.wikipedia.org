@@ -1,18 +1,22 @@
 <div class="plainlinks">
-[[:zh-min-nan:|閩南語 ('''Mên-nàm-ngî''')]] - 
-[[:cdo:|閩東語  ('''Mên-tûng-ngî''')]] - 
-[[:ja:|日本語 ('''Ngit-pún-ngî''')]] - 
-[[:ko:|한국어 ('''Hòn-koet-ngî''')]] - 
-[[:en:|English ('''Yîn-vùn''')]] - 
-[[:gan:|赣语('''Kam-ngî)''']] - 
-[[:vi:|Tiếng Việt ('''Ye̍t-nàm-ngî''')]] - 
-[[:wuu:|吴语 ('''Ng̀-ngî''')]] -
-[[:zh:|中文 ('''Chûng-vùn''')]] - 
-[[:zh-classical:|文言 ('''Vùn-ngièn''')]] - 
-[[:zh-yue:|粵語 ('''Ye̍t-ngî''')]] - 
-[[:za:|Vahcuengh  ('''Tsong-ngî''')]] - 
-[[:mn:|Монгол хэл ('''Mùng-kú-ngî''')]] -
-[[:th:|ภาษาไทย ('''Thai-ngî''')]]
+[[:en:|{{lang|en|English}} <small>('''Yîn-ngî''')</small>]] - 
+[[:fr:|{{lang|fr|Français}} <small>('''Fap-ngî''')</small>]] - 
+[[:ru:|{{lang|ru|Русский}} <small>('''Ngò-ngî''')</small>]] -
+[[:es:|{{lang|es|Español}} <small>('''Sî-pân-ngà-ngî''')</small>]] -
+[[:zh:|{{lang|zh|中文}} <small>('''Chûng-vùn''')</small>]] -
+[[:zh-min-nan:|{{lang|nan|Bân-lâm-gú}} <small>('''Mên-nàm-ngî''')</small>]] - 
+[[:cdo:|{{lang|cdo|Mìng-dĕ̤ng-ngṳ̄}}  <small>('''Mên-tûng-ngî''')</small>]] - 
+[[:gan:|{{lang|gan|贛語}} <small>('''Kam-ngî''')</small>]] -
+[[:wuu:|{{lang|wuu|吴语}} <small>('''Ng̀-ngî''')</small>]] -
+[[:zh-classical:|{{lang|lzh|文言}} <small>('''Vùn-ngièn''')</small>]] - 
+[[:zh-yue:|{{lang|yue|粵語}} <small>('''Ye̍t-ngî''')]] - 
+[[:ja:|{{lang|ja|日本語}} <small>('''Ngit-pún-ngî''')</small>]] - 
+[[:ko:|{{lang|ko|한국어}} <small>('''Hòn-koet-ngî''')</small>]] - 
+[[:vi:|{{lang|vi|Tiếng Việt}} <small>('''Ye̍t-nàm-ngî''')</small>]] - 
+[[:za:|{{lang|za|Vahcuengh}}  <small>('''Tsong-ngî''')</small>]] - 
+[[:mn:|{{lang|mn|Монгол хэл}} <small>('''Mùng-kú-ngî''')</small>]] -
+[[:ar:|{{lang|ar|العربية}} <small>('''Â-lâ-pak-ngî''')</small>]] -
+[[:th:|{{lang|th|ภาษาไทย}} <small>('''Thai-ngî''')</small>]] [[meta:List of Wikipedias|...]]
 
 <noinclude>
 [[Category:Templates]]
