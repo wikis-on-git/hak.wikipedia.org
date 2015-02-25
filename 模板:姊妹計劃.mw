@@ -1,23 +1,23 @@
 <!-- 姊妹計劃-->
 {| width="100%" cellpadding="2" cellspacing="3" style="vertical-align: top; background-color:#ffffff; -moz-border-radius:10px; border:1px solid #ddd;"
 |-
-! style="background-color: #faf5ff; font-family: DFKai-SB,KaiTi,SimKai-GB2312; font-size: 1.5em; border: 1px solid #FBEC5D; text-align: left;  padding-left: 7px;  border-radius: 10px; -moz-border-radius:10px;"  | <h6 style="text-align:center" id="wikipediatoc">[[File:Wikimedia-logo2.svg|25px]] 維基姊妹計劃</h6>
+! style="background-color: #faf5ff; font-family: DFKai-SB,KaiTi,SimKai-GB2312; font-size: 1.5em; border: 1px solid #FBEC5D; text-align: left;  padding-left: 7px;  border-radius: 10px; -moz-border-radius:10px;"  | <h6 style="text-align:center" id="wikipediatoc">[[File:Wikimedia-logo2.svg|25px|link=http://wikimediafoundation.org]] 維基姊妹計劃</h6>
 |-
 | style="color:#000; padding:2px;" | 
 <div>
 {| align="center" cellpadding="2" width="100%" style="text-align:left"
-| [[File:Commons-logo.svg|35px|<nowiki></nowiki>]]
+| [[File:Commons-logo.svg|35px|link=commons:]]
 | [[commons:|'''維基共享資源''']]<br />共享嘅多媒體資料庫
-| [[File:Wiktprintable_without_text.svg|35px|<nowiki></nowiki>]]
+| [[File:Wiktprintable_without_text.svg|35px|link=incubator:Wt/hak/頭頁]]
 | [[:incubator:Wt/hak/頭頁|'''維基詞典''']]<br />多種語言嘅字典撈詞典
-| [[File:Wikimedia_Community_Logo.svg|35px|<nowiki></nowiki>]]
+| [[File:Wikimedia_Community_Logo.svg|35px|link=m:]]
 | '''[[m:|元維基''']]'''<br />目標係協調各維基計劃
 |-
-| [[File:Wikispecies-logo.svg|35px|<nowiki></nowiki>]]
+| [[File:Wikispecies-logo.svg|35px|link=wikispecies:]]
 | [[wikispecies:|'''維基物種''']]<br />自由嘅物種資料庫
-| [[File:Wikisource-logo.svg|35px|<nowiki></nowiki>]]
+| [[File:Wikisource-logo.svg|35px|link=oldwikisource:Main Page/Hak-kâ-ngî]]
 | [[oldwikisource:Main Page/Hak-kâ-ngî|'''維基圖書館''']]<br />自由嘅圖書館
-| [[File:MediaWiki-smaller-logo.png|35px|<nowiki></nowiki>]]
+| [[File:MediaWiki logo without tagline.svg|35px|link=mw:]]
 | [[mw:|'''Mediawiki''']]<br />自由嘅軟體開發
 |}
 </div>
