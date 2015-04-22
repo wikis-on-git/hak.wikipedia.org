@@ -1184,3 +1184,25 @@ Coordinator, [[m:Special:MyLanguage/Wikimedia Foundation elections 2015/Committe
 
 ''Posted by the [[m:User:MediaWiki message delivery|MediaWiki message delivery]] on behalf of the [[m:Special:MyLanguage/Wikimedia Foundation elections 2015/Committee|2015 Wikimedia Foundation Elections Committee]], 05:03, 21 April 2015 (UTC) • [[m:Special:MyLanguage/Wikimedia Foundation elections 2015/MassMessages/Accepting nominations|Translate]] • [[m:Talk:Wikimedia Foundation elections 2015|Get help]]
 <!-- 訊息由 User:Varnent@metawiki 發送，使用清單於 http://meta.wikimedia.org/w/index.php?title=Distribution_list/Global_message_delivery&oldid=11918510 -->
+
+== Please test VisualEditor in your language! ==
+
+<div class="mw-content-ltr" lang="en" dir="ltr">
+[[File:VisualEditor-logo.svg|right|frameless]]
+It is very important to us at the [[:mw:Editing|Editing Department]] that [[:mw:Special:MyLanguage/VisualEditor/Portal|VisualEditor]] works in every language, for every user.
+
+VisualEditor's editing environment is a browser ContentEditable element. This means that your [[:en:Input method|input method editor]] (IME) should already know how to work with it. However, to make VisualEditor correctly edit wiki pages, we have to stop browsers in lots of ways from breaking the page.
+
+Sometimes this can interfere with IMEs. To make sure we work in your IME, we need your help: please see '''[http://wikimedia.github.io/VisualEditor/demos/ve/desktop-dist.html#!pages/simple.html wikimedia.github.io/VisualEditor/demos/ve/desktop-dist.html#!pages/simple.html]'''. This is the core system inside VisualEditor which lets you write and edit. It is different from the full editor, and some of the tools you are used to will be missing.
+
+We're interested in particular in whether you can write text at all, what happens when you select different candidate texts, and how VisualEditor behaves in general.
+
+More details, and some early test results, are provided here: '''[[:mw:VisualEditor/IME_Testing#What_to_test|mediawiki.org/wiki/VisualEditor/IME_Testing#What_to_test]]'''.
+
+We would love to hear from every language, and especially languages which use IMEs, like Japanese, Korean, Indic languages, Arabic and others. Thank you for your help.
+
+Yours,
+
+[[:mw:User:Jdforrester (WMF)|James Forrester]] [[:mw:User talk:Jdforrester (WMF)|(talk)]] 07:41, 22 四月 2015 (UTC)
+</div>
+<!-- 訊息由 User:Elitre (WMF)@metawiki 發送，使用清單於 http://meta.wikimedia.org/w/index.php?title=VisualEditor/Newsletter/Phase_6_wikis&oldid=11926646 -->
