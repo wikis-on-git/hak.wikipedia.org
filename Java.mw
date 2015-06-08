@@ -1,0 +1,16 @@
+[[File:Java logo and wordmark.svg|thumb|right|Java ke phiêu-chṳ]]
+'''Java''' he yit chúng [[vu̍t-khien thô-hiong]] ke [[thien-nó chhàng-sṳt]].
+
+==Ngî-fap==
+Yung Java chhàng-sṳt tá chhut Hello World:
+
+<source lang="java">
+ // Hello.java
+ public class Hello {
+     public static void main(String[] args) {
+         System.out.println("Hello, World!"); 
+     } 
+ }
+</source>
+
+[[Category:Thien-nó]]
