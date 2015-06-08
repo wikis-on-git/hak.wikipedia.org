@@ -1,0 +1,16 @@
+[[File:Cimage.jpg|thumb|right|200px|C ngî-ngièn ke phiêu-chṳ]]
+'''C ngî-ngièn''' he yit chúng [[thien-nó chhàng-sṳt]] ngî-ngièn.
+
+==Ngî-fap==
+Yung C ngî-ngièn chhàng-sṳt tá chhut Hello World:
+
+<source lang="c" enclose="div">
+ #include <stdio.h>
+ int main(void)
+ {
+   printf("Hello, world!\n");
+   return 0;
+ }
+</source>
+
+[[Category:Thien-nó]]
