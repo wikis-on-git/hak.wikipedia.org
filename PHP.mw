@@ -1,0 +1,12 @@
+[[File:PHP-logo.svg|thumb|right|PHP ke phiêu-chṳ]]
+'''PHP''' he yit chúng [[khôi-piong ngièn-sṳ́-ma]] ke [[thien-nó]] [[sú-káu ngî-ngièn]].
+
+==Ngî-fap==
+Yung PHP chhàng-sṳt tá chhut Hello World:
+
+<source lang="php">
+ <?php
+    echo 'Hello World!';
+ ?></source>
+
+[[Category:Thien-nó]]
