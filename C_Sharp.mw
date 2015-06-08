@@ -1,0 +1,18 @@
+[[File:C Sharp wordmark.svg|thumb|right|200px|C# ke phiêu-chṳ]]
+'''C Sharp''' (C#) he yit chúng [[vu̍t-khien thô-hiong]] ke [[thien-nó chhàng-sṳt]] ngî-ngièn.
+
+==Ngî-fap==
+Yung C# chhàng-sṳt tá chhut Hello World:
+
+<source lang="csharp">
+using System;
+
+public class HelloWorld {
+
+  public static void Main(string[] args) {
+    Console.WriteLine("Hello world!");
+  }
+}
+</source>
+
+[[Category:Thien-nó]]
