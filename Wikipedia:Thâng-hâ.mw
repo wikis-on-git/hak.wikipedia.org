@@ -1337,3 +1337,19 @@ Most of Wikimedia editors shouldn't be affected at all. If you edit as registere
 /[[:m:User:Johan (WMF)|Johan (WMF)]]
 </div> 23:56, 19 六月 2015 (UTC)
 <!-- 訊息由 User:Johan (WMF)@metawiki 發送，使用清單於 https://meta.wikimedia.org/w/index.php?title=User:Johan_(WMF)/HTTPS_global_message_delivery&oldid=12471979 -->
+
+== Content Translation, the new article creation tool is now available as a beta-feature ==
+
+[[File:Cx-icon-ltr.svg|264px|right|Tool icon]]
+[[File:Content_Translation_Screencast_%28English%29.webm|thumb|How to use Content Translation - a short video (English)]]
+Hello, [[mw:Content_translation|Content Translation]] has now been enabled as an opt-in beta feature on the Hakka Wikipedia. To start translating: 
+
+# Please enable the Beta feature in your preferences by checking the box for Content Translation. 
+# Visit the page [[Special:ContentTranslation]] or to your contributions page to open the tool. 
+# Click on the button to create a new translation. 
+# In the displayed dialog select the language of the original article and the article name, and the language you would like to translate to. Also add the title of the new article (or the original title will be inserted) and click on to begin. Your language preferences will be remembered for the next time. 
+# You will see a screen consisting of three columns. The first column contains the text of the source language and the middle column is for the translated text. Using the third column you can perform several actions such as insert source text, remove the inserted text source text, add or remove links etc.  
+# After you translate the article, you can publish it directly as a new page on the Hakka Wikipedia by using the publish button that appears. In case the article gets created by another user while you  were translating, you will see an option to save the newly published translation under your user namespace.  
+# The number of published pages can be seen on the [[Special:CXStats|Content Translation stats page]]. 
+
+Since this is the first time we have installed the tool on this Wikipedia, there are chances that there may be some problems or service disruptions which we are not yet aware of. We will be monitoring the usage to check for any failures or issues, but please do let us know on the [[:mw:Talk:Content_translation|Content Translation talk page]] or through [[phab:T103538|Phabricator]] if you spot any problems. For more information, please read the information available in the [[:mw:Help:Extension:ContentTranslation|User Guide]]. Our announcement is written only in English, and we would really appreciate if this message can be translated to reach more users of this Wikipedia. Thank you. On behalf of the Wikimedia Foundation's Language Engineering Team:--[[用戶:Runab WMF|Runa Bhattacharjee]] ([[用戶討論:Runab WMF|對話]]) 16:54, 30 六月 2015 (UTC)
