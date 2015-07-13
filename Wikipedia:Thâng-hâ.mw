@@ -1353,3 +1353,32 @@ Hello, [[mw:Content_translation|Content Translation]] has now been enabled as an
 # The number of published pages can be seen on the [[Special:CXStats|Content Translation stats page]]. 
 
 Since this is the first time we have installed the tool on this Wikipedia, there are chances that there may be some problems or service disruptions which we are not yet aware of. We will be monitoring the usage to check for any failures or issues, but please do let us know on the [[:mw:Talk:Content_translation|Content Translation talk page]] or through [[phab:T103538|Phabricator]] if you spot any problems. For more information, please read the information available in the [[:mw:Help:Extension:ContentTranslation|User Guide]]. Our announcement is written only in English, and we would really appreciate if this message can be translated to reach more users of this Wikipedia. Thank you. On behalf of the Wikimedia Foundation's Language Engineering Team:--[[用戶:Runab WMF|Runa Bhattacharjee]] ([[用戶討論:Runab WMF|對話]]) 16:54, 30 六月 2015 (UTC)
+
+== Please join the 2nd edition of the VisualEditor Translathon ==
+
+<div class="mw-content-ltr" lang="en" dir="ltr">
+[[File:VisualEditor-logo-pacifico.svg|right|200px]]
+Hello! 
+
+I'm pleased to announce the 2nd edition of the '''VisualEditor Translathon'''.
+
+It is a translation rally, focused on interface messages and help pages related to [[:mw:VisualEditor|VisualEditor]].
+In order to participate, you need to '''[[:betawiki:Project:VisualEditor/2015_Translathon|sign up on the Translathon page]]''' on TranslateWiki.
+
+The top 3 contributors will each win a Wikipedia t-shirt of their choice from [//store.wikimedia.org/ the Wikipedia store]<ref>You can choose between any short-sleeve shirt, or other items for the same value.</ref>. 
+Translations made between '''July 15th and July 19th''' ([//www.timeanddate.com/time/zones/cdt CDT time zone]) qualify<ref>This means both new translations, and updates for messages in the "Outdated" tab of the translation interface.</ref>. 
+
+If you are at [//wikimania2015.wikimedia.org/wiki/Wikimania Wikimania Mexico] this year,  you are also welcome to join a related sprint during the hackathon in '''Workplace 1 - Don Américo, Thursday 16 July at 4pm (CDT)''' at the conference venue, so you can meet other fellow translators and [//wikimania2015.wikimedia.org/wiki/Hackathon#Hackathon_Day_2 get support if you need some].
+
+Interface messages have the priority. You will need to create an account at translatewiki.net in order to work on them, if you don't have one. ''It is recommended to create the account ASAP'', so that it can be confirmed in time.
+
+You can also help translate documentation pages about VisualEditor on mediawiki.org. You can use your Wikipedia account to work there.
+
+You will find instructions, links and other details [[:betawiki:Project:VisualEditor/2015_Translathon|on the Translathon page]].
+
+Thanks for your attention, and happy translating! <br>
+[[:mw:User:Elitre (WMF)|Elitre (WMF)]] 21:00, 13 七月 2015 (UTC)
+
+<references />
+</div>
+<!-- 訊息由 User:Elitre (WMF)@metawiki 發送，使用清單於 https://meta.wikimedia.org/w/index.php?title=VisualEditor/Newsletter/Phase_6_wikis&oldid=12066019 -->
