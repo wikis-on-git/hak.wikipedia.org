@@ -6,5 +6,5 @@
 -->{{lang|he|{{{1<noinclude>|{{SIL|Text in Hebrew}}</noinclude>}}}}}<!--
 -->{{#if: {{{2|<noinclude>—</noinclude>}}}|, {{lang|he-Latn|{{{2<noinclude>|{{SIL|Hebrew text in Latin script}}</noinclude>}}}}}}}<!--
 -->{{#if: {{{3|<noinclude>—</noinclude>}}}|&nbsp;– « {{{3<noinclude>|{{SIL|Translation in Hakka}}</noinclude>}}} »}}<!--
---><noinclude>{{Documentation}}[[ang:Bysen:Lang-he]]
+--><noinclude>{{Documentation}}
 </noinclude>
