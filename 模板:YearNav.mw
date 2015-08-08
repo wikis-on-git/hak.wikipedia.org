@@ -19,6 +19,10 @@
 |style="text-align: center;border-top: dotted 1px #cccccc;"|{{#ifexpr:{{{1|{{CURRENTYEAR}}}}} > 1911|[[Mìn-koet]]{{ chûng-vùn sú-sṳ |{{#expr:{{{1|{{CURRENTYEAR}}}}}-1911}}}} ngièn {{#if: {{{other|{{{ khì-thâ |{{{2|}}}}}}}}}|, <br/>}}}}{{{other|{{{ khì-thâ |{{{2|}}}}}}}}}
 |}
 '''{{{1|{{CURRENTYEAR}}}}} ngièn ''' he [[{{#ifeq:{{ yùn ngièn |{{{1|{{CURRENTYEAR}}}}}}}|1| yùn ngièn | phìn ngièn }}]]{{#ifeq:{{#expr:{{{1|{{CURRENTYEAR}}}}}>1970}}|1|, Ngièn-tàn he [[{{#time:l |{{{1|{{CURRENTYEAR}}}}}0101}}]]|<!--, Ngièn-tàn he [[sên khì {{ Ngièn-tàn ngit |{{{1|{{CURRENTYEAR}}}}}}}]]-->}}. 
+<!--
 <includeonly>[[Category:{{{1}}} ngièn |]]</includeonly><noinclude>
+-->
+<!--
 {{Template: ngièn thoi / kié }}
+-->
 </noinclude>
