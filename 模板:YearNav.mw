@@ -8,8 +8,12 @@
 | style="vertical-align:middle;" |<small>'''[[ngièn]]: '''</small>
 | style="text-align: center;border-top: dotted 1px #cccccc;"| [[{{CalcBcDate| {{{1|{{CURRENTYEAR}}}}} | -5 }}-ngièn]] [[{{CalcBcDate| {{{1|{{CURRENTYEAR}}}}} | -4 }}-ngièn]] [[{{CalcBcDate| {{{1|{{CURRENTYEAR}}}}} | -3 }}-ngièn]] [[{{CalcBcDate| {{{1|{{CURRENTYEAR}}}}} | -2 }}-ngièn]]<br/>[[{{CalcBcDate| {{{1|{{CURRENTYEAR}}}}} | -1 }}-ngièn]] '''{{CalcBcDate| {{{1|{{CURRENTYEAR}}}}} | 0 }}-ngièn ''' [[{{CalcBcDate| {{{1|{{CURRENTYEAR}}}}} | +1 }} ngièn]]<br/>[[{{CalcBcDate| {{{1|{{CURRENTYEAR}}}}} | +2 }}-ngièn]] [[{{CalcBcDate| {{{1|{{CURRENTYEAR}}}}} | +3 }}-ngièn]] [[{{CalcBcDate| {{{1|{{CURRENTYEAR}}}}} | +4 }}-ngièn]] [[{{CalcBcDate| {{{1|{{CURRENTYEAR}}}}} | +5 }}-ngièn]]
 |- 
+
+<!--
 | style="" |<small>''' kòn kî ngièn: '''</small>
 | style="text-align: center;border-top: dotted 1px #cccccc;" | {{#if: {{ Sîn-ngièn ngie̍t |{{{1|{{CURRENTYEAR}}}}}}} |{{#if: {{ Sîn-ngièn ngit |{{{1|{{CURRENTYEAR}}}}}}}|1-ngie̍t 1 ho to {{#ifexpr: {{ Sîn-ngièn ngit |{{{1|{{CURRENTYEAR}}}}}}}!= 1|[[{{ Sîn-ngièn ngie̍t |{{{1|{{CURRENTYEAR}}}}}}} ngie̍t {{#expr: {{ Sîn-ngièn ngit |{{{1|{{CURRENTYEAR}}}}}}} - 1}} ho]]|[[1-ngie̍t 31 ho]]}} he [[{{ kòn kî |{{#expr:{{{1|{{CURRENTYEAR}}}}} - 1 }}|2}}]] ngièn ([[sâng siàu |{{ kòn kî |{{#expr: {{{1|{{CURRENTYEAR}}}}} - 1}}|1}} ngièn]]) <br/>[[{{ Sîn-ngièn ngie̍t |{{{1|{{CURRENTYEAR}}}}}}} ngie̍t {{ Sîn-ngièn ngit |{{{1|{{CURRENTYEAR}}}}}}} ho]] khôi-sṳ́ he }}}}'''[[{{ kòn kî |{{{1|{{CURRENTYEAR}}}}}|2}}]] ngièn ''' ('''[[sâng siàu |{{ kòn kî |{{{1|{{CURRENTYEAR}}}}}|1}} ngièn]]''') 
+-->
+
 |-
 |style="" |<small>''' Ngièn-ho: '''</small>
 |style="text-align: center;border-top: dotted 1px #cccccc;"|{{#ifexpr:{{{1|{{CURRENTYEAR}}}}} > 1911|[[Mìn-koet]]{{ chûng-vùn sú-sṳ |{{#expr:{{{1|{{CURRENTYEAR}}}}}-1911}}}} ngièn {{#if: {{{other|{{{ khì-thâ |{{{2|}}}}}}}}}|, <br/>}}}}{{{other|{{{ khì-thâ |{{{2|}}}}}}}}}
