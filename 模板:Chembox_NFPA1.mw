@@ -1,0 +1,79 @@
+{{!}} [[NFPA 704]]
+{{!}} 
+<div style="position: relative; height: 85px; width: 75px;">
+<div style="position: absolute; height: 75px; width: 75px;">[[File:NFPA 704.Svg|75px]]</div>
+<div title=" khó yên sin " style="
+background: transparent;
+width: 75px;
+height: 2em;
+text-align: center;
+vertical-align: middle;
+position: absolute;
+top: 15px;
+font-size: large;
+">{{#switch:{{{F|}}} |
+0 = <span class="abbr" style="color: black;" title=" khó yên sin 0 kip. Put fi yên sêu (yì súi). ">'''0'''</span> |
+1 = <span class="abbr" style="color: black;" title=" khó yên sin 1 kip. Pit-sî yi ngie̍t chhòi khó-nèn yín yên (yì chhoi tsṳ́ yù). Sám tiám kô yî 93°C. ">'''1'''</span> | 
+2 = <span class="abbr" style="color: black;" title=" khó yên sin 2 kip. Lio̍k vi kâ ngie̍t fe̍t phau lu chhai kô vûn fàn-kin chûng khó-nèn pûn yín yên (yì chhèu yù). Sám tiám chhai 38 - 93°C. ">'''2'''</span> |
+3 = <span class="abbr" style="color: black;" title=" khó yên sin 3 kip. Chhai thûng-sòng vûn-thu hâ khó pûn tiám yên ke ku-thí fe̍t yi̍t thí (yì khì yù). Sám tiám chhai 23 - 38°C">'''3'''</span> |
+4 = <span class="abbr" style="color: black;" title=" khó yên sin 4 kip. Chhai sòng vûn sòng ap hâ sín-suk fe̍t vàn-chhiòn hì fa, fe̍t yùng-yi pûn fûn san yî khûng-hì chûng chhiâ yùng-yi yên sêu (yì piáng vàn). Sám tiám tâi yî 23°C. ">'''4'''</span> |
+&nbsp;}}</div>
+<div title=" khien-không " style="
+background: transparent;
+width: 37.5px;
+height: 2em;
+text-align: center;
+vertical-align: middle;
+position: absolute;
+top: 33px;
+font-size: large;
+">{{#switch:{{{H|}}} |
+0 = <span class="abbr" style="color: black;" title=" khien-không ngùi hiám 0 kip. Phau lu chhai fó chûng sṳ̀ tui ngìn thí chho-sṳ̀n ke ngùi hoi put chhêu-ko yit-pân khó yên vu̍t (yì liu̍k fa na̍p). ">'''0'''</span> |
+1 = <span class="abbr" style="color: black;" title=" khien-không ngùi hiám 1 kip. Phau lu khó-nèn thô-chṳ put sṳt, than-he kiùn khó-nèn yû khiâng-mì chhṳ̀-sa sin sông hoi (yì chhiùng chiet yù). ">'''1'''</span> | 
+2 = <span class="abbr" style="color: black;" title=" khien-không ngùi hiám 2 kip. Kô nùng thu fe̍t chhṳ̀-sa sin phau lu khó-nèn thô-chṳ chhiam sṳ̀ sṳt-hi hàng-vì nèn-li̍t fe̍t khó-nèn chho-sṳ̀n chhṳ̀-sa sin sông hoi (yì liu̍k fóng). ">'''2'''</span> |
+3 = <span class="abbr" style="color: black;" title=" khien-không ngùi hiám 3 kip. Tón sṳ̀-kiên ke phau lu khó-nèn thô-chṳ ngiàm-chhùng ke chhiam sṳ̀ sin fe̍t chhṳ̀-sa sin sông hoi (yì liu̍k hì). ">'''3'''</span> |
+4 = <span class="abbr" style="color: black;" title=" khien-không ngùi hiám 4 kip. Tón sṳ̀-kiên ke phau lu khó-nèn fi thô-chṳ sí-mòng fe̍t chhùng-thai chhṳ̀-sa sin sông hoi (yì VX thu̍k hì) ">'''4'''</span> |
+&nbsp;}}</div>
+<div title=" fán-yin sin " style="
+background: transparent;
+width: 37.5px;
+height: 2em;
+text-align: center;
+vertical-align: middle;
+position: absolute;
+top: 33px;
+left: 37.5px;
+font-size: large;
+">{{#switch:{{{R|}}} |
+0 = <span class="abbr" style="color: black;" title=" fán-yin sin 0 kip. Thûng-sòng chhìn-khóng hâ vún thin, chit-sṳ́ phau lu yî mìn fó chûng ya put fán-yin, pin-chhiâ put lâu súi fán-yin (yì yi̍t tham). ">'''0'''</span> |
+1 = <span class="abbr" style="color: black;" title=" fán-yin sin 1 kip. Thûng-sòng chhìn-khóng hâ vún thin, than-he khó-nèn chhai kâ ngie̍t kâ ap ke thiàu-khien hâ pien tet put vún thin, fe̍t cho-tet lâu súi fat-sâng fán-yin (yì koi). ">'''1'''</span> | 
+2 = <span class="abbr" style="color: black;" title=" fán-yin sin 2 kip. Chhai kâ ngie̍t kâ ap thiàu-khien hâ fat-sâng khia̍k lie̍t Fa-ho̍k pien-fa, fe̍t lâu súi khia̍k lie̍t fán-yin, khó-nèn lâu súi fun-ha̍p heu fat-sâng pau cha (yì lìn). ">'''2'''</span> |
+3 = <span class="abbr" style="color: black;" title=" fán-yin sin 3 kip. Khó-nèn pau cha fûn-kié, than sî-yeu yit-ke khiòng ke yín-fat ngièn, pit-sî chhai me̍t pit sin yùng hi nui kâ ngie̍t fông khó yín-fat, lâu súi Pau-cha-sin fán-yin, fe̍t chhùng kit hâ pau cha (yì fuk hì). ">'''3'''</span> |
+4 = <span class="abbr" style="color: black;" title=" fán-yin sin 4 kip. Chhai sòng vûn sòng ap hâ chit khó pau cha fûn-kié (yì Siau-sôn kâm yù). ">'''4'''</span> |
+&nbsp;}}</div>
+<div title=" khì-thâ ngùi hiám " style="
+background: transparent;
+width: 75px;
+height: 2em;
+text-align: center;
+vertical-align: middle;
+position: absolute;
+top: 52px;
+font-size: small;
+">{{#switch:{{uc:{{{O|}}}}}|
+W = <span class="abbr" style="color: black;" title=" lâu súi fat-sâng thi̍t-sû fe̍t ngùi hiám ke fán-yin (yì set, na̍p) "><s>'''W'''</s></span> |
+OX = <span class="abbr" style="color: black;" title=" Yòng-fa tsì (yì kô liu̍k sôn kap) ">'''OX'''</span> |
+OXY = <span class="abbr" style="color: black;" title=" Yòng-fa tsì (yì kô liu̍k sôn kap) ">'''OX'''</span> |
+COR = <span class="abbr" style="color: black;" title=" fú-she̍t sin, khiòng sôn fe̍t Khiòng-kán (yì liû sôn, Khîn-yòng-fa kap) ">'''COR'''</span> |
+BIO = <span class="abbr" style="color: black;" title=" sâng-vu̍t ngùi hiám sin (yì thiên fâ phiang thu̍k) ">[[File:Biohazard symbol.Svg|20px]]</span> |
+CRY = <span class="abbr" style="color: black;" title=" tâi vûn, chiap-tshuk khó-nèn fi chho-sṳ̀n tung sông ">'''CRYO'''</span> |
+CRYO = <span class="abbr" style="color: black;" title=" tâi vûn, chiap-tshuk khó-nèn fi chho-sṳ̀n tung sông ">'''CRYO'''</span> |
+ACID = <span class="abbr" style="color: black;" title=" khiòng sôn ">'''ACID'''</span> |
+ALK = <span class="abbr" style="color: black;" title=" Khiòng-kán ">'''ALK'''</span> |
+RA = <span class="abbr" style="color: black;" title=" piong-sa-sin (yì 鈈) ">[[File:Radioactive.Svg|20px]]</span> |
+&nbsp;
+}}</div>
+</div>
+{{!}}-<noinclude>
+[[Category: Fa-ho̍k sin-sit khiông mù-pán |{{PAGENAME}}]]
+</noinclude>
