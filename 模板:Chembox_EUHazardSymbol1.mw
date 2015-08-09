@@ -1,0 +1,13 @@
+<div style="width:72px;float:left;text-align:center">{{#switch:{{{value|}}}
+| C = [[File:Hazard C.Svg|70px| fú-she̍t-sin]] fú-she̍t-sin '''C'''
+| E = [[File:Hazard E.Svg|70px| yi-pau]] yi-pau '''E'''
+| F = [[File:Hazard F.Svg|70px| yi-yên]] yi-yên '''F'''
+| F+ | FF = [[File:Hazard FF.Svg|70px| khi̍t yi-yên]] khi̍t yi-yên '''F+'''
+| N = [[File:Hazard N.Svg|70px| ngùi hoi fàn-kin]] ngùi hoi fàn-kin '''N'''
+| O = [[File:Hazard O.Svg|70px| Yòng-fa-sin]] Yòng-fa-sin '''O'''
+| T = [[File:Hazard T.Svg|70px| yû-thu̍k]] yû-thu̍k '''T'''
+| T+ | TT = [[File:Hazard TT.Svg|70px| khia̍k-thu̍k]] khia̍k-thu̍k '''T+'''
+| Xn | XN = [[File:Hazard X.Svg|70px| yû-hoi]] yû-hoi '''Xn'''
+| Xi | XI | I = [[File:Hazard Xi.Svg|70px| chhiuk-kit-sin]] chhiuk-kit-sin '''Xi'''
+|? | #default = [[File:Blank hazard clean.Svg|70px| ngùi hiám sin fù-ho vi-tî]] vi-tî '''?'''
+}}</div>
