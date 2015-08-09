@@ -1,0 +1,10 @@
+<includeonly>{{#if:{{{OtherAnions|}}}{{{ khì-thâ yîm lì chṳ́ |}}}{{{ khì-thâ yîm lì chṳ́ |}}}{{{OtherCations|}}}{{{ khì-thâ yòng lì chṳ́ |}}}{{{ khì-thâ yòng lì chṳ́ |}}}{{{OtherFunctn|}}}{{{Function|}}}{{{OtherCpds|}}}{{{ siông-kôan Fa-ho̍k phín |}}}{{{ siông-kôan Fa-ho̍k phín |}}}|! {{Chembox header}} {{!}} siông-kôan vu̍t-chṳt {{{Reference|{{{ chhâm-kháu |{{{ chhâm-kháu |}}}}}}}}}
+{{!}}-
+{{Chembox entry|par_name={{#if:{{{OtherAnions|}}}{{{ khì-thâ yîm lì chṳ́ |}}}{{{ khì-thâ yîm lì chṳ́ |}}}|OtherAnions }}|par_value={{#if:{{{OtherAnions|}}}{{{ khì-thâ yîm lì chṳ́ |}}}{{{ khì-thâ yîm lì chṳ́ |}}}|{{{OtherAnions|{{{ khì-thâ yîm lì chṳ́ |{{{ khì-thâ yîm lì chṳ́ }}}}}}}}} }} }}
+{{Chembox entry|par_name={{#if:{{{OtherCations|}}}{{{ khì-thâ yòng lì chṳ́ |}}}{{{ khì-thâ yòng lì chṳ́ |}}}|OtherCations }}|par_value={{#if:{{{OtherCations|}}}{{{ khì-thâ yòng lì chṳ́ |}}}{{{ khì-thâ yòng lì chṳ́ |}}}|{{{OtherCations|{{{ khì-thâ yòng lì chṳ́ |{{{ khì-thâ yòng lì chṳ́ }}}}}}}}} }} }}
+{{Chembox entry|par_name={{#if:{{{OtherFunctn|}}}|OtherFunctn }}|par_value={{#if:{{{OtherFunctn|}}}|{{{OtherFunctn}}} }} |par_label={{#if:{{{Function|}}}|{{{Function}}} }} }}
+{{Chembox entry|par_name={{#if:{{{OtherFunctn1|}}}|OtherFunctn }}|par_value={{#if:{{{OtherFunctn1|}}}|{{{OtherFunctn1}}} }} |par_label={{#if:{{{Function1|}}}|{{{Function1}}} }} }}
+{{Chembox entry|par_name={{#if:{{{OtherFunctn2|}}}|OtherFunctn }}|par_value={{#if:{{{OtherFunctn2|}}}|{{{OtherFunctn2}}} }} |par_label={{#if:{{{Function2|}}}|{{{Function2}}} }} }}
+{{Chembox entry|par_name={{#if:{{{OtherFunctn3|}}}|OtherFunctn }}|par_value={{#if:{{{OtherFunctn3|}}}|{{{OtherFunctn3}}} }} |par_label={{#if:{{{Function3|}}}|{{{Function3}}} }} }}
+{{Chembox entry|par_name={{#if:{{{OtherCpds|}}}{{{ siông-kôan Fa-ho̍k phín |}}}{{{ siông-kôan Fa-ho̍k phín |}}}|OtherCpds }}|par_value={{#if:{{{OtherCpds|}}}{{{ siông-kôan Fa-ho̍k phín |}}}{{{ siông-kôan Fa-ho̍k phín |}}}|{{{OtherCpds|{{{ siông-kôan Fa-ho̍k phín |{{{ siông-kôan Fa-ho̍k phín }}}}}}}}} }} }} }}
+</includeonly><noinclude>{{Documentation}}</noinclude>
