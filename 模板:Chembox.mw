@@ -1,0 +1,89 @@
+<includeonly><!-- No "Subst", please. Thank you! Chhiet vút yung Subst chán-khôi chhṳ́ mù-pán, yì kó Nên chhai ngim-hò thiàu-muk khon-to pún vùn, chhiáng chhiùng mù-pán:Chembox ke sot-mìn vùn tóng chûng fu̍k-chṳ vi chán-khôi mù-pán, thiàm chhûng siông-yin sú-kí, pin yì-chhù khiu ke yí chán-khôi mù-pán. Chhia chhia! -->{| class="infobox bordered nounderlines" cellspacing="0" cellpadding="3" rules="all" style="background-color:#f0f0f0; float:right; margin: 0 0 1em 1em; border-color: #aaaaaa; border-style:solid; border:1px; border-collapse:collapse; empty-cells:show; width:{{#if:{{{BoxWidth|}}}|{{{BoxWidth}}}|{{#if:{{{width|}}}|{{{width}}}|305px}}}}; font-size:90%;"
+! Colspan="2" style="font-size:120%; text-align:center; background:#d6e0dc;" | {{#if:{{{Name|}}}{{{ miàng-chhṳ̂n |}}}{{{ miàng-chhṳ̂n |}}}|{{{Name|{{{ miàng-chhṳ̂n |{{{ miàng-chhṳ̂n }}}}}}}}}|{{PAGENAME}}}}{{{Reference|{{{ chhâm-kháu |{{{ chhâm-kháu |}}}}}}}}}
+|-
+{{#if:{{{ImageFile|}}}{{{ thù chhiong tóng on |}}}{{{ thù chhiong vùn-khien |}}}{{{ImageFile1|}}}{{{ thù chhiong tóng on 1|}}}{{{ thù chhiong vùn-khien 1|}}}{{{ImageFile2|}}}{{{ImageFile3|}}}{{{ImageFileL1|}}}{{{ thù chhiong tóng on chó 1|}}}{{{ thù chhiong vùn-khien chó 1|}}}{{{ImageFileR1|}}}{{{ thù chhiong tóng on yu 1|}}}{{{ thù chhiong vùn-khien yu 1|}}}{{{ImageFileL2|}}}{{{ImageFileR2|}}}{{{CustomizedImage|}}}{{{ thin chṳ thù chhiong |}}}{{{ thin chṳ thù chhiong |}}}
+|{{Chembox image
+|par_name={{{ImageName|{{{ thù chhiong miàng-chhṳ̂n |{{{ thù chhiong miàng-chhṳ̂n |}}}}}}}}}
+|par_value={{{ImageFile|{{{ thù chhiong tóng on |{{{ thù chhiong vùn-khien |}}}}}}}}}
+|par_size={{px|{{{ImageSize|{{{ thù chhiong thai-séu |{{{ thù chhiong thai-séu |}}}}}}}}}|200px}} 
+|par_alt={{{ImageAlt|{{{ thù chhiong thoi von |{{{ thù chhiong thoi von |}}}}}}}}} }}
+{{Chembox image
+|par_name={{{ImageName1|{{{ thù chhiong miàng-chhṳ̂n 1|{{{ thù chhiong miàng-chhṳ̂n 1|}}}}}}}}}
+|par_value={{{ImageFile1|{{{ thù chhiong tóng on 1|{{{ thù chhiong vùn-khien 1|}}}}}}}}}
+|par_size={{px|{{{ImageSize1|{{{ thù chhiong thai-séu 1|{{{ thù chhiong thai-séu 1|}}}}}}}}}|200px}} 
+|par_alt={{{ImageAlt1|{{{ thù chhiong thoi von 1|{{{ thù chhiong thoi von 1|}}}}}}}}} }}
+{{Chembox image sbs
+|par_nameL={{{ImageNameL1|{{{ thù chhiong miàng-chhṳ̂n chó 1|{{{ thù chhiong miàng-chhṳ̂n chó 1|}}}}}}}}}
+|par_nameR={{{ImageNameR1|{{{ thù chhiong miàng-chhṳ̂n yu 1|{{{ thù chhiong miàng-chhṳ̂n yu 1|}}}}}}}}}
+|par_valueL={{{ImageFileL1|{{{ thù chhiong tóng on chó 1|{{{ thù chhiong vùn-khien chó 1|}}}}}}}}}
+|par_valueR={{{ImageFileR1|{{{ thù chhiong tóng on yu 1|{{{ thù chhiong vùn-khien yu 1|}}}}}}}}}
+|par_sizeL={{px|{{{ImageSizeL1|{{{ thù chhiong thai-séu chó 1|{{{ thù chhiong thai-séu chó 1|}}}}}}}}}|100px}}
+|par_sizeR={{px|{{{ImageSizeR1|{{{ thù chhiong thai-séu yu 1|{{{ thù chhiong thai-séu yu 1|}}}}}}}}}|100px}}
+|par_styleL={{{ImageStyleL1|{{{ thù chhiong ngióng sṳt chó 1|{{{ thù chhiong ngióng sṳt chó 1|}}}}}}}}}
+|par_styleR={{{ImageStyleR1|{{{ thù chhiong ngióng sṳt yu 1|{{{ thù chhiong ngióng sṳt yu 1|}}}}}}}}}
+|par_altL={{{ImageAltL1|{{{ thù chhiong thoi von chó 1|{{{ thù chhiong thoi von chó 1|}}}}}}}}}
+|par_altR={{{ImageAltR1|{{{ thù chhiong thoi von yu 1|{{{ thù chhiong thoi von yu 1|}}}}}}}}} }}
+{{Chembox image
+|par_name={{#if:{{{ImageName2|}}}|{{{ImageName2}}} }} 
+|par_value={{#if:{{{ImageFile2|}}}|{{{ImageFile2}}} }}
+|par_size={{px|{{{ImageSize2|}}}|200px}} |par_alt={{{ImageAlt2|}}} }}
+{{Chembox image sbs
+|par_nameL={{#if:{{{ImageNameL2|}}}|{{{ImageNameL2}}} }} 
+|par_valueL={{#if:{{{ImageFileL2|}}}|{{{ImageFileL2}}} }}
+|par_sizeL={{px|{{{ImageSizeL2|}}}|100px}} 
+|par_styleL={{#if:{{{ImageStyleL2|}}}|{{{ImageStyleL2}}} }} 
+|par_altL={{{ImageAltL2|}}} |par_altR={{{ImageAltR2|}}} 
+|par_styleR={{#if:{{{ImageStyleR2|}}}|{{{ImageStyleR2}}} }} 
+|par_nameR={{#if:{{{ImageNameR2|}}}|{{{ImageNameR2}}} }} 
+|par_valueR={{#if:{{{ImageFileR2|}}}|{{{ImageFileR2}}} }}
+|par_sizeR={{px|{{{ImageSizeR2|}}}|100px}} }}
+{{Chembox image
+|par_name={{#if:{{{ImageName3|}}}
+|{{{ImageName3}}} }} 
+|par_value={{#if:{{{ImageFile3|}}}
+|{{{ImageFile3}}} }}
+|par_size={{px|{{{ImageSize3|}}}|200px}} 
+|par_alt={{{ImageAlt3|}}} }}
+{{Chembox image freestyle
+|par_value={{{CustomizedImage|{{{ thin chṳ thù chhiong |{{{ thin chṳ thù chhiong |}}}}}}}}} }} 
+|{{#ifexist:File:{{PAGENAME}}.Svg
+|{{Chembox image
+|par_name=ImageFile
+|par_value={{PAGENAME}}.Svg
+|par_size={{px|{{{ImageSize|}}}|200px}}
+|par_alt={{{ImageAlt|}}}}} |
+{{#ifexist:File:{{PAGENAME}}.Png|{{Chembox image|par_name=ImageFile|par_value={{PAGENAME}}.Png|par_size={{px|{{{ImageSize|}}}|200px}}|par_alt={{{ImageAlt|}}}}} | 
+{{#ifexist:File:{{PAGENAME}}.Gif|{{Chembox image|par_name=ImageFile|par_value={{PAGENAME}}.Gif|par_size={{px|{{{ImageSize|}}}|200px}}|par_alt={{{ImageAlt|}}}}} | 
+{{#ifexist:File:{{PAGENAME}}.Jpg|{{Chembox image|par_name=ImageFile|par_value={{PAGENAME}}.Jpg|par_size={{px|{{{ImageSize|}}}|200px}}|par_alt={{{ImageAlt|}}}}} | 
+{{#ifeq: {{NAMESPACE}} | {{ns:0}} | [[Category: khiet séu kiet-kèu sṳt ke Fa-ho̍k phín thiàu-muk]] }} }} }} }} }}
+}}
+{{Chembox entry|par_name={{#if:{{{IUPACName|}}}{{{IUPAC Yîn |}}}{{{IUPACNameZh|}}}{{{IUPAC chûng |}}}|IUPACName }}| par_value={{{IUPACName|{{{IUPAC Yîn |}}}}}}|par_value1={{{IUPACNameZh|{{{IUPAC chûng |}}}}}}}}
+{{Chembox entry|par_name={{#if:{{{SystematicName|}}}{{{ hì-thúng miàng |}}}{{{ hì-thúng miàng |}}}{{{SystematicNameZh|}}}{{{ chûng-vùn hì-thúng miàng |}}}{{{ chûng-vùn hì-thúng miàng |}}}|SystematicName }}|par_value={{{SystematicName|{{{ hì-thúng miàng |{{{ hì-thúng miàng |}}}}}}}}}|par_value1={{{SystematicNameZh|{{{ chûng-vùn hì-thúng miàng |{{{ chûng-vùn hì-thúng miàng |}}}}}}}}}}}
+{{Chembox entry|par_name={{#if:{{{NameEn|}}}{{{ Yîn-vùn miàng |}}}|NameEn }}|par_value={{lang|en|{{{NameEn|{{{ Yîn-vùn miàng |}}}}}}}}}}
+{{Chembox entry|par_name={{#if:{{{OtherNames|}}}{{{ phe̍t miàng |}}}{{{ phe̍t miàng |}}}|OtherNames }}|par_value={{{OtherNames|{{{ phe̍t miàng |{{{ phe̍t miàng |}}}}}}}}}}}
+{{Chembox entry|par_name={{#if:{{{Abbreviations|}}}{{{ suk-siá |}}}{{{ suk-siá |}}}|Abbreviations }}|par_value={{lang|en|{{{Abbreviations|{{{ suk-siá |{{{ suk-siá |}}}}}}}}}}}}}
+{{Chembox entry|par_name={{#if:{{{INN|}}}{{{rINN|}}}{{{pINN|}}}{{{CADN|}}}{{{USAN|}}}{{{BAN|}}}|INN }}|par_value={{#if:{{{INN|}}}{{{rINN|}}}{{{pINN|}}}|{{{INN|{{{rINN|{{{pINN}}}}}}}}} }}|par_value1={{#if:{{{CADN|}}}|{{{CADN}}} }}|par_value2={{#if:{{{USAN|}}}|{{{USAN}}} }}|par_value3={{#if:{{{BAN|}}}|{{{BAN}}} }}|par_label={{#if:{{{rINN|}}}|rINN|{{#if:{{{pINN|}}}|pINN}} }} }}
+{{{Section1|}}}
+{{{Section2|}}}
+{{{Section3|}}}
+{{{Section4|}}}
+{{{Section5|}}}
+{{{Section6|}}}
+{{{Section7|}}}
+{{{Section8|}}}
+{{{Section9|}}}
+{{{Section10|}}}
+{{{Section11|}}}
+{{{Section12|}}}
+{{{Section13|}}}
+{{{Section14|}}}
+{{{Section15|}}}
+{{#ifexist:File:{{PAGENAME}}/ sú-kí ya̍p |{{Chembox Supplement|DataSheet = {{PAGENAME}}/ sú-kí ya̍p }}|
+{{#ifexist:File:{{PAGENAME}}/ sú-kí ya̍p |{{Chembox Supplement|DataSheet = {{PAGENAME}}/ sú-kí ya̍p }}|
+{{#if:{{{DataSheetEn|}}}|{{Chembox Supplement|DataSheetEn = {{{DataSheetEn}}} }}|
+{{#ifeq: {{NAMESPACE}} | {{ns:0}} | [[Category: mò fu-kâ sú-kí ya̍p ke Fa-ho̍k thiàu-muk]] }} }} }} }}
+| {{Chembox header}} | ngiâ fî chu mìn, só-yû sú-kí kiûn chhut chhṳ [[yit-pân thiàu-khien | yit-pân thiàu-khien (25 ℃, 100 kPa)]] hâ. 
+|}</includeonly><noinclude>
+{{Esoteric}}
+{{Documentation}}
+</noinclude>
