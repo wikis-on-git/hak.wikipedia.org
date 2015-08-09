@@ -1,0 +1,37 @@
+<includeonly>{{#if:{{{ExternalMSDS|}}}{{{EUHazardSymbol|}}}{{{wxxfh|}}}{{{EUIndex|}}}{{{EUClass|}}}{{{RPhrases|}}}{{{SPhrases|}}}{{{RSPhrases|}}}{{{GHSPictograms|}}}{{{GHSSignalWord|}}}{{{HPhrases|}}}{{{PPhrases|}}}{{{MainHazards|}}}{{{ chú-yeu ngùi hiám |}}}{{{ chú-yeu ngùi hiám |}}}{{{InhalationHazard|}}}{{{IngestionHazard|}}}{{{SkinHazard|}}}{{{EyeHazard|}}}{{{NFPA-H|}}}{{{NFPA-F|}}}{{{NFPA-R|}}}{{{NFPA-O|}}}{{{FlashPt|}}}{{{ sám tiám |}}}{{{ sám tiám |}}}{{{Autoignition|}}}{{{ chhṳ yên tiám |}}}{{{ chhṳ yên tiám |}}}{{{ExploLimits|}}}{{{TLV|}}}{{{TLV-TWA|}}}{{{TLV-STEL|}}}{{{TLV-C|}}}{{{MAK|}}}{{{MELS|}}}{{{PEL|}}}{{{LD50|}}}{{{LC50|}}}{{{LCt50|}}}|! {{Chembox header}} {{!}} ngùi hiám sin {{{Reference|{{{ chhâm-kháu |{{{ chhâm-kháu |}}}}}}}}}
+{{!}}-
+{{#if:{{{EUHazardSymbol|}}}{{{wxxfh|}}}|{{!}} align="center" colspan="2" {{!}}[[ngùi hiám sin fù-ho # Êu-mèn ke ngùi hiám sin fù-ho | Êu-mèn ngùi hiám sin fù-ho]]{{#ifeq: {{uc:{{{EUHSref|}}}}}|NO|{{#tag:ref| chhṳ́ Fa-ho̍k vu̍t-chṳt mò kôn-fông ke Êu-mèn ôn-chhiòn sin fûn-lui, fe̍t mò khó-kho ke fûn-lui chhâm-kháu lòi-ngièn }}|{{{EUHSref|}}} }}<br />{{#if:{{{EUHazardSymbol|}}}|{{{EUHazardSymbol}}}|{{{wxxfh}}}}}
+{{!}}-}}
+{{#if:{{{RPhrases|}}}|{{Chembox RPhrases| value={{{RPhrases}}} }} }}
+{{#if:{{{SPhrases|}}}|{{Chembox SPhrases| value={{{SPhrases}}} }} }}
+{{#if:{{{ExternalMSDS|}}}|{{Chembox ExternalMSDS| value={{{ExternalMSDS}}} }} }}
+{{#if:{{{HazardSymbol|}}}|{{Chembox HazardSymbol| value={{{HazardSymbol}}} }} }}
+{{#if:{{{EUIndex|}}}|{{Chembox EUIndex| value={{{EUIndex}}} }} }}
+{{#if:{{{EUClass|}}}|{{Chembox EUClass| value={{{EUClass}}} }} }}
+{{#if:{{{RPhrases|}}}{{{SPhrases|}}}{{{RSPhrases|}}}|
+{{#if:{{{RSPhrases|}}}|{{Chembox RSPhrases| value={{{RSPhrases}}} }} }} }}
+{{#if:{{{GHSPictograms|}}}{{{GHSSignalWord|}}}{{{HPhrases|}}}{{{PPhrases|}}}|
+{{#if:{{{GHSPictograms|}}}|{{!}} align="center" colspan="2" {{!}}[[chhiòn-khiù Fa-ho̍k phín thúng-yit-fûn-lui fò phiêu tshiam chṳ-thu |GHS ngùi hiám sin fù-ho]]{{#ifeq: {{uc:{{{GHSref|}}}}}|NO|{{#tag:ref| chhṳ́ Fa-ho̍k vu̍t-chṳt mò khó-kho ke ngùi hiám phín fûn-lui chhâm-kháu lòi-ngièn }}|{{{GHSref|}}} }}<br />{{{GHSPictograms}}}
+{{!}}-}}
+{{#if:{{{GHSSignalWord|}}}|{{Chembox GHSSignalWord| value={{{GHSSignalWord}}} }} }}
+{{#if:{{{HPhrases|}}}|{{Chembox HPhrases| value={{{HPhrases}}} }} }}
+{{#if:{{{PPhrases|}}}|{{Chembox PPhrases| value={{{PPhrases}}} }} }} }}
+{{#if:{{{MainHazards|}}}{{{ chú-yeu ngùi hiám |}}}{{{ chú-yeu ngùi hiám |}}}|{{Chembox MainHazards| value={{{MainHazards|{{{ chú-yeu ngùi hiám |{{{ chú-yeu ngùi hiám }}}}}}}}} }} }}
+{{#if:{{{IngestionHazard|}}}|{{Chembox IngestionHazard| value={{{IngestionHazard}}} }} }}
+{{#if:{{{InhalationHazard|}}}|{{Chembox InhalationHazard| value={{{InhalationHazard}}} }} }}
+{{#if:{{{EyeHazard|}}}|{{Chembox EyeHazard| value={{{EyeHazard}}} }} }}
+{{#if:{{{SkinHazard|}}}|{{Chembox SkinHazard| value={{{SkinHazard}}} }} }} 
+{{#if:{{{NFPA-H|}}}{{{NFPA-F|}}}{{{NFPA-R|}}}{{{NFPA-O|}}}|
+{{Chembox NFPA|par_H={{#ifeq:{{{NFPA-H}}}||0|{{{NFPA-H}}}}}|par_F={{#ifeq:{{{NFPA-F}}}||0|{{{NFPA-F}}}}}|par_R={{#ifeq:{{{NFPA-R}}}||0|{{{NFPA-R}}}}}|par_O={{{NFPA-O|}}} }} 
+}}
+{{#if:{{{FlashPt|}}}{{{ sám tiám |}}}{{{ sám tiám |}}}|{{Chembox FlashPt| value={{{FlashPt|{{{ sám tiám |{{{ sám tiám }}}}}}}}} }} }}
+{{#if:{{{Autoignition|}}}{{{ chhṳ yên tiám |}}}{{{ chhṳ yên tiám |}}}|{{Chembox Autoignition| value={{{Autoignition|{{{ chhṳ yên tiám |{{{ chhṳ yên tiám }}}}}}}}} }} }}
+{{#if:{{{ExploLimits|}}}|{{Chembox ExploLimits| value={{{ExploLimits}}} }} }}
+{{#if:{{{PEL|}}}|{{Chembox PEL| value={{{PEL}}} }} }}
+{{#if:{{{TLV|}}}{{{TLV-TWA|}}}{{{TLV-STEL|}}}{{{TLV-C|}}}|{{Chembox TLV| value={{{TLV}}}|value1={{{TLV-TWA|}}}|value2={{{TLV-STEL|}}}|value3={{{TLV-C|}}} }} }}
+{{#if:{{{MAK|}}}|{{Chembox TLV| value={{{MAK|}}}|label=MAK}} }}
+{{#if:{{{MELS|}}}|{{Chembox TLV| value={{{MELS|}}}|label=MELS}} }}
+{{#if:{{{LD50|}}}|{{Chembox LD50| value={{{LD50}}} }} }}
+{{#if:{{{LC50|}}}|{{Chembox LD50| value={{{LC50}}}| label=C}} }}
+{{#if:{{{LCt50|}}}|{{Chembox LD50| value={{{LCt50}}}| label=Ct }} }}
+}}</includeonly><noinclude>{{Documentation}}</noinclude>
