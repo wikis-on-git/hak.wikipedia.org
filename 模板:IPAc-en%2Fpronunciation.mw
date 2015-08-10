@@ -1,0 +1,13 @@
+{{#switch:{{lc:{{{type|{{{1}}}}}}}}
+|lang
+|english = <small> Yîn-ngî </small>
+|pron
+|pronunciation = <small> fat-yîm: </small>
+|local = <small> tông-thi </small>
+|ipa = <small>[[Koet-chi Yîm-phiêu |IPA]]</small>
+|us = <small>[[Mî-koet Yîn-ngî |US]]</small>
+|uk = <small>[[Yîn-koet Yîn-ngî |UK]]</small>
+|#default = <!-- NULL -->
+}}<noinclude>
+{{documentation}}
+</noinclude>
