@@ -1,0 +1,6 @@
+<includeonly><span id="noteTag-cite_ref-sup">{{{{{subst|}}}#if:{{{name|}}}
+|{{{{{subst|}}}#tag:ref|{{{1|}}}|group= chu |name={{{name}}}}}
+|{{{{{subst|}}}#tag:ref|{{{1|}}}|group= chu }}
+}}</span></includeonly><noinclude>
+{{ mù-pán vùn tóng |Template:RefFoot/doc}}
+</noinclude>
