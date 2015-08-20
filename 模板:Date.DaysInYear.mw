@@ -1,0 +1,15 @@
+{{#switch:{{{2|{{CURRENTMONTH}}}}}
+ |1={{#expr:{{{1|{{CURRENTDAY}}}}} }}
+ |2={{#expr:31 + {{{1|{{CURRENTDAY}}}}} }}
+ |3={{#expr:31 + {{#expr:28 + {{Date.IsLeapYear|{{{3|1}}}}} }} + {{{1|{{CURRENTDAY}}}}} }}
+ |4={{#expr:31 + {{#expr:28 + {{Date.IsLeapYear|{{{3|1}}}}} }} + 31 + {{{1|{{CURRENTDAY}}}}} }}
+ |5={{#expr:31 + {{#expr:28 + {{Date.IsLeapYear|{{{3|1}}}}} }} + 31 + 30 + {{{1|{{CURRENTDAY}}}}} }}
+ |6={{#expr:31 + {{#expr:28 + {{Date.IsLeapYear|{{{3|1}}}}} }} + 31 + 30 + 31 + {{{1|{{CURRENTDAY}}}}} }}
+ |7={{#expr:31 + {{#expr:28 + {{Date.IsLeapYear|{{{3|1}}}}} }} + 31 + 30 + 31 + 30 + {{{1|{{CURRENTDAY}}}}} }}
+ |8={{#expr:31 + {{#expr:28 + {{Date.IsLeapYear|{{{3|1}}}}} }} + 31 + 30 + 31 + 30 + 31 + {{{1|{{CURRENTDAY}}}}} }}
+ |9={{#expr:31 + {{#expr:28 + {{Date.IsLeapYear|{{{3|1}}}}} }} + 31 + 30 + 31 + 30 + 31 + 31 + {{{1|{{CURRENTDAY}}}}} }}
+ |10={{#expr:31 + {{#expr:28 + {{Date.IsLeapYear|{{{3|1}}}}} }} + 31 + 30 + 31 + 30 + 31 + 31 + 30 + {{{1|{{CURRENTDAY}}}}} }}
+ |11={{#expr:31 + {{#expr:28 + {{Date.IsLeapYear|{{{3|1}}}}} }} + 31 + 30 + 31 + 30 + 31 + 31 + 30 + 31 + {{{1|{{CURRENTDAY}}}}} }}
+ |12={{#expr:31 + {{#expr:28 + {{Date.IsLeapYear|{{{3|1}}}}} }} + 31 + 30 + 31 + 30 + 31 + 31 + 30 + 31 + 30 + {{{1|{{CURRENTDAY}}}}} }}
+ |#default={{{1|{{CURRENTDAY}}}}}
+}}
