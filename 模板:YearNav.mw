@@ -17,8 +17,4 @@
 |style="text-align: center;border-top: dotted 1px #cccccc;"|{{#ifexpr:{{{1|{{CURRENTYEAR}}}}} > 1911|[[Chûng-fà Mìn-koet|Mìn-koet]] {{#expr:{{{1|{{CURRENTYEAR}}}}}-1911}} ngièn {{#if: {{{other|{{{ khì-thâ |{{{2|}}}}}}}}}|, <br/>}}}}{{{other|{{{ khì-thâ |{{{2|}}}}}}}}}
 |}
 '''{{{1|{{CURRENTYEAR}}}}}-ngièn ''' he [[{{#ifeq:{{yùn-ngièn|{{{1|{{CURRENTYEAR}}}}}}}|1|Yùn-ngièn|Phìn-ngièn}}]], Ngièn-tàn he [[{{#switch: {{{3|{{#time:D|{{{1|{{CURRENTYEAR}}}}}-1-1}}}}} | 日=lî-pai-ngit|一=lî-pai-yit|二=lî-pai-ngi|三=lî-pai-sâm|四=lî-pai-si|五=lî-pai-ńg|六=lî-pai-liuk|error day name!}}]].
-<!--
-<includeonly>[[Category:{{{1}}}-ngièn |]]</includeonly><noinclude>
-{{Template: ngièn thoi / kié }}
-</noinclude>
--->
+<includeonly>[[Category:{{{1}}}-ngièn |]]</includeonly><noinclude>{{Template: ngièn thoi / kié }}</noinclude>
