@@ -1,0 +1,3 @@
+{{#expr: 1 - {{#time: w | {{{2|{{CURRENTMONTH}}}}}/1/{{{1|{{CURRENTYEAR}}}}} }} }}<noinclude>
+[[zh-yue:Template:OffsetDayInMonth]]
+</noinclude>
