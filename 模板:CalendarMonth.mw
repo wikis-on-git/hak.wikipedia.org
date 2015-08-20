@@ -1,0 +1,81 @@
+{| style="width: 100%; background: none; text-align: center;"
+|-
+|style="background: {{{4|#FFD700}}};"| [[lî-pai-ngit|<span style="color:red;">LP</span>]]
+|style="background: {{{4|#ccccff}}};"| [[lî-pai-yit|P1]]
+|style="background: {{{4|#ccccff}}};"| [[lî-pai-ngi|P2]]
+|style="background: {{{4|#ccccff}}};"| [[lî-pai-sâm|P3]]
+|style="background: {{{4|#ccccff}}};"| [[lî-pai-si|P4]]
+|style="background: {{{4|#ccccff}}};"| [[lî-pai-ńg|P5]]
+|style="background: {{{4|#ccccff}}};"| [[lî-pai-liuk|P6]]
+|- style="background:none; text-align:center;"
+|{{#ifexpr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 0 > 0
+  | [[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 0 }}-ngit    |<span style="color:red;">{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 0 }}</span>]] }} 
+|{{#ifexpr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 1 > 0
+  | [[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 1 }}-ngit    |{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 1 }}]] }} 
+|{{#ifexpr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 2 > 0
+  | [[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 2 }}-ngit    |{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 2 }}]] }} 
+|{{#ifexpr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 3 > 0
+  | [[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 3 }}-ngit    |{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 3 }}]] }} 
+|{{#ifexpr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 4 > 0
+  | [[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 4 }}-ngit    |{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 4 }}]] }} 
+|{{#ifexpr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 5 > 0
+  | [[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 5 }}-ngit    |{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 5 }}]] }} 
+|{{#ifexpr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 6 > 0
+  | [[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 6 }}-ngit    |{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 6 }}]] }} 
+|-
+|[[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 7 }}-ngit    |<span style="color:red;">{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 7 }}</span>]]
+|[[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 8 }}-ngit    |{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 8 }}]]
+|[[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 9 }}-ngit    |{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 9 }}]]
+|[[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 10 }}-ngit    |{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 10 }}]]
+|[[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 11 }}-ngit    |{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 11 }}]]
+|[[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 12 }}-ngit    |{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 12 }}]]
+|[[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 13 }}-ngit    |{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 13 }}]]
+|-
+|[[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 14 }}-ngit    |<span style="color:red;">{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 14 }}</span>]]
+|[[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 15 }}-ngit    |{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 15 }}]]
+|[[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 16 }}-ngit    |{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 16 }}]]
+|[[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 17 }}-ngit    |{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 17 }}]]
+|[[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 18 }}-ngit    |{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 18 }}]]
+|[[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 19 }}-ngit    |{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 19 }}]]
+|[[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 20 }}-ngit    |{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 20 }}]]
+|-
+|[[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 21 }}-ngit    |<span style="color:red;">{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 21 }}</span>]]
+|[[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 22 }}-ngit    |{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 22 }}]]
+|[[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 23 }}-ngit    |{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 23 }}]]
+|[[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 24 }}-ngit    |{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 24 }}]]
+|[[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 25 }}-ngit    |{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 25 }}]]
+|[[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 26 }}-ngit    |{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 26 }}]]
+|[[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 27 }}-ngit    |{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 27 }}]]
+|-
+|{{#ifexpr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 28 <= {{Date.DaysInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}}
+  | [[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 28 }}-ngit    |<span style="color:red;">{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 28 }}</span>]] }} 
+|{{#ifexpr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 29 <= {{Date.DaysInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}}
+  | [[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 29 }}-ngit    |{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 29 }}]] }} 
+|{{#ifexpr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 30 <= {{Date.DaysInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}}
+  | [[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 30 }}-ngit    |{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 30 }}]] }} 
+|{{#ifexpr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 31 <= {{Date.DaysInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}}
+  | [[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 31 }}-ngit    |{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 31 }}]] }} 
+|{{#ifexpr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 32 <= {{Date.DaysInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}}
+  | [[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 32 }}-ngit    |{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 32 }}]] }} 
+|{{#ifexpr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 33 <= {{Date.DaysInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}}
+  | [[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 33 }}-ngit    |{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 33 }}]] }} 
+|{{#ifexpr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 34 <= {{Date.DaysInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}}
+  | [[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 34 }}-ngit    |{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 34 }}]] }} 
+|-
+|{{#ifexpr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 35 <= {{Date.DaysInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}}
+  | [[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 35 }}-ngit    |<span style="color:red;">{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 35 }}</span>]] }} 
+|{{#ifexpr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 36 <= {{Date.DaysInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}}
+  | [[{{{3|}}}{{{2|{{CURRENTMONTH}}}}}-ngie̍t {{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 36 }}-ngit    |{{#expr: {{OffsetDayInMonth|{{{1|{{CURRENTYEAR}}}}}|{{{2|{{CURRENTMONTH}}}}}}} + 36 }}]] }} 
+|
+|
+|
+|
+|
+|}<noinclude>
+
+==yung==
+ <nowiki>{{</nowiki>{{PAGENAME}}<nowiki>|年|月|目標前綴}}</nowiki>
+
+[[zh-yue:Template:CalendarMonth]]
+[[Category:Sṳ̀-kiên|{{PAGENAME}}]]
+</noinclude>
