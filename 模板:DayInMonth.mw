@@ -1,0 +1,11 @@
+{| align=right id=toc style="margin-left: 15px;width:175px"
+|- style="background:#ccccff"
+|colspan="7" align="center" bgcolor="#ccccff"|[[{{#time: n | {{{1|{{CURRENTMONTH}}}}}/1/{{CURRENTYEAR}} -1 months}}-ngie̍t|<<]] - '''[[{{#time: n | {{{1|{{CURRENTMONTH}}}}}/1/{{CURRENTYEAR}}}}-ngie̍t]]''' - [[{{#time: n | {{{1|{{CURRENTMONTH}}}}}/1/{{CURRENTYEAR}} +1 months}}-ngie̍t|>>]]
+|- style="text-align:center;"
+| {{CalendarMonth|{{CURRENTYEAR}}|{{{1|{{CURRENTMONTH}}}}}}}
+|- style="background:#ccccff"
+|colspan="7" align="center" bgcolor="#ccccff"| <small>[[{{CURRENTYEAR}}-ngièn]] ke ngit-chṳ</small>
+|}
+<includeonly>
+[[Category:{{{1|{{CURRENTMONTH}}}}}-ngie̍t]]
+</includeonly>
