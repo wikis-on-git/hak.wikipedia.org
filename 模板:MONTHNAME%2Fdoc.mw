@@ -7,11 +7,11 @@
 <nowiki>{{MONTHNAME| </nowiki>''阿拉伯數字''<nowiki> }}</nowiki>
 
 == 範例 ==
-*<nowiki>{{MONTHNAME|12}}</nowiki> → {{MONTHNAME|12}}
+*<nowiki>{{MONTHNAME|12}}</nowiki> → 12月
 
-*<nowiki>{{MONTHNAME|2}}</nowiki> → {{MONTHNAME|2}}
+*<nowiki>{{MONTHNAME|2}}</nowiki> → 2月
 
-*<nowiki>{{MONTHNAME|02}}</nowiki> → {{MONTHNAME|02}}
+*<nowiki>{{MONTHNAME|02}}</nowiki> → 2月
 
 == 注意事项 ==
 
