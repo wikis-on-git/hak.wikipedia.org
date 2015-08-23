@@ -1,0 +1,53 @@
+<noinclude>{{template doc page viewed directly}}</noinclude>
+<!-- EDIT TEMPLATE DOCUMENTATION BELOW THIS LINE -->
+
+== 用法 ==
+模板'''{{tl|Start date}}'''及'''{{tl|End date}}'''會傳回一個日期值，又或日期與時間的值。這個值傳回的同時，還附帶一個隱藏的ISO日期格式（以CSS實現），以供[[微格式]]使用。當用戶端不能使用CSS時，這個隱藏的日期會自動降格。
+
+==用法==
+*<nowiki>{{Start date|year|month|day}}</nowiki>
+*<nowiki>{{Start date|year|month|day|HH|MM|SS|TimeZone}}</nowiki> (''MM'' 和 ''SS''为可选值。''TimeZone'' 可以是数值或以"Z"代表 [[UTC]]时区。详情见例子)
+
+例子：
+
+*<nowiki>{{Start date|1993}}</nowiki> 返回 "{{Start date|1993}}"
+*<nowiki>{{Start date|1993|02}}</nowiki> 返回 "{{Start date|1993|02}}"
+*<nowiki>{{Start date|1993|02|24}}</nowiki> 返回 "{{Start date|1993|02|24}}"
+*<nowiki>{{Start date|1993|02|24|08|30}}</nowiki> 返回 "{{Start date|1993|02|24|08|30}}"
+*<nowiki>{{Start date|1993|02|24|08|||+01:00}}</nowiki> 返回 "{{Start date|1993|02|24|08|||+01:00}}"
+*<nowiki>{{Start date|1993|02|24|08|||−07:00}}</nowiki> 返回 "{{Start date|1993|02|24|08|||−07:00}}"
+*:<nowiki>{{Start date|1993|02|24|08|30|23}}</nowiki> 返回 "{{Start date|1993|02|24|08|30|23}}"
+*<nowiki>{{Start date|1993|02|24|08|30|23|Z}}</nowiki> 返回 "{{Start date|1993|02|24|08|30|23|Z}}"
+*<nowiki>{{Start date|1993|02|24|08|30|23|+01:00}}</nowiki> 返回 "{{Start date|1993|02|24|08|30|23|+01:00}}"
+*<nowiki>{{Start date|1993|02|24|08|30|23|−07:00}}</nowiki> 返回 "{{Start date|1993|02|24|08|30|23|−07:00}}"
+
+原來的英文版有 ''df'' 選項，當這選項被設定時，會強制日期以歐洲式（即 日/月/年 ，而非北美式的 月/日/年）顯示。'''這個選項在中文版無效。'''例如：
+*<nowiki>{{Start date|1993|02|24|08|30|df=yes}}</nowiki> 仍然顯示為 年/月/日： "{{Start date|1993|02|24|08|30|df=yes}}"
+
+'''注意：'''
+
+如果year参数留空的话，即使後面有填入month、day參數也不會顯示：
+*<nowiki>{{Start date|  |02|24}}</nowiki> 返回 "{{Start date|  |02|24}}"（空白）
+
+如果有year、day參數無month參數，只顯示年份，其它情況如此類推：
+*<nowiki>{{Start date|1993|  |24}}</nowiki> 返回 "{{Start date|1993|  |24}}"
+
+==使用[[微格式]]==
+<!-- {{UF-date-part}} -->
+中文维基暂无该微格式模板。
+
+详情请看 [[WP:UF|微格式专题]]。
+
+==參看==
+*{{tl|End date}}
+*{{tl|Start date and age}}
+*{{tl|Start-date}}（和此模板功能類似）
+
+<includeonly>
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+[[Category:日期计算模板|S]]
+[[Category:使用hCard的模板|S]]
+[[Category:Templates generating hAtom|S]]
+[[Category:Templates generating hCalendars|S]]
+
+</includeonly>
