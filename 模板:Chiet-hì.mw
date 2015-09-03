@@ -1,0 +1,40 @@
+<div style="width:256px;height:256px;float:right;position:relative;font-size:10pt;border:solid #aaa 1px;margin:4px;background:white;line-height:16px;text-align:center;">
+  <div style="position:absolute;left:64px;top:118px;width:128px;height20px;font-size:12pt;line-height:12pt;">[[Ngi-sṳ̍p-si chiet-hì]]</div>
+  <ul style="list-style:none;">
+    <li style="position:absolute;left:33px;top:39px;width:28px;height:16px;background:#bfeeef;border:solid #409fa0 1px;">[[li̍p-chhûn]]</li>
+    <li style="position:absolute;left:16px;top:62px;width:28px;height:16px;background:#c0f5e7;border:solid #42ad90 1px;">[[yí-súi]]</li>
+    <li style="position:absolute;left:4px;top:90px;width:28px;height:16px;background:#c3fadf;border:solid #48b780 1px;">[[kiang-chhít]]</li>
+    <li style="position:absolute;left:1px;top:119px;width:28px;height:16px;background:#c8fdd6;border:solid #52bd6f 1px;">[[chhûn-fûn]]</li>
+    <li style="position:absolute;left:4px;top:147px;width:28px;height:16px;background:#cfffcf;border:solid #5fc060 1px;">[[chhîn-mìn]]</li>
+    <li style="position:absolute;left:16px;top:175px;width:28px;height:16px;background:#d6fdc8;border:solid #6fbd52 1px;">[[kuk-yí]]</li> 
+
+    <li style="position:absolute;left:33px;top:198px;width:28px;height:16px;background:#dffac3;border:solid #7fb748 1px;">[[li̍p-ha]]</li>
+    <li style="position:absolute;left:57px;top:215px;width:28px;height:16px;background:#e7f5c0;border:solid #90ad42 1px;">[[séu-mân]]</li>
+    <li style="position:absolute;left:84px;top:227px;width:28px;height:16px;background:#eeefbf;border:solid #9fa040 1px;">[[mông-chúng]]</li>
+    <li style="position:absolute;left:113px;top:231px;width:28px;height:16px;background:#f5e7c0;border:solid #ad9042 1px;">[[ha-chṳ]]</li>
+    <li style="position:absolute;left:141px;top:227px;width:28px;height:16px;background:#fadfc3;border:solid #b78048 1px;">[[séu-chhú]]</li>
+    <li style="position:absolute;left:169px;top:215px;width:28px;height:16px;background:#fdd6c8;border:solid #bd6f52 1px;">[[thai-chhú]]</li> 
+
+    <li style="position:absolute;left:192px;top:198px;width:28px;height:16px;background:#ffcfcf;border:solid #c0605f 1px;">[[li̍p-chhiû]]</li>
+    <li style="position:absolute;left:209px;top:175px;width:28px;height:16px;background:#fdc8d6;border:solid #bd526f 1px;">[[chhú-chhú]]</li>
+    <li style="position:absolute;left:221px;top:147px;width:28px;height:16px;background:#fac3df;border:solid #b7487f 1px;">[[pha̍k-lu]]</li>
+    <li style="position:absolute;left:225px;top:119px;width:28px;height:16px;background:#f5c0e7;border:solid #ad4290 1px;">[[chhiû-fûn]]</li>
+    <li style="position:absolute;left:221px;top:90px;width:28px;height:16px;background:#efbfee;border:solid #a0409f 1px;">[[hòn-lu]]</li>
+    <li style="position:absolute;left:209px;top:62px;width:28px;height:16px;background:#e7c0f5;border:solid #9042ad 1px;">[[sông-kong]]</li>
+
+    <li style="position:absolute;left:192px;top:39px;width:28px;height:16px;background:#dfc3fa;border:solid #8048b7 1px;">[[li̍p-tûng]]</li>
+    <li style="position:absolute;left:169px;top:22px;width:28px;height:16px;background:#d6c8fd;border:solid #6f52bd 1px;">[[séu-siet]]</li>
+    <li style="position:absolute;left:141px;top:10px;width:28px;height:16px;background:#ceceff;border:solid #5f5fc0 1px;">[[thai-siet]]</li>
+    <li style="position:absolute;left:113px;top:7px;width:28px;height:16px;background:#c8d6fd;border:solid #526fbd 1px;">[[tûng-chṳ]]</li>
+    <li style="position:absolute;left:84px;top:10px;width:28px;height:16px;background:#c3defa;border:solid #487fb7 1px;">[[séu-hòn]]</li>
+    <li style="position:absolute;left:56px;top:22px;width:28px;height:16px;background:#c0e7f5;border:solid #4290ad 1px;">[[thai-hòn]]</li>
+
+  </ul>
+  <div style="position:absolute;left:113px;top:39px;width:28px;height:16px;font-size:200%">←</div>
+  <div style="position:absolute;left:33px;top:119px;width:28px;height:16px;font-size:200%">↓</div>
+  <div style="position:absolute;left:113px;top:199px;width:28px;height:16px;font-size:200%">→</div>
+  <div style="position:absolute;left:193px;top:119px;width:28px;height:16px;font-size:200%">↑</div>
+
+</div><noinclude>
+[[Category:Chiet-hì]]
+</noinclude>
