@@ -1,0 +1,14 @@
+<includeonly>{{ {{{|safesubst:}}}#if:{{{3|}}}|{{DEFAULTSORT:{{{3}}}}}}}
+[[Category:{{ {{{|safesubst:}}}#switch:{{ {{{|safesubst:}}}uc:{{{1|}}}}}
+ || UNKNOWN | ? | MISSING = 出生不详 {{ {{{|safesubst:}}}#switch:{{ {{{|safesubst:}}}uc:{{{2|}}}}}||LIVING=(living people)}}
+ | #default = {{#iferror: {{#ifexpr: {{{1}}} < 0}} | {{{1}}} | {{#ifexpr: {{{1}}} < 0 | Tshièn {{#expr: -{{{1}}}}} | {{{1}}}}}}}-ngièn chhut-se
+}}]]
+[[Category:{{ {{{|safesubst:}}}#switch:{{ {{{|safesubst:}}}uc:{{{2|}}}}}
+ || LIVING  = Living people
+ | UNKNOWN | ? | MISSING  = 逝世不详
+ | #default = {{#iferror: {{#ifexpr: {{{2}}} < 0}} | {{{2}}} | {{#ifexpr: {{{2}}} < 0 | Tshièn {{#expr: -{{{2}}}}} | {{{2}}}}}}}-ngièn ko-sṳ̂n
+}}]]</includeonly><noinclude>
+
+<code><nowiki>{{DEFAULTSORT:{{{3}}}}}</nowiki>
+<br /><nowiki>[[Category:{{{1}}}-ngièn chhut-se]]</nowiki>
+<br /><nowiki>[[Category:{{{2}}}-ngièn ko-sṳ̂n]]</nowiki></code>{{Documentation}}</noinclude>
