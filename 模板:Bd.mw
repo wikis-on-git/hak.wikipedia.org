@@ -2,9 +2,10 @@
 }}{{#if:{{Date.isMD|{{{2|}}}}}
         | &nbsp;[[{{{2}}}]]
         | &nbsp;{{{2|}}}
-}}{{#if:{{{1|}}}{{{2|}}}{{{3|}}}{{{4|}}}|{{#if:{{{3|}}}{{{4|}}}|&nbsp;&ndash;&nbsp;|{{editintro|Template:BLP editintro|span|&nbsp;&ndash;&nbsp;}}}}}}{{#if:{{{3|}}}
-        |[[{{{3}}}]]{{namespace||[[Category:{{{3}}} ko-sṳ̂n|{{PAGENAME}}]]}}
-        |{{#if:{{{3|}}}|?{{namespace||[[category:Ko-sṳ̂n-ngièn put-siòng|{{PAGENAME}}]]}}}}
+}}{{#if:{{{1|}}}{{{2|}}}{{{3|}}}{{{4|}}}|{{#if:{{{3|}}}{{{4|}}}|&nbsp;&ndash;&nbsp;|{{editintro|Template:BLP editintro|span|&nbsp;&ndash;&nbsp;}}}}}}{{#switch: {{{3|}}}
+ | ? = ? {{namespace||[[category:Ko-sṳ̂n-ngièn put-siòng|{{PAGENAME}}]]}}
+ |  = <includeonly>{{namespace||[[Category:Chhai-sṳ ngìn-vu̍t|{{PAGENAME}}]]}}</includeonly>
+ | [[{{{3}}}]]{{namespace||[[Category:{{{3}}} ko-sṳ̂n|{{PAGENAME}}]]}}
 }}{{#if:{{Date.isMD|{{{4|}}}}}
         | &nbsp;[[{{{4}}}]]
         | &nbsp;{{{4|}}}
