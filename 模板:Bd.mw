@@ -1,12 +1,10 @@
-{{#if:{{{1|}}}
-        |[[{{{1}}}]]{{namespace||[[Category:{{{1}}} chhut-se|{{PAGENAME}}]]}}
-        |{{{1|}}}{{namespace||[[Category:Chhut-se-ngièn put-siòng|{{PAGENAME}}]]}}
+{{#ifeq: {{{1}}} | ? | ?<includeonly>{{namespace||[[Category:Chhut-se-ngièn put-siòng|{{PAGENAME}}]]}}</includeonly> | [[{{{1}}}]]<includeonly>{{namespace||[[Category:{{{1}}} chhut-se|{{PAGENAME}}]]}}</includeonly> 
 }}{{#if:{{Date.isMD|{{{2|}}}}}
         | &nbsp;[[{{{2}}}]]
         | &nbsp;{{{2|}}}
 }}{{#if:{{{1|}}}{{{2|}}}{{{3|}}}{{{4|}}}|{{#if:{{{3|}}}{{{4|}}}|&nbsp;&ndash;&nbsp;|{{editintro|Template:BLP editintro|span|&nbsp;&ndash;&nbsp;}}}}}}{{#if:{{{3|}}}
         |[[{{{3}}}]]{{namespace||[[Category:{{{3}}} ko-sṳ̂n|{{PAGENAME}}]]}}
-        |{{#if:{{{3|}}}|{{{3}}}{{namespace||[[category:Ko-sṳ̂n-ngièn put-siòng|{{PAGENAME}}]]}}}}
+        |{{#if:{{{3|}}}|?{{namespace||[[category:Ko-sṳ̂n-ngièn put-siòng|{{PAGENAME}}]]}}}}
 }}{{#if:{{Date.isMD|{{{4|}}}}}
         | &nbsp;[[{{{4}}}]]
         | &nbsp;{{{4|}}}
