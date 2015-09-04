@@ -1,8 +1,7 @@
-{{#ifexist:{{{1|}}}
-	|{{#switch:{{{1|}}}
-		|?|？|不详|不詳=
-		|#default=1
-	}}
+{{#switch:{{{1|}}}
+	|?|？|不详|不詳=
+	|#default=1
+}}
 |}}<noinclude>
 {{Documentation}}
 </noinclude>
