@@ -4,7 +4,7 @@
 }}{{#if:{{Date.isMD|{{{2|}}}}}
         | &nbsp;{{{2}}}
         | &nbsp;{{{2|}}}
-}}{{#if:{{{1|}}}{{{2|}}}{{{3|}}}{{{4|}}}|{{#if:{{{3|}}}{{{4|}}}|－|{{editintro|Template:BLP editintro|span|－}}}}}}{{#if:{{{3|}}}
+}}{{#if:{{{1|}}}{{{2|}}}{{{3|}}}{{{4|}}}|{{#if:{{{3|}}}{{{4|}}}|&ndash;|{{editintro|Template:BLP editintro|span|&ndash;}}}}}}{{#if:{{{3|}}}
         |{{{3}}}{{namespace||[[Category:{{{3}}} ko-sṳ̂n|{{PAGENAME}}]]}}
         |{{#if:{{{3|}}}|{{{3}}}{{namespace||[[category:Ko-sṳ̂n-ngièn put-siòng|{{PAGENAME}}]]}}}}
 }}{{#if:{{Date.isMD|{{{4|}}}}}
