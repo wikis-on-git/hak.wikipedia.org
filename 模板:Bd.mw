@@ -1,18 +1,17 @@
-{{#if:{{BD/isYear|{{{1|}}}}}
-        |[[{{{1}}}]]{{namespace||[[Category:{{{1}}} chhut-se|{{#if:{{{catIdx|{{{5|}}}}}}|{{{catIdx|{{{5}}}}}}|{{PAGENAME}}}}]]}}
-        |[[{{{1|}}}]]{{namespace||}}
+{{#if:{{{1|}}}
+        |{{{1}}}{{namespace||[[Category:{{{1}}} chhut-se|{{PAGENAME}}]]}}
+        |{{{1|}}}{{namespace||[[Category:Chhut-se-ngièn put-siòng|{{PAGENAME}}]]}}
 }}{{#if:{{Date.isMD|{{{2|}}}}}
-        |&nbsp;[[{{{2}}}]]
-        |&nbsp;{{{2|}}}
-}}{{#if:{{{1|}}}{{{2|}}}{{{3|}}}{{{4|}}}|{{#if:{{{3|}}}{{{4|}}}|&nbsp;-&nbsp;|{{editintro|Template:BLP editintro|span|&nbsp;&ndash;&nbsp;}}}}
-}}{{#if:{{BD/isYear|{{{3|}}}}}
-        |[[{{{3}}}]]{{namespace||[[Category:{{{3}}} ko-sṳ̂n|{{#if:{{{catIdx|{{{5|}}}}}}|{{{catIdx|{{{5}}}}}}|{{PAGENAME}}}}]]}}
-        |{{#if:{{{3|}}}|[[{{{3}}}]]{{namespace||}}}}
+        | &nbsp; {{{2}}}
+        | &nbsp; {{{2|}}}
+}}{{#if:{{{1|}}}{{{2|}}}{{{3|}}}{{{4|}}}|{{#if:{{{3|}}}{{{4|}}}|－|{{editintro|Template:BLP editintro|span|－}}}}}}{{#if:{{{3|}}}
+        |{{{3}}}{{namespace||[[Category:{{{3}}} ko-sṳ̂n|{{PAGENAME}}]]}}
+        |{{#if:{{{3|}}}|{{{3}}}{{namespace||[[category:Ko-sṳ̂n-ngièn put-siòng|{{PAGENAME}}]]}}}}
 }}{{#if:{{Date.isMD|{{{4|}}}}}
-        |&nbsp;[[{{{4}}}]]
-        |&nbsp;{{{4|}}}
+        | &nbsp; {{{4}}}
+        | &nbsp; {{{4|}}}
 }}{{#if:{{{3|}}}||{{#if:{{{4|}}}
-  ||{{namespace||[[Category:Chhai-sṳ ngìn-vu̍t|{{#if:{{{catIdx|{{{5|}}}}}}|{{{catIdx|{{{5}}}}}}|{{PAGENAME}}}}]]}}}}
+  ||{{namespace||[[Category:Chhai-sṳ ngìn-vu̍t|{{PAGENAME}}]]}}}}
 }}<noinclude>
 {{Documentation}}
 </noinclude>
