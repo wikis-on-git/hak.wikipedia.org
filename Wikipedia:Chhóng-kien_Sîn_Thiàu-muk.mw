@@ -3,7 +3,7 @@
 <onlyinclude><div align="center">
 <inputbox>
 type=create
-width={{{width|50}}}
+width={{{width|25}}}
 bgcolor=#ffffff
 preload=Template:Standard content for new page
 editintro=Template:Instructions
