@@ -1,4 +1,8 @@
-{{Wikipedia:Thi̍t-set Thiàu-muk}}
+{{#switch:{{rand|3}}
+|0={{Wikipedia:Thi̍t-set Thiàu-muk/Vòng Hien-fàm}}
+|1={{Wikipedia:Thi̍t-set Thiàu-muk/Mî-koet}}
+|2={{Wikipedia:Thi̍t-set Thiàu-muk/Thòi-vân}}
+}}
 <div style="text-align: right; font-size:80%;" class="noprint">
 '''[[Wikipedia:Thi̍t-set Thiàu-muk|Khì-thâ hó vùn]]''' &ndash; '''{{Purge|von yit phiên}}'''
 </div>
