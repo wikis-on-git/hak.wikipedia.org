@@ -1,40 +1,64 @@
-<div style="width:256px;height:256px;float:right;position:relative;font-size:10pt;border:solid #aaa 1px;margin:4px;background:white;line-height:16px;text-align:center;">
-  <div style="position:absolute;left:64px;top:118px;width:128px;height20px;font-size:12pt;line-height:12pt;">[[chiet-hì|Ngi-sṳ̍p-si chiet-hì]]</div>
-  <ul style="list-style:none;">
-    <li style="position:absolute;left:33px;top:39px;width:28px;height:16px;background:#bfeeef;border:solid #409fa0 1px;">[[li̍p-chhûn]]</li>
-    <li style="position:absolute;left:16px;top:62px;width:28px;height:16px;background:#c0f5e7;border:solid #42ad90 1px;">[[yí-súi]]</li>
-    <li style="position:absolute;left:4px;top:90px;width:28px;height:16px;background:#c3fadf;border:solid #48b780 1px;">[[kiang-chhít]]</li>
-    <li style="position:absolute;left:1px;top:119px;width:28px;height:16px;background:#c8fdd6;border:solid #52bd6f 1px;">[[chhûn-fûn]]</li>
-    <li style="position:absolute;left:4px;top:147px;width:28px;height:16px;background:#cfffcf;border:solid #5fc060 1px;">[[chhîn-mìn]]</li>
-    <li style="position:absolute;left:16px;top:175px;width:28px;height:16px;background:#d6fdc8;border:solid #6fbd52 1px;">[[kuk-yí]]</li> 
+{| class="infobox toccolours"
+|+ [[Chiet-hì|Ngi-sṳ̍p-si chiet-hì]]
+|-
+!bgcolor="eeeeff"|&nbsp; [[Vòng-tho chhô-phiêu hì|Chhô-phiêu]] &nbsp;!!bgcolor="eeeeff"|&nbsp; [[Chiet-hì]] &nbsp; !!bgcolor="eeeeff"|&nbsp;  [[Gregorius La̍k-fap|La̍k]]
+|-
+|colspan="3" align=center bgcolor="lightgreen"|&nbsp;  Chhûn
+|-
+|bgcolor="eeffee"|&nbsp; 315°||bgcolor="eeffee"|&nbsp; [[Li̍p-chhûn]]||bgcolor="eeffee"|&nbsp; &#8199; 2-ngie̍t 4–ngit chṳ 5-ngit
+|-
+|bgcolor="eeffee"|&nbsp; 330°||bgcolor="eeffee"|&nbsp; [[Yí-súi]]||bgcolor="eeffee"|&nbsp; 2-ngie̍t 18-ngit chṳ 19-ngit
+|-
+|bgcolor="eeffee"|&nbsp; 345°||bgcolor="eeffee"|&nbsp; [[Kiang-chhít]]||bgcolor="eeffee"|&nbsp; &#8199; 3-ngie̍t 5–ngit chṳ 6-ngit
+|-
+|bgcolor="eeffee"|&nbsp; 0°||bgcolor="eeffee"|&nbsp; [[Chhûn-fûn]]||bgcolor="eeffee"|&nbsp; 3-ngie̍t 20–ngit chṳ 21-ngit
+|-
+|bgcolor="eeffee"|&nbsp; 15°||bgcolor="eeffee"|&nbsp; [[Chhîn-mìn]]||bgcolor="eeffee"|&nbsp; &#8199; 4-ngie̍t 4–ngit chṳ 5-ngit
+|-
+|bgcolor="eeffee"|&nbsp; 30°||bgcolor="eeffee"|&nbsp; [[Kuk-yí]]||bgcolor="eeffee"|&nbsp;  4-ngie̍t 20–ngit chṳ 21-ngit
+|-
+|colspan="3" align=center bgcolor="yellow"|&nbsp; Ha
+|-
+|bgcolor="feffcc"|&nbsp; 45°||bgcolor="feffcc"|&nbsp; [[Li̍p-ha]]||bgcolor="feffcc"|&nbsp; &#8199; 5-ngie̍t 5–ngit chṳ 6-ngit
+|-
+|bgcolor="feffcc"|&nbsp; 60°||bgcolor="feffcc"|&nbsp; [[Séu-mân]]||bgcolor="feffcc"|&nbsp; 5-ngie̍t 21–ngit chṳ 22-ngit
+|-
+|bgcolor="feffcc"|&nbsp; 75°||bgcolor="feffcc"|&nbsp; [[Mông-chúng]]||bgcolor="feffcc"|&nbsp; &#8199; 6-ngie̍t 5–ngit chṳ 6-ngit
+|-
+|bgcolor="feffcc"|&nbsp; 90°||bgcolor="feffcc"|&nbsp; [[Ha-chṳ]]||bgcolor="feffcc"|&nbsp; 6-ngie̍t 21–ngit chṳ 22-ngit
+|-
+|bgcolor="feffcc"|&nbsp; 105°||bgcolor="feffcc"|&nbsp; [[Séu-chhú]]||bgcolor="feffcc"|&nbsp; &#8199; 7-ngie̍t 7–ngit chṳ 8-ngit
+|-
+|bgcolor="feffcc"|&nbsp; 120°||bgcolor="feffcc"|&nbsp; [[Thai-chhú]]||bgcolor="feffcc"|&nbsp; 7-ngie̍t 22–ngit chṳ 23-ngit
+|-
+|colspan="3" align=center bgcolor="orange"|&nbsp; Chhiû
+|-
+|bgcolor="ffeecc"|&nbsp; 135°||bgcolor="ffeecc"|&nbsp; [[Li̍p-chhiû]]||bgcolor="ffeecc"|&nbsp; &#8199; 8-ngie̍t 7–ngit chṳ 8-ngit
+|-
+|bgcolor="ffeecc"|&nbsp; 150°||bgcolor="ffeecc"|&nbsp; [[Chhú-chhú]]||bgcolor="ffeecc"|&nbsp; 8-ngie̍t 23–ngit chṳ 24-ngit
+|-
+|bgcolor="ffeecc"|&nbsp; 165°||bgcolor="ffeecc"|&nbsp; [[Pha̍k-lu]]||bgcolor="ffeecc"|&nbsp; &#8199; 9-ngie̍t 7–ngit chṳ 8-ngit
+|-
+|bgcolor="ffeecc"|&nbsp; 180°||bgcolor="ffeecc"|&nbsp; [[Chhiû-fûn]]||bgcolor="ffeecc"|&nbsp; 9-ngie̍t 23–ngit chṳ 24-ngit
+|-
+|bgcolor="ffeecc"|&nbsp; 195°||bgcolor="ffeecc"|&nbsp; [[Hòn-lu]]||bgcolor="ffeecc"|&nbsp; &#8199; 10-ngie̍t 8–ngit chṳ 291-ngit
+|-
+|bgcolor="ffeecc"|&nbsp; 210°||bgcolor="ffeecc"|&nbsp; [[Sông-kong]] &nbsp;||bgcolor="ffeecc"|&nbsp; 10-ngie̍t 23–ngit chṳ 24-ngit
+|-
+|colspan="3" align=center bgcolor="lightgrey"|&nbsp; Tûng
+|-
+|bgcolor="eeeeee"|&nbsp; 225°||bgcolor="eeeeee"|&nbsp; [[Li̍p-tûng]]||bgcolor="eeeeee"|&nbsp; &#8199; 11-ngie̍t 7–ngit chṳ 8-ngit
+|-
+|bgcolor="eeeeee"|&nbsp; 240°||bgcolor="eeeeee"|&nbsp; [[Séu-siet]]||bgcolor="eeeeee"|&nbsp; 11-ngie̍t 22–ngit chṳ 23-ngit
+|-
+|bgcolor="eeeeee"|&nbsp; 255°||bgcolor="eeeeee"|&nbsp; [[Thai-siet]]||bgcolor="eeeeee"|&nbsp; &#8199; 12-ngie̍t 7–ngit chṳ 8-ngit
+|-
+|bgcolor="eeeeee"|&nbsp; 270°||bgcolor="eeeeee"|&nbsp; [[Tûng-chṳ]]||bgcolor="eeeeee"|&nbsp; 12-ngie̍t 21–ngit chṳ 22-ngit
+|-
+|bgcolor="eeeeee"|&nbsp; 285°||bgcolor="eeeeee"|&nbsp; [[Séu-hòn]]||bgcolor="eeeeee"|&nbsp; &#8199; 1-ngie̍t 5–ngit chṳ 6-ngit
+|-
+|bgcolor="eeeeee"|&nbsp; 300°||bgcolor="eeeeee"|&nbsp; [[Thai-hòn]]||bgcolor="eeeeee"|&nbsp; 1-ngie̍t 20–ngit chṳ 21-ngit
+|}<noinclude>
 
-    <li style="position:absolute;left:33px;top:198px;width:28px;height:16px;background:#dffac3;border:solid #7fb748 1px;">[[li̍p-ha]]</li>
-    <li style="position:absolute;left:57px;top:215px;width:28px;height:16px;background:#e7f5c0;border:solid #90ad42 1px;">[[séu-mân]]</li>
-    <li style="position:absolute;left:84px;top:227px;width:28px;height:16px;background:#eeefbf;border:solid #9fa040 1px;">[[mông-chúng]]</li>
-    <li style="position:absolute;left:113px;top:231px;width:28px;height:16px;background:#f5e7c0;border:solid #ad9042 1px;">[[ha-chṳ]]</li>
-    <li style="position:absolute;left:141px;top:227px;width:28px;height:16px;background:#fadfc3;border:solid #b78048 1px;">[[séu-chhú]]</li>
-    <li style="position:absolute;left:169px;top:215px;width:28px;height:16px;background:#fdd6c8;border:solid #bd6f52 1px;">[[thai-chhú]]</li> 
-
-    <li style="position:absolute;left:192px;top:198px;width:28px;height:16px;background:#ffcfcf;border:solid #c0605f 1px;">[[li̍p-chhiû]]</li>
-    <li style="position:absolute;left:209px;top:175px;width:28px;height:16px;background:#fdc8d6;border:solid #bd526f 1px;">[[chhú-chhú]]</li>
-    <li style="position:absolute;left:221px;top:147px;width:28px;height:16px;background:#fac3df;border:solid #b7487f 1px;">[[pha̍k-lu]]</li>
-    <li style="position:absolute;left:225px;top:119px;width:28px;height:16px;background:#f5c0e7;border:solid #ad4290 1px;">[[chhiû-fûn]]</li>
-    <li style="position:absolute;left:221px;top:90px;width:28px;height:16px;background:#efbfee;border:solid #a0409f 1px;">[[hòn-lu]]</li>
-    <li style="position:absolute;left:209px;top:62px;width:28px;height:16px;background:#e7c0f5;border:solid #9042ad 1px;">[[sông-kong]]</li>
-
-    <li style="position:absolute;left:192px;top:39px;width:28px;height:16px;background:#dfc3fa;border:solid #8048b7 1px;">[[li̍p-tûng]]</li>
-    <li style="position:absolute;left:169px;top:22px;width:28px;height:16px;background:#d6c8fd;border:solid #6f52bd 1px;">[[séu-siet]]</li>
-    <li style="position:absolute;left:141px;top:10px;width:28px;height:16px;background:#ceceff;border:solid #5f5fc0 1px;">[[thai-siet]]</li>
-    <li style="position:absolute;left:113px;top:7px;width:28px;height:16px;background:#c8d6fd;border:solid #526fbd 1px;">[[tûng-chṳ]]</li>
-    <li style="position:absolute;left:84px;top:10px;width:28px;height:16px;background:#c3defa;border:solid #487fb7 1px;">[[séu-hòn]]</li>
-    <li style="position:absolute;left:56px;top:22px;width:28px;height:16px;background:#c0e7f5;border:solid #4290ad 1px;">[[thai-hòn]]</li>
-
-  </ul>
-  <div style="position:absolute;left:113px;top:39px;width:28px;height:16px;font-size:200%">←</div>
-  <div style="position:absolute;left:33px;top:119px;width:28px;height:16px;font-size:200%">↓</div>
-  <div style="position:absolute;left:113px;top:199px;width:28px;height:16px;font-size:200%">→</div>
-  <div style="position:absolute;left:193px;top:119px;width:28px;height:16px;font-size:200%">↑</div>
-
-</div><noinclude>
 [[Category:Chiet-hì]]
 </noinclude>
