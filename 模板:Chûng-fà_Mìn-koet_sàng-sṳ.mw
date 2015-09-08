@@ -1,0 +1,205 @@
+{| class="infobox" style="font-size: 90%; width: 23em;" align="right"
+! colspan="2" style="font-size: 16px; bgcolor="#E3E3E3" | {{{sàng-sṳ miàng-tshṳ̂n}}} {{#if:{{{ngoi-vùn miàng-tshṳ̂n|}}}|<br><small>{{{ngoi-vùn miàng-tshṳ̂n}}}</small>}}
+|-
+<!-- -->{{#if:{{{thoi-péu thù-tshiong|}}}|{{!}}-
+{{!}} colspan="2" style="text-align: center;" {{!}} [[File:{{{thoi-péu thù-tshiong}}}|300px]]}}
+|-
+| colspan="2" |
+{| style="text-align: center; margin: 0 auto; background: none;"
+|-
+| style="border: 0; vertical-align: middle;" | <span style="border: 1px solid #bbbbbb; display: table-cell;">[[File:{{{image_flag|{{{khì vùn-khien miàng|{{{khì vùn-khien miàng|Example.png}}}}}}}}}|125px]]</span>
+| style="border: 0; vertical-align: middle;" | [[File:{{{image_coat|{{{fui vùn-khien miàng|{{{fui vùn-khien miàng|Example.png}}}}}}}}}|125px]]
+|- style="font-size: 95%;"
+| style="border: 0;" | {{{khì}}}
+| style="border: 0;" | {{{fui}}}
+|}
+|-
+!colspan="2" bgcolor="#E3E3E3" | tshong-khóng 
+|-
+{{#if:{{{só-su̍k koet-kâ<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} só-su̍k koet-kâ
+<!-- -->{{!}} {{ROC}}
+}}
+|-
+{{#if:{{{hàng-tsṳn khî<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} {{{hàng-tsṳn khî}}}
+<!-- -->{{!}} {{{siang-miàng}}}<br>（[[{{{sàng-sṳ miàng-tshṳ̂n}}}{{{hàng-tsṳn khî}}}]] lie̍t-péu）
+}}
+|-
+{{#if:{{{kiet-ngièn <includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} kiet-ngièn 
+<!-- -->{{!}} {{{kiet-ngièn}}}
+}}
+|-
+{{#if:{{{kién-tshṳ̂n<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} kién-tshṳ̂n
+<!-- -->{{!}} {{{kién-tshṳ̂n}}}
+}}
+|-
+{{#if:{{{sat-li̍p sṳ́-ngièn<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} sat-li̍p sṳ́-ngièn
+<!-- -->{{!}} {{{sat-li̍p sṳ́-ngièn}}}
+}}
+|-
+{{#if:{{{hàng-tsṳn khî lui-phe̍t <includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} hàng-tsṳn khî lui-phe̍t
+<!-- -->{{!}} [[Chûng-fà Mìn-koet hàng-tsṳn khî-va̍k|{{{hàng-tsṳn khî lui-phe̍t}}}]]
+}}
+|-
+{{#if:{{{khî-va̍k<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} khî-va̍k
+<!-- -->{{!}} {{{khî-va̍k}}}
+}}
+|-
+{{#if:{{{hàng-tsṳn só-tshai thi<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} tsṳn-fú só-tshai thi
+<!-- -->{{!}} {{{tsṳn-fú só-tshai thi}}}
+}}
+|-
+{{#if:{{{tsúng mien-tsit <includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} tsúng mien-tsit 
+<!-- -->{{!}} {{{tsúng mien-tsit}}}<br><small>（[[thòi-vân hàng-tsṳn khî mien-tsit péu|thòi-vân ke {{{tsúng mien-tsit miàng-tshṳ}}}]]）<small/>
+}}
+|-
+{{#if:{{{tsúng ngìn-khiéu <includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} tsúng ngìn-khiéu 
+<!-- -->{{!}} {{{tsúng ngìn-khiéu}}}<br><small>（[[thòi-vân hàng-tsṳn khî ngìn-khiéu péu|thòi-vân ke {{{tsúng ngìn-khiéu miàng-tshṳ}}}]]）<small/>
+}}
+|-
+{{#if:{{{tû-fi khî ngìn-khiéu<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} tû-fi khî ngìn-khiéu
+<!-- -->{{!}} {{{tû-fi khî ngìn-khiéu}}}<br><small>（thòi-vân ke {{{thòi-vân tû-fi khî ngìn-khiéu miàng-tshṳ}}}／sṳ-kie ke {{{sṳ-kie tû-fi khî ngìn-khiéu miàng-tshṳ}}}）<small/>
+}}
+|-
+{{#if:{{{ngìn-khiéu me̍t-thu<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} ngìn-khiéu me̍t-thu
+<!-- -->{{!}} {{{ngìn-khiéu me̍t-thu}}}<br><small>（[[thòi-vân hàng-tsṳn khî ngìn-khiéu péu|thòi-vân ke {{{ngìn-khiéu me̍t-thu miàng-tshṳ}}}]]）<small/>
+}}
+|-
+{{#if:{{{hàng-tsṳn khî siong-tsṳ̂n <includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} {{{hàng-tsṳn khî siong-tsṳ̂n}}} siong-tsṳ̂n
+<!-- -->{{!}} <li>{{{hàng-tsṳn khî siong-tsṳ̂n}}} fâ：{{{siong-tsṳ̂n fâ}}}<li>{{{hàng-tsṳn khî siong-tsṳ̂n}}} su ：{{{siong-tsṳ̂n su}}}<li>{{{hàng-tsṳn khî siong-tsṳ̂n}}} tiâu：{{{hàng-tsṳn khî tiâu}}}
+}}
+|-
+{{#if:{{{kôn-fông ngî-ngièn <includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} kôn-fông ngî-ngièn 
+<!-- -->{{!}} {{{kôn-fông ngî-ngièn}}}
+}}
+|-
+{{#if:{{{sṳ̀-khî <includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} sṳ̀-khî 
+<!-- -->{{!}} {{{sṳ̀-khî}}}
+}}
+|-
+{{#if:{{{thien-fa khî-ho<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} thien-fa khî-ho
+<!-- -->{{!}} {{{thien-fa khî-ho}}}
+}}
+|-
+{{#if:{{{yû-tsṳn phiên-ma<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} yû-tsṳn phiên-ma
+<!-- -->{{!}} {{{yû-tsṳn phiên-ma}}}
+}}
+|-
+{{#if:{{{mióng-tshàm|}}}|
+<!-- -->! style="width: 92px" {{!}} mióng-tshàm
+<!-- -->{{!}} [{{{mióng-tshàm}}}]
+}}
+|-
+!colspan="2" bgcolor="#E3E3E3" {{!}} thi-lî
+|-
+{{#if:{{{kîn-vúi-thu<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} kîn-vúi-thu
+<!-- -->{{!}} {{{kîn-vúi-thu}}}
+}}
+|-
+{{#if:{{{tsúng mien-tsit <includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} tsúng mien-tsit 
+<!-- -->{{!}} {{{tsúng mien-tsit}}}
+}}
+|-
+{{#if:{{{hói-pha̍t <includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} {{{hói-pha̍t}}}
+<!-- -->{{!}} <li>tsui-kô：{{{tsui-kô kô-thu thi-fông}}}<li>tsui-tâi ：{{{tsui-tâi kô-thu thi-fông}}}<li>chûng vi-tshṳ̍t：{{{chûng vi-tshṳ̍t kô-thu thi-fông}}}
+}}
+|-
+!colspan="2" bgcolor="#E3E3E3" {{!}} hi-hèu 
+|-
+{{#if:{{{hi-hèu lui-hîn <includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} hi-hèu lui-hîn 
+<!-- -->{{!}} [[{{{hi-hèu lui-hîn}}}]]
+}}
+|-
+{{#if:{{{vûn-thu<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} {{{vûn-thu}}}
+<!-- -->{{!}} <li>ngièn phìn-kiûn vûn：{{{ngièn phìn-kiûn vûn}}}℃<li>tsui-kô ngie̍t-kiûn vûn：{{{tsui-kô ngie̍t-kiûn vûn}}}℃<li>tsui-tâi ngie̍t-kiûn vûn：{{{tsui-tâi ngie̍t-kiûn vûn}}}℃
+}}
+|-
+{{#if:{{{yí-liòng<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} yí-liòng
+<!-- -->{{!}} {{{yí-liòng}}}
+}}
+|-
+!colspan="2" bgcolor="#E3E3E3" {{!}} thi-thù 
+|-
+{{!}}colspan="2" align="center" {{!}} <center>[[File:{{{thi-thù tóng-miàng}}}|{{#if:{{{thai-séu|}}}|{{{thai-séu}}}|300px}}|{{{sàng-sṳ miàng-tshṳ̂n}}}|thi-thù]]</center>
+|}<noinclude>{{esoteric}}
+liá-ke mù-pán he [[Chûng-fà Mìn-koet tsṳn-fú]] kok sàng-sṳ ke sín-sit khiong, sṳt-yung yî [[Chûng-fà Mìn-koet]] sàng-sṳ thiàu-muk chûng.
+
+== Sṳ́-yung fông-fap  ==
+Chiông yî-ha ngièn-sṳ́ ma tshap-ngi̍p Chûng-fà Mìn-koet sàng-sṳ thiàu-muk ya̍p-mien ke tsui táng-tôn：
+<pre>
+{{Chûng-fà Mìn-koet sàng-sṳ 
+|sàng-sṳ miàng-tshṳ̂n      = 
+|ngoi-vùn miàng-tshṳ̂n       = 
+|thoi-péu thù-tshiong       = 
+|khì vùn-khien miàng       = 
+|fui vùn-khien miàng       = 
+|khì              = 
+|fui              =  
+|hàng-tsṳn khî        = 
+|siong-tsṳ̂n fâ         = 
+|siong-tsṳ̂n su         = 
+|siong-tsṳ̂n tiâu         = 
+|siang-miàng           = 
+|kiet-ngièn            = 
+|kién-tshṳ̂n            = 
+|sat-li̍p sṳ́-ngièn       = 
+|hàng-tsṳn khî lui-phe̍t     = 
+|khî-va̍k           = 
+|tsṳn-fú só-tshai thi     = 
+|tsúng mien-tsit          = 
+|tsúng mien-tsit miàng-tshṳ   = 
+|tsúng ngìn-khiéu          = 
+|tsúng ngìn-khiéu miàng-tshṳ        = 
+|tû-fi khî ngìn-khiéu          = 
+|thòi-vân tû-fi khî ngìn-khiéu miàng-tshṳ   = 
+|sṳ-kie tû-fi khî ngìn-khiéu miàng-tshṳ      = 
+|ngìn-khiéu me̍t-thu       = 
+|ngìn-khiéu me̍t-thu miàng-tshṳ     = 
+|hàng-tsṳn khî siong-tsṳ̂n      = 
+|siong-tsṳ̂n            = 
+|kôn-fông ngî-ngièn        = 
+|sṳ̀-khî            = 
+|thien-fa khî-ho       = 
+|yû-tsṳn phiên-ma       = 
+|mióng-tshàm           = 
+|kîn-vúi-thu         = {{Coor dms| | | |N| | | |E}}
+|hói-pha̍t           =
+|tsui-kôkô-thu thi-fông   = 
+|tsui-tâi kô-thu thi-fông   = 
+|chûng vi-tshṳ̍t kô-thu thi-fông =  
+|hi-hèu lui-hîn       = 
+|vûn-thu           =
+|ngièn phìn-kiûn vûn       = 
+|tsui-kô ngie̍t-kiûn vûn    = 
+|tsui-tâi ngie̍t-kiûn vûn     = 
+|yí-liòng           = 
+|thi-thù tóng-miàng       = 
+|}
+</pre>
+
+[[Category:中華民國模板]]
+[[Category:台灣模板]]
+
+</noinclude>
