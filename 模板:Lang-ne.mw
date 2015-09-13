@@ -1,0 +1,9 @@
+{{#switch: {{{4|+}}}
+ | - = {{{5|Nepal-vùn}}}:&#x0020;
+ | + = [[Nepal-vùn|{{{5|Nepal-vùn}}}]]:&#x0020;
+ | * =
+}}<!--
+-->{{lang|ne|{{{1<noinclude>|{{text|Nepali}}</noinclude>}}}}}<!-- 
+-->{{#if: {{{2|<noinclude>—</noinclude>}}}|, {{lang|ne-Latn|{{{2<noinclude>|{{text in Latin script|Nepali}}</noinclude>}}}}}}}<!-- 
+-->{{#if: {{{3|<noinclude>—</noinclude>}}}|{{Translation in Hakka|{{{3<noinclude>|{{SIL|Translation in Hakka}}</noinclude>}}}}}}}<!-- 
+--><noinclude>{{Documentation}}</noinclude>
