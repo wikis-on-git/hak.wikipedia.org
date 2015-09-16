@@ -1,0 +1,7 @@
+{{#switch:{{{category|}}}
+| = 
+| unknown = {{{category|}}}
+| #default = <span title="color legend: {{{category|}}}" style="display:inline-block; vertical-align:middle; width:8px; height:10px; background:{{element color|1={{{category|}}}}}">&nbsp;</span> [[{{{category|}}}]]
+}}<noinclude>
+{{documentation}}
+</noinclude>
