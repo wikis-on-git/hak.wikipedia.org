@@ -1,0 +1,234 @@
+{{Infobox
+| headerstyle = background:{{element color |{{#if:{{{series color|}}}|{{{series color}}}|{{{series|}}}}} |default=#ccc}}
+| labelstyle = padding-top:0.225em;line-height:1.15em;font-size: 90%;text-align: left;<!--(modified longitem, otherwise wrapped labels tend to appear as separate entries)--> padding-right:0.75em;<!--(to ensure some gap between (long/unwrapped) label and subsequent data on same line)-->
+| datastyle = line-height:1.35em;font-size: 90%;<!--(complements labelstyle above)-->
+| belowstyle = background:{{element color |{{#if:{{{series color|}}}|{{{series color}}}|{{{series|}}}}} |default=#ccc}}
+<!-- TITLE ------------------>
+| title = {{ucfirst:{{{name|{{PAGENAME}}}}}}},&nbsp;&nbsp;<sub><span style="font-size:smaller;">{{{number|00}}}</span></sub>{{{symbol|Xx}}}
+<!-- IMAGES ------------------>
+| image1 = {{#invoke:InfoboxImage|InfoboxImage |image={{{image name|}}} |size={{{image size|}}} |sizedefault=frameless |alt={{{image alt|}}} }}
+| caption1 = {{{image name comment|}}}
+| image2 = {{#invoke:InfoboxImage|InfoboxImage |image={{{image name 2|}}} |size={{{image size 2|}}} |sizedefault=frameless |alt={{{image alt 2|}}} }}
+| caption2 = {{{image name 2 comment|}}}
+<!-- GENERAL PROPERTIES (items 10-19) ------------------>
+| header10 = Kî-pún sin-sit
+| label12 = Miàng, [[fù-ho (ngièn-su)|fù-ho]]
+|  data12 = {{{name}}}, {{{symbol}}}
+| label14 = fat-yîm
+|  data14 = {{#if:{{{pronounce|}}}{{{pronounce comment|}}} |{{{pronounce|}}}{{{pronounce ref|}}}&#x20;{{{pronounce comment|}}} }}
+| label15 = phe̍t-miàng{{#if:{{{alt names|}}}|s}}
+|  data15 = {{{alt name|}}}{{{alt names|}}}
+| label17 = [[thùng-su-thí]]
+|  data17 = {{{allotropes|}}}
+| label18 = ngoi-hìn
+|  data18 = {{{appearance|}}}
+<!-- IN THE PERIODIC TABLE (items 20-29) ------------------>
+| header20 = {{ucfirst:{{{name}}}}} chhai [[chû-khì-péu]] ke vi-tsì
+|  data21 = {{Infobox element/periodic table |name={{{name|{{PAGENAME}}}}} |number={{{number|0}}} |symbol={{{symbol}}} |mark={{{symbol|}}} |above={{{above}}} |below={{{below}}} |left={{{left}}} |right={{{right}}} }}
+| label22 = [[ngièn-chṳ́ sì-sú]]
+|  data22 = {{{number}}}
+| label23 = [[ngièn-chṳ́-liòng]]{{#if:{{{atomic mass 2|}}} |&nbsp;{{nobold|[[uncertainty bracket notation|(&plusmn;)]]}}}}
+|  data23 = {{{atomic mass|}}}<!---->{{#if:{{{atomic mass 2|}}} |({{{atomic mass 2}}})}}<!---->{{{atomic mass ref|}}}&#x20;{{{atomic mass comment|}}}
+
+| label24 = [[ngièn-su lui-phe̍t]]
+|  data24 = {{Infobox element/category format |category={{lc:{{{series|}}}}} }}<!--
+-->{{#if:{{{series comment|}}} |{{#if:{{{series|}}}|,}}<!---->{{{series ref|}}}&#x20;{{{series comment|}}} }}
+
+| label26 = [[Chhu̍k (chû-khì-péu)|Chhu̍k]], [[Fûn-khî (chû-khì-péu)|fûn-khî]]
+|  data26 = {{Infobox element/group |group={{{group|}}} |series={{{series|}}} |number={{{number|}}} }}<!--
+         -->{{#if:{{{group comment|}}} |{{{group ref|}}}&#x20;{{{group comment}}};&#x20; |,{{{group ref|}}}&#x20;}}<!--
+         -->[[{{{block}}}-block]]{{{block ref|}}}&#x20;{{{block comment|}}}
+| label27 = [[chû-khì (chû-khì-péu)|chû-khì]]
+|  data27 = [[Period (periodic table)#Period {{{period}}}|period&nbsp;{{{period}}}]]{{{period ref|}}}&#x20;{{{period comment|}}}
+| label28 = [[thien-chṳ́ phài-lie̍t]]
+|  data28 = {{{electron configuration}}}{{{electron configuration ref|}}}&#x20;{{{electron configuration comment|}}}
+| label29 = <span style="font-weight:normal;">per shell</span>
+|  data29 = {{{electrons per shell|}}}{{{electrons per shell ref|}}}<!---->{{#if:{{{electrons per shell comment|}}} |&#x20;{{{electrons per shell comment}}} }}
+<!-- PHYSICAL PROPERTIES (items 30-59) ------------------>
+| header30 = vu̍t-lî sin-chṳt
+|  data31 = {{{physical properties comment|}}}{{{physical properties|}}}
+| label32 = ngân-set
+|  data32 = {{{color|}}}
+| label33 = [[Siông (vu̍t-chṳt)|Siông]]
+|  data33 = {{#if:{{{phase|}}}
+             | {{#switch:{{lc:{{{phase|}}}}} |= |unknown=unknown |#default=[[{{{phase}}}]]}}<!---->{{{phase ref|}}}<!--
+         -->}}<!---->{{#if:{{{phase comment|}}} |&#x20;{{{phase comment}}} }}
+| label35 = [[yùng-tiám]]
+|  data35 = {{#if:{{{melting point K|}}} |{{{melting point K}}}&nbsp;[[kelvin|K]]&#x20;&#x200b;({{{melting point C}}}&nbsp;°C,&#x20;&#x200b;{{{melting point F}}}&nbsp;°F){{{melting point ref|}}}&#x20;{{{melting point comment|}}} }}
+| label36 = [[pùi-tiám]]
+|  data36 = {{#if:{{{boiling point K|}}} |{{{boiling point K}}}&nbsp;K&#x20;&#x200b;({{{boiling point C}}}&nbsp;°C,&#x20;&#x200b;{{{boiling point F}}}&nbsp;°F){{{boiling point ref|}}}&#x20;{{{boiling point comment|}}} }}
+| label37 = [[Sublimation point|Sublimation&nbsp;point]]
+|  data37 = {{#if:{{{sublimation point K|}}} |{{{sublimation point K}}}&nbsp;K&#x20;&#x200b;({{{sublimation point C}}}&nbsp;°C,&#x20;&#x200b;{{{sublimation point F}}}&nbsp;°F){{{sublimation point ref|}}}&#x20;{{{sublimation point comment|}}} }}
+
+| label41 = [[me̍t-thu]] <span style="font-weight:normal;">at&nbsp;{{abbr|stp|standard temperature and pressure}} (0&nbsp;°C and 101.325&nbsp;[[pascal (unit)|kPa]])</span>
+|  data41 = {{#if:{{{density gplstp|}}}
+             | {{{density gplstp}}}&nbsp;g·L{{smallsup|−1}}{{{density gplstp ref|}}}<!---->{{#if:{{{density gplstp comment|}}} |&#x20;{{{density gplstp comment}}}}}<!--
+         -->}}
+| label42 = {{#if:{{{density gplstp|}}}||[[Bi̍t-tō͘]]&#x20;}}<span style="font-weight:normal;">near&nbsp;[[Sek-un]]</span>
+|  data42 = {{#if:{{{density gpcm3nrt|}}}
+             | {{{density gpcm3nrt}}}&nbsp;g·cm{{smallsup|−3}}{{{density gpcm3nrt ref|}}}<!---->{{#if:{{{density gpcm3nrt comment|}}} |&#x20;{{{density gpcm3nrt comment}}}}}<!--
+         -->}} {{#if:{{{density gpcm3nrt 2|}}}
+                | <br/>{{#if:{{{density gpcm3nrt|}}}||{{red|Parameter <nowiki>{{{density gpcm3nrt}}}</nowiki> should be used first}}<br/>}}{{{density gpcm3nrt 2}}}&nbsp;g·cm{{smallsup|−3}}{{{density gpcm3nrt 2 ref|}}}&#x20;{{{density gpcm3nrt 2 comment|}}}<!--
+            -->}} {{#if:{{{density gpcm3nrt 3|}}}
+                   | <br/>{{{density gpcm3nrt 3}}}&nbsp;g·cm{{smallsup|−3}}{{{density gpcm3nrt 3 ref|}}}&#x20;{{{density gpcm3nrt 3 comment|}}}<!--
+               -->}}
+| label43 = {{#if:{{{density gplstp|}}}{{{density gpcm3nrt|}}} ||[[Bi̍t-tō͘]]&#x20;}}<span style="font-weight:normal;">when&nbsp;liquid, at&nbsp;{{abbr|m.p.|melting point}}</span>
+|  data43 = {{#if:{{{density gpcm3mp|}}} |{{{density gpcm3mp}}}&nbsp;g·cm{{smallsup|−3}}{{{density gpcm3mp ref|}}}&#x20;{{{density gpcm3mp comment|}}} }}
+| label44 = {{#if:{{{density gplstp|}}}{{{density gpcm3nrt|}}}{{{density gpcm3mp|}}} ||[[Density]]&#x20;}}<span style="font-weight:normal;">when&nbsp;liquid, at&nbsp;{{abbr|b.p.|boiling point}}</span>
+|  data44 = {{#if:{{{density gpcm3bp|}}} |{{{density gpcm3bp}}}&nbsp;g·cm{{smallsup|−3}}{{{density gpcm3bp ref|}}}&#x20;{{{density gpcm3bp comment|}}} }}
+
+| label45 = [[Mol thí-chit]]
+|  data45 = {{#if:{{{molar volume|}}}|{{{molar volume|}}}&nbsp;{{#if:{{{molar volume unit|}}}|{{{molar volume unit|}}}|cm{{smallsup|3}}·mol{{smallsup|−1}}{{{molar volume ref|}}}&#x20;}}{{{molar volume comment|}}}}}
+
+| label46 = [[Sâm-siông-tiám]]
+|  data46 = {{#if:{{{triple point K|}}} |{{{triple point K}}}&nbsp;K,&#x20;&#x200b;{{{triple point kPa}}}&nbsp;kPa{{{triple point ref|}}}&#x20;{{{triple point comment|}}} }}<!--
+         -->{{#if:{{{triple point K 2|}}} |<br/>{{{triple point K 2}}}&nbsp;K, {{{triple point kPa 2}}}&nbsp;kPa{{{triple point 2 ref|}}}&#x20;{{{triple point 2 comment|}}} }}
+| label47 = [[lìm-kie-tiám]]
+|  data47 = {{#if:{{{critical point K|}}} |{{{critical point K}}}&nbsp;K, {{{critical point MPa}}}&nbsp;MPa{{{critical point ref|}}}&#x20;{{{critical point comment|}}} }}
+| label48 = [[Iûⁿ-hoà-jia̍t]]
+|  data48 = {{#if:{{{heat fusion|}}} |{{{heat fusion}}}&nbsp;[[Kilojoule per mole|kJ·mol{{smallsup|−1}}]]{{{heat fusion ref|}}}&#x20;{{{heat fusion comment|}}} }}<!--
+         -->{{#if:{{{heat fusion 2|}}} |<br/>{{{heat fusion 2}}}&nbsp;kJ·mol{{smallsup|−1}}{{{heat fusion 2 ref|}}}&#x20;{{{heat fusion 2 comment|}}} }}
+| label49 = [[Cheng-hoat-jia̍t]]
+|  data49 = {{#if:{{{heat vaporization|}}} |{{{heat vaporization}}}&nbsp;kJ·mol{{smallsup|−1}}{{{heat vaporization ref|}}}&#x20;{{{heat vaporization comment|}}} }}
+| label50 = [[Jia̍t-iông-liōng]]
+|  data50 = {{#if:{{{heat capacity|}}} |{{{heat capacity}}}&nbsp;J·mol{{smallsup|−1}}·K{{smallsup|−1}}{{{heat capacity ref|}}}&#x20;{{{heat capacity comment|}}} }}<!--
+         -->{{#if:{{{heat capacity 2|}}} |<br/>{{{heat capacity 2}}}&nbsp;J·mol{{smallsup|−1}}·K{{smallsup|−1}}{{{heat capacity 2 ref|}}}&#x20;{{{heat capacity 2 comment|}}} }}
+|  data53 = {{#if:{{{vapor pressure 1|}}}{{{vapor pressure 100 k|}}}
+             | [[cheng-khì-ap|'''cheng-khì-ap''']]{{{vapor pressure ref|}}}<!--
+               -->{{#if:{{{vapor pressure comment|}}} |&#x20;{{{vapor pressure comment}}} }}<!--
+               --><div style="margin:0 auto;">{{Infobox element/vapor pressure table |vp1={{{vapor pressure 1|&nbsp;}}} |vp10={{{vapor pressure 10|&nbsp;}}} |vp100={{{vapor pressure 100|&nbsp;}}} |vp1k={{{vapor pressure 1 k|&nbsp;}}} |vp10k={{{vapor pressure 10 k|&nbsp;}}} |vp100k={{{vapor pressure 100 k|&nbsp;}}} }}</div><!--
+         -->}}
+|  data54 = {{#if:{{{vapor pressure 1 2|}}}{{{vapor pressure 100 k 2|}}}
+             | '''{{Engvar|defaultWord=vapor |engvar={{{engvar|}}} |defaultLang=en-US |en-GB=vapour |engvarCatSort=Elements}}&nbsp;pressure'''{{{vapor pressure 2 ref|}}}<!--
+               -->{{#if:{{{vapor pressure 2 comment|}}} |&#x20;{{{vapor pressure 2 comment|}}} }}<!--
+               --><div style="margin:0 auto;">{{Infobox element/vapor pressure table |vp1={{{vapor pressure 1 2|&nbsp;}}} |vp10={{{vapor pressure 10 2|&nbsp;}}} |vp100={{{vapor pressure 100 2|&nbsp;}}} |vp1k={{{vapor pressure 1 k 2|&nbsp;}}} |vp10k={{{vapor pressure 10 k 2|&nbsp;}}} |vp100k={{{vapor pressure 100 k 2|&nbsp;}}} }}</div><!--
+         -->}}
+<!-- ATOMIC PROPERTIES (items 60-79) ------------------>
+| header60 = Goân-chú sèng-chit
+|  data61 = {{{atomic properties comment|}}}{{{atomic properties|}}}
+| label62 = [[Ióng-hòa-hoan]]
+|  data62 = {{#if:{{{oxidation states|}}}
+             | {{nowrap|{{{oxidation states}}}}}{{{oxidation states ref|}}}<!---->{{#if:{{{oxidation states comment|}}} |&#x20;&#x200b;{{{oxidation states comment}}} }}<!--
+         -->}}
+| label63 = [[Tiān-hū-tō͘]]
+|  data63 = {{#if:{{{electronegativity|}}} | Pauling&nbsp;scale: {{{electronegativity}}}{{{electronegativity ref|}}}&#x20;}}{{{electronegativity comment|}}}
+| label65 = [[Tiān-lī-lêng]]
+|  data65 = {{#if:{{{ionization energy 1|}}} |1st:&nbsp;{{{ionization energy 1|}}}&nbsp;kJ·mol{{smallsup|−1}}{{{ionization energy 1 ref|}}}&#x20;{{{ionization energy 1 comment|}}} }}<!--
+         -->{{#if:{{{ionization energy 2|}}} |<br/>2nd:&nbsp;{{{ionization energy 2|}}}&nbsp;kJ·mol{{smallsup|−1}}{{{ionization energy 2 ref|}}}&#x20;{{{ionization energy 2 comment|}}} }}<!--
+         -->{{#if:{{{ionization energy 3|}}} |<br/>3rd:&nbsp;{{{ionization energy 3|}}}&nbsp;kJ·mol{{smallsup|−1}}{{{ionization energy 3 ref|}}}&#x20;{{{ionization energy 3 comment|}}} }}<!--
+         -->{{#ifexpr:0{{{number of ionization energies|0}}}>3 |<br/>([[Molar ionization energies of the elements#{{{name|}}}|more]])}}<!--
+         -->{{#if:{{{ionization energy 1|}}} |{{{ionization energy ref|}}}&#x20;{{{ionization energy comment|}}} }}
+| label71 = [[Goân-chú pòaⁿ-kèng]]
+|  data71 = {{#if:{{{atomic radius|}}} |empirical:&#x20;{{{atomic radius}}}&nbsp;[[Picometre|pm]]{{{atomic radius ref|}}}&#x20;{{{atomic radius comment|}}} }}<!--
+         -->{{#if:{{{atomic radius calculated|}}} |{{#if:{{{atomic radius|}}}|<br/>}}calculated:&#x20;{{{atomic radius calculated}}}&nbsp;{{#if:{{{atomic radius|}}}|pm|[[Picometre|pm]]}}{{{atomic radius calculated ref|}}}&#x20;{{{atomic radius calculated comment|}}} }}
+| label73 = [[Kiōng-kè pòaⁿ-kèng]]
+|  data73 = {{#if:{{{covalent radius|}}} |{{{covalent radius}}}&nbsp;{{#if:{{{atomic radius|}}}{{{atomic radius calculated|}}}|pm|[[Picometre|pm]]}}{{{covalent radius ref|}}}&#x20;{{{covalent radius comment|}}} }}
+| label74 = [[Van der Waals pòaⁿ-kèng]]
+|  data74 = {{#if:{{{Van der Waals radius|}}} |{{{Van der Waals radius}}}&nbsp;{{#if:{{{atomic radius|}}}{{{atomic radius calculated|}}}{{{covalent radius|}}}|pm|[[Picometre|pm]]}}{{{Van der Waals radius ref|}}}&#x20;{{{Van der Waals radius comment|}}} }}
+<!-- MISCELLANEA (items 100-139) ------------------>
+| header100 = {{#if:{{{CAS number|}}}|Miscellanea}}
+| label101 = [[Chiⁿ-thé kò͘-chō]]
+|  data101 = {{#if:{{{crystal structure prefix|}}}{{{crystal structure|}}}{{{crystal structure comment|}}}
+              | {{{crystal structure prefix|}}}&#x20;&#x200b;{{Infobox element/crystal structure |{{{crystal structure|}}}}}{{{crystal structure ref|}}}<!--
+                -->{{#if:{{{crystal structure|}}} |<div style="float:right;">{{#invoke:InfoboxImage|InfoboxImage |image={{Infobox element/crystal structure|{{{crystal structure|}}}|return=image}} |size=50px |sizedefault=frameless |alt={{ucfirst:{{{crystal structure}}}}} crystal structure for {{{crystal structure prefix|}}}{{#if:{{{crystal structure prefix|}}}|&#x20;}}{{{name}}} }}</div>}}<!--
+                -->{{#if:{{{crystal structure comment|}}} |{{#if:{{{crystal structure prefix|}}}{{{crystal structure|}}}|<br/>}}{{{crystal structure comment|}}} }}<!--
+          -->}}
+| label102 = Chiⁿ-thé kò͘-chō
+|  data102 = {{#if:{{{crystal structure 2 prefix|}}}{{{crystal structure 2|}}}{{{crystal structure 2 comment|}}}
+              | {{{crystal structure 2 prefix|}}}&#x20;&#x200b;{{Infobox element/crystal structure |{{{crystal structure 2|}}}}}{{{crystal structure 2 ref|}}}<!--
+                -->{{#if:{{{crystal structure 2|}}} |<div style="float:right;">{{#invoke:InfoboxImage|InfoboxImage |image={{Infobox element/crystal structure|{{{crystal structure 2|}}}|return=image}} |size=50px |sizedefault=frameless |alt={{ucfirst:{{{crystal structure 2}}}}} crystal structure for {{{crystal structure 2 prefix|}}}{{#if:{{{crystal structure 2 prefix|}}}|&#x20;}}{{{name}}} }}</div>}}<!--
+                -->{{#if:{{{crystal structure 2 comment|}}} |{{#if:{{{crystal structure 2 prefix|}}}{{{crystal structure 2|}}}|<br/>}}{{{crystal structure 2 comment|}}} }}<!--
+          -->}}
+| label103 = [[Siaⁿ-sok]]
+|  data103 = {{#if:{{{speed of sound|}}} |{{{speed of sound}}} [[Metre per second|m·s{{smallsup|−1}}]]{{{speed of sound ref|}}}&#x20;}}{{{speed of sound comment|}}}
+
+| label104 = {{#if:{{{speed of sound|}}}||[[Siaⁿ-sok]]&#x20;}} <span style="font-weight:normal;">thin&nbsp;rod</span>
+|  data104 ={{#if:{{{speed of sound rod at 20|}}} |{{{speed of sound rod at 20}}}&nbsp;m·s{{smallsup|−1}}&#x20;(at&nbsp;20&nbsp;°C){{{speed of sound rod at 20 ref|}}}&#x20;}}{{{speed of sound rod at 20 comment|}}}
+
+| label105 = {{#if:{{{speed of sound rod at 20|}}}{{{speed of sound|}}}||[[Siaⁿ-sok]]&#x20;}}<span style="font-weight:normal;">thin&nbsp;rod</span>
+
+|  data105 ={{#if:{{{speed of sound rod at r.t.|}}} |{{{speed of sound rod at r.t.}}}&nbsp;m·s{{smallsup|−1}}&#x20;(at&nbsp;{{abbr|r.t.|room temperature}}){{{speed of sound rod at r.t. ref|}}}&#x20;}}{{{speed of sound rod at r.t. comment|}}}
+
+| label106 = [[Jia̍t-phòng-tiòng]]
+
+|  data106 = {{#if:{{{thermal expansion|}}} |{{{thermal expansion}}}&nbsp;µm·m{{smallsup|−1}}·K{{smallsup|−1}}{{{thermal expansion ref|}}}&#x20;{{{thermal expansion comment|}}} }}<!--
+          -->{{#if:{{{thermal expansion at 25|}}} |{{#if:{{{thermal expansion|}}}|<br/>}}{{{thermal expansion at 25}}}&nbsp;µm·m{{smallsup|−1}}·K{{smallsup|−1}}&#x20;(at&nbsp;25&nbsp;°C){{{thermal expansion at 25 ref|}}}&#x20;{{{thermal expansion at 25 comment|}}} }}
+
+| label107 = [[Jia̍t-thoân-tō-lu̍t]]
+|  data107 = {{#if:{{{thermal conductivity|}}} |{{{thermal conductivity}}}&nbsp;W·m{{smallsup|−1}}·K{{smallsup|−1}}{{{thermal conductivity ref|}}}&#x20;{{{thermal conductivity comment|}}} }}<!--
+          -->{{#if:{{{thermal conductivity 2|}}} |<br/>{{{thermal conductivity 2}}}&nbsp;W·m{{smallsup|−1}}·K{{smallsup|−1}}{{{thermal conductivity 2 ref|}}}&#x20;{{{thermal conductivity 2 comment|}}} }}
+
+| label109 = [[Jia̍t-khok-sàn-lu̍t]]
+|  data109 = {{#if:{{{thermal diffusivity|}}} |{{{thermal diffusivity}}}&nbsp;mm{{smallsup|2}}·s{{smallsup|−1}}&#x20;(at&nbsp;300&nbsp;K){{{thermal diffusivity ref|}}}&#x20;{{{thermal diffusivity comment|}}} }}
+| label110 = [[Tiān-chó͘-lu̍t]]
+|  data110 = {{#if:{{{electrical resistivity|}}} |{{{electrical resistivity}}}&nbsp;{{{electrical resistivity unit prefix|}}}Ω·m{{{electrical resistivity ref|}}}&#x20;{{{electrical resistivity comment|}}} }}<!--
+          -->{{#if:{{{electrical resistivity at 0|}}} |{{#if:{{{electrical resistivity|}}}|<br/>}}{{{electrical resistivity at 0}}}&nbsp;{{{electrical resistivity unit prefix|}}}Ω·m&#x20;(at&nbsp;0&nbsp;°C){{{electrical resistivity at 0 ref|}}}&#x20;{{{electrical resistivity at 0 comment|}}} }}<!--
+          -->{{#if:{{{electrical resistivity at 20|}}} |{{#if:{{{electrical resistivity|}}}{{{electrical resistivity at 0|}}}|<br/>}}{{{electrical resistivity at 20}}}&nbsp;{{{electrical resistivity unit prefix|}}}Ω·m&#x20;(at&nbsp;20&nbsp;°C){{{electrical resistivity at 20 ref|}}}&#x20;{{{electrical resistivity at 20 comment|}}} }}
+| label112 = [[Lêng-phāng]]
+|  data112 = {{#if:{{{band gap|}}} |{{{band gap}}}&nbsp;[[Electronvolt|eV]] (at&nbsp;300&nbsp;K){{{band gap ref|}}}&#x20;{{{band gap comment|}}} }}
+| label114 = [[Curie un-tō͘]]
+|  data114 = {{#if:{{{Curie point K|}}} |{{{Curie point K}}}&nbsp;K{{{Curie point ref|}}}&#x20;{{{Curie point comment|}}} }}
+| label118 = [[Chû-sèng]]
+|  data118 = {{#if:{{{magnetic ordering|}}} |{{{magnetic ordering}}}{{{magnetic ordering ref|}}}&#x20;{{{magnetic ordering comment|}}} }}
+| label126 = [[Ultimate tensile strength|Tensile strength]]
+|  data126 = {{#if:{{{tensile strength|}}} |{{{tensile strength}}}&nbsp;MPa{{{tensile strength ref|}}}&#x20;{{{tensile strength comment|}}} }}
+| label127 = [[Young's modulus]]
+|  data127 = {{#if:{{{Young's modulus|}}} |{{{Young's modulus}}}&nbsp;GPa{{{Young's modulus ref|}}}&#x20;{{{Young's modulus comment|}}} }}
+| label128 = [[Shear modulus]]
+|  data128 = {{#if:{{{Shear modulus|}}} |{{{Shear modulus}}}&nbsp;GPa{{{Shear modulus ref|}}}&#x20;{{{Shear modulus comment|}}} }}
+| label129 = [[Bulk modulus]]
+|  data129 = {{#if:{{{Bulk modulus|}}} |{{{Bulk modulus}}}&nbsp;GPa{{{Bulk modulus ref|}}}&#x20;{{{Bulk modulus comment|}}}}}
+| label130 = [[Poisson's ratio|Poisson ratio]]
+|  data130 = {{#if:{{{Poisson ratio|}}} |{{{Poisson ratio|}}}{{{Poisson ratio ref|}}}&#x20;{{{Poisson ratio comment|}}} }}
+| label131 = [[Mohs scale of mineral hardness|Mohs hardness]]
+|  data131 = {{#if:{{{Mohs hardness|}}}
+              | {{{Mohs hardness|}}}{{{Mohs hardness ref|}}}&#x20;{{{Mohs hardness comment|}}}<!--
+                -->{{#if:{{{Mohs hardness 2|}}} |<br/>{{{Mohs hardness 2}}}{{{Mohs hardness 2 ref|}}}&#x20;{{{Mohs hardness 2 comment|}}} }}<!--
+          -->}}
+| label133 = [[Vickers hardness test|Vickers hardness]]
+|  data133 = {{#if:{{{Vickers hardness|}}} |{{{Vickers hardness}}}&nbsp;MPa{{{Vickers hardness ref|}}}&#x20;{{{Vickers hardness comment|}}} }}
+| label134 = [[Brinell hardness test|Brinell hardness]]
+|  data134 = {{#if:{{{Brinell hardness|}}} |{{{Brinell hardness}}}&nbsp;MPa{{{Brinell hardness ref|}}}&#x20;{{{Brinell hardness comment|}}} }}
+| label138 = [[CAS Registry Number]]
+|  data138 = {{#if:{{{CAS number|}}} |{{{CAS number|}}}{{{CAS number ref|}}}&#x20;{{{CAS number comment|}}} }}
+<!-- HISTORY (items 140-149) ------------------>
+| header140 = {{#if:{{{naming|}}}{{{predicted by|}}}{{{prediction date |}}}{{{discovered by|}}}{{{discovery date|}}}{{{first isolation by|}}}{{{first isolation date|}}}{{{named by|}}}{{{named date|}}}{{{history comment|}}} |Le̍k-sú}}
+| label141 = Hō-miâ
+|  data141 = {{{naming|}}}
+| label142 = Chhui-chhek
+|  data142 = {{{predicted by|}}}<!---->{{#if:{{{prediction date|}}} |{{nowrap|{{#if:{{{predicted by|}}} |&#x20;({{{prediction date}}}) |{{{prediction date}}}}}<!---->{{{prediction date ref|}}}<!--(end nowrap:)-->}} }}
+| label143 = [[Hòa-ha̍k goân-sò͘ ê hiat-kiàn iân-kek|Hoat-kiàn]] kap siōng chá ê tông-ūi-sò͘
+|  data143 = {{#if:{{{discovery and first isolation by|}}}|{{{discovery and first isolation by|}}}<!--date-->{{#if:{{{discovery date|}}}|&#x20;({{{discovery date|}}}{{#if:{{{first isolation date|}}}|,&#x20;{{{first isolation date|}}}}}){{{discovery date ref|}}}{{{first isolation date ref|}}}}}<!--
+              -->{{#ifexpr: {{#if:{{{discovered by|}}}{{{first isolation by|}}}|1|0}} or {{#if:{{{discovery date|}}}|{{#ifeq:{{{discovery date|}}}|{{{first isolation date|}}}|1|0}}|0}} |{{red|<br/>Too much 'discovery/first isolation' data}}|}}|}}
+| label144 = [[Timeline of chemical element discoveries|Discovery]]
+|  data144 = {{#if:{{{discovery and first isolation by|}}}| |
+{{{discovered by|}}}<!---->{{#if:{{{discovery date|}}} |{{nowrap|{{#if:{{{discovered by|}}} |&#x20;({{{discovery date}}}) |{{{discovery date}}}}}<!--(end nowrap:)-->}}{{{discovery date ref|}}} }} }}
+| label145 = First isolation
+|  data145 = {{#if:{{{discovery and first isolation by|}}}| |{{{first isolation by|}}}<!---->{{#if:{{{first isolation date|}}} |{{nowrap|{{#if:{{{first isolation by|}}} |&#x20;({{{first isolation date}}}) |{{{first isolation date}}}}}<!--(end nowrap:)-->}}{{{first isolation date ref|}}} }} }}
+| label146 = Named{{#if:{{{named by|}}}|&nbsp;by}}
+|  data146 = {{{named by|}}}<!---->{{#if:{{{named date|}}} |{{nowrap|{{#if:{{{named by|}}} |&#x20;({{{named date}}}) |{{{named date}}}}}<!--(end nowrap:)-->}}{{{named date ref|}}} }}
+| label147 = {{{history comment label|}}}
+|  data147 = {{{history comment|}}}
+<!-- ISOTOPES (items 160-169) ------------------>
+| header160 = {{#if:{{{isotopes|}}} |Chòe ún-tēng ê tông-ūi-sò͘ |{{#if:{{{isotopes comment|}}}|Isotopes comment}} }}
+|  data161 = {{#if:{{{isotopes|}}} | Chú bûn-chiong: [[{{{name}}} ê tông-ūi-sò͘]] }}
+|  data162 = {{#if:{{{isotopes|}}} |
+{{{!}} class="wikitable" style="width:100%; border-collapse:collapse; margin:0; padding:0; text-align:center;"
+{{!}}-
+! [[Isotope{{!}}iso]]
+! [[Natural abundance{{!}}NA]]
+! [[half-life]]
+! [[Decay mode{{!}}DM]]
+! [[Decay energy{{!}}DE]]&nbsp;{{smaller|1=<span style="font-weight:normal;">([[Electronvolt{{!}}MeV]])</span>}}
+! [[Decay product{{!}}DP]]
+{{{isotopes}}}
+{{!}}}
+}}
+|  data164 = {{{isotopes comment|}}}
+<!-- BELOW (CHIĀM-SÎ BÔ SU-IÀU) 
+| belowclass = noprint
+| below = {{navbar|Infobox {{lc:{{{name|&#x20;element}}}}}|plain=1}}·&#x20;[[Hòa-ha̍k goân-sò͘ ê chham-khó chu-liāu lia̍t-toaⁿ|chham-khó]]
+-->
+}}<noinclude>
+{{Documentation}}
+</noinclude>
