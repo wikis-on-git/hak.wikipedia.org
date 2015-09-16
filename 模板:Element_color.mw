@@ -1,0 +1,253 @@
+{{#switch:<!--
+PLURAL-S note: every end-s is removed to cover "actinide" and "actinides" alike. So words like "gases" MUST be written "gase" here.
+Input handling: REMOVED space and a final 's' once (plural-s) -->{{lc:{{#invoke:String|replace|source={{#invoke:String|replace|source={{{1|}}}|pattern=%s|plain=false}}|pattern=s$|plain=false}}}}<!-- begin #switch list-->
+<!-- CATEGORY -->
+| alkalimetal = &#x23;ff6666
+| alkalineearthmetal = &#x23;ffdead
+| lanthanide = &#x23;ffbfff
+| actinide = &#x23;ff99cc
+| transitionmetal | chhian-îkim-sio̍k = &#x23;ffc0c0
+| post-transitionmetal = &#x23;cccccc
+| metalloid = &#x23;cccc99
+| polyatomicnonmetal | polyatomicnon-metal = &#x23;a1ffc3
+| diatomicnonmetal | diatomicnon-metal = &#x23;e7ff8f
+| noblega | noblegase = &#x23;c0ffff<!-- see plural-s note in top -->
+| superactinide = &#x23;d1ddff
+| eka-superactinide = &#x23;c6dd9d
+<!-- BORDER (FRAME) Occurence. Gives full value: "2px solid #4499ff"-->
+| primordial = 2px solid &#x23;8811ff
+| fromdecay = 2px dashed &#x23;773300
+| synthetic = 2px dotted &#x23;4499ff
+| undiscovered = 2px solid transparent
+| none = 2px solid transparent
+<!-- PHASE (fontcolor) -->
+| solid = &#x23;000000<!-- HTML black -->
+| liquid = &#x23;008000<!-- HTML green -->
+| ga | gase = &#x23;ff0000<!-- HTML red --><!-- see plural-s note in top -->
+| unknownphase = &#x23;696969<!-- HTML dimgrey -->
+<!-- PHASE PREDICTED (fontcolor) currently same as their master color -->
+| solid(predicted) | solids(predicted) = &#x23;000000<!-- HTML black -->
+| liquid(predicted) | liquids(predicted) = &#x23;008000<!-- HTML green -->
+| gas(predicted) | gases(predicted) = &#x23;ff0000<!-- HTML red -->
+<!-- GENERIC -->
+| unknown = &#x23;ffffff
+| unknownchemicalproperty | unknownchemicalpropertie | unknownproperty | unknownpropertie = &#x23;e8e8e8<!-- see plural-s note in top -->
+<!-- STRAIGHT COLOR (HTML W3C color def) -->
+| white = &#x23;ffffff
+| black = &#x23;000000
+| red = &#x23;ff0000
+| yellow = &#x23;ffff00
+| blue = &#x23;0000ff
+| green = &#x23;008000
+<!-- TABLE colors -->
+| table0 | tableborder = &#x23;a9a9a9
+| table1 | tabletitle | tablecaption = &#x23;d8d8d8
+| table2 | tableheader = &#x23;e0e0e0
+| table3 | tablecolheader | tablerowheader | tablesubheader = &#x23;e8e8e8
+| table4 | tablemark = &#x23;f0f0f0
+| table5 | tablebackground | tablebg = &#x23;f8f8f8
+<!-- PREDICTED PROPERTY color, derived from main color -->
+| alkalimetal(predicted) | alkalimetals(predicted) = &#x23;d8bcbc
+| alkalineearthmetal(predicted) | alkalineearthmetals(predicted) = &#x23;ffecd3
+| superactinide(predicted) | superactinides(predicted) = &#x23;d1ddff<!-- same -->
+| eka-superactinide(predicted) | eka-superactinide(predicted) = &#x23;c6dd9d<!-- same -->
+| transitionmetal(predicted) | transitionmetals(predicted) = &#x23;ffe2e2
+| post-transitionmetal(predicted) | post-transitionmetals(predicted) = &#x23;d8d8d8
+| metalloid(predicted) | metalloids(predicted) = &#x23;e2e2aa
+| polyatomicnonmetal(predicted) | polyatomicnonmetals(predicted) = &#x23;d0ffe1
+| diatomicnonmetal(predicted) | diatomicnonmetals(predicted) = &#x23;f2ffc2
+| noblegas(predicted) | noblegases(predicted) = &#x23;ddffff
+<!-- BLOCK -->
+| s-block = &#x23;ff9999
+| p-block = &#x23;fdff8c
+| d-block = &#x23;99ccff
+| f-block = &#x23;9bff99
+| g-block = &#x23;fd99ff<!-- does not occur in RL, not even predicted. For color set calculations only -->
+| s-block(predicted) = &#x23;ffcccc
+| p-block(predicted) = &#x23;ffffbf
+| d-block(predicted) = &#x23;c7eeff
+| f-block(predicted) = &#x23;cdffcc
+| g-block(predicted) = &#x23;febfff
+<!-- Categories, top level -->
+| metal = &#x23;eee8aa
+| nonmetal = &#x23;b0e0e6
+| innertransitionmetal = &#x23;d8bfd8
+<!-- ERA (discovery years) -->
+| antiquitytomiddleage = &#x23;ffb9b9<!-- see plural-s note in top -->
+| before1800 = &#x23;dfcdff
+| 1800 | 1800-1849 | 1800–1849 = &#x23;cbffb9
+| 1850 | 1850-1899 | 1850–1899 = &#x23;b9ffe4
+| 1900 | 1900-1949 | 1900–1949 = &#x23;ffe2b9
+| 1950 | 1950-1999 | 1950–1999 = &#x23;fff6b9
+| 2000 | 2000-present | 2000–present = &#x23;ffb9ef
+| future = &#x23;
+<!-- NUMBER -->
+| 0 | zero = &#x23;c0ffff
+| 1 | one = &#x23;ff8989
+| 2 | two = &#x23;ffdead
+| 3 | three = &#x23;ffbfff
+| 4 | four = &#x23;cccccc
+| 5 | five = &#x23;cccc99
+| 6 | six = &#x23;a0ffa0
+| 7 | seven = &#x23;ffff99
+| 8 | eight = &#x23;d1ddff
+| 9 | nine = &#x23;c6dd9d
+<!-- Metalloid cite class -->
+| metalloidciteclass1of4 = &#x23;baffba
+| metalloidciteclass2of4 = &#x23;badcff
+| metalloidciteclass3of4 = &#x23;ffbadc
+| metalloidciteclass4of4 = &#x23;ffffba
+<!-- ARTICLE QUALITY grades -->
+| aq-fa = &#x23;6699ff
+| aq-a = &#x23;66ffff
+| aq-ga = &#x23;55cc55<!-- adjusted, from 66ff66--><!-- see plural-s note in top -->
+| aq-b = &#x23;bcff66<!-- adjusted, from b2ff66 -->
+| aq-c = &#x23;ffff66
+| aq-start = &#x23;ffaa66
+| aq-stub = &#x23;ff6666
+| aq-list = &#x23;aa88ff
+<!-- AQ nonstandard grades -->
+| aq-b+ | aq-bplus = &#x23;66ff66
+| aq-future = &#x23;8a95c9<!-- error: "future" in era too -->
+| aq-current = &#x23;d462ff
+| aq-disambig = &#x23;00fa9a
+| aq-na = &#x23;f5f5f5
+| aq-redirect = &#x23;c0c0c0
+| aq-book = &#x23;98ff98
+| aq-template = &#x23;fbceb1
+| aq-category = &#x23;ffdb58
+| aq-unassesed = transparent<!-- not: ffffff -->
+<!-- WP ARTICLE IMPORTANCE (from template:Importance/colour) -->
+| imp-top = &#x23;ff00ff
+| imp-high = &#x23;ff88ff
+| imp-mid = &#x23;ffbbff
+| imp-low = &#x23;ffddff
+| imp-bottom = &#x23;ffeeff
+| imp-na | imp-n/a = &#x23;f5f5f5
+| imp-??? | imp-unassessed = &#x23;f9f9f9
+<!--
+
+ DEPRECATED (will still work) -->
+| poormetal =&#x23;cccccc
+| poormetal(predicted) | poormetals(predicted) = &#x23;d8d8d8<!-- DEPR -->
+| othermetal = &#x23;cccccc
+| othermetal(predicted) | othermetals(predicted) = &#x23;d8d8d8<!--DEPR Jul 2014 -->
+| othernonmetal = &#x23;a0ffa0
+| othernonmetal(predicted) | othernonmetals(predicted) = &#x23;d3ffd3
+| seebelow(border) = 2px solid transparent
+| x = &#x23;ffffff<!-- to be resolved/depr -->
+| (seebelow) | seebelow = &#x23;f8f8f8<!-- misuse of bg color -->
+| halogen = &#x23;ffff99
+| halogen(predicted) | halogens(predicted) = &#x23;ffffd6
+| lanthanoid = &#x23;ffbfff
+| actinoid = &#x23;ff99cc
+| naturalradio = 2px dashed &#x23;773300
+| unk | unknown(white) = &#x23;ffffff
+| tablecolh | tablerowh = &#x23;e8e8e8
+| rareearthmetal = &#x23;ffbffe<!--
+  For trials only (Nov 2013). Changed the color by just one from ffbffF into ffbffE to technically track changes; user will see the same color. -->
+| s-block-p | s-blocklight = &#x23;ffcccc
+| p-block-p | p-blocklight = &#x23;ffffbf
+| d-block-p | d-blocklight = &#x23;c7eeff
+| f-block-p | f-blocklight = &#x23;cdffcc
+| g-block-p | g-blocklight = &#x23;febfff
+| fa = &#x23;6699ff
+| a = &#x23;66ffff
+| ga = &#x23;55cc55<!-- adjusted, from 66ff66--><!-- see plural-s note in top -->
+| b = &#x23;bcff66<!-- adjusted, from b2ff66 -->
+| c = &#x23;ffff66
+| start = &#x23;ffaa66
+| stub = &#x23;ff6666
+| list = &#x23;aa88ff
+| bplus | b+ = &#x23;66ff66
+| future = &#x23;8a95c9<!-- error: "future" in era too -->
+| current = &#x23;d462ff
+| disambig = &#x23;00fa9a
+| na = &#x23;f5f5f5
+| redirect = &#x23;c0c0c0
+| book = &#x23;98ff98
+| template = &#x23;fbceb1
+| category = &#x23;ffdb58
+| unassessed = transparent
+| top = &#x23;ff00ff
+| high = &#x23;ff88ff
+| mid = &#x23;ffbbff
+| low = &#x23;ffddff
+| bottom = &#x23;ffeeff
+| na | n/a = &#x23;f5f5f5
+| ??? = &#x23;f9f9f9<!-- end of list DEPR -->
+<!--
+
+ MAIN #switch DEFAULT -->
+| #default={{{default|transparent}}}<!--
+
+ END OF MAIN SWITCH
+-->{{user other||{{#ifeq:{{{addcat|yes}}}|no||{{element color/dummy2|{{{1|_noinput_}}}}} }}}}}}<!--
+
+ TAGGING NAMES TO BE RESEARCHED, 8 Nov 2014. (by {ec/dummy} trick)
+-->{{user other||{{#switch:{{lc:{{{1|}}}}}
+| actinoid | actinoids
+| future
+| inner transition metal | inner transition metals
+| lanthanoid | lanthanoids
+| natural radio
+| other metal | other metals
+| other metal (predicted) | other metals (predicted)
+| poor metal | poor metals
+| poor metal (predicted) | poor metals (predicted)
+| rare earth metal | rare earth metals
+| halogen
+| halogen (predicted) | halogens (predicted)
+| unknownc
+| veryreactive
+| x
+| unk | unknown (white)
+| (see below) | (seebelow) | seebelow | see below
+| see below (border)
+| white
+| red
+| yellow
+| blue
+| green
+<!-- blocks -->
+| s-block-p | s-block light
+| p-block-p | p-block light
+| d-block-p | d-block light
+| f-block-p | f-block light
+| g-block-p | g-block light
+<!-- aq-pref missing-->
+| fa
+| a
+| ga <!-- GA and gaS conflict plural-s -->
+| b
+| c
+| start
+| stub
+| list
+| bplus | b+
+| future
+| current
+| disambig
+| na
+| redirect
+| book
+| template
+| category
+| unassessed
+<!-- IMP prefix missing-->
+| top
+| high
+| mid
+| low
+| bottom
+| na | n/a
+| ??? | unassessed
+<!--table-->
+| tablecolh | tablerowh
+| = {{#ifeq:{{{addcat|y}}}|no||{{element color/dummy|{{{1|}}} }}}}<!--
+-->}}}}<!--
+
+ END OF TAGGING SWITCH
+--><noinclude>
+{{documentation}}
+</noinclude>
