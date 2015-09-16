@@ -1,5 +1,461 @@
-{{#invoke:Infobox|infobox}}<noinclude>
+<table class="infobox {{{bodyclass|}}}" style="font-size: 90%; border:0.5px solid #73B839; width: 300px; {{{bodystyle|}}}" align="right">
+{{ #ifeq: {{{titletype|}}} | caption | <caption style="font-weight: bold; font-size: 120%; {{{titlestyle|}}}">{{{title|{{PAGENAME}}}}}</caption> | <tr><th colspan="2" style="font-size: 120%; background: #ccf; {{{titlestyle|}}}">{{{title|{{PAGENAME}}}}}</th></tr>}}<!--
+ above
+-->{{ #if: {{{above|}}} |
+<tr>
+<td colspan="2" style="text-align: center; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{abovestyle|}}}">
+{{{above}}}</td>
+</tr> }}<!--
+ image
+-->{{ #if: {{{image|}}} |
+<tr>
+<td colspan="2" style="width: auto; text-align: center; {{{imagestyle|}}}">{{{image}}}{{ #if: {{{caption|}}} | <br /><span style="font-size:smaller; {{{captionstyle|}}}">{{{caption}}}</span> }}
+</tr> }}<!--
+ row 1
+-->{{ #if: {{{header1|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header1}}}</th>
+</tr> | {{ #if: {{{data1|}}} |
+<tr>
+{{ #if: {{{label1|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label1}}}</th> }}<td {{ #if: {{{label1|}}} || colspan="2" }} style="{{ #if: {{{label1|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data1}}}</td>
+</tr> }} }}<!--
+ row 2
+-->{{ #if: {{{header2|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header2}}}</th>
+</tr> | {{ #if: {{{data2|}}} |
+<tr>
+{{ #if: {{{label2|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label2}}}</th> }}<td {{ #if: {{{label2|}}} || colspan="2" }} style="{{ #if: {{{label2|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data2}}}</td>
+</tr> }} }}<!--
+ row 3
+-->{{ #if: {{{header3|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header3}}}</th>
+</tr> | {{ #if: {{{data3|}}} |
+<tr>
+{{ #if: {{{label3|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label3}}}</th> }}<td {{ #if: {{{label3|}}} || colspan="2" }} style="{{ #if: {{{label3|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data3}}}</td>
+</tr> }} }}<!--
+ row 4
+-->{{ #if: {{{header4|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header4}}}</th>
+</tr> | {{ #if: {{{data4|}}} |
+<tr>
+{{ #if: {{{label4|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label4}}}</th> }}<td {{ #if: {{{label4|}}} || colspan="2" }} style="{{ #if: {{{label4|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data4}}}</td>
+</tr> }} }}<!--
+ row 5
+-->{{ #if: {{{header5|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header5}}}</th>
+</tr> | {{ #if: {{{data5|}}} |
+<tr>
+{{ #if: {{{label5|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label5}}}</th> }}<td {{ #if: {{{label5|}}} || colspan="2" }} style="{{ #if: {{{label5|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data5}}}</td>
+</tr> }} }}<!--
+ row 6
+-->{{ #if: {{{header6|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header6}}}</th>
+</tr> | {{ #if: {{{data6|}}} |
+<tr>
+{{ #if: {{{label6|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label6}}}</th> }}<td {{ #if: {{{label6|}}} || colspan="2" }} style="{{ #if: {{{label6|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data6}}}</td>
+</tr> }} }}<!--
+ row 7
+-->{{ #if: {{{header7|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header7}}}</th>
+</tr> | {{ #if: {{{data7|}}} |
+<tr>
+{{ #if: {{{label7|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label7}}}</th> }}<td {{ #if: {{{label7|}}} || colspan="2" }} style="{{ #if: {{{label7|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data7}}}</td>
+</tr> }} }}<!--
+ row 8
+-->{{ #if: {{{header8|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header8}}}</th>
+</tr> | {{ #if: {{{data8|}}} |
+<tr>
+{{ #if: {{{label8|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label8}}}</th> }}<td {{ #if: {{{label8|}}} || colspan="2" }} style="{{ #if: {{{label8|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data8}}}</td>
+</tr> }} }}<!--
+ row 9
+-->{{ #if: {{{header9|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header9}}}</th>
+</tr> | {{ #if: {{{data9|}}} |
+<tr>
+{{ #if: {{{label9|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label9}}}</th> }}<td {{ #if: {{{label9|}}} || colspan="2" }} style="{{ #if: {{{label9|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data9}}}</td>
+</tr> }} }}<!--
+ row 10
+-->{{ #if: {{{header10|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header10}}}</th>
+</tr> | {{ #if: {{{data10|}}} |
+<tr>
+{{ #if: {{{label10|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label10}}}</th> }}<td {{ #if: {{{label10|}}} || colspan="2" }} style="{{ #if: {{{label10|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data10}}}</td>
+</tr> }} }}<!--
+ row 11
+-->{{ #if: {{{header11|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header11}}}</th>
+</tr> | {{ #if: {{{data11|}}} |
+<tr>
+{{ #if: {{{label11|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label11}}}</th> }}<td {{ #if: {{{label11|}}} || colspan="2" }} style="{{ #if: {{{label11|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data11}}}</td>
+</tr> }} }}<!--
+ row 12
+-->{{ #if: {{{header12|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header12}}}</th>
+</tr> | {{ #if: {{{data12|}}} |
+<tr>
+{{ #if: {{{label12|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label12}}}</th> }}<td {{ #if: {{{label12|}}} || colspan="2" }} style="{{ #if: {{{label12|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data12}}}</td>
+</tr> }} }}<!--
+ row 13
+-->{{ #if: {{{header13|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header13}}}</th>
+</tr> | {{ #if: {{{data13|}}} |
+<tr>
+{{ #if: {{{label13|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label13}}}</th> }}<td {{ #if: {{{label13|}}} || colspan="2" }} style="{{ #if: {{{label13|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data13}}}</td>
+</tr> }} }}<!--
+ row 14
+-->{{ #if: {{{header14|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header14}}}</th>
+</tr> | {{ #if: {{{data14|}}} |
+<tr>
+{{ #if: {{{label14|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label14}}}</th> }}<td {{ #if: {{{label14|}}} || colspan="2" }} style="{{ #if: {{{label14|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data14}}}</td>
+</tr> }} }}<!--
+ row 15
+-->{{ #if: {{{header15|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header15}}}</th>
+</tr> | {{ #if: {{{data15|}}} |
+<tr>
+{{ #if: {{{label15|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label15}}}</th> }}<td {{ #if: {{{label15|}}} || colspan="2" }} style="{{ #if: {{{label15|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data15}}}</td>
+</tr> }} }}<!--
+ row 16
+-->{{ #if: {{{header16|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header16}}}</th>
+</tr> | {{ #if: {{{data16|}}} |
+<tr>
+{{ #if: {{{label16|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label16}}}</th> }}<td {{ #if: {{{label16|}}} || colspan="2" }} style="{{ #if: {{{label16|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data16}}}</td>
+</tr> }} }}<!--
+ row 17
+-->{{ #if: {{{header17|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header17}}}</th>
+</tr> | {{ #if: {{{data17|}}} |
+<tr>
+{{ #if: {{{label17|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label17}}}</th> }}<td {{ #if: {{{label17|}}} || colspan="2" }} style="{{ #if: {{{label17|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data17}}}</td>
+</tr> }} }}<!--
+ row 18
+-->{{ #if: {{{header18|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header18}}}</th>
+</tr> | {{ #if: {{{data18|}}} |
+<tr>
+{{ #if: {{{label18|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label18}}}</th> }}<td {{ #if: {{{label18|}}} || colspan="2" }} style="{{ #if: {{{label18|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data18}}}</td>
+</tr> }} }}<!--
+ row 19
+-->{{ #if: {{{header19|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header19}}}</th>
+</tr> | {{ #if: {{{data19|}}} |
+<tr>
+{{ #if: {{{label19|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label19}}}</th> }}<td {{ #if: {{{label19|}}} || colspan="2" }} style="{{ #if: {{{label19|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data19}}}</td>
+</tr> }} }}<!--
+ row 20
+-->{{ #if: {{{header20|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header20}}}</th>
+</tr> | {{ #if: {{{data20|}}} |
+<tr>
+{{ #if: {{{label20|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label20}}}</th> }}<td {{ #if: {{{label20|}}} || colspan="2" }} style="{{ #if: {{{label20|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data20}}}</td>
+</tr> }} }}<!--
+ row 21
+-->{{ #if: {{{header21|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header21}}}</th>
+</tr> | {{ #if: {{{data21|}}} |
+<tr>
+{{ #if: {{{label21|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label21}}}</th> }}<td {{ #if: {{{label21|}}} || colspan="2" }} style="{{ #if: {{{label21|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data21}}}</td>
+</tr> }} }}<!--
+ row 22
+-->{{ #if: {{{header22|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header22}}}</th>
+</tr> | {{ #if: {{{data22|}}} |
+<tr>
+{{ #if: {{{label22|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label22}}}</th> }}<td {{ #if: {{{label22|}}} || colspan="2" }} style="{{ #if: {{{label22|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data22}}}</td>
+</tr> }} }}<!--
+ row 23
+-->{{ #if: {{{header23|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header23}}}</th>
+</tr> | {{ #if: {{{data23|}}} |
+<tr>
+{{ #if: {{{label23|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label23}}}</th> }}<td {{ #if: {{{label23|}}} || colspan="2" }} style="{{ #if: {{{label23|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data23}}}</td>
+</tr> }} }}<!--
+ row 24
+-->{{ #if: {{{header24|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header24}}}</th>
+</tr> | {{ #if: {{{data24|}}} |
+<tr>
+{{ #if: {{{label24|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label24}}}</th> }}<td {{ #if: {{{label24|}}} || colspan="2" }} style="{{ #if: {{{label24|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data24}}}</td>
+</tr> }} }}<!--
+ row 25
+-->{{ #if: {{{header25|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header25}}}</th>
+</tr> | {{ #if: {{{data25|}}} |
+<tr>
+{{ #if: {{{label25|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label25}}}</th> }}<td {{ #if: {{{label25|}}} || colspan="2" }} style="{{ #if: {{{label25|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data25}}}</td>
+</tr> }} }}<!--
+ row 26
+-->{{ #if: {{{header26|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header26}}}</th>
+</tr> | {{ #if: {{{data26|}}} |
+<tr>
+{{ #if: {{{label26|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label26}}}</th> }}<td {{ #if: {{{label26|}}} || colspan="2" }} style="{{ #if: {{{label26|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data26}}}</td>
+</tr> }} }}<!--
+ row 27
+-->{{ #if: {{{header27|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header27}}}</th>
+</tr> | {{ #if: {{{data27|}}} |
+<tr>
+{{ #if: {{{label27|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label27}}}</th> }}<td {{ #if: {{{label27|}}} || colspan="2" }} style="{{ #if: {{{label27|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data27}}}</td>
+</tr> }} }}<!--
+ row 28
+-->{{ #if: {{{header28|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header28}}}</th>
+</tr> | {{ #if: {{{data28|}}} |
+<tr>
+{{ #if: {{{label28|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label28}}}</th> }}<td {{ #if: {{{label28|}}} || colspan="2" }} style="{{ #if: {{{label28|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data28}}}</td>
+</tr> }} }}<!--
+ row 29
+-->{{ #if: {{{header29|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header29}}}</th>
+</tr> | {{ #if: {{{data29|}}} |
+<tr>
+{{ #if: {{{label29|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label29}}}</th> }}<td {{ #if: {{{label29|}}} || colspan="2" }} style="{{ #if: {{{label29|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data29}}}</td>
+</tr> }} }}<!--
+ row 30
+-->{{ #if: {{{header30|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header30}}}</th>
+</tr> | {{ #if: {{{data30|}}} |
+<tr>
+{{ #if: {{{label30|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label30}}}</th> }}<td {{ #if: {{{label30|}}} || colspan="2" }} style="{{ #if: {{{label30|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data30}}}</td>
+</tr> }} }}<!--
+ row 31
+-->{{ #if: {{{header31|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header31}}}</th>
+</tr> | {{ #if: {{{data31|}}} |
+<tr>
+{{ #if: {{{label31|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label31}}}</th> }}<td {{ #if: {{{label31|}}} || colspan="2" }} style="{{ #if: {{{label31|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data31}}}</td>
+</tr> }} }}<!--
+ row 32
+-->{{ #if: {{{header32|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header32}}}</th>
+</tr> | {{ #if: {{{data32|}}} |
+<tr>
+{{ #if: {{{label32|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label32}}}</th> }}<td {{ #if: {{{label32|}}} || colspan="2" }} style="{{ #if: {{{label32|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data32}}}</td>
+</tr> }} }}<!--
+ row 33
+-->{{ #if: {{{header33|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header33}}}</th>
+</tr> | {{ #if: {{{data33|}}} |
+<tr>
+{{ #if: {{{label33|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label33}}}</th> }}<td {{ #if: {{{label33|}}} || colspan="2" }} style="{{ #if: {{{label33|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data33}}}</td>
+</tr> }} }}<!--
+ row 34
+-->{{ #if: {{{header34|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header34}}}</th>
+</tr> | {{ #if: {{{data34|}}} |
+<tr>
+{{ #if: {{{label34|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label34}}}</th> }}<td {{ #if: {{{label34|}}} || colspan="2" }} style="{{ #if: {{{label34|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data34}}}</td>
+</tr> }} }}<!--
+ row 35
+-->{{ #if: {{{header35|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header35}}}</th>
+</tr> | {{ #if: {{{data35|}}} |
+<tr>
+{{ #if: {{{label35|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label35}}}</th> }}<td {{ #if: {{{label35|}}} || colspan="2" }} style="{{ #if: {{{label35|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data35}}}</td>
+</tr> }} }}<!--
+ row 36
+-->{{ #if: {{{header36|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header36}}}</th>
+</tr> | {{ #if: {{{data36|}}} |
+<tr>
+{{ #if: {{{label36|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label36}}}</th> }}<td {{ #if: {{{label36|}}} || colspan="2" }} style="{{ #if: {{{label36|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data36}}}</td>
+</tr> }} }}<!--
+ row 37
+-->{{ #if: {{{header37|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header37}}}</th>
+</tr> | {{ #if: {{{data37|}}} |
+<tr>
+{{ #if: {{{label37|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label37}}}</th> }}<td {{ #if: {{{label37|}}} || colspan="2" }} style="{{ #if: {{{label37|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data37}}}</td>
+</tr> }} }}<!--
+ row 38
+-->{{ #if: {{{header38|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header38}}}</th>
+</tr> | {{ #if: {{{data38|}}} |
+<tr>
+{{ #if: {{{label38|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label38}}}</th> }}<td {{ #if: {{{label38|}}} || colspan="2" }} style="{{ #if: {{{label38|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data38}}}</td>
+</tr> }} }}<!--
+ row 39
+-->{{ #if: {{{header39|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header39}}}</th>
+</tr> | {{ #if: {{{data39|}}} |
+<tr>
+{{ #if: {{{label39|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label39}}}</th> }}<td {{ #if: {{{label39|}}} || colspan="2" }} style="{{ #if: {{{label39|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data39}}}</td>
+</tr> }} }}<!--
+ row 40
+-->{{ #if: {{{header40|}}} |
+<tr>
+<th colspan="2" style="{{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ccf; }} {{{headerstyle|}}}">
+{{{header40}}}</th>
+</tr> | {{ #if: {{{data40|}}} |
+<tr>
+{{ #if: {{{label40|}}} | <th style="white-space: nowrap; {{ #ifeq: {{{titletype|}}} | caption | background: #f2f2f2; | background: #ddf; }} {{{labelstyle|}}}">
+{{{label40}}}</th> }}<td {{ #if: {{{label40|}}} || colspan="2" }} style="{{ #if: {{{label40|}}} || text-align: center; }} {{{datastyle|}}}">
+{{{data40}}}</td>
+</tr> }} }}<!--
+ below
+-->{{ #if: {{{below|}}} |
+<tr>
+<td colspan="2" style="text-align: center; font-size: 95%; {{ #ifeq: {{{titletype|}}} | caption || background: #ddf; }} {{{belowstyle|}}};">
+{{{below}}}</td>
+</tr> }} </table><noinclude>
 
-{{documentation}}
-<!-- Categories go in the /doc subpage, and interwikis go in Wikidata. -->
 </noinclude>
