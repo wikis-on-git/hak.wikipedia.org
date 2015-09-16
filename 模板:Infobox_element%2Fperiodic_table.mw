@@ -1,0 +1,14 @@
+<!-- box with periodic table (2x2 table); outer table for the border -->
+{|  class="wikitable" style="text-align:center; width:100%; margin:0; border-width:1px; background:{{element color|table bg}};"
+|-
+|
+{| class="wikitable" style="text-align:center; margin:0 auto; background:transparent; border:none;"
+|-
+| style="border:none; width:10px" | {{Periodic table (32 columns, micro)|number={{{number|0}}} |mark={{{symbol|}}} }}
+| style="vertical-align:middle; text-align:center; font-size:90%; line-height:100%;  width:10px; border:none;" | {{{above}}}<br>↑<br><span style="font-size:110%; line-height:110%;">'''{{{symbol}}}'''</span><br>↓<br>{{{below}}}
+|-
+| class="nowrap" style="text-align:center; font-size:90%; line-height:100%; padding-top:0; padding-bottom:1px; border:none;" | {{{left}}} ← <span style="font-size:110%; line-height:110%;">'''[[{{#ifeq:{{lc:{{{name|x}}}}}|mercury|Mercury (element){{!}}}}{{{name}}}]]'''</span> → {{{right}}}
+|}
+|}<noinclude>
+{{documentation|1=Template:Infobox element/doc}}
+</noinclude>
