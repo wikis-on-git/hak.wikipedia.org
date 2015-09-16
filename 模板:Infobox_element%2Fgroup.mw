@@ -1,0 +1,37 @@
+<!-- 待譯為客家語 -->
+<span class="nowrap">{{#switch:{{{number|}}}
+|1=[[Alkali kim-sio̍k|group&nbsp;1]]
+|71=[[Chiu-kî-piáu lāi-té bô hō-bé ê cho̍k|n/a&nbsp;cho̍k]]<!-- for now, same as other lanthanides -->
+|103=[[Chiu-kî-piáu lāi-té bô hō-bé ê cho̍k|n/a&nbsp;cho̍k]]<!-- for now, same as other actinides -->
+|117=[[Halogen|17&nbsp;cho̍k]]<!-- may turn out not to be a halogen -->
+|118=[[Noble gas|18&nbsp;cho̍k]]<!-- may turn out not to be a noble gas -->
+|#default=<!--
+-->{{#switch:{{lc:{{{series|}}}}}
+| lanthanides |lanthanide =[[Chiu-kî-piáu lāi-té bô hō-bé ê cho̍k|n/a&nbsp;cho̍k]]]
+| actinides | actinide =[[Chiu-kî-piáu lāi-té bô hō-bé ê cho̍k|n/a&nbsp;cho̍k]]]
+| superactinides | superactinide =[[Extended periodic table#Superactinides|bī-ti&nbsp;ê&nbsp;bī-ti]]
+| #default=<!--
+-->{{#switch:{{lc:{{{group|}}}}}
+|1=[[Alkali kim-sio̍k|1&nbsp;cho̍k]]
+|2=[[Alkali-thó͘ kim-sio̍k|2&nbsp;cho̍k]]
+|3=[[Tē-3-cho̍k goân-sò͘|3&nbsp;cho̍k]]
+|4
+|5
+|6
+|7
+|8
+|9
+|10
+|11
+|12
+|13=[[Tē-{{{group|}}}-cho̍k goân-sò͘|{{{group|}}}&nbsp;cho̍k]]
+|14=[[Thòaⁿ-sò͘ cho̍k|14&nbsp;cho̍k]]
+|15=[[Pnictogen|15&nbsp;cho̍k]]
+|16=[[Chalcogen|16&nbsp;cho̍k]]
+|17=[[Halogen|17&nbsp;cho̍k]]
+|18=[[Noble gas|18&nbsp;cho̍k]]
+|=[[Unnumbered groups in the periodic table|n/a&nbsp;cho̍k]]<!-- blank input -->
+|#default={{{group|}}}<!--
+-->}}}}}}</span>{{yesno|{{{predicted|no}}}|yes=&#x20;''(predicted)''|no=}}<noinclude>
+{{documentation}}
+</noinclude>
