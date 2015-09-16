@@ -1,0 +1,29 @@
+<div style = "position:relative; overflow:hidden; width:6px; height:8px; z-index:2; padding:0; background-color:{{#switch: {{lc:{{{category|unknown}}}}}
+| actinide = &#x23;ff99cc
+| alkali metal = &#x23;ff6666
+| alkaline earth metal = &#x23;ffdead
+| diatomic nonmetal = &#x23;e7ff8f
+| noble gas = &#x23;c0ffff
+| metalloid = &#x23;cccc99
+| lanthanide = &#x23;ffbfff
+| polyatomic nonmetal = &#x23;a1ffc3
+| post-transition metal = &#x23;cccccc
+| transition metal = &#x23;ffc0c0
+| unknown | unknown chemical properties = &#x23;e8e8e8<!--unknown is defined separately from default-->
+| alkali metal (predicted) = &#x23;d8bcbc
+| alkaline earth metal (predicted) = &#x23;ffecd3
+| diatomic nonmetal (predicted) = &#x23;f2ffc2
+| eka-superactinide | eka-superactinide (predicted) = &#x23;c6dd9d
+| noble gas (predicted) = &#x23;ddffff
+| metalloid (predicted) = &#x23;e2e2aa
+| polyatomic nonmetal (predicted) = &#x23;d0ffe1
+| post-transition metal (predicted) = &#x23;dfdfdf
+| superactinide | superactinide (predicted) = &#x23;d1ddff
+| transition metal (predicted) = &#x23;ffe2e2
+| #default = &#x23;000000;<!-- black. Input not recognized, probably an input error -->
+}}; <!--
+-->{{#if:{{#invoke:String|match|s=,{{{mark|n}}},|pattern=%W({{{symbol|y}}})%W|plain=false |nomatch=}}{{#ifeq:{{{mark|n}}}|{{{category|y}}}|yes|{{#ifeq:{{{mark|n}}}|{{{group|y}}}|yes|}}}}| border:1px solid black; margin:-1px;}}"><!--
+-->[[File:Transparent.gif |12px |top| link={{{link|{{{name|Chemical element}}}}}}{{!}}{{{name|Chemical element}}}&nbsp;({{lc:{{{category|unknown}}}}})]]<!--
+--></div><noinclude>
+{{documentation}}
+</noinclude>
