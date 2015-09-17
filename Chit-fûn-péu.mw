@@ -1,0 +1,88 @@
+'''Chit-fûn-péu'''
+* Yù-lî hàm-su chit-fûn-péu
+* Mò-lî hàm-su chit-fûn-péu
+* Sâm-kok hàm-su chit-fûn-péu
+* Chṳ́-su hàm-su chit-fûn-péu
+* Tui-su hàm-su chit-fûn-péu
+* Fán sâm-kok hàm-su chit-fûn-péu
+* Sûng-chì hàm-su chit-fûn-péu
+* Fán sûng-chì hàm-su chit-fûn-péu
+
+== Pâu-hàm <math>ax+b</math> ke chit-fûn-péu ==
+
+
+== Pâu-hàm <math>\sqrt{a+bx}</math> ke chit-fûn-péu ==
+
+: <math>\int\frac{1}{x\sqrt{a+bx}}dx=\frac{1}{\sqrt{a}}\ln\left (\frac{\sqrt{a+bx} -\sqrt{a}}{\sqrt{a+bx}+\sqrt{a}}\right )+C,a>0</math>
+
+== Pâu-hàm <math>x^2\pm\alpha^2</math> ke chit-fûn-péu ==
+
+
+== Pâu-hàm  <math>{ax^2+b}</math> ke chit-fûn-péu ==
+
+== Pâu-hàm  <math>ax^2+bx+c\qquad(a>0)</math> ke chit-fûn-péu ==
+
+== Pâu-hàm  <math>\sqrt{a^2+x^2}\qquad(a>0)</math> ke chit-fûn-péu ==
+
+
+== Pâu-hàm <math>\sqrt{x^2-a^2}\qquad{(x^2>a^2)}</math> ke chit-fûn-péu ==
+
+== Pâu-hàm <math>\sqrt{a^2-x^2} \qquad(a^2>x^2)</math> ke chit-fûn-péu ==
+
+
+== Pâu-hàm <math>R=\sqrt{|a|x^2+bx+c}\qquad(a\ne0)</math> ke chit-fûn-péu ==
+: <math>\int\frac{dx}{R} = \frac{1}{\sqrt{a}}\ln\left(2\sqrt{a}R+2ax+b\right)\qquad(\mbox{for }a>0)</math>
+
+: <math>\int\frac{dx}{R} = \frac{1}{\sqrt{a}}\,\operatorname{arsinh}\frac{2ax+b}{\sqrt{4ac-b^2}} \qquad \mbox{(for }a>0\mbox{, }4ac-b^2>0\mbox{)}</math>
+
+: <math>\int\frac{dx}{R} = \frac{1}{\sqrt{a}}\ln|2ax+b| \quad \mbox{(for }a>0\mbox{, }4ac-b^2=0\mbox{)}</math>
+
+: <math>\int\frac{dx}{R} = -\frac{1}{\sqrt{-a}}\arcsin\frac{2ax+b}{\sqrt{b^2-4ac}} \qquad \mbox{(for }a<0\mbox{, }4ac-b^2<0\mbox{, }\left(2ax+b\right)<\sqrt{b^2-4ac}\mbox{)}</math>
+
+: <math>\int\frac{dx}{R^3} = \frac{4ax+2b}{(4ac-b^2)R}</math>
+
+: <math>\int\frac{dx}{R^5} = \frac{4ax+2b}{3(4ac-b^2)R}\left(\frac{1}{R^2}+\frac{8a}{4ac-b^2}\right)</math>
+
+: <math>\int\frac{dx}{R^{2n+1}} = \frac{2}{(2n-1)(4ac-b^2)}\left[\frac{2ax+b}{R^{2n-1}}+4a(n-1)\int\frac{dx}{R^{2n-1}}\right]</math>
+
+: <math>\int\frac{x}{R}\;dx = \frac{R}{a}-\frac{b}{2a}\int\frac{dx}{R}</math>
+
+: <math>\int\frac{x}{R^3}\;dx = -\frac{2bx+4c}{(4ac-b^2)R}</math>
+
+: <math>\int\frac{x}{R^{2n+1}}\;dx = -\frac{1}{(2n-1)aR^{2n-1}}-\frac{b}{2a}\int\frac{dx}{R^{2n+1}}</math>
+
+: <math>\int\frac{dx}{xR}=-\frac{1}{\sqrt{c}}\ln\left(\frac{2\sqrt{c}R+bx+2c}{x}\right)</math>
+
+: <math>\int\frac{dx}{xR}=-\frac{1}{\sqrt{c}}\operatorname{arsinh}\left(\frac{bx+2c}{|x|\sqrt{4ac-b^2}}\right)</math>
+
+== Pâu-hàm sâm-kok hàm-su ke chit-fûn-péu ==
+
+
+
+
+
+
+
+
+
+
+
+
+== Pâu-hàm fán sâm-kok hàm-su ke chit-fûn-péu ==
+
+
+== Pâu-hàm chṳ́-su hàm-su ke chit-fûn-péu ==
+
+
+== Pâu-hàm tui-su hàm-su ke chit-fûn-péu ==
+
+
+== Pâu-hàm Sûng-chì hàm-su ke chit-fûn-péu ==
+
+
+== Thin-chit-fûn ==
+: <math>\int_0^\frac{\pi}{2} \mbox{sin}^n x\mbox{d}x=\int_0^\frac{\pi}{2} \mbox{cos}^n x\mbox{d}x=
+\begin{cases}
+\frac{n-1}{n}\cdot\frac{n-3}{n-2}\cdot\ldots\cdot\frac{4}{5}\cdot\frac{2}{3}, & \mbox{if }n>1\mbox{ and }n\mbox{ is odd} \\
+\frac{n-1}{n}\cdot\frac{n-3}{n-2}\cdot\ldots\cdot\frac{3}{4}\cdot\frac{1}{2}\cdot\frac{\pi}{2}, & \mbox{if }n>0\mbox{ and }n\mbox{ is even}
+\end{cases}</math>
