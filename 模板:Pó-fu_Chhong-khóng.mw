@@ -26,43 +26,43 @@
             | [[Yi-ngùi Vu̍t-chúng|Yi-ngùi Vu̍t-chúng (VU)]]
            }}
 |  data6 = {{unbulleted list |style=text-align:right;padding-bottom:0.5em;
-            | ([[Lists of IUCN Red List Critically Endangered species|list]])
-            | ([[Lists of IUCN Red List endangered species|list]])
-            | ([[Lists of IUCN Red List vulnerable species|list]])
+            | ([[Lists of IUCN Red List Critically Endangered species|miàng-tân]])
+            | ([[Lists of IUCN Red List endangered species|miàng-tân]])
+            | ([[Lists of IUCN Red List vulnerable species|miàng-tân]])
            }}
 
 | header10 = ''[[Tâi Ngùi|{{color|white|Tâi Ngùi}}]]''
 | label11 = {{unbulleted list |style=padding-bottom:0.5em;
              | [[Khiûn-ngùi Vu̍t-chúng|Khiûn-ngùi Vu̍t-chúng (NT)]]
-             | ''[[Conservation-dependent species|Conservation Dependent]]''
+             | ''[[Yî-lai Pó-yuk Vu̍t-chúng|Yî-lai Pó-yuk Vu̍t-chúng]]''
              | [[Mò-ngùi Vu̍t-chúng |Mò-ngùi Vu̍t-chúng (LC)]]
             }}
 |  data11 = {{unbulleted list |style=text-align:right;padding-bottom:0.5em;
-             | ([[Lists of IUCN Red List near threatened species|list]])
-             | ([[IUCN Red List conservation dependent species|list]])
+             | ([[Lists of IUCN Red List near threatened species|miàng-tân]])
+             | ([[IUCN Red List conservation dependent species|miàng-tân]])
             }}
 
 |  data15 = <hr/>'''Other categories'''
 | label16 = {{unbulleted list |style=padding-bottom:0.5em;
-             | [[Data deficient|Data Deficient (DD)]]
-             | [[Not evaluated|Not Evaluated (NE)]]
+             | [[Sú-kí Khiet-fa̍t Vu̍t-chúng|Sú-kí Khiet-fa̍t Vu̍t-chúng (DD)]]
+             | [[Hàn-m̀ Phìn-kû Vu̍t-chúng|Hàn-m̀ Phìn-kû Vu̍t-chúng (NE)]]
             }}
 |  data16 = {{unbulleted list |style=text-align:right;padding-bottom:0.5em;
-             | ([[Lists of IUCN Red List data deficient species|list]])
+             | ([[Lists of IUCN Red List data deficient species|miàng-tân]])
             }}
 
 |  data20 = <hr/>'''Related topics'''
 {{startplainlist}}
 * {{longlink|[[International Union for the Conservation of Nature|International Union for the<br/>Conservation of Nature (IUCN)]]}}
-* [[IUCN Red List]]
-* [[Lists of organisms by population]]
+* [[Sṳ-kie Chhṳ-yèn Pó-fu Lièn-mèn fùng-set miàng-liu̍k]]
+* [[Sâng-vu̍t ngìn-khiéu miàng tân]]
 {{endplainlist}}
 
 |  data25 = <hr/>[[File:Status iucn3.1.svg|220px|IUCN Red List category abbreviations (version 3.1, 2001)]]<hr/>
 
 }}<noinclude>
 
-[[Category:Ecology templates]]
+[[Category:Sâng-thai mù-pán]]
 
 {{pp-template|small=yes}}
 </noinclude>
