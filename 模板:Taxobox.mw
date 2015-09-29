@@ -1,5 +1,4 @@
-<includeonly>
-<div style="position: relative; style="float: right;">
+<includeonly>{| style="float:right; margin:0 0 .5em .5em; background-color: #fff; clear:right; border:1px #aaa solid; border-collapse:collapse; width:200px; padding:2.5px;"
 {| class="infobox biota" style="text-align:center; padding:2.5px; width:200px; background: {{#switch:{{{color|
 {{{colour|{{Taxobox colour|{{{regnum|{{{domain|{{{virus_group|{{{unranked_phylum|{{{phylum}}}}}}}}}}}}}}}}}}}}}}}|pink=FFF4F7|lightgreen=EEFDEE|lightblue=F7FCFD|khaki=FEFDF5|violet=FDF2FD|FFC0CB=FFF4F7|90EE90=EEFDEE|ADD8E6=F7FCFD|F0E68C=FEFDF5|EE82EE=FDF2FD|#default=F9F9F9}}; border: 1px solid {{{color|{{{colour|{{Taxobox colour|{{{regnum|{{{domain|{{{virus_group|{{{unranked_phylum|{{{phylum}}}}}}}}}}}}}}}}}}}}}}}"
 |- style="text-align:center;"
