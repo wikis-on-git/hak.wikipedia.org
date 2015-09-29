@@ -13,7 +13,7 @@
 {{!}}
 <div style="text-align:center">{{#if:{{{status_system|}}}|{{#switch:{{{status_system}}}
 |iucn2.3|IUCN2.3={{#switch:{{{status}}}
-|EX|ex=[[File:Status iucn2.3 EX zh.svg|frameless]]<br />[[Chhie̍t-me̍t]] {{#if:{{{extinct|}}}| ({{{extinct}}}) }} {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN Chhie̍t-me̍t vu̍t-chúng]]}}} | }}
+|EX|ex=[[File:Status iucn2.3 EX zh.svg|frameless]]<br />[[Chhie̍t-chúng]] {{#if:{{{extinct|}}}| ({{{extinct}}}) }} {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN Chhie̍t-chúng vu̍t-chúng]]}}} | }}
 |EW|ew=[[File:Status iucn2.3 EW zh.svg|frameless]]<br />[[Yâ-ngoi chhie̍t-me̍t]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN Yâ-ngoi chhie̍t-me̍t vu̍t-chúng]]}}} | }}
 |CR|cr=[[File:Status iucn2.3 CR zh.svg|frameless]]<br />[[Khi̍t-ngùi vu̍t-chúng |Khi̍t-ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN khi̍t ngùi vu̍t-chúng]]}}} | }}
 |EN|en=[[File:Status iucn2.3 EN zh.svg|frameless]]<br />[[Phîn-ngùi vu̍t-chúng |Phîn-ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN phîn-ngùi vu̍t-chúng]]}}} | }}
