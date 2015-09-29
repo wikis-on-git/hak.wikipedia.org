@@ -1,0 +1,16 @@
+<noinclude>{{pp-template|small=yes}}</noinclude>{{#invoke:String|replace
+|source= {{#invoke:String|replace
+|source= {{#invoke:String|replace
+|source= {{{1|}}}
+|pattern= '
+|replace= 
+|plain= false
+}}
+|pattern= %[%[[^%]]*%]%]
+|replace= 
+|plain= false
+}}
+|pattern= %b<>
+|replace= 
+|plain= false
+}}
