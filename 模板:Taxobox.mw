@@ -28,14 +28,14 @@
 |''''' mò háu chhong-khóng '''''[[Category: mò háu pó-fu chhong-khóng]]
 }}<small> ({{#if:{{{status_text|}}}|[[{{{status_text|# pó-fu chhong-khóng }}}| kien hâ vùn]]|[[sṳ-kie chhṳ-yèn pó-fu lièn-mèn phîn-ngùi vu̍t-chúng fùng-set miàng liu̍k |IUCN 2.3]]}}) {{{status_ref|}}}</small>
 |iucn|IUCN|iucn3.1|IUCN3.1={{#switch:{{{status}}}
-|EX|ex=-{zh-hans:[[File:Status iucn3.1 EX zh.Svg|frameless]];zh-hant:[[File:Status iucn3.1 EX zh-hant.Svg|frameless]]}-<br />[[chhie̍t me̍t]] {{#if:{{{extinct|}}}| ({{{extinct}}}) }} {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN chhie̍t me̍t vu̍t-chúng]]}}} | }}
-|EW|ew=-{zh-hans:[[File:Status iucn3.1 EW zh.Svg|frameless]];zh-hant:[[File:Status iucn3.1 EW zh-hant.Svg|frameless]]}-<br />[[yâ ngoi chhie̍t me̍t]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN yâ ngoi chhie̍t me̍t vu̍t-chúng]]}}} | }}
-|CR|cr=-{zh-hans:[[File:Status iucn3.1 CR zh.Svg|frameless]];zh-hant:[[File:Status iucn3.1 CR zh-hant.Svg|frameless]]}-<br />[[khi̍t ngùi vu̍t-chúng | khi̍t ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN khi̍t ngùi vu̍t-chúng]]}}} | }}
-|EN|en=-{zh-hans:[[File:Status iucn3.1 EN zh.Svg|frameless]];zh-hant:[[File:Status iucn3.1 EN zh-hant.Svg|frameless]]}-<br />[[phîn-ngùi vu̍t-chúng | phîn-ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN phîn-ngùi vu̍t-chúng]]}}} | }}
-|VU|vu=-{zh-hans:[[File:Status iucn3.1 VU zh.Svg|frameless]];zh-hant:[[File:Status iucn3.1 VU zh-hant.Svg|frameless]]}-<br />[[yi ngùi vu̍t-chúng | yi ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN yi ngùi vu̍t-chúng]]}}} | }}
-|NT|nt=-{zh-hans:[[File:Status iucn3.1 NT zh.Svg|frameless]];zh-hant:[[File:Status iucn3.1 NT zh-hant.Svg|frameless]]}-<br />[[khiûn ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN khiûn ngùi vu̍t-chúng]]}}} | }}
-|LC|lc=-{zh-hans:[[File:Status iucn3.1 LC zh.Svg|frameless]];zh-hant:[[File:Status iucn3.1 LC zh-hant.Svg|frameless]]}-<br />[[mò ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN mò ngùi vu̍t-chúng]]}}} | }}
-|DD|dd=[[File:Status none DD.Svg]]<br /> sú-kí khiet-fa̍t 
+|EX|ex=[[File:Status iucn3.1 EX zh.svg|frameless]]<br />[[chhie̍t me̍t]] {{#if:{{{extinct|}}}| ({{{extinct}}}) }} {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN chhie̍t me̍t vu̍t-chúng]]}}} | }}
+|EW|ew=[[File:Status iucn3.1 EW zh.svg|frameless]]<br />[[yâ ngoi chhie̍t me̍t]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN yâ ngoi chhie̍t me̍t vu̍t-chúng]]}}} | }}
+|CR|cr=[[File:Status iucn3.1 CR zh.svg|frameless]]<br />[[khi̍t ngùi vu̍t-chúng | khi̍t ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN khi̍t ngùi vu̍t-chúng]]}}} | }}
+|EN|en=[[File:Status iucn3.1 EN zh.svg|frameless]]<br />[[phîn-ngùi vu̍t-chúng | phîn-ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN phîn-ngùi vu̍t-chúng]]}}} | }}
+|VU|vu=[[File:Status iucn3.1 VU zh.svg|frameless]]<br />[[yi ngùi vu̍t-chúng | yi ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN yi ngùi vu̍t-chúng]]}}} | }}
+|NT|nt=-{zh-hans:[[File:Status iucn3.1 NT zh.svg|frameless]]<br />[[khiûn ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN khiûn ngùi vu̍t-chúng]]}}} | }}
+|LC|lc=-{zh-hans:[[File:Status iucn3.1 LC zh.svg|frameless]]<br />[[mò ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN mò ngùi vu̍t-chúng]]}}} | }}
+|DD|dd=[[File:Status none DD.svg]]<br /> sú-kí khiet-fa̍t 
 |NE|ne= vi yi phìn kû 
 |NR|nr= vi sṳ̀n-ngin 
 |PE|pe=[[File:Status_none_PE.Svg|frameless]]<br />[[khi̍t ngùi]], khó-nèn chhie̍t me̍t {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category: khi̍t ngùi vu̍t-chúng]]}}} | }}
