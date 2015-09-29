@@ -43,31 +43,31 @@
 |''''' mò háu chhong-khóng '''''[[Category: mò háu pó-fu chhong-khóng]]
 }}<small> ({{#if:{{{status_text|}}}|[[{{{status_text|# pó-fu chhong-khóng }}}| kien hâ vùn]]|[[sṳ-kie chhṳ-yèn pó-fu lièn-mèn phîn-ngùi vu̍t-chúng fùng-set miàng liu̍k |IUCN 3.1]]}}) {{{status_ref|}}}</small>
 |epbc|EPBC={{#switch:{{{status}}}
-|EX|ex=[[Image:Status EPBC EX.Svg|frameless|link=]]<br />[[chhie̍t me̍t]] {{#if:{{{extinct|}}}| ({{{extinct}}}) }} [[Category:EPBC Fap-on chhie̍t me̍t sâng-vu̍t khiùn]]
-|EW|ew=[[Image:Status EPBC EW.Svg|frameless|link=]]<br />[[yâ ngoi chhie̍t me̍t]] [[Category:EPBC Fap-on yâ ngoi chhie̍t me̍t sâng-vu̍t khiùn]]
-|CR|cr=[[Image:Status EPBC CR.Svg|frameless|link=]]<br />[[khi̍t ngùi vu̍t-chúng | khi̍t ngùi]] [[Category:EPBC Fap-on khi̍t ngùi sâng-vu̍t khiùn]]
-|EN|en=[[Image:Status EPBC EN.Svg|frameless|link=]]<br />[[phîn-ngùi vu̍t-chúng | phîn-ngùi]] [[Category:EPBC Fap-on phîn-ngùi sâng-vu̍t khiùn]]
-|VU|vu=[[Image:Status EPBC VU.Svg|frameless|link=]]<br />[[yi ngùi vu̍t-chúng | yi ngùi]] [[Category:EPBC Fap-on yi ngùi sâng-vu̍t khiùn]]
-|CD|cd=[[Image:Status EPBC CD.Svg|frameless|link=]]<br />[[pó-fu yî-lai]] [[Category:EPBC Fap-on pó-fu yî-lai sâng-vu̍t khiùn]]
+|EX|ex=[[Image:Status EPBC EX.svg|frameless|link=]]<br />[[chhie̍t me̍t]] {{#if:{{{extinct|}}}| ({{{extinct}}}) }} [[Category:EPBC Fap-on chhie̍t me̍t sâng-vu̍t khiùn]]
+|EW|ew=[[Image:Status EPBC EW.svg|frameless|link=]]<br />[[yâ ngoi chhie̍t me̍t]] [[Category:EPBC Fap-on yâ ngoi chhie̍t me̍t sâng-vu̍t khiùn]]
+|CR|cr=[[Image:Status EPBC CR.svg|frameless|link=]]<br />[[khi̍t ngùi vu̍t-chúng | khi̍t ngùi]] [[Category:EPBC Fap-on khi̍t ngùi sâng-vu̍t khiùn]]
+|EN|en=[[Image:Status EPBC EN.svg|frameless|link=]]<br />[[phîn-ngùi vu̍t-chúng | phîn-ngùi]] [[Category:EPBC Fap-on phîn-ngùi sâng-vu̍t khiùn]]
+|VU|vu=[[Image:Status EPBC VU.svg|frameless|link=]]<br />[[yi ngùi vu̍t-chúng | yi ngùi]] [[Category:EPBC Fap-on yi ngùi sâng-vu̍t khiùn]]
+|CD|cd=[[Image:Status EPBC CD.svg|frameless|link=]]<br />[[pó-fu yî-lai]] [[Category:EPBC Fap-on pó-fu yî-lai sâng-vu̍t khiùn]]
 |DL|dl|Delisted=[[Image:Status EPBC DL.Svg|frameless|link=]]<br /> chhù miàng 
 |''''' mò háu chhong-khóng '''''[[Category: mò háu pó-fu chhong-khóng]]
 }}<small> ({{#if:{{{status_text|}}}|[[{{{status_text|# pó-fu chhong-khóng }}}| kien hâ vùn]]|[[1999-ngièn fàn-kin pó-fu lâu sâng-vu̍t tô-ngióng sin pó-fu Fap-on |EPBC Fap-on]]}}) {{{status_ref|}}}</small>
 |tnc|TNC={{#switch:{{{status}}}
-|GX=[[File:Status {{{status_system|TNC}}} GX.Svg|frameless]]<br /> thûi chhet [[chhie̍t me̍t]] {{#if:{{{extinct|}}}| ({{{extinct}}}) }}
-|GH=[[File:Status {{{status_system|TNC}}} GH.Svg|frameless]]<br /> khó-nèn [[chhie̍t me̍t]]
-|G1=[[File:Status {{{status_system|TNC}}} G1.Svg|frameless]]<br /> ngiàm-chhùng phîn chhie̍t 
-|G2=[[File:Status {{{status_system|TNC}}} G2.Svg|frameless]]<br /> phîn chhie̍t 
-|G3=[[File:Status {{{status_system|TNC}}} G3.Svg|frameless]]<br /> yi ngùi 
-|G4=[[File:Status {{{status_system|TNC}}} G4.Svg|frameless]]<br /> khó-nèn ôn-chhiòn 
-|G5=[[File:Status {{{status_system|TNC}}} G5.Svg|frameless]]<br /> ôn-chhiòn 
+|GX=[[File:Status {{{status_system|TNC}}} GX.svg|frameless]]<br /> thûi chhet [[chhie̍t me̍t]] {{#if:{{{extinct|}}}| ({{{extinct}}}) }}
+|GH=[[File:Status {{{status_system|TNC}}} GH.svg|frameless]]<br /> khó-nèn [[chhie̍t me̍t]]
+|G1=[[File:Status {{{status_system|TNC}}} G1.svg|frameless]]<br /> ngiàm-chhùng phîn chhie̍t 
+|G2=[[File:Status {{{status_system|TNC}}} G2.svg|frameless]]<br /> phîn chhie̍t 
+|G3=[[File:Status {{{status_system|TNC}}} G3.svg|frameless]]<br /> yi ngùi 
+|G4=[[File:Status {{{status_system|TNC}}} G4.svg|frameless]]<br /> khó-nèn ôn-chhiòn 
+|G5=[[File:Status {{{status_system|TNC}}} G5.svg|frameless]]<br /> ôn-chhiòn 
 |GU=[[File:Status TNC blank.Svg|frameless]]<br /> vi fûn kip 
 |TX=[[File:Status {{{status_system|TNC}}} TX.Svg|frameless]]<br /> thûi chhet [[chhie̍t me̍t]] {{#if:{{{extinct|}}}| ({{{extinct}}}) }}
-|TH=[[File:Status {{{status_system|TNC}}} TH.Svg|frameless]]<br /> khó-nèn [[chhie̍t me̍t]]
-|T1=[[File:Status {{{status_system|TNC}}} T1.Svg|frameless]]<br /> ngiàm-chhùng phîn chhie̍t 
-|T2=[[File:Status {{{status_system|TNC}}} T2.Svg|frameless]]<br /> phîn chhie̍t 
-|T3=[[File:Status {{{status_system|TNC}}} T3.Svg|frameless]]<br /> yi ngùi 
-|T4=[[File:Status {{{status_system|TNC}}} T4.Svg|frameless]]<br /> khó-nèn ôn-chhiòn 
-|T5=[[File:Status {{{status_system|TNC}}} T5.Svg|frameless]]<br /> ôn-chhiòn 
+|TH=[[File:Status {{{status_system|TNC}}} TH.svg|frameless]]<br /> khó-nèn [[chhie̍t me̍t]]
+|T1=[[File:Status {{{status_system|TNC}}} T1.svg|frameless]]<br /> ngiàm-chhùng phîn chhie̍t 
+|T2=[[File:Status {{{status_system|TNC}}} T2.svg|frameless]]<br /> phîn chhie̍t 
+|T3=[[File:Status {{{status_system|TNC}}} T3.svg|frameless]]<br /> yi ngùi 
+|T4=[[File:Status {{{status_system|TNC}}} T4.svg|frameless]]<br /> khó-nèn ôn-chhiòn 
+|T5=[[File:Status {{{status_system|TNC}}} T5.svg|frameless]]<br /> ôn-chhiòn 
 |TU=[[File:Status TNC T blank.Svg|frameless]]<br /> vi fûn kip 
 |''''' mò háu chhong-khóng '''''[[Category: mò háu pó-fu chhong-khóng]]
 }}<small> ({{#if:{{{status_text|}}}|[[{{{status_text|# pó-fu chhong-khóng }}}| kien hâ vùn]]|[[chhṳ-yèn fu̍k-vu pó-fu chhong-khóng |TNC]]}}) {{{status_ref|}}}</small>
