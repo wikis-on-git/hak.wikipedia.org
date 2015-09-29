@@ -1,29 +1,29 @@
 {{Infobox
-| name = Conservation status
+| name = [[Chhie̍t-chúng fûng-hiám]]
 | bodyclass = nowrap
 | abovestyle = font-size:130%;
-| above = [[Conservation status]] <div style="font-size:75%;font-weight:normal;">by [[IUCN Red List#Categories|IUCN Red List category]]</div>
+| above = [[Pó-fu Chhong-khóng]] <div style="font-size:75%;font-weight:normal;">by [[IUCN Red List#Categories|IUCN Red List category]]</div>
 | imagestyle = padding-bottom:0.75em;
 | image = [[File:Bufo periglenes2.jpg|180px|Bufo periglenes, the Golden Toad, was last recorded on May 15, 1989]]
 | headerstyle = background:green;color:white;
 | labelstyle = padding:0 0 0 0.5em;font-weight:normal;
 | datastyle = padding:0 0.5em 0;
 
-| header1 = Extinct
+| header1 = Me̍t-chhie̍t 
 | label2 = {{unbulleted list |style=padding-bottom:0.5em;
-            | [[Extinction|Extinct (EX)]]
-            | [[Extinct in the wild|Extinct in the Wild (EW)]]
+            | [[Chhie̍t-me̍t|Chhie̍t-me̍t (EX)]]
+            | [[Yâ-ngoi Chhie̍t-me̍t|Yâ-ngoi Chhie̍t-me̍t (EW)]]
            }}
 |  data2 = {{unbulleted list |style=text-align:right;padding-bottom:0.5em;
             | ([[IUCN Red List of extinct species|list]])
             | ([[IUCN Red List extinct in the wild species|list]])
            }}
 
-| header5 = [[Threatened species|{{color|white|Threatened}}]]
+| header5 = [[Su Vî-hia̍p Vu̍t-chúng|{{color|white|Su Vî-hia̍p}}]]
 | label6 = {{unbulleted list |style=padding-bottom:0.5em;
-            | [[Critically endangered|Critically Endangered (CR)]]
-            | [[Endangered species|Endangered (EN)]]
-            | [[Vulnerable species|Vulnerable (VU)]]
+            | [[Khi̍t ngùi Vu̍t-chúng|Khi̍t ngùi Vu̍t-chúng (CR)]]
+            | [[Phîn-ngùi Vu̍t-chúng|Phîn-ngùi Vu̍t-chúng (EN)]]
+            | [[Yi-ngùi Vu̍t-chúng|Yi-ngùi Vu̍t-chúng (VU)]]
            }}
 |  data6 = {{unbulleted list |style=text-align:right;padding-bottom:0.5em;
             | ([[Lists of IUCN Red List Critically Endangered species|list]])
@@ -31,11 +31,11 @@
             | ([[Lists of IUCN Red List vulnerable species|list]])
            }}
 
-| header10 = ''[[Lower Risk|{{color|white|Lower Risk}}]]''
+| header10 = ''[[Tâi Ngùi|{{color|white|Tâi Ngùi}}]]''
 | label11 = {{unbulleted list |style=padding-bottom:0.5em;
-             | [[Near-threatened species|Near Threatened (NT)]]
+             | [[Khiûn-ngùi Vu̍t-chúng|Khiûn-ngùi Vu̍t-chúng (NT)]]
              | ''[[Conservation-dependent species|Conservation Dependent]]''
-             | [[Least-concern species|Least Concern (LC)]]
+             | [[Mò-ngùi Vu̍t-chúng |Mò-ngùi Vu̍t-chúng (LC)]]
             }}
 |  data11 = {{unbulleted list |style=text-align:right;padding-bottom:0.5em;
              | ([[Lists of IUCN Red List near threatened species|list]])
