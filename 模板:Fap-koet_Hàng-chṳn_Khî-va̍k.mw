@@ -114,8 +114,8 @@
 Adding this template to an article adds the article to Category:Departments of France.
 There is no need to add it by hand as well. 
 -->{{#if:{{NAMESPACE}}||{{#ifeq:{{PAGENAME}}|Departments of France|
-[[Category:Departments of France| ]]|
-[[Category:Departments of France]]}}
+[[Category:Fap-koet Hàng-chṳn Khî-va̍k| ]]|
+[[Category:Fap-koet Hàng-chṳn Khî-va̍k]]}}
 }}<noinclude>
 {{collapsible option}}
 [[Category:France subdivision templates]]
