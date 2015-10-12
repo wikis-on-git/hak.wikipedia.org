@@ -1,1 +1,24 @@
-#重新導向 [[模板:Thòi-nàm-sṳ]]
+{{Navbox
+| name  = Thòi-nàm-yen
+| title =
+&nbsp;&nbsp; '''[[Thòi-nàm-yen]]''' Hàng-tsṳn Khî-va̍k
+| above = [[Yen-sàng]]: '''[[Sîn-yàng-sṳ]]''' 
+| image      = [[Image:Taiwan ROC political division map Tainan County.svg|75px|Location of Tainan County in Taiwan]]
+| titlestyle = background: #BBDDBB;
+| groupstyle = background: #BBDDBB;
+| abovestyle = background: #BBDDBB;
+
+| group1 = [[Yen-hot-sṳ|Sàng-sṳ]]
+| list1  = [[Sîn-yàng-sṳ]]{{·}}[[Yún-không-sṳ]]
+
+| group2 = [[Tsṳ́n (Thòi-vân)|Tsṳ́n]]
+| list2  = [[Pha̍k-hò-tsṳ́n]]{{·}}[[Kâ-lî-tsṳ́n]]{{·}}[[Mà-theu-tsṳ́n]]{{·}}[[San-fa-tsṳ́n]]{{·}}[[Sîn-fa-tsṳ́n]]{{·}}[[Ho̍k-kap-tsṳ́n]]{{·}}[[Yàm-súi-tsṳ́n]]
+
+| group3 = [[Hiông (Thòi-vân)|Hiông]]
+| list3  = [[Ôn-thin-hiông]]{{·}}[[Pet-mùn-hiông]]{{·}}[[Thai-nui-hiông]]{{·}}[[Tûng-sân-hiông (Thòi-nàm)|Tûng-sân-hiông]]{{·}}[[Kûan-meu-hiông]]{{·}}[[Kôn-thièn-hiông]]{{·}}[[Kûi-yìn-hiông]]{{·}}[[Heu-piak-hiông]]{{·}}[[Tsiông-kiûn-hiông]]{{·}}[[Liuk-kap-hiông]]{{·}}[[Liú-yàng-hiông]]{{·}}[[Liùng-khì-hiông]]{{·}}[[Nàm-fa-hiông]]{{·}}[[Nàm-sî-hiông]]{{·}}[[Tshit-kú-hiông]]{{·}}[[Yìn-tet-hiông]]{{·}}[[Sân-song-hiông]]{{·}}[[Ha-yàng-hiông]]{{·}}[[Sî-kóng-hiông]]{{·}}[[Sîn-sṳ-hiông]]{{·}}[[Ngiu̍k-tsiáng-hiông]]{{·}}[[Tsó-tsṳ́n-hiông]]
+}}
+<noinclude>
+[[Category:Taiwan templates|{{PAGENAME}}]]
+[[Category:Republic of China (Taiwan) county templates]]
+
+</noinclude>
