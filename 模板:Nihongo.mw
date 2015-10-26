@@ -1,0 +1,10 @@
+{{{1|}}}<span style="font-weight: normal"> (<span style="color:#555;">{{#if:{{{2|}}}
+ |{{#ifeq:{{yesno|{{{lead|}}}}}|yes
+  |<small>[[Ngit-ngî|'''Ngit-ngî''']]:</small>&#32;
+ }}}}<span class="t_nihongo_kanji" lang="ja">{{{2|{{{j}}}}}}</span>{{#if: {{{kyu|}}}|&nbsp;(<Span title="Ngit-vùn Hon-sṳ khiu-sṳ-thí (Kyūjitai) péu-ki">{{lang|ja|{{{kyu}}}}}</Span>)}}{{#if: {{{honyim|}}}|<Span title="Ngit-vùn Hon-sṳ Hon-yîm péu-ki"><sup>&nbsp;({{{honyim}}})</sup></Span>}}{{#if: {{{hg|}}}|/ <Span title="phìn-ká-miàng (Hiragana) péu-ki">{{lang|ja|{{{hg}}}}}</Span>}}{{#if: {{{kk|}}}|/ <Span title="phién-ká-miàng (Katakana) péu-ki">{{lang|ja|{{{kk}}}}} }}{{#if:{{{3|{{{rm|}}}}}}
+ |<span class="t_nihongo_comma" style="display:none">,</span> <i><span class="t_nihongo_romaji"><Span title="Lò-mâ-sṳ (Rōmaji) péu-ki">{{{3|{{{rm}}}}}}</span></span></i>|<span class="t_nihongo_norom" style="display:none"><span class="t_nihongo_comma" style="display:none">,</span> <i><span class="t_nihongo_romaji">{{{1|}}}</span></i></span>
+}}<span class="t_nihongo_help noprint">[[:en:Help:Japanese|<span class="t_nihongo_icon" style="font: bold 80% sans-serif; text-decoration:none;padding:0 .1em;"><sup>?</sup></span>]]</span>{{#if:{{{4| {{{extra|}}} }}}|{{#if:{{{3|{{{rm|}}}}}}|,|<span></span>}} {{{4| {{{extra}}} }}}
+}}</span>)</span><noinclude>
+{{Tài liệu}}
+[[Thể loại:Bản mẫu dùng ParserFunctions|{{PAGENAME}}]]
+</noinclude>
