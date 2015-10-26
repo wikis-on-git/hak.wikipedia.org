@@ -5,6 +5,6 @@
  |<span class="t_nihongo_comma" style="display:none">,</span> <i><span class="t_nihongo_romaji"><Span title="Lò-mâ-sṳ (Rōmaji) péu-ki">{{{3|{{{rm}}}}}}</span></span></i>|<span class="t_nihongo_norom" style="display:none"><span class="t_nihongo_comma" style="display:none">,</span> <i><span class="t_nihongo_romaji">{{{1|}}}</span></i></span>
 }}<span class="t_nihongo_help noprint">[[:en:Help:Japanese|<span class="t_nihongo_icon" style="font: bold 80% sans-serif; text-decoration:none;padding:0 .1em;"><sup>?</sup></span>]]</span>{{#if:{{{4| {{{extra|}}} }}}|{{#if:{{{3|{{{rm|}}}}}}|,|<span></span>}} {{{4| {{{extra}}} }}}
 }}</span>)</span><noinclude>
-{{Tài liệu}}
+{{Documentation}}
 [[Thể loại:Bản mẫu dùng ParserFunctions|{{PAGENAME}}]]
 </noinclude>
