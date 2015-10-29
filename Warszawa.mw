@@ -15,6 +15,24 @@ Kâi sṳ ya-he [[Mâ-tsó-fû-sá-sén]] ke Sén-fi, yúng-yû hí-tô [[kûng-
 dgsdgdsgsdgsdgsgssgs
 
 ==Kau-yuk==
+
+RS1031W (T-26W), TBW12/100, RS1001L.
+
+Triody mikrofalowe[edytuj | edytuj kod]
+
+Trioda generacyjna na pasmo decymetrowe TS1a z lat II w.ś.
+Lampy pracujące w zakresie mikrofalowym muszą charakteryzować się elektrodami o małej powierzchni (w celu zminimalizowania pojemności międzyelektrodowych), rozmieszczonymi w małej odległości (by zminimalizować czas przelotu elektronów), z wyprowadzeniami i elektrodami o małej indukcyjności. Jeszcze przed II w.ś. skonstruowano triody "żołędziowe" (RCA typ 955), w których krótkie wyprowadzenia znajdowały się ze wszystkich stron bańki co zmniejszało ich indukcyjność.
+
+Często stosowanymi lampami mikrofalowymi były triody tarczowe - o elektrodach w postaci równoległych tarcz, z wyprowadzeniami poszczególnych elektrod w postaci pierścieni. Geometria takich lamp umożliwia bezpośrednie włączenie ich do rezonatora wnękowego lub obwodu koncentrycznego. Obudowa była najczęściej wykonana nie ze szkła, ale ze specjalnych gatunków ceramiki o niskich stratach dielektrycznych. Przykłady takich lamp to 2C40, LD7, Z5139.
+
+Podstawowe parametry[edytuj | edytuj kod]
+Podstawowymi parametrami triody są:
+
+współczynnik wzmocnienia (amplifikacji) Ka (wyrażany w V/V) – parametr mówiący ile razy więcej musi się zmienić napięcie na anodzie w stosunku do napięcia na siatce aby utrzymać ten sam prąd anodowy, odwrotnością wsp. wzmocnienia jest tzw. przechwyt D,
+nachylenie charakterystyki Sa (wyrażone w mA/V) – parametr mówiący o ile miliamperów zmieni się prąd anody przy zmianie napięcia na siatce o 1V przy niezmiennym napięciu na anodzie,
+rezystancja (oporność) wewnętrzna ρa (wyrażana w kΩ) – określa ona zależność prądu anodowego od napięcia anody,
+oraz napięcia maksymalne Ua max, prąd maksymalny Ia max i moc maksymalna Pa max, jaka może wydzielić się na anodzie.
+
 ==Kín-tiám==
 ==Kîn-chi==
 ==Ngìn-khiéu ==
