@@ -1666,3 +1666,27 @@ The proposals with the most support votes will be the team's top priority backlo
 Community Tech via
 </div> [[用戶:MediaWiki message delivery|MediaWiki message delivery]] ([[用戶討論:MediaWiki message delivery|對話]]) 14:38, 1 十二月 2015 (UTC)
 <!-- 訊息由 User:Johan (WMF)@metawiki 傳送，使用清單於 https://meta.wikimedia.org/w/index.php?title=User:Johan_(WMF)/Target_lists/Global_distribution&oldid=14913494 -->
+
+== Please test the visual editor on this Wikipedia ==
+
+<div dir="ltr" class="me-content-ltr" lang="en">
+[[File:VisualEditor-logo-pacifico.svg|right|frameless]]
+''I apologize for writing in English.  {{Int:Please-translate}}.  {{Int:Feedback-thanks-title}}''
+
+Hi everybody,   
+
+My name is Erica, and I am a [[Mw:Community Engagement (Product)|Community Liaison]] at the Wikimedia Foundation. The [[mw:Editing/Team|Editing team at WMF]] wants to know what you think about [[:mw:VisualEditor|the visual editor]] on this Wikipedia. {{int:visualeditor}} is a way to edit articles that is similar to a word processing application.  The team has been working on support for languages that use input method editors (IMEs), such as this one.    
+
+'''To test the visual editor, please:'''
+# '''Opt-in to the visual editor''' by going to [[Special:Preferences#mw-prefsection-betafeatures]] and choosing "{{int:visualeditor}}".  Save your preferences.
+# '''Edit any article or your user page''' in the visual editor. See the [[:mw:Help:VisualEditor/User guide]] for information on how to use the visual editor. 
+# '''Please post your comments and the language(s) that you tested''' at [https://www.mediawiki.org/wiki/Topic:St8y4ni42d0vr9cv the feedback thread on Mediawiki.org].  The developers would like to know how well it works.  Please tell them what kind of computer, web browser, and keyboard you are using.  It is important that they hear from as many editors as possible.  You may leave your comments in any language. 
+
+When language support has been refined a little more based on your feedback, all editors at this wiki can have access to the visual editor.  If you want to help prepare, please read [[mw:Help:VisualEditor/VE as Beta Feature|the advice on mediawiki.org]].
+
+{{Int:Feedback-thanks-title}}
+
+<div style="float: right;">''[[m:VisualEditor/Newsletter/Phase 6.1|Wrong target page? Fix it here]]  •  [[:m:VisualEditor/Newsletter|Sign up for the visual editor's multilingual newsletter]] '' </div>
+–[[:m:User:Elitre (WMF)]], 12:15, 2 十二月 2015 (UTC)
+</div>
+<!-- 訊息由 User:Elitre (WMF)@metawiki 傳送，使用清單於 https://meta.wikimedia.org/w/index.php?title=VisualEditor/Newsletter/Phase_6.1&oldid=14780730 -->
