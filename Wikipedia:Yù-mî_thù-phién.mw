@@ -1,5 +1,10 @@
-{{#switch:{{rand|3}}
+{{#switch:{{rand|8}}
 |0={{Wikipedia:Yù-mî thù-phién/Yù-sṳn-mî-thi‎}}
 |1={{Wikipedia:Yù-mî thù-phién/Mièn-fâ-páu‎}}
 |2={{Wikipedia:Yù-mî thù-phién/Sîn Thiên-ngò-sa̍k Sàng-páu}}
+|3={{Wikipedia:Yù-mî thù-phién/Vú-lîn-ngièn}}
+|4={{Wikipedia:Yù-mî thù-phién/Banff Koet-kâ Kûng-yèn}}
+|5={{Wikipedia:Yù-mî thù-phién/Iguazu Phau-pu}}
+|6={{Wikipedia:Yù-mî thù-phién/Sok-sân Koet-kâ Kûng-yèn}}
+|7={{Wikipedia:Yù-mî thù-phién/Yanarraju}}
 }}
