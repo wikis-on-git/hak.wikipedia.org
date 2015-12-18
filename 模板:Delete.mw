@@ -4,6 +4,10 @@
 
 If you disagree with its speedy deletion, please explain why on its talk page or at Wikipedia:Speedy deletions. If this page obviously does not meet the criteria for speedy deletion, or you intend to fix it, please remove this notice, but do not remove this notice from articles that you have created yourself.
 
+本頁可能符合快速刪除的標準而需刪除，{{ #if:{{{reason|{{{1}}}}}}|'''理由 : {{{reason|{{{1}}}}}}''' }}
+
+請勿移除本模板。如有異議，請在本模板下方加入<nowiki> {{hangon}} </nowiki> ，並儘快到討論頁闡明理由。
+
 <includeonly>{{{category|[[Category:Candidates for speedy deletion]]}}}</includeonly>
 <noinclude>This template places the page in [[:Category:Candidates for speedy deletion]].
 <br />Do ''not'' edit this template to discuss why a particular article should or should not be deleted — for that, use the article's own discussion page.
