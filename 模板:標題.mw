@@ -68,7 +68,21 @@
 | style="; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%" | <div id="mf-destacado" title="優良條目">{{Wikipedia:優良條目}}</div>
 |-
 
+
+<!--------------------------------
+2.3 參與维基百科
+---------------------------------->
+! style="background-color: #F7CADA; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #EF98B7; text-align: left;  padding-left: 7px; -moz-border-radius:10px"  | <div style="float:right;">[[File:Wbar_pink.jpg|link=]]</div><div style="float:left;">[[File:Nuvola apps date.png|22px|link=|Efemérides]] [[Wikipedia:參與维基百科|參與维基百科]]</div>
+|-
+| style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%" | 
+{{Wikipedia:參與维基百科}}
+|-
+| style="font-size:92%; background:#FFFAF0; border:2px solid #cedff2; border-top:1" |
+<!-- 
+<center>'''Vexa máis [[{{CURRENTDAY}} de {{CURRENTMONTHNAME}}|efemérides do día de hoxe]]'''</center>
+-->
 |}
+
 
 <!--------------------------------
 4. Columna da dereita 
