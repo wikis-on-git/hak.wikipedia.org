@@ -1,0 +1,33 @@
+<table style="{{{style|}}}" class="noprint plainlinks ambox {{#switch:{{{type|}}}
+  | serious  = ambox-serious
+  | content  = ambox-content
+  | style    = ambox-style
+  | merge    = ambox-merge
+  | notice   = ambox-notice
+  | growth   = ambox-growth
+  | protection = ambox-protection
+  | talk     = ambox-talk
+  | #default = ambox-notice
+}}">
+<tr>
+{{#ifeq:{{{image}}}|none
+  | <!-- no image cell -->
+  | <td class="ambox-image"> {{#switch:{{{image|{{{type|}}}}}}
+    | serious  = [[Image:Stop hand nuvola.svg|40px]]
+    | content  = [[Image:Emblem-important.svg|40px]]
+    | style    = [[Image:Broom icon.svg|40px]]
+    | merge    = [[Image:Merge-split-transwiki default.svg|40px]]
+    | notice   = [[Image:Info_talk.png|40px]]
+    | growth   = [[Image:N write green black.svg|40px]]
+    | protection = [[Image:Crystal_Clear_action_lock5.png|40px]]
+    | talk     = [[Image:Nuvola apps ksirc.png|40px]]
+    | blank    = <!-- empty image cell -->
+    | #default = {{{image|[[Image:Info_talk.png|40px]]}}}
+  }}</td>
+}}
+<td style="font-size:98%;">{{{text}}}</td>
+{{#if:{{{imageright|}}}|
+  <td class="ambox-imageright"> {{{imageright}}} </td>
+}}
+</tr>
+</table>
