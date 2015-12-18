@@ -41,13 +41,22 @@
 　　對編寫客家語百科有興趣，著無？關於編輯客家語維基百科嘅問題，先來去[[Help:目錄|幫手頁]]瞭解瞭解。
 <br />
 
+{| style="border-spacing:8px;margin:0px -8px"
+|class="MainPageBG" style="width: 55%; border: 1px solid #cedff2; background-color:#FFFAF0; vertical-align: top;" | 
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#FFFAF0; -moz-border-radius:10px
+
 <!--------------------------------
-1. CABEZALLO  
+2.1 特色條目
 ---------------------------------->
-<!--------------------------------
- 1.1 - Data e estatísticas
----------------------------------->
-{| id="mp-topbanner" style="width:100%; background:#F1FAFF; border:2px solid #C6E4F2; padding:0.5em 1em 0.5em 1em; margin-top: 1em; -moz-border-radius:10px" 
-|
-<div style="margin: 0; padding: -27px 0 0 0; float: right; font-family:verdana, Arial, Helvetica, sans-serif; font-size: 100%; text-align: right; line-height: 135%;">
-<small> {{特色條目}}</small></div>
+! style="background-color: #cedff2; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #B1CDEB; text-align: left;  padding-left: 7px; -moz-border-radius:10px" | <div style="float:right;">[[File:Wbar_blue.jpg|link=]]</div><div style="float:left;">[[File:Bandeira galega civil.svg|25px|link=|特色條目]] [[Wikipedia:特色條目|特色條目]]</div>
+|-
+| style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%" | 
+<div id="mf-galicia" title="Sobre Galicia">{{Wikipedia:特色條目}}</div>
+|-
+| style="font-size:92%; background:#FFFAF0; border:2px solid #cedff2; border-top:1" |
+<!--
+<center>'''Vexa tamén o mes de [[{{CURRENTMONTHNAME}} na cultura popular galega]]'''</center>
+-->
+|-
+
+|}
