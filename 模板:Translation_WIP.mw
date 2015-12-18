@@ -1,0 +1,19 @@
+<!--{{Translation WIP}} begin-->{{Ambox
+| name = Translation WIP
+| subst= <includeonly>{{subst:</includeonly><includeonly>substcheck}}</includeonly>
+| type = style
+| image= [[Image:Translation to english arrow.svg|50px|Translation arrow icon]]
+| text = This article is a '''translation-work in progress ''' of the '''[[:{{{3|FLSC}}}:{{{1|ArticleName}}}|{{{1|ArticleName}}}]]''' article from {{{2|FromLanguage}}} to Hakka.<br>
+<small>If you are confident enough in your competence of {{{2|FromLanguage}}} and Hakka, you can help Wikipedia by assisting in the translation.</small>
+| all  = Articles in translation
+}}<!--{{Translation WIP}} end--><noinclude>
+
+<!--{{Translation WIP}} begin-->{{Ambox
+| name = Translation WIP
+| subst= <includeonly>{{subst:</includeonly><includeonly>substcheck}}</includeonly>
+| type = style
+| image= [[Image:Translation to english arrow.svg|50px|Translation arrow icon]]
+| text = 當前頁面的內容正在依照其他語言維基百科的內容進行翻譯。<br>
+<small>如果您熟知條目內容並擅長翻譯，歡迎協助改善或校對此頁面，長期閒置的非中文內容可能會被移除。</small>
+| all  = Articles in translation
+}}<!--{{Translation WIP}} end--><noinclude>
