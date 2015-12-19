@@ -1,10 +1,45 @@
-{{#switch:{{rand|8}}
-|0={{Wikipedia:Yù-mî thù-phién/Yù-sṳn-mî-thi‎}}
-|1={{Wikipedia:Yù-mî thù-phién/Mièn-fâ-páu‎}}
-|2={{Wikipedia:Yù-mî thù-phién/Sîn Thiên-ngò-sa̍k Sàng-páu}}
-|3={{Wikipedia:Yù-mî thù-phién/Vú-lîn-ngièn}}
-|4={{Wikipedia:Yù-mî thù-phién/Banff Koet-kâ Kûng-yèn}}
-|5={{Wikipedia:Yù-mî thù-phién/Iguazu Phau-pu}}
-|6={{Wikipedia:Yù-mî thù-phién/Sok-sân Koet-kâ Kûng-yèn}}
-|7={{Wikipedia:Yù-mî thù-phién/Yanarraju}}
-}}
+{| width="100%" style="background:#FFFFFF; border:solid 1px #479429;" cellspacing="0" cellpadding="10"
+|-
+| colspan="2" |Hak-kâ-ngî Wikipedia ke Yù-mî thù-phién.
+
+|-
+| colspan="2" |
+{| width="100%"
+|[[File:P_rainbow_flag.png|35px]]
+| width="100%"|<div style="border-bottom: solid 2px #479429;">
+
+=== Yù-mî thù-phién ===
+</div>
+|}
+|-valign="top"
+| width="50%" style="font-size:95%" valign="top"|
+<!--1 -->
+{{Wikipedia:Yù-mî thù-phién/Yù-sṳn-mî-thi‎}}
+| width="50%" style="font-size:95%" valign="top"|
+<!--2 -->
+{{Wikipedia:Yù-mî thù-phién/Mièn-fâ-páu‎}}
+| width="50%" | 
+|-valign="top"
+| width="50%" style="font-size:95%" valign="top"|
+<!--3 -->
+{{Wikipedia:Yù-mî thù-phién/Sîn Thiên-ngò-sa̍k Sàng-páu}}
+| width="50%" style="font-size:95%" valign="top"|
+<!--4 -->
+{{Wikipedia:Yù-mî thù-phién/Vú-lîn-ngièn}}
+| width="50%" | 
+|-valign="top"
+| width="50%" style="font-size:95%" valign="top"|
+<!--5 -->
+{{Wikipedia:Yù-mî thù-phién/Banff Koet-kâ Kûng-yèn}}
+| width="50%" style="font-size:95%" valign="top"|
+<!--6 -->
+{{Wikipedia:Yù-mî thù-phién/Iguazu Phau-pu}}
+| width="50%" | 
+|-valign="top"
+| width="50%" style="font-size:95%" valign="top"|
+<!--7 -->
+{{Wikipedia:Yù-mî thù-phién/Sok-sân Koet-kâ Kûng-yèn}}
+| width="50%" style="font-size:95%" valign="top"|
+<!--8 -->
+{{Wikipedia:Yù-mî thù-phién/Yanarraju}}
+|}
