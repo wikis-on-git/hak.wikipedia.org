@@ -1,4 +1,4 @@
-{{#switch:{{rand|14}}
+{{#switch:{{rand|16}}
 |0={{Wikipedia:Thi̍t-set Thiàu-muk/Vòng Hien-fàm}}
 |1={{Wikipedia:Thi̍t-set Thiàu-muk/Mî-koet}}
 |2={{Wikipedia:Thi̍t-set Thiàu-muk/Thòi-vân}}
@@ -13,6 +13,8 @@
 |11={{Wikipedia:Thi̍t-set Thiàu-muk/Hâ-lî-fat Thap}}
 |12={{Wikipedia:Thi̍t-set Thiàu-muk/Thai-yùng-meu}}
 |13={{Wikipedia:Thi̍t-set Thiàu-muk/Dmitry Medvedev}}
+|14={{Wikipedia:Thi̍t-set Thiàu-muk/Tûng-kîn-tû}}
+|15={{Wikipedia:Thi̍t-set Thiàu-muk/Kâ-thai-lò-nì-â}}
 }}
 
 <div style="text-align: right; font-size:80%;" class="noprint">
