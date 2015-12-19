@@ -47,7 +47,7 @@
 ! style="background-color: #cedff2; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #B1CDEB; text-align: left;  padding-left: 7px; -moz-border-radius:10px" | <div style="float:right;">[[File:Wbar_blue.jpg|link=]]</div><div style="float:left;">[[File:Bandeira galega civil.svg|25px|link=|特色條目]] [[Wikipedia:特色條目|特色條目]]</div>
 |-
 | style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%" | 
-<div id="mf-galicia" title="特色條目">{{Wikipedia:特色條目}}</div>
+<div id="mf-galicia" title="特色條目">{{特色條目}}</div>
 |-
 | style="font-size:92%; background:#FFFAF0; border:2px solid #cedff2; border-top:1" |
 <!--
@@ -61,7 +61,7 @@
 ---------------------------------->
 ! style="background-color: #ffe496; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #ffb466; text-align: left;  padding-left: 7px; -moz-border-radius:10px"  | <div style="float:right;">[[File:Wikibar2.png|link=]]</div><div style="float:left;">[[File:Nuvola filesystems services.png|22px|link=|優良條目]] [[Wikipedia:優良條目|優良條目]]
 |-
-| style="; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%" | <div id="mf-destacado" title="優良條目">{{Wikipedia:優良條目}}</div>
+| style="; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%" | <div id="mf-destacado" title="優良條目">{{優良條目}}</div>
 |-
 
 
@@ -71,7 +71,7 @@
 ! style="background-color: #F7CADA; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #EF98B7; text-align: left;  padding-left: 7px; -moz-border-radius:10px"  | <div style="float:right;">[[File:Wbar_pink.jpg|link=]]</div><div style="float:left;">[[File:Nuvola apps date.png|22px|link=|Efemérides]] [[Wikipedia:參與维基百科|參與维基百科]]</div>
 |-
 | style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%" | 
-{{Wikipedia:參與维基百科}}
+{{參與维基百科}}
 |-
 | style="font-size:92%; background:#FFFAF0; border:2px solid #cedff2; border-top:1" |
 
@@ -92,6 +92,6 @@
 ! style="background-color: #DCF4CC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #9EE072; text-align: left; padding-left: 7px; -moz-border-radius:10px" | <div style="float:right;">[[File:Wbar_green2.jpg|link=]]</div><div style="float:left;">[[File:Nuvola apps kate.png|20px|link=|汝曉得嗎？]] [[Wikipedia:汝曉得嗎|汝曉得嗎？]]</div>
 |-
 |  
-{{Wikipedia:汝曉得嗎}}
+{{汝曉得嗎}}
 |}
 |}
