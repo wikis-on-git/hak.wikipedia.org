@@ -1,0 +1,5 @@
+{{#expr: {{Date.DaysBeforeMonth
+    | {{{2|{{CURRENTMONTH}}}}}
+    | {{{3|{{CURRENTYEAR}}}}}
+  }} + {{{1|{{CURRENTDAY}}}}}
+}}
