@@ -1,0 +1,164 @@
+{{Documentation subpage}}
+{{high-use| 21,000+ | Wikipedia talk:High-risk templates }}
+<!--Categories where indicated at the bottom of this page, please; interwikis at Wikidata (see [[Wikipedia:Wikidata]])-->
+
+== Usage ==
+<pre>
+{{Geographic location
+ | Centre    = 
+ | North     = 
+ | Northeast = 
+ | East      = 
+ | Southeast = 
+ | South     = 
+ | Southwest = 
+ | West      = 
+ | Northwest = 
+}}
+</pre>
+
+Or:
+<pre>
+{{Geographic location
+ | Centre = 
+ | N  = 
+ | NE = 
+ | E  = 
+ | SE = 
+ | S  = 
+ | SW = 
+ | W  = 
+ | NW = 
+}}
+</pre>
+
+This template provides for a convenient compass-based navigational aid for articles about communities. It allows you to display the communities surrounding the subject of your article. The only '''required''' field is "'''Centre'''"; the template defaults to an "(enter location)" in the centre of the box message if nothing is entered here (''see note below'').  The fields ''Northwest (NW)'', ''North (N)'', ''Northeast (NE)'', ''West (W)'', ''East (E)'', ''Southwest (SW)'', ''South (S)'', and ''Southeast (SE)'' are optional. They will be hidden when not used; when values are entered for the relevant parameters, the fields will automatically appear. (Normal Wiki markup can be used in the fields, such as links, colours, and bold/italics.)
+
+The template is coded to handle the American spelling "center". It first looks for a value in "Centre", then in "Center"; it defaults to the "(enter location)" message if both are left blank.
+
+In order to ensure consistent usage, the following guidelines are suggested:
+* Use same-level jurisdictions or equivalent in the directional fields as in the centre. For instance, when using this template for a province, show adjacent provinces; when using it for a municipality, show adjacent municipalities; when using it for unincorporated places, show adjacent unincorporated communities; etc.
+* When a municipality borders an international, provincial, or state boundary, try to use a municipality in that adjacent jurisdiction rather than the jurisdiction itself.
+* Geographical features such as oceans, rivers, lakes, and mountains should be in ''italics'' to differentiate them.
+* Avoid cluttering the template with too much detail; it is a general guide, not a detailed map.
+
+===Placement in article===
+*[[WP:LAYOUTNAV]] specifies that Navboxes, including geography boxes such as this one, are placed after the External links section.
+
+== Examples ==
+Here is an example for [[Ottawa]] (capital of Canada) demonstrating the guidelines above:
+
+<pre>
+{{Geographic location
+ | Centre    = Ottawa
+ | North     = [[Pontiac, Quebec|Pontiac]], [[Gatineau]] ([[Quebec]])<br>''[[Ottawa River]]''
+ | Northeast = [[Lochaber-Partie-Ouest, Quebec|Lochaber-Partie-Ouest]] ([[Quebec]])<br>''[[Ottawa River]]''
+ | East      = [[Clarence-Rockland, Ontario|Clarence-Rockland]]
+ | Southeast = [[Russell, Ontario|Russell]], [[The Nation, Ontario|The Nation]]
+ | South     = [[North Grenville, Ontario|North Grenville]], [[North Dundas, Ontario|North Dundas]]
+ | Southwest = [[Merrickville-Wolford, Ontario|Merrickville-Wolford]]
+ | West      = [[Mississippi Mills, Ontario|Mississippi Mills]]<br>[[Beckwith, Ontario|Beckwith]]<br>[[Montague, Ontario|Montague]]
+ | Northwest = [[Arnprior, Ontario|Arnprior]]
+}}
+</pre>
+
+produces:
+{{Geographic location
+ | Centre    = Ottawa
+ | North     = [[Pontiac, Quebec|Pontiac]], [[Gatineau]] ([[Quebec]])<br>''[[Ottawa River]]''
+ | Northeast = [[Lochaber-Partie-Ouest, Quebec|Lochaber-Partie-Ouest]] ([[Quebec]])<br>''[[Ottawa River]]''
+ | East      = [[Clarence-Rockland, Ontario|Clarence-Rockland]]
+ | Southeast = [[Russell, Ontario|Russell]], [[The Nation, Ontario|The Nation]]
+ | South     = [[North Grenville, Ontario|North Grenville]], [[North Dundas, Ontario|North Dundas]]
+ | Southwest = [[Merrickville-Wolford, Ontario|Merrickville-Wolford]]
+ | West      = [[Mississippi Mills, Ontario|Mississippi Mills]]<br>[[Beckwith, Ontario|Beckwith]]<br>[[Montague, Ontario|Montague]]
+ | Northwest = [[Arnprior, Ontario|Arnprior]]
+}}
+
+
+Not all directions necessarily need to be filled:
+
+<pre>
+{{Geographic location
+ | Centre = Knokke-Heist
+ | N = ''[[North Sea]]''
+ | E = [[Sluis]] ([[Netherlands|NL]]-[[Zeeland|ZE]])
+ | S = [[Damme]]
+ | W = [[Bruges]]
+}}
+</pre>
+
+produces:
+{{Geographic location
+ | Centre = Knokke-Heist
+ | N = ''[[North Sea]]''
+ | E = [[Sluis]] ([[Netherlands|NL]]-[[Zeeland|ZE]])
+ | S = [[Damme]]
+ | W = [[Bruges]]
+}}
+
+== Title option ==
+An optional title can be added, use <code>|title=</code>. For example, this is useful where 2 boxes are needed:
+
+{{Geographic location
+ | title     = '''Eastern part''' (includes the poblacion)
+ | Centre    = Pakil
+ | North     = [[Pangil, Laguna|Pangil]]
+ | East      = [[Real, Quezon]]
+ | South     = [[Paete, Laguna|Paete]]
+ | West      = ''[[Laguna de Bay]]''
+}}
+{{Geographic location
+ | title     = '''Western part''' (includes barangays Banilan, Kabulusan, Casa Real, Casinsin, Dorado, Matikiw)
+ | Centre    = Pakil
+ | North     = [[Mabitac, Laguna|Mabitac]] / [[Pangil, Laguna|Pangil]]
+ | East      = ''[[Laguna de Bay]]''
+ | South     = [[Jalajala, Rizal]]
+ | West      = [[Jalajala, Rizal]]
+ | Northwest = [[Pililla, Rizal]]
+}}
+
+== Suppressing the compass icons ==
+By default, the geographic location box includes compass icons on the left and right side of the box.  To remove these icons, and increase the amount of space available for useful content, use {{para|noicon|yes}}.
+
+{{Geographic location|noicon=yes
+ | Centre    = Ottawa
+ | North     = [[Pontiac, Quebec|Pontiac]], [[Gatineau]] ([[Quebec]])<br>''[[Ottawa River]]''
+ | Northeast = [[Lochaber-Partie-Ouest, Quebec|Lochaber-Partie-Ouest]] ([[Quebec]])<br>''[[Ottawa River]]''
+ | East      = [[Clarence-Rockland, Ontario|Clarence-Rockland]]
+ | Southeast = [[Russell, Ontario|Russell]], [[The Nation, Ontario|The Nation]]
+ | South     = [[North Grenville, Ontario|North Grenville]], [[North Dundas, Ontario|North Dundas]]
+ | Southwest = [[Merrickville-Wolford, Ontario|Merrickville-Wolford]]
+ | West      = [[Mississippi Mills, Ontario|Mississippi Mills]]<br>[[Beckwith, Ontario|Beckwith]]<br>[[Montague, Ontario|Montague]]
+ | Northwest = [[Arnprior, Ontario|Arnprior]]
+}}
+
+== Nesting the box ==
+By default, the width of the geographic location box is 80%, and is forced to float below any left or right floating elements.  To allow the box to nest next to an infobox, image, or other floating element, enter {{para|width|auto}} on the first line.
+{{Infobox
+ | above = Example infobox
+ | label1 = Label
+ | data1 = Data
+ | label2 = Label
+ | data2 = Data
+ | label3 = Label
+ | data3 = Data
+}}
+
+{{Geographic location|width=auto
+ | Centre    = Ottawa
+ | North     = [[Pontiac, Quebec|Pontiac]], [[Gatineau]] ([[Quebec]])<br>''[[Ottawa River]]''
+ | Northeast = [[Lochaber-Partie-Ouest, Quebec|Lochaber-Partie-Ouest]] ([[Quebec]])<br>''[[Ottawa River]]''
+ | East      = [[Clarence-Rockland, Ontario|Clarence-Rockland]]
+ | Southeast = [[Russell, Ontario|Russell]], [[The Nation, Ontario|The Nation]]
+ | South     = [[North Grenville, Ontario|North Grenville]], [[North Dundas, Ontario|North Dundas]]
+ | Southwest = [[Merrickville-Wolford, Ontario|Merrickville-Wolford]]
+ | West      = [[Mississippi Mills, Ontario|Mississippi Mills]]<br>[[Beckwith, Ontario|Beckwith]]<br>[[Montague, Ontario|Montague]]
+ | Northwest = [[Arnprior, Ontario|Arnprior]]
+}}
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox | |
+<!--Categories below this line, please; interwikis at Wikidata-->
+[[Category:Geography and place templates| ]]
+[[Category:Exclude in print]]
+}}</includeonly>
