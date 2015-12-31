@@ -1,8 +1,6 @@
 __NOEDITSECTION__
  __NOTOC__
 <div id="mp_header" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0 0 0.5em; overflow: hidden; padding: 0.5em; font-size: small; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;">
-<div style="position: fixed; top:0px; left:155px;color:#005994; font-size:0.8em;">Hien-chhai ke [[GMT]] sṳ̀-kiên he {{CURRENTYEAR}}-ngièn {{CURRENTMONTH}}-ngie̍t {{CURRENTDAY}}-ngit {{CURRENTTIME}} {{#switch: {{CURRENTDOW}}|0=sên-khì-ngit|1=sên-khì-yit|2=sên-khì-ngi|3=sên-khì-sâm|4=sên-khì-si|5=sên-khì-ńg|6=sên-khì-liuk|error}}, Ngài-ke tong-thi sṳ-kiên he {{UTC|+08}} ([[時區|GMT+8]])
-</div>
 {| width="100%" 
 | <div style="float: left; width: 0em; height: 0em; margin: -0.5em 0em 0em -2.5em; overflow: visiable;">[[File:Wikipedia-logo-v2-200px-transparent.png|225px|link=|Wikipedia Phiêu-chì]]</div>
 |-
