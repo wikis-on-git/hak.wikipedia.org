@@ -1,23 +1,5 @@
-{{sister
-<!--| position = {{{position|}}}-->
-| project  = incubator
-| text = [[:Wikipedia:Vì-kî Phù-yuk-chhòng |Vì-kî Phù-yuk-chhòng]] ke [[{{#switch:{{{2|{{{project|Vì-kî Pak-khô }}}}}}<!--
-  -->|wikipedia|Wikipedia|Vì-kî Pak-khô |Vì-kî Pak-khô = Vì-kî Pak-khô <!--
-  -->|wiktionary|Wiktionary|Vì-kî Chhṳ̀-tién |Vì-kî Chhṳ̀-tién = Vì-kî Chhṳ̀-tién <!--
-  -->|wikibooks|Wikibooks|Vì-kî Kau-khô-sû |Vì-kî Kau-khô-sû = Vì-kî Kau-khô-sû <!--
-  -->|wikinews|Wikinews|Vì-kî Sîn-vùn |Vì-kî Sîn-vùn = Vì-kî Sîn-vùn <!--
-  -->|wikiquote|Wikiquote|Vì-kî Ngî-liu̍k |Vì-kî Ngî-liu̍k = Vì-kî Ngî-liu̍k <!--
-  -->|wikivoyage|Wikivoyage|Vì-kî Thô-yû |Vì-kî Thô-yû = Vì-kî Thô-yû <!--
-  -->|#default=Vì-kî Pak-khô}}]] ngî-ngièn sṳ-ngiam-pán ：<br />
-<span style="margin-left: 1em">'''[[:incubator:<!--
--->{{#switch:{{lcfirst:{{{2|}}}}}<!--
-  -->|wikipedia|Vì-kî Pak-khô |Vì-kî Pak-khô = Wp<!--
-  -->|wiktionary|Vì-kî Chhṳ̀-tién |Vì-kî Chhṳ̀-tién = Wt<!--
-  -->|wikibooks|Vì-kî Kau-khô-sû |Vì-kî Kau-khô-sû = Wb<!--
-  -->|wikinews|Vì-kî Sîn-vùn |Vì-kî Sîn-vùn = Wn<!--
-  -->|wikiquote|Vì-kî Ngî-liu̍k |Vì-kî Ngî-liu̍k = Wq<!--
-  -->|wikivoyage|vì kî thô yû |vì kî thô yû = Wy<!--
-  -->|#default={{{prefix|Wp}}}<!--
--->}}/{{{1|{{{code}}}}}}|{{{lang|{{{language|{{PAGENAME}}<!-- -->}}}<!- - -->}}} sṳ-ngiam-pán ]]'''</span>
-}}<noinclude>{{doc}}
-</noinclude>
+<div class="infobox sisterproject">[[Image:Incubator-notext.svg|left|50px]]
+<div style="margin-left: 60px;">[[Vì-kî Phù-yuk-chhòng]] ke [[{{{project|Vì-kî Pak-khô}}}]] ngî-ngièn sṳ-ngiam pán：
+<div style="margin-left: 10px;">'''[[:incubator:{{{prefix|Wp}}}/{{{code}}}| {{{language|{{PAGENAME}}}}} sṳ-ngiam pán]]'''</div>
+</div>
+</div>
