@@ -1748,3 +1748,24 @@ A reminder - applications for scholarships for Wikimania 2016 in Esino Lario, It
 :*[https://wikimania2016.wikimedia.org/wiki/Scholarships Wikimania 2016 Scholarships]
 [[User:PEarley (WMF)|Patrick Earley (WMF)]] via [[用戶:MediaWiki message delivery|MediaWiki message delivery]] ([[用戶討論:MediaWiki message delivery|對話]]) 01:49, 5 一月 2016 (UTC)
 <!-- 訊息由 User:PEarley (WMF)@metawiki 傳送，使用清單於 https://meta.wikimedia.org/w/index.php?title=User:PEarley_(WMF)/Mass_Message_-_large&oldid=15209973 -->
+
+== The visual editor is coming to this wiki ==
+
+[[File:Norwegian-road-sign-110.0 (fluorescent).svg|right|frameless]]
+''Hello again. Please excuse the English.  {{Int:Please-translate}}.  {{Int:Feedback-thanks-title}}''
+
+<mark>[[mw:VisualEditor/Portal|'''The visual editor''']] is coming to all editors at this Wikipedia on Monday, 25 January.</mark> It allows people to edit Wikipedia articles as if they were using word processing software.  
+
+You don't have to wait until the deployment to test it; '''you can test the visual editor right now.''' To turn it on, select [[Special:Preferences#mw-prefsection-betafeatures|"Beta"]] in your preferences. Choose "{{int:visualeditor}}" and click save.  When it is enabled, you will press the "{{int:vector-view-edit}}" button to edit an article in the new software. To use the wikitext editor, you can press "{{int:visualeditor-ca-editsource}}". 
+
+After the deployment, everyone will automatically have the option to use either the visual editor or the current wikitext editor. For more information about how to use the visual editor, see [[:mw:Help:VisualEditor/User guide]]. 
+
+More information about [[mediawikiwiki:Help:VisualEditor/VE_as_the_main_editor|preparing for the visual editor is posted here]].
+* It's easier to add templates if you've added [[mw:TemplateData|TemplateData]] information. 
+* Please help translate the user interface and pages about the visual editor. See [[:mw:VisualEditor/TranslationCentral|the visual editor's TranslationCentral]] for general information. To translate the user guide, go to [[mediawikiwiki:Help:VisualEditor/User_guide|the MediaWiki.org page]], and select "{{int:translate-tag-translate-link-desc}}". Your language should be available from the drop-down menu on the right. Once you've done this, you'll see the document in English side by side with any translation work already done in your language. You can add new translations or change old translations.  To [https://translatewiki.net/w/i.php?title=Special:Translate&group=ext-visualeditor-0-all&language= translate the user interface], you need to create an account at translatewiki.net. Contact me personally if you need help with that.
+* Please let us know if you find any problems. You can report issues in [[phab:|Phabricator, the new bug tracking system]] or on the [[:mw:Topic:St8y4ni42d0vr9cv|central feedback page]] on MediaWiki.org. If you notice major issues affecting your project, please leave a note [[:mw:User talk:Elitre (WMF)|on my talk page]].  In case of emergency (like an unexpected bug causing widespread problems), please contact James Forrester, the product manager, at jforrester@wikimedia.org or on [[:m:IRC|IRC]] in the #mediawiki-visualeditor channel. 
+
+<div style="float: right;">''[[m:VisualEditor/Newsletter/Phase 6.1|Wrong target page? Fix it here]]  •  [[:m:VisualEditor/Newsletter|Sign up for the visual editor's multilingual newsletter]] ''</div> 
+
+Thank you, and happy editing! --[[:mw:User:Elitre (WMF)|Elitre (WMF)]] [[:mw:User talk:Elitre (WMF)|(talk)]] 18:20, 15 一月 2016 (UTC)
+<!-- 訊息由 User:Elitre (WMF)@metawiki 傳送，使用清單於 https://meta.wikimedia.org/w/index.php?title=VisualEditor/Newsletter/Phase_6.1&oldid=14780730 -->
