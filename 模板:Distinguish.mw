@@ -1,0 +1,18 @@
+{{#if:{{{1|}}}
+ |{{Hatnote|Liá ke vùn-chông kie-seu ke m̀-he [[:{{trim|{{{1}}}}}]]{{
+    #if: {{{3|}}}{{{4|}}}
+    | , [[:{{trim|{{{2}}}}}]], {{
+      #if: {{{4|}}}
+      | [[:{{trim|{{{3}}}}}]], fe̍t-chá [[:{{trim|{{{4}}}}}]]
+      | fe̍t-chá [[:{{trim|{{{3}}}}}]]
+      }}
+    | {{
+      #if: {{{2|}}}
+      | &nbsp;fe̍t-chá [[:{{trim|{{{2}}}}}]]
+      }}
+    }}.
+  }}
+}}<noinclude><!-- splitting these lines causes {{Documentation}} template to terminate green shading when Distinguish is used in /doc pages. -->
+{{Documentation}}
+<!-- Add categories to the /doc subpage and interwikis to Wikidata, not here! -->
+</noinclude>
