@@ -1,75 +1,143 @@
 [[File:Cyrillic alphabet world distribution.svg|right|thumb|300px|Sṳ́-yung Sî-lî-ngì Sṳ-mû ke koet-kâ.]]
 ''' Sî-lî-ngì Sṳ-mû''' (西里爾字母, [[Ngò-ngî]]: Кирилли́ческий алфави́т) he thûng-hàng yî [[Sṳ̂-lâ-fû Ngî-chhu̍k]] thai-tô-su mìn-chhu̍k chûng ke sṳ-mû sû-siá ne-thúng. Sî-lî-ngì Sṳ-mû ngièn-thèu yî [[Hî-lia̍p sṳ-mû]] ke [[Kak-là-kô-lî Sṳ-mû]], phû-phiên ngin-vì he yù Hî-lia̍p  chhòn-kau-sṳ [[Sṳn Sî-lî-ngì]] (827-ngièn – 869-ngièn) lâu [[Sṳn Mòi-tuk-tiû-sṳ̂]] chhai [[Kiú Sṳ-ki]] vi-liáu chhai [[Sṳ̂-lâ-fû Mìn-chhu̍k]] chhòn-pô [[Kî-tuk-kau]] fông-phien só chhóng-li̍p ke, pûn [[Sṳ̂-lâ-fû Mìn-chhu̍k]] kóng-fàm chhái-yung. Chó-khì ke Sî-lî-ngì Sṳ-mû yu chhṳ̂n-cho Kú Sṳ̂-lâ-fû-ngî Sṳ-mû.
 
-==[[Ngò-ngî]] Sî-lî-ngì Sṳ-mû==
-{| border="0" lang="ru"
-|-align="left"
-!Chang-thí Thai-siá||Chang-thí séu-siá||Chhià-thí Thai-siá||Chhià-thí séu-siá||Lâ-tên-ngî miàng-chhṳ̂n ||[[Koet-chi Yî-phêu]]
+== Chó-khì Sî-lî-ngì sṳ-mû ==
+{| cellpadding=4 style="font-size:larger; text-align:center;" class="Unicode" summary="Chó-khì Sî-lî-ngì sṳ-mû"
+|+ style="font-size:smaller;" |
 |-
-|А||а||''А''||style="background-color:#bbbbff"|''а''||A||{{IPA|/a/}}
+| [[А]] || [[Б]] || [[В]] || [[Г]] || [[Д]] || [[Е]] || [[Ж]] || [[Ѕ]]<ref>Ꙃ ke pièn-thí</ref> || [[Ꙁ]] || [[И]] || [[І]] || [[К]] || [[Л]] || [[М]] || [[Н]] || [[О]] || [[П]] || [[Р]] || [[С]] || [[Т]] || [[Ѹ|Ꙋ]]<ref>ОУ ke pièn-thí</ref> || [[Ф]]
 |-
-|Б||б||''Б''||''б''||Be||{{IPA|/b/}}
-|-
-|В||в||''В''||''в''||Ve||{{IPA|/v/}}
-|-
-|Г||г||''Г''||style="background-color:#bbbbff"|''г''||Ge||{{IPA|/ɡ/}}
-|-
-|Д||д||''Д''||style="background-color:#bbbbff"|''д''||De||{{IPA|/d/}}
-|-
-|Е||е||''Е''||''е''||Je||{{IPA|/jɛ/}}
-|-
-|Ё||ё||''Ё''||''ё''||Jo||{{IPA|/jo/}}
-|-
-|Ж||ж||''Ж''||''ж''||Že||{{IPA|/ʐ/}}
-|-
-|З||з||''З''||''з''||Ze||{{IPA|/z/}}
-|-
-|И||и||''И''||style="background-color:#bbbbff"|''и''||I||{{IPA|/i/}}
-|-
-|Й||й||''Й''||style="background-color:#bbbbff"|''й''||I kratkoje ||{{IPA|/j/}}
-|-
-|К||к||''К''||''к''||Ka||{{IPA|/k/}}
-|-
-|Л||л||''Л''||''л''||El||{{IPA|/l/}}
-|-
-|М||м||''М''||''м''||Em||{{IPA|/m/}}
-|-
-|Н||н||''Н''||''н''||En||{{IPA|/n/}}
-|-
-|О||о||''О''||''о''||O||{{IPA|/ɔ/}}
-|-
-|П||п||''П''||style="background-color:#bbbbff"|''п''||Pe||{{IPA|/p/}}
-|-
-|Р||р||''Р''||''р''||Er||{{IPA|/r/}}
-|-
-|С||с||''С''||''с''||Es||{{IPA|/s/}}
-|-
-|Т||т||''Т''||style="background-color:#bbbbff"|''т''||Te||{{IPA|/t/}}
-|-
-|У||у||''У''||''у''||U||{{IPA|/u/}}
-|-
-|Ф||ф||''Ф''||''ф''||Ef||{{IPA|/f/}}
-|-
-|Х||х||''Х''||''х''||Ha||{{IPA|/x/}}
-|-
-|Ц||ц||''Ц''||''ц''||Ce||{{IPA|/ts/}}
-|-
-|Ч||ч||''Ч''||''ч''||Če||{{IPA|/ʈʂ/}}
-|-
-|Ш||ш||''Ш''||''ш''||Še||{{IPA|/ʂ/}}
-|-
-|Щ||щ||''Щ''||''щ''||Šče||{{IPA|/ɕː/}}
-|-
-|Ъ||ъ||''Ъ''||''ъ''||Jer tviordyj<sup>1</sup>||&nbsp;||<sup>2</sup>
-|-
-|Ы||ы||''Ы''||''ы''||Jery||{{IPA|/ɨ/}}
-|-
-|Ь||ь||''Ь''||''ь''||Jer miagkij||{{IPA|/ʲ/}}||<sup>2</sup>
-|-
-|Э||э||''Э''||''э''||E||{{IPA|/ε/}}
-|-
-|Ю||ю||''Ю''||''ю''||Ju||{{IPA|/jʊ/}}
-|-
-|Я||я||''Я''||''я''||Ja||{{IPA|/ja/}}
+| [[Х]] || [[Ѡ]] || [[Ц]] || [[Ч]] || [[Ш]] || [[Щ]] || [[Ъ]] || [[Ы|Ꙑ]]<ref>ЪИ ke pièn-thí</ref> || [[Ь]] || [[Ѣ]] || [[Ю]] || [[Ꙗ]] || [[Ѥ]] || [[Ѧ]] || [[Ѩ]] || [[Ѫ]] || [[Ѭ]] || [[Ѯ]] || [[Ѱ]] || [[Ѳ]] || [[Ѵ]] ||[[Ҁ]]<ref name=Lunt>Lunt, Horace G. ''Old Church Slavonic Grammar, Seventh Edition'', 2001.</ref>
 |}
+
+== Sî-lî-ngì sṳ-mû péu ==
+{| border="0" cellpadding="5" cellspacing="0" class="Unicode" style="vertical-align:top; border-collapse:collapse; border:1px solid #999; text-align:center; clear:both; 
+|-
+! colspan=12 style="background-color:#fbec5d; font-family:inherit; font-weight:normal;" | Sṳ̂-lâ-fû ngî-ngièn ke sṳ-mû
+|-  style="vertical-align:top; background:#f8f8f8;"
+| style="width:7%;"| [[А|<big>А</big><br /><small>A</small>]]
+| style="width:7%;"| [[Б|<big>Б</big><br /><small>Be</small>]]
+| style="width:7%;"| [[В|<big>В</big><br /><small>Ve</small>]]
+| style="width:7%;"| [[Г|<big>Г</big><br /><small>Ge</small>]]
+| style="width:7%;"| [[Ґ|<big>Ґ</big><br /><small>Hiong-song fân ke Ge</small>]]
+| style="width:7%;"| [[Д|<big>Д</big><br /><small>De</small>]]
+| style="width:7%;"| [[Ђ|<big>Ђ</big><br /><small>Dje</small>]]
+| style="width:7%;"| [[Ѓ|<big>Ѓ</big><br /><small>Gje</small>]]
+| style="width:7%;"| [[Е|<big>Е</big><br /><small>Ye</small>]]
+| style="width:7%;"| [[Ё|<big>Ё</big><br /><small>Yo</small>]]
+| style="width:7%;"| [[Є|<big>Є</big><br /><small>Yest</small>]]
+| style="width:7%;"| [[Ж|<big>Ж</big><br /><small>Zhe</small>]]
+|- valign=top
+| [[З|<big>З</big><br /><small>Ze</small>]]
+| [[З́|<big>З́</big><br /><small>Zje</small>]]
+| [[Ѕ|<big>Ѕ</big><br /><small>Dze</small>]]
+| [[И|<big>И</big><br /><small>I</small>]]
+| [[І|<big>І</big><br /><small>Tai tiám ke I</small>]]
+| [[Ї|<big>Ї</big><br /><small>Yi</small>]]
+| [[Й|<big>Й</big><br /><small>Tón-yim I</small>]]
+| [[Ј|<big>Ј</big><br /><small>Je</small>]]
+| [[К|<big>К</big><br /><small>Ka</small>]]
+| [[Л|<big>Л</big><br /><small>El</small>]]
+| [[Љ|<big>Љ</big><br /><small>Lje</small>]]
+| [[М|<big>М</big><br /><small>Em</small>]]
+|-  style="vertical-align:top; background:#f8f8f8;"
+| [[Н|<big>Н</big><br /><small>En</small>]]
+| [[Њ|<big>Њ</big><br /><small>Nje</small>]]
+| [[О|<big>О</big><br /><small>O</small>]]
+| [[П|<big>П</big><br /><small>Pe</small>]]
+| [[Р|<big>Р</big><br /><small>Er</small>]]
+| [[С|<big>С</big><br /><small>Es</small>]]
+| [[С́|<big>С́</big><br /><small>[ɕ]</small>]]
+| [[Т|<big>Т</big><br /><small>Te</small>]]
+| [[Ћ|<big>Ћ</big><br /><small>Tshe</small>]]
+| [[Ќ|<big>Ќ</big><br /><small>Kje</small>]]
+| [[У|<big>У</big><br /><small>U</small>]]
+| [[Ў|<big>Ў</big><br /><small>Tón-yim U</small>]]
+|- valign=top
+| [[Ф|<big>Ф</big><br /><small>Ef</small>]]
+| [[Х|<big>Х</big><br /><small>Kha</small>]]
+| [[Ц|<big>Ц</big><br /><small>Tse</small>]]
+| [[Ч|<big>Ч</big><br /><small>Che</small>]]
+| [[Џ|<big>Џ</big><br /><small>Dzhe</small>]]
+| [[Ш|<big>Ш</big><br /><small>Sha</small>]]
+| [[Щ|<big>Щ</big><br /><small>Shcha</small>]]
+| [[Ъ|<big>Ъ</big><br /><small>Ngàng-yim phû-hàu (Yer)</small>]]
+| [[Ы|<big>Ы</big><br /><small>Yery</small>]]
+| [[Ь|<big>Ь</big><br /><small>Ngiôn-yim phû-hàu (Yeri)</small>]]
+| [[Э|<big>Э</big><br /><small>E</small>]]
+| [[Ю|<big>Ю</big><br /><small>Yu</small>]]
+|-  style="vertical-align:top; background:#f8f8f8;"
+| [[Я|<big>Я</big><br /><small>Ya</small>]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|- valign=top
+| colspan=12 style="background-color:#b0bf1a; font-family:inherit; font-weight:normal;" | Fui Sṳ̂-lâ-fû ngî-ngièn ke sṳ-mû
+|-  style="vertical-align:top; background:#f8f8f8;"
+| [[Ӏ|<big>Ӏ</big><br /><small>Palochka</small>]]
+| [[Ә|<big>Ә</big><br /><small>Sî-lî-ngì sṳ-mû Schwa</small>]]
+| [[Ғ|<big>Ғ</big><br /><small>Ayn</small>]]
+| [[Ҙ|<big>Ҙ</big><br /><small>Pa-shi̍p-kî-ngì-ngî<!-- 巴什基爾語 --> Dhe</small>]]
+| [[Ҫ|<big>Ҫ</big><br /><small>Pa-shi̍p-kî-ngì-ngî The</small>]]
+| [[Ҡ|<big>Ҡ</big><br /><small>Pa-shi̍p-kî-ngì-ngî Qa</small>]]
+| [[Қ|<big>Қ</big><br /><small>Tai descander ke Ka</small>]]
+| [[Җ|<big>Җ</big><br /><small>Zhye</small>]]
+| [[Ң|<big>Ң</big><br /><small>Ng</small>]]
+| [[Ҥ|<big>Ҥ</big><br /><small>Ng-Ghe</small>]]
+| [[Ө|<big>Ө</big><br /><small>Tai vang-sien ke O</small>]]
+| [[Ү|<big>Ү</big><br /><small>Chhṳ̍t-siá ke U</small>]]
+|- valign=top
+| [[Ұ|<big>Ұ</big><br /><small>Tai vang-sien ke chhṳ̍t-siá ke U</small>]]
+| [[Һ|<big>Һ</big><br /><small>He</small>]]
+| [[Һ|<big>Һ</big><br /><small>shha（He）</small>]]
+| [[Ҳ|<big>Ҳ</big><br /><small>Tai descander ke Ha</small>]]
+|
+|
+|
+|
+|
+|
+|
+|
+|-  style="vertical-align:top; background:#f8f8f8;"
+| colspan=12 style="background-color:#87ceeb; font-family:inherit; font-weight:normal;" | Ko-hi sṳ́-yung ke sṳ-mû
+|- valign=top
+| [[Ꙗ|<big>Ꙗ</big><br /><small>A Iotified</small>]]
+| [[Ѥ|<big>Ѥ</big><br /><small>E Iotified</small>]]
+| [[Jus|<big>Ѧ</big><br /><small>Síau Yus</small>]]
+| [[Jus|<big>Ѫ</big><br /><small>Thài Yus</small>]]
+| [[Jus|<big>Ѩ</big><br /><small>Síau Yus Iotified</small>]]
+| [[Jus|<big>Ѭ</big><br /><small>Thài Yus Iotified</small>]]
+| [[Ѯ|<big>Ѯ</big><br /><small>Ksi</small>]]
+| [[Ѱ|<big>Ѱ</big><br /><small>Psi</small>]]
+| [[Ꙟ|<big>Ꙟ</big><br /><small>Yn</small>]]
+| [[Ѳ|<big>Ѳ</big><br /><small>Fita</small>]]
+| [[Ѵ|<big>Ѵ</big><br /><small>Izhitsa</small>]]
+| [[Ѷ|<big>Ѷ</big><br /><small>Izhitsa okovy</small>]]
+|-  style="vertical-align:top; background:#f8f8f8;"
+| [[Ҁ|<big>Ҁ</big><br /><small>Koppa</small>]]
+| [[Ѹ|<big>Ѹ</big><br /><small>Uk</small>]]
+| [[Ѡ|<big>Ѡ</big><br /><small>Omega</small>]]
+| [[Ѿ|<big>Ѿ</big><br /><small>Ot</small>]]
+| [[Ѣ|<big>Ѣ</big><br /><small>Yat</small>]]
+|
+|
+|
+|
+|
+|
+|
+|}
+
+== Chù-sit==
+<references/>
+
 [[Category:Vùn-sṳ]]
