@@ -1,0 +1,32 @@
+== 準則 ==
+{{anchors|g|G|gc|GC|gcrit|GCRIT|gencrit|GENCRIT|generalcrit|GENERALCRIT}}{{anchors|general|General|GENERAL}}
+=== 所有頁面===
+<!--如需编辑具体删除理由，请编辑Module:Template:Delete/data-->
+以下标准适用于所有[[Help:名字空间|名字空间]]中的页面，[[WP:沙盒|沙盒页面]]除外。
+{{#invoke:Template:Delete|desc|G}}
+
+{{anchors|a|A|articles|Articles|ARTICLES|article|Article|ARTICLE|art|Art}}
+{{anchors|ART|arti|Arti|ARTI}}
+=== 條目 ===
+<!--如需编辑具体删除理由，请编辑Module:Template:Delete/data-->
+以下标准适用于主名字空间中的所有[[WP:条目|条目]]。
+{{#invoke:Template:Delete|desc|A}}
+
+{{anchors|r|R|rdr|RDR|redir|REDIR|rdrt|RDRT|rdrct|RDRCT}}{{anchors|Redirect|REDIRECT|REDIRECTS}}
+=== 重定向页 ===
+<!--如需编辑具体删除理由，请编辑Module:Template:Delete/data-->
+以下标准适用于所有的[[WP:重定向|重定向页面]]（含[[Wikipedia:软重定向|软重定向]]）。
+{{#invoke:Template:Delete|desc|R}}
+
+=== 图片及多媒體檔案 ===
+<!--如需编辑具体删除理由，请编辑Module:Template:Delete/data-->
+以下标准适用于所有的[[WP:文件使用守则|文件]]。如不符合，则应移交[[WP:文件存废讨论]]。
+{{#invoke:Template:Delete|desc|F}}
+
+=== 其他页面 ===
+<!--如需编辑具体删除理由，请编辑Module:Template:Delete/data-->
+以下标准适用于特定的[[Help:名字空间|名字空间]]。（O3目前由[[User:Jimmy-abot]]自動執行）
+{{#invoke:Template:Delete|desc|O}}
+
+== 非快速刪除理由 ==
+請點選[[:zh:WP:NOTCSD]]參看。
