@@ -13,7 +13,7 @@
 
 提示 --><div class="mw-customcollapsible-delete" style="float: right;"><span style="padding: 1px 3px; color: red;" title="點擊可查看本模板的簡化字母參數">{{#if:{{{1|}}}|管理員注意|出錯提示}}!</span></div>
 <div id="mw-customcollapsible-delete" class="mw-collapsible mw-collapsed plainlinks">
-<div class="tright" style="float: right; overflow-x: hidden; overflow-y: auto; width: 265px; height:150px; border: 1px solid#99B3FF">
+<div class="tright" style="float: right; overflow-x: hidden; overflow-y: auto; width: 400px; height:150px; border: 1px solid#99B3FF">
 {{#if:{{{1|}}}|請對照以下刪除理由判斷本頁是否具備執行快速刪除的理據：|標記者沒有提供理由，請對照以下刪除說明補上合適的參數：
 :<code><nowiki>{{Delete|'''快速刪除理由'''}}</nowiki></code>
 快速刪除的理由可以填寫左邊代碼，模板會自動顯示相應的理由：}}
