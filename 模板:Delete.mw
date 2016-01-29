@@ -1,50 +1,50 @@
 {{#ifeq:{{{1|}}}|G8||__NOINDEX__
 {{mbox
-| type  = speedy
+| type = speedy
 | image = [[File:Icono archivo borrar.png|40px|]]
-| text  =
+| text =
 <div style="text-align: right; font-size: smaller; float: right;">
-* [[Special:Whatlinkshere/{{FULLPAGENAME}}|链入]]
-* [{{fullurl:{{FULLPAGENAME}}|action=history}} 历史]
-* <span class="autotrigger">[{{fullurl:{{FULLPAGENAME}}|diff=0&autotrigger_element={{urlencode:.mw-rollback-link a}}}} 最后]</span>
+* [[Special:Whatlinkshere/{{FULLPAGENAME}}|鏈入]]
+* [{{fullurl:{{​​FULLPAGENAME}}|action=history}} 歷史]
+* <span class="autotrigger">[{{fullurl:{{​​FULLPAGENAME}}|diff=0&autotrigger_element={{urlencode:.mw-rollback-link a}}}} 最後]</span>
 * {{DeleteLink|comment={{#invoke:Template:Delete|input|parent=|deletelink=}}}}
 </div>
-<!--
+<!-​​-
 
-提示 --><div class="mw-customcollapsible-delete" style="float: right;"><span style="padding: 1px 3px; color: red;" title="單擊可查看本模板的簡化字母參數">{{#if:{{{1|}}}|管理员注意|出错提示}}!</span></div>
+提示--><div class="mw-customcollapsible-delete" style="float: right;"><span style="padding: 1px 3px; color: red;" title="單擊可查看本模板的簡化字母參數">{{#if:{{{1|}}}|管理員注意|出錯提示}}!</span></div>
 <div id="mw-customcollapsible-delete" class="mw-collapsible mw-collapsed plainlinks">
 <div class="tright" style="float: right; overflow-x: hidden; overflow-y: auto; width: 265px; height:150px; border: 1px solid#99B3FF">
-{{#if:{{{1|}}}|请对照以下删除理由判断本页是否具备执行快速删除的理据：|标记者没有提供理由，请对照以下删除说明补上合适的参数：
-:<code><nowiki>{{Delete|'''快速删除理由'''}}</nowiki></code>
-快速删除的理由可以填寫左邊代碼，模板会自动显示相应的理由：}}
+{{#if:{{{1|}}}|請對照以下刪除理由判斷本頁是否具備執行快速刪除的理據：|標記者沒有提供理由，請對照以下刪除說明補上合適的參數：
+:<code><nowiki>{{Delete|'''快速刪除理由'''}}</nowiki></code>
+快速刪除的理由可以填寫左邊代碼，模板會自動顯示相應的理由：}}
 {{#invoke:Template:Delete|reasons}}</div></div>
-<!-- 提示结束
+<!-​​- 提示結束
 
 -->
-<strong>{{#if:{{{bot|}}}|[[User:{{{bot}}}|{{{bot}}}]]认为}}本页可能符合[[:zh:Wikipedia:快速刪除#準則|快速删除的標準]]而需删除，理由：
+<strong>{{#if:{{{bot|}}}|[[User:{{{bot}}}|{{{bot}}}]]認為}}本頁可能符合[[:zh: Wikipedia:快速刪除#準則|快速刪除的標準]]而需刪除，理由：
 {{IsFile|{{{1|{{PAGENAME}}}}}|2=
 *{{#invoke:Template:Delete|input|F7|{{{1|{{PAGENAME}}}}}}}
-*本文件已於[[Commons:|維基共享資源]]提供，链接為：[[Commons:File:{{{1|{{PAGENAME}}}}}|File:{{{1|{{PAGENAME}}}}}]]。<includeonly>{{{cat|{{{cate|{{{category|[[Category:与维基共享资源重复的档案|{{FULLPAGENAME}}]][[Category:快速删除候选|共{{PAGENAME}}]]}}}}}}}}}</includeonly>
+*本文件已於[[Commons:|維基共享資源]]提供，鏈接為：[[Commons:File:{{{1|{{PAGENAME}}}}}|File:{{{1|{{PAGENAME }}}}}]]。 <includeonly>{{{cat|{{{cate|{{{category|[[Category:與維基共享資源重複的檔案|{{FULLPAGENAME}}]][[Category:快速刪除候選|共{{PAGENAME} }]]}}}}}}}}}</includeonly>
 |3=
 <includeonly>{{#invoke:Template:Delete|input|parent=}}</includeonly>
 }}</strong>
 
-'''請勿移除本模板'''。如有異議，請在'''本模板下方加入{{tlc|hangon}}'''，並儘快{{edit|1={{TALKPAGENAME}}|2=到讨论页闡明理由|section=new|preloadtitle=删除争议|4=|5=}}。
+'''請勿移除本模板'''。如有異議，請在'''本模板下方加入{{tlc|hangon}}'''，並儘快{{edit|1={{TALKPAGENAME}}|2=到討論頁闡明理由|section=new| preloadtitle=刪除爭議|4=|5=}}。
 
 <small>{{IsFile|{{{1|{{PAGENAME}}}}}|2=
-*請[[Wikipedia:管理员|管理员]]注意将[[Special:Whatlinkshere/{{FULLPAGENAME}}|使用该图像的所有条目]]修改为维基共享资源上的图像，然后才能<span class="autotrigger">[{{fullurl:{{FULLPAGENAME}}|action=delete&autotrigger_element=%23mw-filedelete-submit&wpReason={{urlencode:{{#invoke:Template:Delete|input|F7|{{{1|{{PAGENAME}}}}}|deletelink=}}}}}} 删除]。</span>
-*|3=}}'''其他'''編者若認為本頁明顯不符合快速删除的标准，{{#switch:{{#invoke:Template:Delete|input|parent=|reasoncode=}}|G10|O1=|#default=或者您已修正存在的問題，}}可去除此模板。</small>
+*請[[Wikipedia:管理員|管理員]]注意將[[Special:Whatlinkshere/{{FULLPAGENAME}}|使用該圖像的所有條目]]修改為維基共享資源上的圖像，然後才能<span class= "autotrigger">[{{fullurl:{{​​FULLPAGENAME}}|action=delete&autotrigger_element=%23mw-filedelete-submit&wpReason={{urlencode:{{#invoke:Template:Delete|input|F7|{{{1|{{ PAGENAME}}}}}|deletelink=}}}}}} 刪除]。 </span>
+*|3=}}'''其他'''編者若認為本頁明顯不符合快速刪除的標準，{{#switch:{{#invoke:Template:Delete|input|parent=|reasoncode=}}| G10|O1=|#default=或者您已修正存在的問題，}}可去除此模板。 </small>
 <div id="speedy-delete" class="template-delete"></div>
 }}}}
 <noinclude>This template places the page in [[:Category:Candidates for speedy deletion]].
 <br />Do ''not'' edit this template to discuss why a particular article should or should not be deleted — for that, use the article's own discussion page.
 <includeonly>[[Category:Candidates for speedy deletion]]</includeonly>
 
-<!--Categories-->
+<!-​​-Categories-->
 {{DEFAULTSORT:Delete}}
 
 
 
-<!--Interwikis-->
+<!-​​-Interwikis-->
 [[eo:Ŝablono:Forigu]]
 </noinclude>
