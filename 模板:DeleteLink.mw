@@ -1,0 +1,1 @@
+{{#ifeq:{{{auto|}}}|no||<span class="autotrigger">}}[{{fullurl:{{#if:{{{page|}}}|{{{page}}}|{{FULLPAGENAME}}}}|action=delete{{#ifeq:{{{auto|}}}|no||&autotrigger_element={{urlencode:#wpConfirmB,#mw-filedelete-submit}}}}{{#if:{{{comment|}}}|&wpReason={{urlencode:{{{comment|}}}}}}}}} {{{text|{{int:delete}}}}}]{{#ifeq:{{{auto|}}}|no||</span>}}
