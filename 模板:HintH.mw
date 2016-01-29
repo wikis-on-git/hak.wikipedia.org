@@ -1,0 +1,3 @@
+<div class="NavFrame collapsed hover" style="float: {{{align|right}}}; position: relative; background-color: transparent; border: none; z-index: 1;{{{style|}}}">
+<div class="NavHead" style="width: 300px; background-color: transparent; font-weight: normal;line-height: 1em; padding: 0; {{{titleStyle|}}}">{{{1|{{{title|<noinclude>提示標題</noinclude>}}}}}}</div>
+<div class="NavContent" style="position: absolute; display: none; {{{align|right}}}: 0; border: 1px gray solid; background-color: lightyellow; padding: 0.3em; width: 300px; {{{hintStyle|}}}">
