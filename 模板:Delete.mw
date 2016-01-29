@@ -11,12 +11,12 @@
 </div>
 <!--
 
-提示 --><span style="padding: 1px 3px; color: red;" title="單擊可查看本模板的簡化字母參數">{{#if:{{{1|}}}|管理员注意|出错提示}}!</span>
+提示 -->{{Hinth|titleStyle=width:12em;|title=<span style="padding: 1px 3px; color: red;" title="單擊可查看本模板的簡化字母參數">{{#if:{{{1|}}}|管理员注意|出错提示}}!</span>}}
 {{#if:{{{1|}}}|请对照以下删除理由判断本页是否具备执行快速删除的理据：|标记者没有提供理由，请对照以下删除说明补上合适的参数：
 :<code><nowiki>{{Delete|'''快速删除理由'''}}</nowiki></code>
 快速删除的理由可以填寫左邊代碼，模板会自动显示相应的理由：}}
 {{#invoke:Template:Delete|reasons}}
-<!-- 提示结束
+{{Hintf}}<!-- 提示结束
 
 -->
 <strong>{{#if:{{{bot|}}}|[[User:{{{bot}}}|{{{bot}}}]]认为}}本页可能符合[[Wikipedia:快速刪除#準則|快速删除的標準]]而需删除，理由：
