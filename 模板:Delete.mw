@@ -5,8 +5,8 @@
 | text =
 <div style="text-align: right; font-size: smaller; float: right;">
 * [[Special:Whatlinkshere/{{FULLPAGENAME}}|鏈入]]
-* [{{fullurl:{{​​FULLPAGENAME}}|action=history}} 歷史]
-* <span class="autotrigger">[{{fullurl:{{​​FULLPAGENAME}}|diff=0&autotrigger_element={{urlencode:.mw-rollback-link a}}}} 最後]</span>
+* [{{fullurl:{{FULLPAGENAME}}|action=history}} 歷史]
+* <span class="autotrigger">[{{fullurl:{{FULLPAGENAME}}|diff=0&autotrigger_element={{urlencode:.mw-rollback-link a}}}} 最後]</span>
 * {{DeleteLink|comment={{#invoke:Template:Delete|input|parent=|deletelink=}}}}
 </div>
 <!-​​-
