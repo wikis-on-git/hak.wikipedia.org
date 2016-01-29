@@ -11,11 +11,13 @@
 </div>
 <!--
 
-提示 --><span style="padding: 1px 3px; color: red;" title="單擊可查看本模板的簡化字母參數">{{#if:{{{1|}}}|管理员注意|出错提示}}!</span>
+提示 --><div class="mw-customcollapsible-delete" style="float: right;"><span style="padding: 1px 3px; color: red;" title="單擊可查看本模板的簡化字母參數">{{#if:{{{1|}}}|管理员注意|出错提示}}!</span></div>
+<div id="mw-customcollapsible-delete" class="mw-collapsible mw-collapsed plainlinks">
+<div class="tright" style="float: right; overflow-x: hidden; overflow-y: auto; width: 265px; height:150px; border: 1px solid#99B3FF">
 {{#if:{{{1|}}}|请对照以下删除理由判断本页是否具备执行快速删除的理据：|标记者没有提供理由，请对照以下删除说明补上合适的参数：
 :<code><nowiki>{{Delete|'''快速删除理由'''}}</nowiki></code>
 快速删除的理由可以填寫左邊代碼，模板会自动显示相应的理由：}}
-{{#invoke:Template:Delete|reasons}}
+{{#invoke:Template:Delete|reasons}}</div></div>
 <!-- 提示结束
 
 -->
