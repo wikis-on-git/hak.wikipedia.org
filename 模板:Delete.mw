@@ -21,7 +21,7 @@
 <!-- 提示结束
 
 -->
-<strong>{{#if:{{{bot|}}}|[[User:{{{bot}}}|{{{bot}}}]]认为}}本页可能符合[[Wikipedia:快速刪除#準則|快速删除的標準]]而需删除，理由：
+<strong>{{#if:{{{bot|}}}|[[User:{{{bot}}}|{{{bot}}}]]认为}}本页可能符合[[:zh:Wikipedia:快速刪除#準則|快速删除的標準]]而需删除，理由：
 {{IsFile|{{{1|{{PAGENAME}}}}}|2=
 *{{#invoke:Template:Delete|input|F7|{{{1|{{PAGENAME}}}}}}}
 *本文件已於[[Commons:|維基共享資源]]提供，链接為：[[Commons:File:{{{1|{{PAGENAME}}}}}|File:{{{1|{{PAGENAME}}}}}]]。<includeonly>{{{cat|{{{cate|{{{category|[[Category:与维基共享资源重复的档案|{{FULLPAGENAME}}]][[Category:快速删除候选|共{{PAGENAME}}]]}}}}}}}}}</includeonly>
