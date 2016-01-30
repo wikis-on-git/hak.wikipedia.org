@@ -1,192 +1,155 @@
-<center>
-{|
-|----- align="center"
-|width="1.8%"|&nbsp;||width="5.3%"|'''1'''||width="5.3%"|'''2'''||width="5.3%"|'''3'''
-|width="5.3%"|'''4'''
-|width="5.3%"|'''5'''||width="5.3%"|'''6'''
-|width="5.3%"|'''7'''||width="5.3%"|'''8'''
-|width="5.3%"|'''9'''||width="5.3%"|'''10'''
-|width="5.3%"|'''11'''||width="5.3%"|'''12'''
-|width="5.3%"|'''13'''||width="5.3%"|'''14'''
-|width="5.3%"|'''15'''||width="5.3%"|'''16'''
-|width="5.3%"|'''17'''||width="5.3%"|'''18'''
-|----- align="center"
-|colspan="20"|
-----
-|----- align="center"
-|
-|'''I''' A
-|colspan="16"|
-|'''0'''
-|----- align="center"
-|rowspan="2"|'''1'''
-|rowspan="2" bgcolor="#a0ffa0"|<span style="color:green">1</span><br />H<br />[[Khîn]]
-|colspan="16"|
-|rowspan="2" bgcolor="#c0ffff"|<span style="color:green">2</span><br />He<br />[[Hoi (氦)|Hoi]]
-|----- align="center" valign="bottom"
-|'''II''' A
-|colspan="10"|
-|'''III''' A
-|'''IV''' A
-|'''V''' A
-|'''VI''' A
-|'''VII''' A
-|----- align="center"
-|'''2'''
-|style="background-color:#ff6666"|3<br />Li<br />[[Lî]]
-|style="background-color:#ffdead"|4<br />Be<br />[[Phì]]
-|colspan="10"|
-|style="background-color:#cccc99"|5<br />B<br />[[Phìn]]
-|style="background-color:#a0ffa0"|6<br />C<br />[[Thàn]]
-|style="background-color:#a0ffa0"|<span style="color:green">7</span><br />N<br />[[Tham]]
-|style="background-color:#a0ffa0"|<span style="color:green">8</span><br />O<br />[[Yòng]]
-|style="background-color:#ffff99"|<span style="color:green">9</span><br />F<br />[[Fuk]]
-|style="background-color:#c0ffff"|<span style="color:green">10</span><br />Ne<br />[[Nái]]
-|----- align="center"
-|rowspan="2"|'''3'''
-|rowspan="2" bgcolor="#ff6666"|11<br />Na<br />[[Na̍p]]
-|rowspan="2" bgcolor="#ffdead"|12<br />Mg<br />[[Mî]]
-|colspan="10"|
-|rowspan="2" bgcolor="#cccccc"|13<br />Al<br />[[Lî (鋁)|Lî]]
-|rowspan="2" bgcolor="#cccc99"|14<br />Si<br />[[Si̍t‎]]
-|rowspan="2" bgcolor="#a0ffa0"|15<br />P<br />[[Lìn]]
-|rowspan="2" bgcolor="#a0ffa0"|16<br />S<br />[[Liù]]
-|rowspan="2" bgcolor="#ffff99"|<span style="color:green">17</span><br />Cl<br />[[Liu̍k‎]]
-|rowspan="2" bgcolor="#c0ffff"|<span style="color:green">18</span><br />Ar<br />[[Â]]
-|----- align="center" valign="bottom"
-|'''III''' B
-|'''IV''' B
-|'''V''' B
-|'''VI''' B
-|'''VII''' B
-|colspan="3"|'''VIII'''
-|'''I''' B
-|'''II''' B
-|----- align="center"
-|'''4'''
-|style="background-color:#ff6666"|19<br />K<br />[[Kap]]
-|style="background-color:#ffdead"|20<br />Ca<br />[[Koi]]
-|style="background-color:#ffc0c0"|21<br />Sc<br />[[khong (鈧)|khong]]
-|style="background-color:#ffc0c0"|22<br />Ti<br />[[Thai]]
-|style="background-color:#ffc0c0"|23<br />V<br />[[Fàm]]
-|style="background-color:#ffc0c0"|24<br />Cr<br />[[Kok]]
-|style="background-color:#ffc0c0"|25<br />Mn<br />[[Màng‎]]
-|style="background-color:#ffc0c0"|26<br />Fe<br />[[Thiet]]
-|style="background-color:#ffc0c0"|27<br />Co<br />[[Kû]]
-|style="background-color:#ffc0c0"|28<br />Ni<br />[[Ngiap (鎳)|Ngiap]]
-|style="background-color:#ffc0c0"|29<br />Cu<br />[[Thùng]]
-|style="background-color:#ffc0c0"|30<br />Zn<br />[[Sîn]]
-|style="background-color:#cccccc"|31<br />Ga<br />[[Kâ]]
-|style="background-color:#cccc99"|32<br />Ge<br />[[Châ]]
-|style="background-color:#cccc99"|33<br />As<br />[[Sṳ̂n]]
-|style="background-color:#a0ffa0"|34<br />Se<br />[[Sî]]
-|style="background-color:#ffff99"|<span style="color:blue">35</span><br />Br<br />[[Tshiù (溴)|Tshiù]]
-|style="background-color:#c0ffff"|<span style="color:green">36</span><br />Kr<br />[[Khiet]]
-|----- align="center"
-|'''5'''
-|style="background-color:#ff6666"|37<br />Rb<br />[[Lù]]
-|style="background-color:#ffdead"|38<br />Sr<br />[[Sṳ̂]]
-|style="background-color:#ffc0c0"|39<br />Y<br />[[Yet]]
-|style="background-color:#ffc0c0"|40<br />Zr<br />[[Ko]]
-|style="background-color:#ffc0c0"|41<br />Nb<br />[[Nì]]
-|style="background-color:#ffc0c0"|42<br />Mo<br />[[Muk]]
-|style="background-color:#ffc0c0"|43<br />Tc<br />[[Thap]]
-|style="background-color:#ffc0c0"|44<br />Ru<br />[[liáu (釕)|liáu]]
-|style="background-color:#ffc0c0"|45<br />Rh<br />[[Ló]]
-|style="background-color:#ffc0c0"|46<br />Pd<br />[[Pâ]]
-|style="background-color:#ffc0c0"|47<br />Ag<br />[[Ngiùn]]
-|style="background-color:#ffc0c0"|48<br />Cd<br />[[Kak]]
-|style="background-color:#cccccc"|49<br />In<br />[[Yîn]]
-|style="background-color:#cccccc"|50<br />Sn<br />[[Siak]]
-|style="background-color:#cccc99"|51<br />Sb<br />[[thi (銻)|thi]]
-|style="background-color:#cccc99"|52<br />Te<br />[[Ti]]
-|style="background-color:#ffff99"|53<br />I<br />[[Tièn]]
-|style="background-color:#c0ffff"|<span style="color:green">54</span><br />Xe<br />[[siên (氙)|siên]]
-|----- align="center"
-|'''6'''
-|style="background-color:#ff6666"|55<br />Cs<br />[[Set]]
-|style="background-color:#ffdead"|56<br />Ba<br />[[Pi]]
-|style="background-color:#ffbfff"|57-<br />71<br />[[Làn-hì Ngièn-su|鑭系]]
-|style="background-color:#ffc0c0"|72<br />Hf<br />[[Kap (鉿)‎|Kap]]
-|style="background-color:#ffc0c0"|73<br />Ta<br />[[Than (鉭)|Than]]
-|style="background-color:#ffc0c0"|74<br />W<br />[[Vû]]
-|style="background-color:#ffc0c0"|75<br />Re<br />[[Lòi]]
-|style="background-color:#ffc0c0"|76<br />Os<br />[[ngò (鋨)|ngò]]
-|style="background-color:#ffc0c0"|77<br />Ir<br />[[Yî]]
-|style="background-color:#ffc0c0"|78<br />Pt<br />[[Pha̍k (鉑)|Pha̍k]]
-|style="background-color:#ffc0c0"|79<br />Au<br />[[Kîm]]
-|style="background-color:#ffc0c0"|<span style="color:blue">80</span><br />Hg<br />[[Kúng]]
-|style="background-color:#cccccc"|81<br />Tl<br />[[Thò]]
-|style="background-color:#cccccc"|82<br />Pb<br />[[Yèn]]
-|style="background-color:#cccccc"|83<br />Bi<br />[[Pit]]
-|style="background-color:#cccc99"|84<br />Po<br />[[Pho (釙)|Pho]]
-|style="background-color:#ffff99"|85<br />At<br />[[Ngo (砈)|Ngo]]
-|style="background-color:#c0ffff"|<span style="color:green">86</span><br />Rn<br />[[Tûng]]
-|----- align="center"
-|'''7'''
-|style="background-color:#ff6666"|87<br />Fr<br />[[Fap]]
-|style="background-color:#ffdead"|88<br />Ra<br />[[Luì]]
-|style="background-color:#ff99cc"|89-<br />103<br />[[â-hì Ngièn-su (錒系元素)|錒系]]
-|style="background-color:#ffc0c0"|<span style="color:red">104</span><br />Rf<br />[[Lù (鑪)|Lù]]
-|style="background-color:#ffc0c0"|<span style="color:red">105</span><br />Db<br />[[Hàn (𨧀)|Hàn]]
-|style="background-color:#ffc0c0"|<span style="color:red">106</span><br />Sg<br />[[Hí (𨭎)|Hí]]
-|style="background-color:#ffc0c0"|<span style="color:red">107</span><br />Bh<br />[[Pô (𨨏)|Pô]]
-|style="background-color:#ffc0c0"|<span style="color:red">108</span><br />Hs<br />[[Het (𨭆)|Het]]
-|style="background-color:#ffc0c0"|<span style="color:red">109</span><br />Mt<br />[[Ma̍k (䥑)|Ma̍k]]
-|style="background-color:#ffc0c0"|<span style="color:red">110</span><br />Ds<br />[[Tha̍t]]
-|style="background-color:#ffc0c0"|<span style="color:red">111</span><br />Rg<br />[[Lùn]]
-|style="background-color:#ffc0c0"|<span style="color:red">112</span><br />Cn<br />[[Kô (鎶)|Kô]]
-|style="background-color:#cccccc"|<span style="color:red">113</span><br />[[Uut]]<br />&nbsp;
-|style="background-color:#cccccc"|<span style="color:red">114</span><br />[[Uuq]]<br />&nbsp;
-|style="background-color:#cccccc"|<span style="color:red">115</span><br />[[Uup]]<br />&nbsp;
-|style="background-color:#cccccc"|<span style="color:red">116</span><br />[[Uuh]]<br />&nbsp;
-|style="background-color:#fcfecc"|<span style="color:red">117</span><br />[[Uus]]<br />&nbsp;
-|style="background-color:#c0ffff"|<span style="color:red">118</span><br />[[Uuo]]<br />&nbsp;
-|----- align="center"
-|colspan="21"|
-|----- align="center"
-|colspan="3" align="right"|[[Làn-hì Ngièn-su]]
-|style="background-color:#ffbfff"|57<br />La<br />[[Làn]]'''*'''
-|style="background-color:#ffbfff"|58<br />Ce<br />[[Sṳ (鈰)|Sṳ]]
-|style="background-color:#ffbfff"|59<br />Pr<br />[[Phú]]
-|style="background-color:#ffbfff"|60<br />Nd<br />[[Ńg]]
-|style="background-color:#ffbfff"|<span style="color:red">61</span><br />Pm<br />[[Ki (鉕)|Ki]]
-|style="background-color:#ffbfff"|62<br />Sm<br />[[Sân]]
-|style="background-color:#ffbfff"|63<br />Eu<br />[[Yû (銪)|Yû]]
-|style="background-color:#ffbfff"|64<br />Gd<br />[[Nga̍t (釓)|Nga̍t]]
-|style="background-color:#ffbfff"|65<br />Tb<br />[[Thi̍t (鋱)|Thi̍t]]
-|style="background-color:#ffbfff"|66<br />Dy<br />[[Tit (鏑)|Tit]]
-|style="background-color:#ffbfff"|67<br />Ho<br />[[Fó]]
-|style="background-color:#ffbfff"|68<br />Er<br />[[Ngí (鉺)|Ngí]]
-|style="background-color:#ffbfff"|69<br />Tm<br />[[Tiû]]
-|style="background-color:#ffbfff"|70<br />Yb<br />[[Yi]]
-|style="background-color:#ffbfff"|71<br />Lu<br />[[Liu]]
-|----- align="center"
-|colspan="3" align="right"|[[â-hì Ngièn-su (錒系元素)|â-hì Ngièn-su]]
-|style="background-color:#ff99cc"|89<br />Ac<br />[[â (錒)|â]]'''**'''
-|style="background-color:#ff99cc"|90<br />Th<br />[[Thú]]
-|style="background-color:#ff99cc"|91<br />Pa<br />[[Phù]]
-|style="background-color:#ff99cc"|92<br />U<br />[[Yu]]
-|style="background-color:#ff99cc"|<span style="color:red">93</span><br />Np<br />[[Nai]]
-|style="background-color:#ff99cc"|<span style="color:red">94</span><br />Pu<br />[[Pu]]
-|style="background-color:#ff99cc"|<span style="color:red">95</span><br />Am<br />[[Mî (鋂)‎|Mî]]
-|style="background-color:#ff99cc"|<span style="color:red">96</span><br />Cm<br />[[Khiu̍k]]
-|style="background-color:#ff99cc"|<span style="color:red">97</span><br />Bk<br />[[Pet (鉳)|Pet]]
-|style="background-color:#ff99cc"|<span style="color:red">98</span><br />Cf<br />[[Khà (鉲)|Khà]]
-|style="background-color:#ff99cc"|<span style="color:red">99</span><br />Es<br />[[Oi]]
-|style="background-color:#ff99cc"|<span style="color:red">100</span><br />Fm<br />[[Fi]]
-|style="background-color:#ff99cc"|<span style="color:red">101</span><br />Md<br />[[Mùn]]
-|style="background-color:#ff99cc"|<span style="color:red">102</span><br />No<br />[[Na]]
-|style="background-color:#ff99cc"|<span style="color:red">103</span><br />Lr<br />[[Lò]]
-|}</center>
-{|align="center"
-|-----
-|style="background-color:#ff6666"|[[Kán Kîm-su̍k]]||bgcolor="#ffdead"|[[Kán-thú Kîm-su̍k]]
-|style="background-color:#ffbfff"|[[Làn-hì Ngièn-su]]
-|style="background-color:#ff99cc"|[[â-hì Ngièn-su (錒系元素)|â-hì Ngièn-su]]||bgcolor="#ffc0c0"|[[Ko-thu Kîm-su̍k]]
-|-----
-|style="background-color:#cccccc"|[[Tsú-tshu̍k Kîm-su̍k]]||bgcolor="#cccc99"|[[Lui Kîm-su̍k]]
-|style="background-color:#a0ffa0"|[[Fî Kîm-su̍k]]
-|style="background-color:#ffff99"|[[Lû-su]]||bgcolor="#c0ffff"|[[Thò-sin Hì-thí]]
+<br clear="all" />
+<div class="NavFrame" style="clear:both">
+<div class="NavHead">[[Ngièn-su Chû-khì-péu]]</div>
+<div class="NavContent">
+{| border=0 cellpadding=0 cellspacing=0 align=center style="width:100%"
+|-
+| width="3.125%" style="background-color:#a0ffa0"|[[Khîn|H]]
+| width="3.125%" colspan="30" |&nbsp;
+| width="3.125%" style="background-color:#c0ffff"|[[Hoi|He]]
+|-
+|style="background-color:#ff6666"|[[lî|Li]]
+|style="background-color:#ffdead"|[[phì|Be]]
+| colspan="24" |&nbsp;
+|style="background-color:#cccc99"|[[phìn|B]]
+|style="background-color:#a0ffa0"|[[than|C]]
+|style="background-color:#a0ffa0"|[[than|N]]
+|style="background-color:#a0ffa0"|[[yòng|O]]
+|style="background-color:#ffff99"|[[fuk|F]]
+|style="background-color:#c0ffff"|[[nái|Ne]]
+|-
+|style="background-color:#ff6666" |[[na̍p|Na]]
+|style="background-color:#ffdead"|[[mî|Mg]]
+| colspan="24" |&nbsp;
+|style="background-color:#cccccc"  |[[lî|Al]]
+|style="background-color:#cccc99"  |[[si̍t|Si]]
+|style="background-color:#a0ffa0" |[[lìn|P]]
+|style="background-color:#a0ffa0" |[[liù|S]]
+|style="background-color:#ffff99"     |[[liu̍k|Cl]]
+|style="background-color:#c0ffff"|[[â|Ar]]
+|-
+| style="background-color:#ff6666"|[[kap|K]]
+|style="background-color:#ffdead"|[[koi|Ca]]
+|colspan="14" |&nbsp;
+|style="background-color:#ffc0c0"|[[scandium|Sc]]
+|style="background-color:#ffc0c0"|[[Tai|Ti]]
+|style="background-color:#ffc0c0"|[[fàm|V]]
+|style="background-color:#ffc0c0"|[[kok|Cr]]
+|style="background-color:#ffc0c0"|[[màng|Mn]]
+|style="background-color:#ffc0c0"|[[thiet|Fe]]
+|style="background-color:#ffc0c0"|[[kû|Co]]
+|style="background-color:#ffc0c0"|[[鎳|Ni]]
+|style="background-color:#ffc0c0"|[[thùng|Cu]]
+|style="background-color:#ffc0c0"|[[sîn|Zn]]
+|style="background-color:#cccccc"|[[kâ|Ga]]
+|style="background-color:#cccc99"|[[châ|Ge]]
+|style="background-color:#cccc99"|[[sṳ̂n|As]]
+|style="background-color:#a0ffa0"|[[sî|Se]]
+|style="background-color:#ffff99"|[[tshiù|Br]]
+|style="background-color:#c0ffff"|[[khiet|Kr]]
+|-
+| style="background-color:#ff6666"|[[lù|Rb]]
+|style="background-color:#ffdead"|[[sṳ̂|Sr]]
+|colspan="14" |&nbsp;
+|style="background-color:#ffc0c0"|[[yet|Y]]
+|style="background-color:#ffc0c0"|[[ko|Zr]]
+|style="background-color:#ffc0c0"|[[Nì|Nb]]
+|style="background-color:#ffc0c0"|[[muk|Mo]]
+|style="background-color:#ffc0c0"|[[thap|Tc]]
+|style="background-color:#ffc0c0"|[[Ruthenium|Ru]]
+|style="background-color:#ffc0c0"|[[ló|Rh]]
+|style="background-color:#ffc0c0"|[[pâ|Pd]]
+|style="background-color:#ffc0c0"|[[ngiùn|Ag]]
+|style="background-color:#ffc0c0"|[[kak|Cd]]
+|style="background-color:#cccccc"|[[yîn|In]]
+|style="background-color:#cccccc"|[[siak|Sn]]
+|style="background-color:#cccc99"|[[銻|Sb]]
+|style="background-color:#cccc99"|[[ti|Te]]
+|style="background-color:#ffff99"|[[tièn|I]]
+|style="background-color:#c0ffff"|[[氙|Xe]]
+|-
+| width="3.125%" style="background-color:#ff6666"|[[set|Cs]]
+| width="3.125%" style="background-color:#ffdead"|[[pi|Ba]]
+| width="3.125%" style="background-color:#ffbfff"|[[làn|La]]
+| width="3.125%" style="background-color:#ffbfff"|[[鈰|Ce]]
+| width="3.125%" style="background-color:#ffbfff"|[[phú|Pr]]
+| width="3.125%" style="background-color:#ffbfff"|[[Ńg|Nd]]
+| width="3.125%" style="background-color:#ffbfff"|[[鉕|Pm]]
+| width="3.125%" style="background-color:#ffbfff"|[[Sân|Sm]]
+| width="3.125%" style="background-color:#ffbfff"|[[銪|Eu]]
+| width="3.125%" style="background-color:#ffbfff"|[[釓|Gd]]
+| width="3.125%" style="background-color:#ffbfff"|[[鋱|Tb]]
+| width="3.125%" style="background-color:#ffbfff"|[[tit|Dy]]
+| width="3.125%" style="background-color:#ffbfff"|[[fó|Ho]]
+| width="3.125%" style="background-color:#ffbfff"|[[ngí|Er]]
+| width="3.125%" style="background-color:#ffbfff"|[[Tiû|Tm]]
+| width="3.125%" style="background-color:#ffbfff"|[[Yi|Yb]]
+| width="3.125%" style="background-color:#ffbfff"|[[Liu|Lu]]
+| width="3.125%" style="background-color:#ffc0c0"|[[Hap|Hf]]
+| width="3.125%" style="background-color:#ffc0c0"|[[Than|Ta]]
+| width="3.125%" style="background-color:#ffc0c0"|[[vû|W]]
+| width="3.125%" style="background-color:#ffc0c0"|[[lòi|Re]]
+| width="3.125%" style="background-color:#ffc0c0"|[[鋨|Os]]
+| width="3.125%" style="background-color:#ffc0c0"|[[yî|Ir]]
+| width="3.125%" style="background-color:#ffc0c0"|[[pha̍k|Pt]]
+| width="3.125%" style="background-color:#ffc0c0"|[[kîm|Au]]
+| width="3.125%" style="background-color:#ffc0c0"|[[kúng|Hg]]
+| width="3.125%" style="background-color:#cccccc"|[[thò|Tl]]
+| width="3.125%" style="background-color:#cccccc"|[[yèn|Pb]]
+| width="3.125%" style="background-color:#cccccc"|[[pit|Bi]]
+| width="3.125%" style="background-color:#cccc99"|[[Pho|Po]]
+| width="3.125%" style="background-color:#ffff99"|[[ngo|At]]
+| width="3.125%" style="background-color:#c0ffff"|[[tûng|Rn]]
+|-
+|style="background-color:#ff6666" |[[Fap|Fr]]
+|style="background-color:#ffdead"|[[luì|Ra]]
+|style="background-color:#ff99cc"|[[錒|Ac]]
+|style="background-color:#ff99cc"|[[thú|Th]]
+|style="background-color:#ff99cc"|[[Phù|Pa]]
+|style="background-color:#ff99cc"|[[yu|U]]
+|style="background-color:#ff99cc"|[[Nai|Np]]
+|style="background-color:#ff99cc"|[[Pu|Pu]]
+|style="background-color:#ff99cc"|[[mî|Am]]
+|style="background-color:#ff99cc"|[[khiu̍k|Cm]]
+|style="background-color:#ff99cc"|[[錇|Bk]]
+|style="background-color:#ff99cc"|[[鐦|Cf]]
+|style="background-color:#ff99cc"|[[oi|Es]]
+|style="background-color:#ff99cc"|[[Fi|Fm]]
+|style="background-color:#ff99cc"|[[Mùn|Md]]
+|style="background-color:#ff99cc"|[[Na|No]]
+|style="background-color:#ff99cc"|[[Lò|Lr]]
+|style="background-color:#ffc0c0"|[[lù|Rf]]
+|style="background-color:#ffc0c0"|[[Dubnium|Db]]
+|style="background-color:#ffc0c0"|[[Seaborgium|Sg]]
+|style="background-color:#ffc0c0"|[[Bohrium|Bh]]
+|style="background-color:#ffc0c0"|[[Hassium|Hs]]
+|style="background-color:#f0f0f0"|[[Meitnerium|Mt]]
+|style="background-color:#f0f0f0"|[[tha̍t|Ds]]
+|style="background-color:#f0f0f0"|[[lùn|Rg]]
+|style="background-color:#ffc0c0"|[[Copernicium|Cn]]
+|style="background-color:#f0f0f0"|[[Ununtrium|Uut]]
+|style="background-color:#f0f0f0"|[[Flerovium|Fl]]
+|style="background-color:#f0f0f0"|[[Ununpentium|Uup]]
+|style="background-color:#f0f0f0"|[[Livermorium|Lv]]
+|style="background-color:#f0f0f0"|[[Ununseptium|Uus]]
+|style="background-color:#f0f0f0"|[[Ununoctium|Uuo]]
+|-
+| &nbsp;
+|-
+| colspan="32" |
+{| border="1" align="center" style="border:1px solid #ffffff; border-collapse:collapse; font-size: smaller; width:100%" rules="all" cellpadding="1"
+| style="background-color:#ff6666" width="9%" |[[Kán Kîm-su̍k]]
+| style="background-color:#ffdead" width="9%" |[[Kán-thú Kîm-su̍k]]
+| style="background-color:#ffbfff" width="9%" |[[Làn-hì Ngièn-su]]
+| style="background-color:#ff99cc" width="9%" |[[錒系元素]]
+| style="background-color:#ffc0c0" width="9%" |[[Ko-thu Kîm-su̍k]]
+| style="background-color:#cccccc" width="9%" |Khì-thâ [[Kîm-su̍k]]
+| style="background-color:#cccc99" width="9%" |[[Lui Kîm-su̍k]]
+| style="background-color:#a0ffa0" width="9%" |Khì-thâ [[Fî Kîm-su̍k]]
+| style="background-color:#ffff99" width="9%" |[[Lû-su]]
+| style="background-color:#c0ffff" width="9%" |[[Thò-sin Hì-thí]]
+| style="background-color:#f0f0f0" width="9%" |vi thin
 |}
-</center>
+|- bgcolor="#ccccff"
+|}</div></div><noinclude>
+</noinclude>
