@@ -69,4 +69,5 @@
  --></table><!--
  -->{{#ifeq:{{{frame|}}}|yes|<div style="border: {{{border|solid 1px #a3b1bf}}}; padding: .5em 1em 1em 1em; border-top: none; background-color: {{{frame color|{{{on tab color|transparent}}}}}}; color: black; zoom: 1"><!--
    --><div style="padding: 1ex">}}<!--
---></includeonly>
+--></includeonly><!--
+-->
