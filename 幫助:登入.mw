@@ -24,7 +24,4 @@
 
 ==仰般登出==
 當汝登入後，汝做得在任何時候點擊頁面右上角嘅<span title="{{int:tooltip-pt-logout}}"><span class="plainlinks">[{{fullurl:{{#special:Userlogout}}|returnto={{FULLPAGENAME}}}} {{int:userlogout}}]</span></span>鏈接直接登出，邇時汝就恢複IP用戶身份矣。
-
-{{H:f Help}}
-
 [[Category:幫助文檔|DL]]
