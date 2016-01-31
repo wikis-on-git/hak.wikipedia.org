@@ -1,14 +1,54 @@
-<div class="notitle" />
-{{Chhṳ-thung Chón-von Sṳ-ngiam}}
+{{Thèu-Ya̍p_Khì-chì}}
 
-{{Main Page navigation}}
+<!-- Fûn-lui-->
+<div class="jcarousel-wrapper">
+<div class="jcarousel">
+    <div class="jcarousel-list">
+        <div class="jcarousel-item">
+{| width="100%" cellpadding="2" cellspacing="3" style="vertical-align: top; background-color:#ffffff; -moz-border-radius:10px;"
+|-
+! style="background-color: #FFFDD0; font-family: 'Linux Libertine',Georgia,Times,serif; font-size: 1.5em; border: 1px solid #FBEC5D; text-align: left;  padding-left: 7px;  border-radius: 10px; -moz-border-radius:10px; font-variant:small-caps;"  | <div style="float:right;">[[Image:wbar_yellow.jpg|link=]]</div><div style="float:center;">[[Image:Disambigua compass.svg|20px|link=]] Fûn-lui</div>
+|-
+| style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 105%" |{{Fûn-lui}}
+|}
+        </div>
+        <div class="jcarousel-item">
+{| width="100%" cellpadding="2" cellspacing="3" style="vertical-align: top; background-color:#ffffff; -moz-border-radius:10px;"
+|-
+! style="background-color: #FFFDD0; font-family: DFKai-SB,KaiTi,SimKai-GB2312; font-size: 1.5em; border: 1px solid #FBEC5D; text-align: left;  padding-left: 7px;  border-radius: 10px; -moz-border-radius:10px; font-vatiant:small-caps;"  | <div style="float:right;">[[Image:wbar_yellow.jpg|link=]]</div><div style="float:center;">[[Image:Disambigua compass.svg|20px|link=]] 分類</div>
+|-
+| style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 105%" |{{分類}}
+|}
+        </div>
+    </div>
+</div>
+<span class="jcarousel-control-prev">[[#|&lsaquo;]]</span>
+<span class="jcarousel-control-next">[[#|&rsaquo;]]</span>
+<br/><br/>
+<p class="jcarousel-pagination"></p>
+</div>
 
-{{Thèu-Ya̍p Khì-chì}}
-{{Thèu-Ya̍p Thi̍t-set Thiàu-muk}}
 
+<div class="jcarousel-wrapper">
+<div class="jcarousel">
+    <div class="jcarousel-list">
+        <div class="jcarousel-item">
 {{Khì-thâ Ngî-ngièn ke Wikipedia}}
-
 {{Chí-moi Kie-va̍k}}
+        </div>
+        <div class="jcarousel-item">
+{{其他語言}}
+{{姊妹計劃}}
+        </div>
+    </div>
+</div>
+<span class="jcarousel-control-prev">[[#|&lsaquo;]]</span>
+<span class="jcarousel-control-next">[[#|&rsaquo;]]</span>
+<br/><br/>
+<p class="jcarousel-pagination"></p>
+</div>
+
+
 
 {{Thèu-Ya̍p Chhâm-siòng}}
 
