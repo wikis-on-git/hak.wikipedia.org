@@ -1,6 +1,3 @@
-<noinclude>{{pp-semi-indef}}{{pp-move|small=yes}}</noinclude>
 <br /><div style="text-align: center; width: 60%; margin: auto; padding: 1em; border: solid 2px gold; letter-spacing: 14px; background-color: royalblue; color: white; font-weight: bold;">{{{title|Thui-hiû }}}</div><br />
 
-<div style="text-align: center; font-weight: bold;">{{{text|Liá-ke yung-fu yí-kîn Thui-hiû {{#if:{{{date|}}}|&nbsp;as of {{{date}}}|}}.}}}'''</div><noinclude>
-{{template doc}}  
-</noinclude>
+<div style="text-align: center; font-weight: bold;">{{{text|Liá-ke yung-fu yí-kîn Thui-hiû {{#if:{{{date|}}}|&nbsp;as of {{{date}}}|}}.}}}'''</div>
