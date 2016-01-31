@@ -8,8 +8,8 @@
 | border              = 2px solid #107020
 | font-size           = 95%
 | tab spacing percent = 0.2
-| link-1              = {{#ifeq{{{1}}}|0|{{{2}}}|#}}
+| link-1              = {{#ifeq{{{1}}}|0|{{{2}}}|#default=#}}
 | tab-1               = Lò-mâ-sṳ / 羅馬字
-| link-2              = {{#ifeq:{{{1}}}|1|{{{2}}}|#}}
+| link-2              = {{#ifeq:{{{1}}}|1|{{{2}}}|#default=#}}
 | tab-2               = Hon-sṳ / 漢字
 }}
