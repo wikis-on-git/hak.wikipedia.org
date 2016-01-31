@@ -1,16 +1,1 @@
-{|
-| width="1%" style="padding:0.00001em; border:0.00001px solid #107020; vertical-align:top;" |
-{{ start tab
-| frame               = yes
-| off tab color       = #ffff00
-| on tab color        = none
-| nowrap              = yes
-| border              = 2px solid #107020
-| font-size           = 95%
-| tab spacing percent = 0.2
-| link-1              = {{#ifeq:{{{1}}}|0|{{{2}}}|#羅馬字}}
-| tab-1               = Lò-mâ-sṳ / 羅馬字
-| link-2              = {{#ifeq:{{{1}}}|1|{{{2}}}|#漢字}}
-| tab-2               = Hon-sṳ / 漢字
-}}
-{{#ifeq:{{{1}}}|0|<p id="羅馬字"/>|}}{{#ifeq:{{{1}}}|1|<p id="漢字"/>|}}
+<center><font size="1px">{{#ifeq:{{{1}}}|0|<abbr title="這邊 {{FULLPAGENAME}} 係白話字，有漢字連結 {{{2}}} 在這項點出。">Liá-piên {{FULLPAGENAME}} he pha̍k-fa-sṳ, yû hon-sṳ lièn-kiet chhai "{{{2}}}" [[{{{2}}}|liá-hong tiám-chhut]].</abbr> |}}{{#ifeq:{{{1}}}|1|<abbr title="Liá-piên {{FULLPAGENAME}} he hon-sṳ, yû pha̍k-fa-sṳ lièn-kiet chhai  {{{2}}} liá-hong tiám-chhut.">這邊{{FULLPAGENAME}}係漢字，有白話字連結"{{{2}}}"[[{{{2}}}|在這項點出]]。</abbr>|}}</font></center>
