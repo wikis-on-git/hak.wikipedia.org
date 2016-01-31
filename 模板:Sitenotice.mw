@@ -1,3 +1,20 @@
+<div class="jcarousel-wrapper">
+<div class="jcarousel">
+    <div class="jcarousel-list">
+        <div class="jcarousel-item">
 Fôn-ngiàng kông-lìm Hak-kâ vì-kî-pak-khô., [[Wikipedia]] ke [[Hak-kâ-ngî]] pán-pún!
 
 Thai-kâ tû cho-tet phiên-siá liá-chúng ngî-ngièn ke chhṳ-yù [[Pak-khô-chhiòn-sû]]. Yû mun-thì hàn-he kien-ngi? Lòi-hi [http://hakka.fhl.net/dict/index_hakka.html Hak-ngî Sṳ-tién] lâu [http://hakka.fhl.net/dict/index_enhakka.html Hak-Yîn Sṳ-tién] chhâm-kháu! Hak-kâ vì-kî-pak-khô kîm-ha yû [[Special:Statistics|{{NUMBEROFARTICLES}}]] vùn-chông.
+        </div>
+        <div class="jcarousel-item">
+歡迎光臨客語維基百科，[[維基百科]]个[[客家語]]版本！
+
+大家都做得編寫邇種語言个自由[[Pak-khô-chhiòn-sû |百科全書]]。有問題還係建議？來去[http://sii-tien.lomaji.com/ 客語字典]撈[http://hakka.fhl.net/dict/index_enhakka.html 客英字典]參考！客語維基百科今下有[[Special:Statistics|{{NUMBEROFARTICLES}}]]文章。
+        </div>
+    </div>
+</div>
+<span class="jcarousel-control-prev">[[#|&lsaquo;]]</span>
+<span class="jcarousel-control-next">[[#|&rsaquo;]]</span>
+<br/><br/>
+<p class="jcarousel-pagination"></p>
+</div>
