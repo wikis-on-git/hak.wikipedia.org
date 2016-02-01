@@ -1785,3 +1785,48 @@ If you have questions, please reach out to me on my talk page or on the strategy
 
 I hope you'll join us! [[:m:User:Mdennis (WMF)|Maggie Dennis]] via [[用戶:MediaWiki message delivery|MediaWiki message delivery]] ([[用戶討論:MediaWiki message delivery|對話]]) 19:06, 18 一月 2016 (UTC)
 <!-- 訊息由 User:Mdennis (WMF)@metawiki 傳送，使用清單於 https://meta.wikimedia.org/w/index.php?title=User:PEarley_(WMF)/Mass_Message_-_large&oldid=15253743 -->
+== The visual editor is now active here ==
+{| class="wikitable" style="width: 30%;" align="right"
+|-
+! scope="col" | '''Please translate to Hakka''' ([[:mw:VisualEditor/TranslationCentral|how-to]]; data: January 2016)
+! scope="col"| Completion
+! scope="col"| Outdated
+|-
+|[https://translatewiki.net/w/i.php?title=Special:Translate&group=ext-visualeditor-0-all&language=hak Interface messages*]
+|0% [[File:25 percents.svg|alt=Way to go to complete translations!]]
+|0% [[File:100 percents.svg|alt=25 to 0% remaining]]
+|-
+|[https://www.mediawiki.org/w/index.php?title=Special:Translate&group=page-Help%3AVisualEditor%2FUser+guide&language=hak&filter=%21translated&action=translate User Guide]
+|0% [[File:25 percents.svg|alt=Way to go to complete translations!]]
+|0% [[File:100 percents.svg|alt=25 to 0% remaining]]
+|-
+|[https://www.mediawiki.org/w/index.php?title=Special:Translate&group=page-Help%3AVisualEditor%2FFAQ&language=hak&action=page&filter= FAQ]
+|0% [[File:25 percents.svg|alt=Way to go to complete translations!]]
+|0% [[File:100 percents.svg|alt=25 to 0% remaining]]
+|-
+|[https://www.mediawiki.org/w/index.php?title=Special:Translate&group=page-VisualEditor%2FPortal&language=hak&action=page&filter= Portal]
+|0% [[File:25 percents.svg|alt=Way to go to complete translations!]]
+|0% [[File:100 percents.svg|alt=25 to 0% remaining]]
+|-
+|[https://www.mediawiki.org/w/index.php?title=Special:Translate&group=page-VisualEditor%2FPortal%2FTemplateData&language=hak&action=page&filter= TemplateData information]
+|0% [[File:25 percents.svg|alt=Way to go to complete translations!]]
+|0% [[File:100 percents.svg|alt=25 to 0% remaining]]
+|-
+|[https://www.mediawiki.org/w/index.php?title=Special:Translate&group=page-Help%3ATemplateData&language=hak&action=page&filter= TemplateData help]
+|0% [[File:25 percents.svg|alt=Way to go to complete translations!]]
+|0% [[File:100 percents.svg|alt=25 to 0% remaining]]
+|-
+|colspan="3;"|<small>* The interface is hosted at https://translatewiki.net; you'll need an account if you never translated there before. The other pages are at Mediawiki.org, for which you can use your regular Wikipedia account.</small>
+|-
+|}
+Hello again (and again, apologies for using English on this page. {{Int:Please-translate}}.  {{Int:Feedback-thanks-title}})
+
+As some of you have noticed, '''this Wikipedia now has [[:mw:VisualEditor/Portal|the visual editor]] ({{int:visualeditor}}) enabled for all users'''.  (We planned to do this on 25 January 2016.  However, last week, there was an unusual problem with an upgrade to MediaWiki. Thanks for your understanding.) There are now two tabs for editing: "{{int:vector-view-edit}}" and "{{int:visualeditor-ca-editsource}}". Click "{{int:vector-view-edit}}" to use the visual editor. Click "{{int:visualeditor-ca-editsource}}" to edit using wikitext markup.  
+
+All edits using the visual editor will be tagged with "{{Int:tag-visualeditor}}" in recent changes, watchlists, and page histories.  To access the [[:mw:Help:VisualEditor/User guide|User Guide for the  visual editor]], click on the "(?)" icon in its toolbar.  If you wish to disable this new system, this can be done under [[Special:Preferences#mw-prefsection-editing|"Editing" in your preferences]].  
+
+Please let us know if you find any problems.  You can report issues in [[phab:|Phabricator, the new bug tracking system]] or on the [[:mw:Topic:St8y4ni42d0vr9cv|central feedback page]] on MediaWiki.org. 
+
+<mark>If you can translate from English into this wiki's language, or know anyone who can, please follow the links on the "translation table" and help your community get the best possible experience when it comes to interface messages and documentation related to the visual editor.</mark> [[:mw:User talk:Elitre (WMF)|Please contact me directly]] whenever you need help!
+
+Happy editing, [[:mw:User:Elitre (WMF)|Elitre (WMF)]] [[:mw:User talk:Elitre (WMF)|(talk)]] 17:21, 1 二月 2016 (UTC)
