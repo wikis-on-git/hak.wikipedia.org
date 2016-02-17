@@ -9,7 +9,3 @@
 *<abbr title="機器人">Kî-hi-ngìn</abbr>: '''{{NUMINGROUP:bot}}''' pu
 ----
 *維護工作：{{#ifexpr:{{PAGESINCATEGORY:Candidates for speedy deletion}}=0|<font color="#00ff83">●</font>|{{#ifexpr:{{PAGESINCATEGORY:Candidates for speedy deletion}}>=5|<font color="#ff0000">●</font>|<font color="#ffff00">●</font>}}}}[[:分類:Candidates for speedy deletion|最快刪除候選]] ('''<font color="#0000ff">{{PAGESINCATEGORY:Candidates for speedy deletion}}'''</font>)
-
-<div style="position:fixed; bottom:0px; right:0px; z-index:999; width:120px; font-family: Verdana, sans-serif;border:1px solid #ccc; background: #fff; border-right:3px solid #ccc; border-bottom:3px solid #ccc; text-align: center; padding:3px; font-size: smaller; line-height: 1.3; margin-right: 4px;">
-[[#top|<span style="color: #f0a000; font-size: 200%;">'''到最頂高'''</span>]]
-</div>
