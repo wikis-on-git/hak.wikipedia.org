@@ -154,8 +154,8 @@
 |list29style = {{{list29style|}}}
 |list30style = {{{list30style|}}}
 
-|{{#if:{{{evenodd|}}}|evenodd|void}} = {{{evenodd|}}}
-|{{#if:{{{listpadding|}}}|listpadding|void}} = {{{listpadding|}}}
+|{{#if:{{{evenodd|}}}|evenodd|void1}} = {{{evenodd|}}}
+|{{#if:{{{listpadding|}}}|listpadding|void2}} = {{{listpadding|}}}
 
 }}<noinclude>
 {{documentation}}
