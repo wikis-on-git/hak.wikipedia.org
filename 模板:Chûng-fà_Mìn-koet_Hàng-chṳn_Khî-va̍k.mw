@@ -10,15 +10,15 @@
 |list2  = {{Navbox subgroups
  |groupstyle = background:transparent;
  |liststyle  = padding:0.25em 0; line-height:1.4em;
- |group1 = [[Sén-hot-sṳ]]
- |list1 =  [[Kâ-ngi-sṳ]]{{·w}} [[Kî-lùng-sṳ]]{{·w}} [[Sîn-tsuk-sṳ]]
- |group2 = [[Yen]]
- |list2  =[[Chông-fa-yen]]{{·w}}[[Fâ-lièn-yen]]{{·w}}[[Kâ-ngi-yen]]{{·w}}[[Mèu-li̍t-yen]]{{·w}} [[Nàm-thèu-yen]]{{·w}}[[Ngì-làn-yen]]{{·w}}<br> [[Phàng-fù-yen]]{{·w}} [[Phìn-tûng-yen]]{{·w}}[[Sîn-tsuk-yen]]{{·w}}[[Thòi-tûng-yen]]{{·w}}[[Yùn-lìm-yen]] 
-}}
-|group3 =[[Fuk-kien-sén]]
-|list3  = {{Navbox subgroups
+ |group3 = [[Sén-hot-sṳ]]
+ |list3 =  [[Kâ-ngi-sṳ]]{{·w}} [[Kî-lùng-sṳ]]{{·w}} [[Sîn-tsuk-sṳ]]
  |group4 = [[Yen]]
- |list1  = [[Kîm-mùn-yen]]{{·w}} [[Lièn-kông-yen]]
+ |list4  =[[Chông-fa-yen]]{{·w}}[[Fâ-lièn-yen]]{{·w}}[[Kâ-ngi-yen]]{{·w}}[[Mèu-li̍t-yen]]{{·w}} [[Nàm-thèu-yen]]{{·w}}[[Ngì-làn-yen]]{{·w}}<br> [[Phàng-fù-yen]]{{·w}} [[Phìn-tûng-yen]]{{·w}}[[Sîn-tsuk-yen]]{{·w}}[[Thòi-tûng-yen]]{{·w}}[[Yùn-lìm-yen]] 
+}}
+|group5 =[[Fuk-kien-sén]]
+|list5  = {{Navbox subgroups
+ |group6 = [[Yen]]
+ |list6  = [[Kîm-mùn-yen]]{{·w}} [[Lièn-kông-yen]]
  }}
 }}<noinclude>
 
