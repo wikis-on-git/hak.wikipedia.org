@@ -2,25 +2,35 @@
 |name  = Administrative divisions of the Republic of China
 |title = [[Chûng-fà Mìn-koet]] [[‎Thòi-vân hàng-tsṳn khî-va̍k|hàng-chṳn Khî-va̍k]] ([[Thòi-vân|Thòi-vân Thi-khî]])
 |image = [[File:Flag_of_the_Republic_of_China.svg|100px]]
-|groupstyle = padding:0.35em 1.0em; line-height:1.1em; <!--reduces gap between wrapped groupname lines-->
-|liststyle  = padding:0.25em 0; line-height:1.4em; <!--otherwise lists can appear to form continuous whole-->
+|state = {{{state<includeonly>|collapsed</includeonly>}}}
+
+|groupstyle = background: #ececec;
 |group1 = [[Chhṳ̍t-hot-sṳ]]
-|list1  =   [[Kô-hiùng-sṳ]]{{·w}}[[Sîn-pet-sṳ]]{{·w}}[[Thòi-chûng-sṳ]]{{·w}}[[Thòi-nàm-sṳ]]{{·w}}[[Thòi-pet-sṳ]]{{·w}}[[Thò-yèn-yen|Thò-yèn-su]]
-|group2 =[[Thòi-vân|Thòi-vân-sén]]
-|list2  = {{Navbox subgroups
- |groupstyle = background:transparent;
- |liststyle  = padding:0.25em 0; line-height:1.4em;
- |group3 = [[Sén-hot-sṳ]]
- |list3 =  [[Kâ-ngi-sṳ]]{{·w}} [[Kî-lùng-sṳ]]{{·w}} [[Sîn-tsuk-sṳ]]
- |group4 = [[Yen]]
- |list4  =[[Chông-fa-yen]]{{·w}}[[Fâ-lièn-yen]]{{·w}}[[Kâ-ngi-yen]]{{·w}}[[Mèu-li̍t-yen]]{{·w}} [[Nàm-thèu-yen]]{{·w}}[[Ngì-làn-yen]]{{·w}}<br> [[Phàng-fù-yen]]{{·w}} [[Phìn-tûng-yen]]{{·w}}[[Sîn-tsuk-yen]]{{·w}}[[Thòi-tûng-yen]]{{·w}}[[Yùn-lìm-yen]] 
-}}
-|group5 =[[Fuk-kien-sén]]
-|list5  = {{Navbox subgroups
- |group6 = [[Yen]]
- |list6  = [[Kîm-mùn-yen]]{{·w}} [[Lièn-kông-yen]]
+|list1style = background: #e6e6ff;
+|list1 =  [[Kô-hiùng-sṳ]]{{·w}}[[Sîn-pet-sṳ]]{{·w}}[[Thòi-chûng-sṳ]]{{·w}}[[Thòi-nàm-sṳ]]{{·w}}[[Thòi-pet-sṳ]]{{·w}}[[Thò-yèn-yen|Thò-yèn-su]]
+
+|group2 = [[Sén]]
+|list2 =
+  {{Navbox|child
+   |group1 = [[Thòi-vân|Thòi-vân-sén]]
+    |list1 = 
+ {{Navbox|child
+  |groupstyle = background: #ececec;
+  |group1 = [[Yen]]
+  |list1 = [[Chông-fa-yen]]{{·w}}[[Fâ-lièn-yen]]{{·w}}[[Kâ-ngi-yen]]{{·w}}[[Mèu-li̍t-yen]]{{·w}} [[Nàm-thèu-yen]]{{·w}}[[Ngì-làn-yen]]{{·w}}<br> [[Phàng-fù-yen]]{{·w}} [[Phìn-tûng-yen]]{{·w}}[[Sîn-tsuk-yen]]{{·w}}[[Thòi-tûng-yen]]{{·w}}[[Yùn-lìm-yen]]
+  |group2 = Sṳ
+  |list2 = [[Kâ-ngi-sṳ]]{{·w}} [[Kî-lùng-sṳ]]{{·w}} [[Sîn-tsuk-sṳ]]
  }}
-}}<noinclude>
+  |group2 = [[Fuk-kien-sén]]
+  |list2 =
+ {{Navbox|child
+  |groupstyle = background: #ececec;
+  |group1 = [[Yen]]
+  |list1 = [[Kîm-mùn-yen]]{{·w}} [[Lièn-kông-yen]]
+ }}
+}}
+}}
+<noinclude>
 
 [[Category:Republic of China (Taiwan) subdivision templates| ]]
 </noinclude>
