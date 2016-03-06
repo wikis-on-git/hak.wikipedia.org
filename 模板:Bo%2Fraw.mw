@@ -1,16 +1,1 @@
-<span lang="{{{lang|bo}}}" xml:lang="{{{lang|bo}}}" style="font-family:'DDC Uchen', 'Kailash', 'Jomolhari', 'Tibetan Machine Uni'; font-size:130%;">{{{1}}}</span><noinclude>{{Documentation|content=
-==用途==
-本模板可以适当字体及大小正常显示藏文，并且仅显示文本，无需任何语言标记。本模板可用于藏文在段落中显示，并且无需链接输出名称及拉丁字母转写时。
-
-;示例:
-*<code><nowiki>{{藏|དྲི་མེད་བཤེས་གཉེན་}}</nowiki></code> 生成 {{藏|དྲི་མེད་བཤེས་གཉེན་}}。
-
-== 重定向 ==
-{{tl|Bo-textonly}}模板重定向至此。
-
-==参见==
-*[[:Template:Bo]]
-[[Category:语言模板]]
-
-
-}}</noinclude>
+{{Bo-textonly|lang=bo|{{{1}}}}}
