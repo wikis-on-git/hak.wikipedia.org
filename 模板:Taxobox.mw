@@ -2,7 +2,7 @@
 {| class="infobox biota" style="text-align:center; padding:2.5px; width:200px; background: {{#switch:{{{color|
 {{{colour|{{Taxobox colour|{{{regnum|{{{domain|{{{virus_group|{{{unranked_phylum|{{{phylum}}}}}}}}}}}}}}}}}}}}}}}|pink=FFF4F7|lightgreen=EEFDEE|lightblue=F7FCFD|khaki=FEFDF5|violet=FDF2FD|FFC0CB=FFF4F7|90EE90=EEFDEE|ADD8E6=F7FCFD|F0E68C=FEFDF5|EE82EE=FDF2FD|#default=F9F9F9}}; border: 1px solid {{{color|{{{colour|{{Taxobox colour|{{{regnum|{{{domain|{{{virus_group|{{{unranked_phylum|{{{phylum}}}}}}}}}}}}}}}}}}}}}}}"
 |- style="text-align:center;"
-! Style="background:{{{color|{{{colour|{{Taxobox colour|{{{regnum|{{{domain|{{{virus_group|{{{unranked_phylum|{{{phylum}}}}}}}}}}}}}}}}}}}}}}};"|<div class="floatleft" style="width:16px; height:16px;">&nbsp;</div><span class="metadata">[[File:Torchlight_help_icon.svg|16px|right|link=Wikipedia:Yì-hò thu̍k sâng-vu̍t fûn-lui khiông |Yì-hò thu̍k sâng-vu̍t fûn-lui khiông]]</span>{{{name|{{Taxobox name|{{{genus}}}|{{{species}}}|{{{binomial}}}}}}}}{{#if: {{{fossil_range|}}}|<br /><small> fa sa̍k sṳ̀-khì: {{{fossil_range}}}</small>}}
+! Style="background:{{{color|{{{colour|{{Taxobox colour|{{{regnum|{{{domain|{{{virus_group|{{{unranked_phylum|{{{phylum}}}}}}}}}}}}}}}}}}}}}}};"|<div class="floatleft" style="width:16px; height:16px;">&nbsp;</div><span class="metadata">[[File:Torchlight_help_icon.svg|16px|right|link=Wikipedia:Ngióng-pân thu̍k sâng-vu̍t fûn-lui khiông |Ngióng-pân thu̍k sâng-vu̍t fûn-lui khiông]]</span>{{{name|{{Taxobox name|{{{genus}}}|{{{species}}}|{{{binomial}}}}}}}}{{#if: {{{fossil_range|}}}|<br /><small> fa sa̍k sṳ̀-khì: {{{fossil_range}}}</small>}}
 |- style="text-align:center;" 
 | {{#if:{{{image|}}}|[[File:{{{image}}}|{{#if:{{{image_width|}}}|{{{image_width}}}|frameless}}|{{{image_caption|}}}]]<br /><small><div style="text-align:center">{{{image_caption|}}}</div></small>}}
 {{#if:{{{image2|}}}|[[File:{{{image2}}}|{{#if:{{{image2_width|}}}|{{{image2_width}}}|frameless}}|{{{image2_caption|}}}]]<br /><small><div style="text-align:center">{{{image2_caption|}}}</div></small>}}
@@ -13,15 +13,15 @@
 {{!}}
 <div style="text-align:center">{{#if:{{{status_system|}}}|{{#switch:{{{status_system}}}
 |iucn2.3|IUCN2.3={{#switch:{{{status}}}
-|EX|ex=[[File:Status iucn2.3 EX zh.svg|frameless]]<br />[[Chhie̍t-chúng]] {{#if:{{{extinct|}}}| ({{{extinct}}}) }} {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN Chhie̍t-chúng vu̍t-chúng]]}}} | }}
-|EW|ew=[[File:Status iucn2.3 EW zh.svg|frameless]]<br />[[Yâ-ngoi chhie̍t-me̍t]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN Yâ-ngoi chhie̍t-me̍t vu̍t-chúng]]}}} | }}
-|CR|cr=[[File:Status iucn2.3 CR zh.svg|frameless]]<br />[[Khi̍t-ngùi vu̍t-chúng |Khi̍t-ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN khi̍t ngùi vu̍t-chúng]]}}} | }}
-|EN|en=[[File:Status iucn2.3 EN zh.svg|frameless]]<br />[[Phîn-ngùi vu̍t-chúng |Phîn-ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN phîn-ngùi vu̍t-chúng]]}}} | }}
-|VU|vu=[[File:Status iucn2.3 VU zh.svg|frameless]]<br />[[Yi-ngùi vu̍t-chúng |Yi-ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN Yi-ngùi vu̍t-chúng]]}}} | }}
+|EX|ex=[[File:Status iucn2.3 EX.svg|frameless]]<br />[[Chhie̍t-chúng]] {{#if:{{{extinct|}}}| ({{{extinct}}}) }} {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN Chhie̍t-chúng vu̍t-chúng]]}}} | }}
+|EW|ew=[[File:Status iucn2.3 EW.svg|frameless]]<br />[[Yâ-ngoi chhie̍t-me̍t]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN Yâ-ngoi chhie̍t-me̍t vu̍t-chúng]]}}} | }}
+|CR|cr=[[File:Status iucn2.3 CR.svg|frameless]]<br />[[Khi̍t-ngùi vu̍t-chúng |Khi̍t-ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN khi̍t ngùi vu̍t-chúng]]}}} | }}
+|EN|en=[[File:Status iucn2.3 EN.svg|frameless]]<br />[[Phîn-ngùi vu̍t-chúng |Phîn-ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN phîn-ngùi vu̍t-chúng]]}}} | }}
+|VU|vu=[[File:Status iucn2.3 VU.svg|frameless]]<br />[[Yi-ngùi vu̍t-chúng |Yi-ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN Yi-ngùi vu̍t-chúng]]}}} | }}
 |LR|lr=[[File:Status iucn2.3 blank.svg]]<br /> tâi ngùi {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:Mò-háu pó-fu chhong-khóng]]}}} | }}
-|CD|cd|LR/CD|lr/CD|LR/cd|lr/cd=-{zh-hans:[[File:Status iucn2.3 CD zh.Svg|frameless]]<br />[[Pó-fu yî-lai]]
-|NT|nt|LR/NT|lr/NT|LR/nt|lr/nt=[[File:Status iucn2.3 NT zh.svg|frameless]]<br />[[Khiûn ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN khiûn ngùi vu̍t-chúng]]}}} | }}
-|LC|lc|LR/LC|lr/LC|LR/lc|lr/lc=[[File:Status iucn2.3 LC zh.svg|frameless]]<br />[[Mò ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN Mò ngùi vu̍t-chúng]]}}} | }}
+|CD|cd|LR/CD|lr/CD|LR/cd|lr/cd=-{zh-hans:[[File:Status iucn2.3 CD.Svg|frameless]]<br />[[Pó-fu yî-lai]]
+|NT|nt|LR/NT|lr/NT|LR/nt|lr/nt=[[File:Status iucn2.3 NT.svg|frameless]]<br />[[Khiûn ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN khiûn ngùi vu̍t-chúng]]}}} | }}
+|LC|lc|LR/LC|lr/LC|LR/lc|lr/lc=[[File:Status iucn2.3 LC.svg|frameless]]<br />[[Mò ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN Mò ngùi vu̍t-chúng]]}}} | }}
 |DD|dd=[[File:Status none DD.svg]]<br /> sú-kí khiet-fa̍t 
 |NE|ne= vi yi phìn kû 
 |NR|nr= vi sṳ̀n-ngin 
