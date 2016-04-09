@@ -30,13 +30,13 @@
 |''''' mò háu chhong-khóng '''''[[Category: mò háu pó-fu chhong-khóng]]
 }}<small> ({{#if:{{{status_text|}}}|[[{{{status_text|# pó-fu chhong-khóng }}}| kien hâ vùn]]|[[sṳ-kie chhṳ-yèn pó-fu lièn-mèn phîn-ngùi vu̍t-chúng fùng-set miàng liu̍k |IUCN 2.3]]}}) {{{status_ref|}}}</small>
 |iucn|IUCN|iucn3.1|IUCN3.1={{#switch:{{{status}}}
-|EX|ex=[[File:Status iucn3.1 EX zh.svg|frameless]]<br />[[chhie̍t me̍t]] {{#if:{{{extinct|}}}| ({{{extinct}}}) }} {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN chhie̍t me̍t vu̍t-chúng]]}}} | }}
-|EW|ew=[[File:Status iucn3.1 EW zh.svg|frameless]]<br />[[yâ ngoi chhie̍t me̍t]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN yâ ngoi chhie̍t me̍t vu̍t-chúng]]}}} | }}
-|CR|cr=[[File:Status iucn3.1 CR zh.svg|frameless]]<br />[[khi̍t ngùi vu̍t-chúng | khi̍t ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN khi̍t ngùi vu̍t-chúng]]}}} | }}
-|EN|en=[[File:Status iucn3.1 EN zh.svg|frameless]]<br />[[phîn-ngùi vu̍t-chúng | phîn-ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN phîn-ngùi vu̍t-chúng]]}}} | }}
-|VU|vu=[[File:Status iucn3.1 VU zh.svg|frameless]]<br />[[yi ngùi vu̍t-chúng | yi ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN yi ngùi vu̍t-chúng]]}}} | }}
-|NT|nt=-{zh-hans:[[File:Status iucn3.1 NT zh.svg|frameless]]<br />[[khiûn ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN khiûn ngùi vu̍t-chúng]]}}} | }}
-|LC|lc=-{zh-hans:[[File:Status iucn3.1 LC zh.svg|frameless]]<br />[[mò ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN mò ngùi vu̍t-chúng]]}}} | }}
+|EX|ex=[[File:Status iucn3.1 EX.svg|frameless]]<br />[[chhie̍t me̍t]] {{#if:{{{extinct|}}}| ({{{extinct}}}) }} {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN chhie̍t me̍t vu̍t-chúng]]}}} | }}
+|EW|ew=[[File:Status iucn3.1 EW.svg|frameless]]<br />[[yâ ngoi chhie̍t me̍t]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN yâ ngoi chhie̍t me̍t vu̍t-chúng]]}}} | }}
+|CR|cr=[[File:Status iucn3.1 CR.svg|frameless]]<br />[[khi̍t ngùi vu̍t-chúng | khi̍t ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN khi̍t ngùi vu̍t-chúng]]}}} | }}
+|EN|en=[[File:Status iucn3.1 EN.svg|frameless]]<br />[[phîn-ngùi vu̍t-chúng | phîn-ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN phîn-ngùi vu̍t-chúng]]}}} | }}
+|VU|vu=[[File:Status iucn3.1 VU.svg|frameless]]<br />[[yi ngùi vu̍t-chúng | yi ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN yi ngùi vu̍t-chúng]]}}} | }}
+|NT|nt=-{zh-hans:[[File:Status iucn3.1 NT.svg|frameless]]<br />[[khiûn ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN khiûn ngùi vu̍t-chúng]]}}} | }}
+|LC|lc=-{zh-hans:[[File:Status iucn3.1 LC.svg|frameless]]<br />[[mò ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN mò ngùi vu̍t-chúng]]}}} | }}
 |DD|dd=[[File:Status none DD.svg]]<br /> sú-kí khiet-fa̍t 
 |NE|ne= vi yi phìn kû 
 |NR|nr= vi sṳ̀n-ngin 
@@ -74,10 +74,10 @@
 |''''' mò háu chhong-khóng '''''[[Category: mò háu pó-fu chhong-khóng]]
 }}<small> ({{#if:{{{status_text|}}}|[[{{{status_text|# pó-fu chhong-khóng }}}| kien hâ vùn]]|[[chhṳ-yèn fu̍k-vu pó-fu chhong-khóng |TNC]]}}) {{{status_ref|}}}</small>
 |esa|ESA={{#switch:{{{status}}}
-|EX|ex=[[Image:Status ESA EX zh.Svg|frameless|link=]]<br />[[chhie̍t me̍t]] {{#if:{{{extinct|}}}| ({{{extinct}}}) }} [[Category: chhie̍t me̍t vu̍t-chúng]]
-|E|e|LE|le=[[Image:Status ESA LE zh.Svg|frameless|link=]]<br />[[phîn-ngùi vu̍t-chúng | phîn-ngùi]]
-|T|t|LT|lt=[[Image:Status ESA LT zh.Svg|frameless|link=]]<br />[[su vî-hia̍p vu̍t-chúng | su vî-hia̍p]]
-|DL|dl|Delisted=[[Image:Status ESA DL zh.Svg|frameless|link=]]<br /> chhù miàng 
+|EX|ex=[[Image:Status ESA EX.Svg|frameless|link=]]<br />[[chhie̍t me̍t]] {{#if:{{{extinct|}}}| ({{{extinct}}}) }} [[Category: chhie̍t me̍t vu̍t-chúng]]
+|E|e|LE|le=[[Image:Status ESA LE.Svg|frameless|link=]]<br />[[phîn-ngùi vu̍t-chúng | phîn-ngùi]]
+|T|t|LT|lt=[[Image:Status ESA LT.Svg|frameless|link=]]<br />[[su vî-hia̍p vu̍t-chúng | su vî-hia̍p]]
+|DL|dl|Delisted=[[Image:Status ESA DL.Svg|frameless|link=]]<br /> chhù miàng 
 |''''' mò háu chhong-khóng '''''[[Category: mò háu pó-fu chhong-khóng]]
 }}<small> ({{#if:{{{status_text|}}}|[[{{{status_text|# pó-fu chhong-khóng }}}| kien hâ vùn]]|[[phîn-ngùi vu̍t-chúng Fap-on |ESA]]}}) {{{status_ref|}}}</small>
 |cosewic|COSEWIC={{#switch:{{{status}}}
@@ -123,16 +123,16 @@
 |''''' mò háu chhong-khóng '''''[[Category: mò háu pó-fu chhong-khóng]]
 }}<small> ({{#if:{{{status_text|}}}|[[{{{status_text|# pó-fu chhong-khóng }}}| kien hâ vùn]]|[[Thòi-vân yâ-sâng thûng-vu̍t pó yuk fap]]}}) {{{status_ref|}}}</small> 
 |CSRL|csrl={{#switch:{{{status}}}
-|EX|ex=[[File:Status CSRL EX zh.Svg|frameless]]<br />[[chhie̍t me̍t]] {{#if:{{{extinct|}}}| ({{{extinct}}}) }} {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category: chhie̍t me̍t vu̍t-chúng]]}}} | }}
-|EW|ew=[[File:Status CSRL EW zh.Svg|frameless]]<br />[[yâ ngoi chhie̍t me̍t]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category: yâ ngoi chhie̍t me̍t vu̍t-chúng]]}}} | }}
-|RE|re=[[File:Status CSRL RE zh.Svg|frameless]]<br /> thi-khî chhie̍t me̍t 
-|CR|cr=[[File:Status CSRL CR zh.Svg|frameless]]<br />[[khi̍t ngùi vu̍t-chúng | khi̍t ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category: khi̍t ngùi vu̍t-chúng]]}}} | }}
-|EN|en=[[File:Status CSRL EN zh.Svg|frameless]]<br />[[phîn-ngùi vu̍t-chúng | phîn-ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category: phîn-ngùi vu̍t-chúng]]}}} | }}
-|VU|vu=[[File:Status CSRL VU zh.Svg|frameless]]<br />[[yi ngùi vu̍t-chúng | yi ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category: yi ngùi vu̍t-chúng]]}}} | }}
-|NT|nt=[[File:Status CSRL NT zh.Svg|frameless]]<br />[[khiûn ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category: khiûn ngùi vu̍t-chúng]]}}} | }}
-|LC|lc=[[File:Status CSRL LC zh.Svg|frameless]]<br />[[mò ngùi vu̍t-chúng | mò ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category: mò ngùi vu̍t-chúng]]}}} | }}
+|EX|ex=[[File:Status CSRL EX.Svg|frameless]]<br />[[chhie̍t me̍t]] {{#if:{{{extinct|}}}| ({{{extinct}}}) }} {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category: chhie̍t me̍t vu̍t-chúng]]}}} | }}
+|EW|ew=[[File:Status CSRL EW.Svg|frameless]]<br />[[yâ ngoi chhie̍t me̍t]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category: yâ ngoi chhie̍t me̍t vu̍t-chúng]]}}} | }}
+|RE|re=[[File:Status CSRL RE.Svg|frameless]]<br /> thi-khî chhie̍t me̍t 
+|CR|cr=[[File:Status CSRL CR.Svg|frameless]]<br />[[khi̍t ngùi vu̍t-chúng | khi̍t ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category: khi̍t ngùi vu̍t-chúng]]}}} | }}
+|EN|en=[[File:Status CSRL EN.Svg|frameless]]<br />[[phîn-ngùi vu̍t-chúng | phîn-ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category: phîn-ngùi vu̍t-chúng]]}}} | }}
+|VU|vu=[[File:Status CSRL VU.Svg|frameless]]<br />[[yi ngùi vu̍t-chúng | yi ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category: yi ngùi vu̍t-chúng]]}}} | }}
+|NT|nt=[[File:Status CSRL NT.Svg|frameless]]<br />[[khiûn ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category: khiûn ngùi vu̍t-chúng]]}}} | }}
+|LC|lc=[[File:Status CSRL LC.Svg|frameless]]<br />[[mò ngùi vu̍t-chúng | mò ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category: mò ngùi vu̍t-chúng]]}}} | }}
 |DD|dd=[[File:Status none DD.Svg]]<br /> sú-kí khiet-fa̍t 
-|NA|na=[[File:Status CSRL NA zh.Svg|frameless]]<br / put nî phìn kû 
+|NA|na=[[File:Status CSRL NA.Svg|frameless]]<br / put nî phìn kû 
 |NE|ne= vi yi phìn kû 
 |''''' mò háu chhong-khóng '''''[[Category: mò háu pó-fu chhong-khóng]]
 }}<small> ({{#if:{{{status_text|}}}|[[{{{status_text|# pó-fu chhong-khóng }}}| kien hâ vùn]]|[[Chûng-koet vu̍t-chúng fùng-set miàng liu̍k]]}}) {{{status_ref|}}}</small> 
@@ -316,7 +316,7 @@
 |NT|nt=[[khiûn ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category: khiûn ngùi vu̍t-chúng]]}}} | }}
 |LC|lc=[[mò ngùi vu̍t-chúng | mò ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category: mò ngùi vu̍t-chúng]]}}} | }}
 |DD|dd= sú-kí khiet-fa̍t 
-|NA|na=[[File:status2 CSRL NA zh.Svg|frameless]]<br / put nî phìn kû 
+|NA|na=[[File:status2 CSRL NA.Svg|frameless]]<br / put nî phìn kû 
 |NE|ne= vi yi phìn kû 
 |''''' mò háu chhong-khóng '''''[[Category: mò háu pó-fu chhong-khóng]]
 }}<small> ({{#if:{{{status_text2|}}}|[[{{{status_text2|# pó-fu chhong-khóng }}}| kien hâ vùn]]|[[Chûng-koet vu̍t-chúng fùng-set miàng liu̍k]]}}) {{{status_ref2|}}}</small> 
@@ -518,11 +518,11 @@
 {{!}} {{{zoodivisio}}}<br /><small>{{{zoodivisio_authority|}}}</small>}}
 |-valign="top"
 {{#if:{{{zoosectio|}}}|
-{{!}} -{zh-hans: chû;zh-hant: chiet }-: 
+{{!}} chiet: 
 {{!}} {{{zoosectio}}}<br /><small>{{{zoosectio_authority|}}}</small>}}
 |-valign="top"
 {{#if:{{{zoosubsectio|}}}|
-{{!}} â -{zh-hans: chû;zh-hant: chiet }-: 
+{{!}} â chiet: 
 {{!}} {{{zoosubsectio}}}<br /><small>{{{zoosubsectio_authority|}}}</small>}}
 |-valign="top"
 {{#if:{{{unranked_familia|}}}|
@@ -570,11 +570,11 @@
 {{!}} {{{subgenus}}}<br /><small>{{{subgenus_authority|}}}</small>}}
 |-valign="top"
 {{#if:{{{sectio|}}}|
-{{!}} -{zh-hans: chû;zh-hant: chiet }-: 
+{{!}} chiet: 
 {{!}} {{{sectio}}}<br /><small>{{{sectio_authority|}}}</small>}}
 |-valign="top"
 {{#if:{{{subsectio|}}}|
-{{!}} -{zh-hans: â chû;zh-hant: â chiet }-: 
+{{!}} â chiet: 
 {{!}} {{{subsectio}}}<br /><small>{{{subsectio_authority|}}}</small>}}
 |-valign="top"
 {{#if:{{{series|}}}|
