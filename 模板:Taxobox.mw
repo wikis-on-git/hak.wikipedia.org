@@ -19,7 +19,7 @@
 |EN|en=[[File:Status iucn2.3 EN.svg|frameless]]<br />[[Phîn-ngùi vu̍t-chúng |Phîn-ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN phîn-ngùi vu̍t-chúng]]}}} | }}
 |VU|vu=[[File:Status iucn2.3 VU.svg|frameless]]<br />[[Yi-ngùi vu̍t-chúng |Yi-ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN Yi-ngùi vu̍t-chúng]]}}} | }}
 |LR|lr=[[File:Status iucn2.3 blank.svg]]<br /> tâi ngùi {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:Mò-háu pó-fu chhong-khóng]]}}} | }}
-|CD|cd|LR/CD|lr/CD|LR/cd|lr/cd=-{zh-hans:[[File:Status iucn2.3 CD.Svg|frameless]]<br />[[Pó-fu yî-lai]]
+|CD|cd|LR/CD|lr/CD|LR/cd|lr/cd=[[File:Status iucn2.3 CD.Svg|frameless]]<br />[[Pó-fu yî-lai]]
 |NT|nt|LR/NT|lr/NT|LR/nt|lr/nt=[[File:Status iucn2.3 NT.svg|frameless]]<br />[[Khiûn ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN khiûn ngùi vu̍t-chúng]]}}} | }}
 |LC|lc|LR/LC|lr/LC|LR/lc|lr/lc=[[File:Status iucn2.3 LC.svg|frameless]]<br />[[Mò ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN Mò ngùi vu̍t-chúng]]}}} | }}
 |DD|dd=[[File:Status none DD.svg]]<br /> sú-kí khiet-fa̍t 
@@ -35,8 +35,8 @@
 |CR|cr=[[File:Status iucn3.1 CR.svg|frameless]]<br />[[khi̍t ngùi vu̍t-chúng | khi̍t ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN khi̍t ngùi vu̍t-chúng]]}}} | }}
 |EN|en=[[File:Status iucn3.1 EN.svg|frameless]]<br />[[phîn-ngùi vu̍t-chúng | phîn-ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN phîn-ngùi vu̍t-chúng]]}}} | }}
 |VU|vu=[[File:Status iucn3.1 VU.svg|frameless]]<br />[[yi ngùi vu̍t-chúng | yi ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN yi ngùi vu̍t-chúng]]}}} | }}
-|NT|nt=-{zh-hans:[[File:Status iucn3.1 NT.svg|frameless]]<br />[[khiûn ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN khiûn ngùi vu̍t-chúng]]}}} | }}
-|LC|lc=-{zh-hans:[[File:Status iucn3.1 LC.svg|frameless]]<br />[[mò ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN mò ngùi vu̍t-chúng]]}}} | }}
+|NT|nt=[[File:Status iucn3.1 NT.svg|frameless]]<br />[[khiûn ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN khiûn ngùi vu̍t-chúng]]}}} | }}
+|LC|lc=[[File:Status iucn3.1 LC.svg|frameless]]<br />[[mò ngùi]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | {{{category|[[Category:IUCN mò ngùi vu̍t-chúng]]}}} | }}
 |DD|dd=[[File:Status none DD.svg]]<br /> sú-kí khiet-fa̍t 
 |NE|ne= vi yi phìn kû 
 |NR|nr= vi sṳ̀n-ngin 
