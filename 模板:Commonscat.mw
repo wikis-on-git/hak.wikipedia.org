@@ -1,6 +1,5 @@
-<div class="infobox sisterproject plainlinks">[[File:Commons-logo.svg|left|30px|維基媒體共享資源標誌]]
-<div style="margin-left:40px;">相關嘅[[維基共享資料]]：
-:[{{localurl:Commons:Category:{{{1|{{PAGENAME}}}}}}} '''{{{2|{{PAGENAME}}}}}''']</div></div><noinclude>
-{{Documentation}}
-[[da:Skabelon:Commonscat]]
+{{commons
+| position = {{{position|}}}
+| :Category:{{{1|{{PAGENAME}}}}}|{{{2|{{{1|{{PAGENAME}}}}}}}}
+}}<noinclude>
 </noinclude>
