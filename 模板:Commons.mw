@@ -1,6 +1,7 @@
-<table class="metadata mbox-small" style="border:1px solid #aaa; background-color:#f9f9f9;">
-<tr>
-<td class="mbox-image">[[Image:Commons-logo.svg|35px]]</td>
-<td class="mbox-text plainlist">[[:commons:Wikimedia Commons|Wikimedia Commons]] yû siông-kôan ke tô-mòi-thí chṳ̂-ngièn: '''''[[Commons:{{{1|Special:Search/{{PAGENAME}}}}}|{{{2|{{{1|{{PAGENAME}}}}}}}}]]'''''</td>
-</tr>
-</table>
+{| width="300px" align="right" cellpadding="5" class="noprint" style="float:right; clear:both; border: solid #aaa 1px; margin:0 0 1em 1em; font-size:90%;" 
+|-
+| [[Image:Commons-logo.svg|45px|none|Commons|<nowiki> </nowiki>]] 
+| width="100%" | Chhai [[Commons:Main Page|Wikimedia Commons]] liá-têu yû thùng [[Commons:{{{1|Special:Search/{{PAGENAME}}}}}|'''''{{{2|{{{1|{{PAGENAME}}}}}}}}''''']] yû siông-koân ke tóng-on.
+|}<noinclude>
+
+</noinclude>
