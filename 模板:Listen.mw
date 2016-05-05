@@ -1,0 +1,4 @@
+<div class="medialist listenlist" style="width:{{{width|200}}}px">
+[[:Image:{{{filename}}}|{{{title}}}]]
+{{#ifeq:{{{ogg}}}|no||[[Image:{{{filename}}}|180px|noicon]]}}
+</div>{{#ifexpr:{{#ifeq:{{{helpnote|}}}|no|1|0}}+{{#ifeq:{{{ogg|}}}|no|1|0}}|[[Category:Audio templates using formatting parameters]]}}
