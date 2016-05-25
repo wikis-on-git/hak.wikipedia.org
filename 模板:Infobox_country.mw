@@ -103,14 +103,14 @@
 {{!}}{{!}}{{{currency|{{{kîm-pi tân-vi|}}}}}}
 }}
 |-
-{{#if:{{{GDP_PPP|}}}|
-{{!}}{{!}}'''[[koet-nui sên-sán chúng-su|GDP]]''' (PPP)
-{{!}}{{!}}{{{GDP_PPP|}}} <small>({{{GDP_PPP_year|{{{GDP PPP ngièn}}}}}} ngièn)</small>
-}}
-|-
 {{#if:{{{GDP|{{{GDP_nominal|{{{koet-nui sên-sán chúng-su|}}}}}}}}}|
 {{!}}{{!}}'''[[koet-nui sên-sán chúng-su|GDP]]''' (miàng-ngi sông ke)
 {{!}}{{!}}{{{GDP|{{{GDP_nominal|{{{koet-nui sên-sán chúng-su|}}}}}}}}} <small>({{{GDP_nominal_year|{{{GDP ngièn}}}}}} ngièn)</small>
+}}
+|-
+{{#if:{{{GDP_PPP|}}}|
+{{!}}{{!}}'''[[koet-nui sên-sán chúng-su|GDP]]''' (PPP)
+{{!}}{{!}}{{{GDP_PPP|}}} <small>({{{GDP_PPP_year|{{{GDP PPP ngièn}}}}}} ngièn)</small>
 }}
 |-
 {{#if:{{{GDP_nominal_per_capita|{{{phìn-kiûn koet-nui sên-sán chúng-su|}}}}}}|
