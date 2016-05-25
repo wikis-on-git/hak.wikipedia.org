@@ -87,9 +87,9 @@
 }}
 |-
 |colspan="2" |'''Koet-kâ liâng-thô-ngìn'''
-*[[{{PAGENAME}}{{{leader_title1|{{{koet-kâ ngièn-sú chhṳn-chṳt|}}}}}}|{{{leader_title1|{{{koet-kâ ngièn-sú chhṳn-chṳt|}}}}}}]]: {{{leader_name1|{{{hien-ngim koet-kâ ngièn-sú miàng-sṳ}}}}}}
-{{#if:{{{leader_title2|{{{chṳn-fú thoi-péu chhṳn-chṳt|}}}}}}|*[[{{PAGENAME}}{{{leader_title2|{{{chṳn-fú thoi-péu chhṳn-chṳt|}}}}}}|{{{leader_title2|{{{chṳn-fú thoi-péu chhṳn-chṳt|}}}}}}]]: {{{leader_name2|{{{hien-ngim chṳn-fú thoi-péu miàng-sṳ|}}}}}}}}
-{{#if:{{{leader_title3|{{{chṳn-fú sú-nó chhṳn-chṳt|}}}}}}|*[[{{PAGENAME}}{{{leader_title3|{{{chṳn-fú sú-nó chhṳn-chṳt}}}}}}|{{{leader_title3|{{{chṳn-fú sú-nó chhṳn-chṳt}}}}}}]]: {{{leader_name3|{{{hien-ngim chṳn-fú sú-nó miàng-sṳ}}}}}}}}
+*[[{{PAGENAME}} {{{leader_title1|{{{koet-kâ ngièn-sú chhṳn-chṳt|}}}}}}|{{{leader_title1|{{{koet-kâ ngièn-sú chhṳn-chṳt|}}}}}}]]: {{{leader_name1|{{{hien-ngim koet-kâ ngièn-sú miàng-sṳ}}}}}}
+{{#if:{{{leader_title2|{{{chṳn-fú thoi-péu chhṳn-chṳt|}}}}}}|*[[{{PAGENAME}} {{{leader_title2|{{{chṳn-fú thoi-péu chhṳn-chṳt|}}}}}}|{{{leader_title2|{{{chṳn-fú thoi-péu chhṳn-chṳt|}}}}}}]]: {{{leader_name2|{{{hien-ngim chṳn-fú thoi-péu miàng-sṳ|}}}}}}}}
+{{#if:{{{leader_title3|{{{chṳn-fú sú-nó chhṳn-chṳt|}}}}}}|*[[{{PAGENAME}} {{{leader_title3|{{{chṳn-fú sú-nó chhṳn-chṳt}}}}}}|{{{leader_title3|{{{chṳn-fú sú-nó chhṳn-chṳt}}}}}}]]: {{{leader_name3|{{{hien-ngim chṳn-fú sú-nó miàng-sṳ}}}}}}}}
 |-
 {{#if:{{{chú-yeu chiet-ngit|}}}|
 {{!}}{{!}}'''chú-yeu chiet-ngit'''
