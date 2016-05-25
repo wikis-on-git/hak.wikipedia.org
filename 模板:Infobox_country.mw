@@ -2,39 +2,41 @@
 <div style="position: relative; style="float: right; font-size: small;">
 {| class="infobox bordered" cellpadding="4" style="width: 300px; font-size: 90%;"
 |-
-| colspan=2 align=center bgcolor=#e3e3e3| '''{{{koet-kâ miàng-chhṳ̂n}}}'''
+| colspan=2 align=center bgcolor=#e3e3e3| '''{{{name|{{{koet-kâ miàng-chhṳ̂n|{{PAGENAME}} }}} }}}'''
+|-
+| colspan=2 align=center bgcolor=#4798B3| '''{{{native_name|{{{koet-miàng ngièn-vùn|}}}}}}'''
 |-
 | colspan="2" |
     {| style="text-align: center; margin: 0 auto; background: none;"
     |-
-    | style="border: 0; vertical-align: middle;" | <span style="border: 1px solid #bbbbbb; display: table-cell;">[[Image:{{{koet-khì vùn-khien-miàng}}}|125px]]</span>
-    | style="border: 0; vertical-align: middle;" | [[Image:{{{khì-ho vùn-khien-miàng}}}|100px]]
+    | style="border: 0; vertical-align: middle;" | <span style="border: 1px solid #bbbbbb; display: table-cell;">[[File:{{{image_flag|{{{koet-khì vùn-khien-miàng}}}}}}|125px]]</span>
+    | style="border: 0; vertical-align: middle;" | [[File:{{{image_coat|{{{khì-ho vùn-khien-miàng}}}}}}|100px]]
     |- style="font-size: 95%;"
     | style="border: 0;" | [[{{PAGENAME}} koet-khì|Koet-khì]]
-    | style="border: 0;" | [[{{PAGENAME}} khì-ho|Khì-ho ]]
+    | style="border: 0;" | [[{{PAGENAME}} khì-ho|Khì-ho]]
     |}
 |-
-{{#if:{{{koet-kâ kiet-ngièn|}}}
- |{{!}}colspan="2" style="font-size: 95%; text-align: center;" {{!}} [[kiet-ngièn|koet-kâ kiet-ngièn]]：{{{koet-kâ kiet-ngièn}}}
+{{#if:{{{motto|{{{national_motto|{{{koet-kâ kiet-ngièn|}}}}}}}}}
+ |{{!}}colspan="2" style="font-size: 95%; text-align: center;" {{!}} [[kiet-ngièn|koet-kâ kiet-ngièn]]：{{{motto|{{{national_motto|{{{koet-kâ kiet-ngièn|}}}}}}}}}
 }}
 |-
-{{#if:{{{koet-kô miàng-chhṳ̂n|}}}
- |{{!}}colspan="2" style="font-size: 95%; text-align: center;" {{!}} [[koet-kô]]：{{{koet-kô miàng-chhṳ̂n}}}
+{{#if:{{{anthem|{{{national_anthem|{{{koet-kô miàng-chhṳ̂n|}}}}}}}}}
+ |{{!}}colspan="2" style="font-size: 95%; text-align: center;" {{!}} [[koet-kô]]: {{{anthem|{{{national_anthem|{{{koet-kô miàng-chhṳ̂n|}}}}}}}}}
 }}
 |-
 |colspan="2" align="center" bgcolor="#c6c9ff"|'''Chhṳ-yèn thi-lî'''<br/><small>(sṳ̍t-chi kón-hot-khî)</small>
 |-
-|colspan="2" align="center"|[[Image:{{{koet-kâ vi-chṳ thù-hìn vùn-khien-miàng}}}|250px]]
+|colspan="2" align="center"|[[File:{{{image_map|{{{koet-kâ vi-chṳ thù-hìn vùn-khien-miàng}}}}}}|250px]]
 |-
-|style="width:9em";|'''[[sú-tû]]'''||{{{koet-kâ sú-tû miàng-chhṳ̂n}}}
+|style="width:9em";|'''[[sú-tû]]'''||{{{capital|{{{koet-kâ sú-tû miàng-chhṳ̂n|}}}}}}
 |-
-{{#if:{{{chui-thai sàng-sṳ miàng-chhṳ̂n|}}}|
+{{#if:{{{largest_city|{{{chui-thai sàng-sṳ miàng-chhṳ̂n|}}}}}}|
 {{!}}{{!}}'''Chui-thai sàng-sṳ'''
-{{!}}{{!}}{{{chui-thai sàng-sṳ miàng-chhṳ̂n|}}}
+{{!}}{{!}}{{{largest_city|{{{chui-thai sàng-sṳ miàng-chhṳ̂n|}}}}}}
 }}
 |-
 |colspan="2"|'''[[koet-kâ mien-chit lie̍t-péu|Mien-chit]]'''
-*koet-thú mien-chit：{{{koet-thú mien-chit su-kí}}}phiàng-fông kûng-lî ([[koet-kâ mien-chit lie̍t-péu|sṳ-kie thi-{{{mien-chit phài-miàng}}} miàng]])
+*koet-thú mien-chit: {{{area_km2|{{{koet-thú mien-chit su-kí|}}}}}} km² ([[koet-kâ mien-chit lie̍t-péu|sṳ-kie thi-{{{area_rank|{{{mien-chit phài-miàng|}}}}}} miàng]])
 |-
 {{#if:{{{chui-kô tiám|}}}|
 {{!}}{{!}}'''thi-lî chui-kô tiám'''
@@ -56,38 +58,38 @@
 {{!}}{{!}}{{{hói-ngan-sien|}}}
 }}
 |-
-{{#if:{{{sṳ̀-khî|}}}|
+{{#if:{{{utc_offset|{{{sṳ̀-khî|}}}}}}|
 {{!}}{{!}}'''[[sṳ̀-khî]]'''
-{{!}}{{!}}{{{sṳ̀-khî|}}}
+{{!}}{{!}}{{{utc_offset|{{{sṳ̀-khî|}}}}}}
 }}
 |-
 |colspan="2" align="center" bgcolor="#33CC99"|'''Ngìn-mìn sên-fa̍t'''
 |-
-{{#if:{{{kôn-fông ngî-ngièn|}}}|
+{{#if:{{{official_languages|{{{kôn-fông ngî-ngièn|}}}}}}|
 {{!}}{{!}}'''[[kôn-fông ngî-ngièn]]'''
-{{!}}{{!}}{{{kôn-fông ngî-ngièn|}}}
+{{!}}{{!}}{{{official_languages|{{{kôn-fông ngî-ngièn|}}}}}}
 }}
 |-
 |colspan="2"|'''[[koet-kâ ngìn-khiéu lie̍t-péu|ngìn-khiéu]]'''
-*chúng ngìn-khiéu: {{{chúng ngìn-khiéu su-kí}}}（[[koet-kâ ngìn-khiéu lie̍t-péu|sṳ-kie thi-{{{ngìn-khiéu phài-miàng}}} miàng]]）
-*[[koet-kâ ngìn-khiéu me̍t-thu lie̍t-péu|ngìn-khiéu me̍t-thu]]：{{{ngìn-khiéu me̍t-thu su-kí}}}/km<sup>2</sup>（[[koet-kâ ngìn-khiéu me̍t-thu lie̍t-péu|sṳ-kie thi-{{{ngìn-khiéu me̍t-thu phài-miàng}}} miàng]]）
+*chúng ngìn-khiéu: {{{population_census|{{{chúng ngìn-khiéu su-kí}}}}}} ([[{{{population_census_year|{{{ngìn-khiéu ngièn}}}}}} ngièn]], [[koet-kâ ngìn-khiéu lie̍t-péu|sṳ-kie thi-{{{population_census_rank|{{{ngìn-khiéu phài-miàng|}}}}}} miàng]])
+*[[koet-kâ ngìn-khiéu me̍t-thu lie̍t-péu|ngìn-khiéu me̍t-thu]]: {{{population_density_km2|{{{ngìn-khiéu me̍t-thu su-kí|}}}}}}/km<sup>2</sup>([[{{{population_census_year|{{{ngìn-khiéu ngièn}}}}}} ngièn]], [[koet-kâ ngìn-khiéu me̍t-thu lie̍t-péu|sṳ-kie thi-{{{population_density_rank|{{{ngìn-khiéu me̍t-thu phài-miàng|}}}}}} miàng]])
 |-
-{{#if:{{{mìn-chhu̍k|}}}|
+{{#if:{{{ethnic_groups|{{{mìn-chhu̍k|}}}}}}|
 {{!}}{{!}}'''[[mìn-chhu̍k]]'''
-{{!}}{{!}}{{{mìn-chhu̍k|}}}
+{{!}}{{!}}{{{ethnic_groups|{{{mìn-chhu̍k|}}}}}}
 }}
 |-
 |colspan="2" align="center" bgcolor="#FFCC66"|'''Chṳn-chhṳ vùn-fa'''
 |-
-{{#if:{{{chṳn-chhṳ thí-chṳ|}}}|
+{{#if:{{{government_type|{{{chṳn-chhṳ thí-chṳ|}}}}}}|
 {{!}}{{!}}'''chṳn-chhṳ thí-chṳ'''
-{{!}}{{!}}{{{chṳn-chhṳ thí-chṳ|}}}
+{{!}}{{!}}{{{government_type|{{{chṳn-chhṳ thí-chṳ|}}}}}}
 }}
 |-
 |colspan="2" |'''Koet-kâ liâng-thô-ngìn'''
-*[[koet-kâ ngièn-sú]]：[[{{PAGENAME}}{{{koet-kâ ngièn-sú chhṳn-chṳt}}}|{{{koet-kâ ngièn-sú chhṳn-chṳt}}}]]：{{{hien-ngim koet-kâ ngièn-sú miàng-sṳ}}} 
-{{#if:{{{chṳn-fú thoi-péu chhṳn-chṳt|}}}|*[[chṳn-fú thoi-péu]]：[[{{PAGENAME}}{{{chṳn-fú thoi-péu chhṳn-chṳt}}}|{{{chṳn-fú thoi-péu chhṳn-chṳt}}}]]：{{{hien-ngim chṳn-fú thoi-péu miàng-sṳ}}}}}
-*[[chṳn-fú sú-nó]]：[[{{PAGENAME}}{{{chṳn-fú sú-nó chhṳn-chṳt}}}|{{{chṳn-fú sú-nó chhṳn-chṳt}}}]]：{{{hien-ngim chṳn-fú sú-nó miàng-sṳ}}}
+*[[{{PAGENAME}}{{{leader_title1|{{{koet-kâ ngièn-sú chhṳn-chṳt|}}}}}}|{{{leader_title1|{{{koet-kâ ngièn-sú chhṳn-chṳt|}}}}}}]]: {{{leader_name1|{{{hien-ngim koet-kâ ngièn-sú miàng-sṳ}}}}}}
+{{#if:{{{leader_title2|{{{chṳn-fú thoi-péu chhṳn-chṳt|}}}}}}|*[[{{PAGENAME}}{{{leader_title2|{{{chṳn-fú thoi-péu chhṳn-chṳt|}}}}}}|{{{leader_title2|{{{chṳn-fú thoi-péu chhṳn-chṳt|}}}}}}]]: {{{leader_name2|{{{hien-ngim chṳn-fú thoi-péu miàng-sṳ|}}}}}}}}
+{{#if:{{{leader_title3|{{{chṳn-fú sú-nó chhṳn-chṳt|}}}}}}|*[[{{PAGENAME}}{{{leader_title3|{{{chṳn-fú sú-nó chhṳn-chṳt}}}}}}|{{{leader_title3|{{{chṳn-fú sú-nó chhṳn-chṳt}}}}}}]]: {{{leader_name3|{{{hien-ngim chṳn-fú sú-nó miàng-sṳ}}}}}}}}
 |-
 {{#if:{{{chú-yeu chiet-ngit|}}}|
 {{!}}{{!}}'''chú-yeu chiet-ngit'''
@@ -96,24 +98,34 @@
 |-
 |colspan="2" align="center" bgcolor="#CC9966"|'''Kîn-chi sṳ̍t-li̍t'''
 |-
-{{#if:{{{kîm-pi tân-vi|}}}|
+{{#if:{{{currency|{{{kîm-pi tân-vi|}}}}}}|
 {{!}}{{!}}'''Kîm-pi tân-vi'''
-{{!}}{{!}}{{{kîm-pi tân-vi|}}}
+{{!}}{{!}}{{{currency|{{{kîm-pi tân-vi|}}}}}}
 }}
 |-
-{{#if:{{{koet-nui sên-sán chúng-su|}}}|
-{{!}}{{!}}'''[[koet-nui sên-sán chúng-su|GDP]]'''
-{{!}}{{!}}{{{koet-nui sên-sán chúng-su|}}}
+{{#if:{{{GDP_PPP|}}}|
+{{!}}{{!}}'''[[koet-nui sên-sán chúng-su|GDP]]''' (PPP)
+{{!}}{{!}}{{{GDP_PPP|}}} <small>({{{GDP_PPP_year|{{{GDP PPP ngièn}}}}}} ngièn)</small>
 }}
 |-
-{{#if:{{{phìn-kiûn koet-nui sên-sán chúng-su|}}}|
-{{!}}{{!}}'''phìn-kiûn [[koet-nui sên-sán chúng-su|GDP]]'''
-{{!}}{{!}}{{{phìn-kiûn koet-nui sên-sán chúng-su|}}}
+{{#if:{{{GDP|{{{GDP_nominal|{{{koet-nui sên-sán chúng-su|}}}}}}}}}|
+{{!}}{{!}}'''[[koet-nui sên-sán chúng-su|GDP]]''' (miàng-ngi sông ke)
+{{!}}{{!}}{{{GDP|{{{GDP_nominal|{{{koet-nui sên-sán chúng-su|}}}}}}}}} <small>({{{GDP_nominal_year|{{{GDP ngièn}}}}}} ngièn)</small>
 }}
 |-
-{{#if:{{{ngìn-lui fat-chán chúng-su|}}}|
+{{#if:{{{GDP_nominal_per_capita|{{{phìn-kiûn koet-nui sên-sán chúng-su|}}}}}}|
+{{!}}{{!}}'''phìn-kiûn [[koet-nui sên-sán chúng-su|GDP]]''' (miàng-ngi sông ke)
+{{!}}{{!}}{{{GDP_nominal_per_capita|{{{phìn-kiûn koet-nui sên-sán chúng-su|}}}}}} <small>({{{GDP_nominal_year|{{{GDP ngièn}}}}}} ngièn)</small>
+}}
+|-
+{{#if:{{{GDP_PPP_per_capita|{{{pêng-kin GDP PPP|}}}}}}|
+{{!}}{{!}}'''phìn-kiûn [[koet-nui sên-sán chúng-su|GDP]]''' (PPP)
+{{!}}{{!}}{{{GDP_PPP_per_capita|{{{phìn-kiûn GDP PPP|}}}}}} <small>({{{GDP_PPP_year|{{{GDP PPP ngièn}}}}}} ngièn)</small>
+}}
+|-
+{{#if:{{{HDI|{{{ngìn-lui fat-chán chúng-su|}}}}}}|
 {{!}}{{!}}'''[[ngìn-lui fat-chán chúng-su|HDI]]'''
-{{!}}{{!}}{{{ngìn-lui fat-chán chúng-su|}}}
+{{!}}{{!}}{{{HDI|{{{ngìn-lui fat-chán chúng-su|}}}}}} <small>({{{HDI_year|{{{HDI ngièn|}}}}}} ngièn)</small>
 }}
 |-
 {{#if:{{{tûng-ông ngiùn-hòng|}}}|
@@ -136,19 +148,19 @@
 {{!}}{{!}}{{{koet-kâ siong-chṳ̂n|}}}
 }}
 |-
-{{#if:{{{koet-kâ thoi-ho|}}}|
+{{#if:{{{country_code|{{{koet-kâ thoi-ho|}}}}}}|
 {{!}}{{!}}'''Koet-kâ thoi-ho'''
-{{!}}{{!}}{{{koet-kâ thoi-ho|}}}
+{{!}}{{!}}{{{country_code|{{{koet-kâ thoi-ho|}}}}}}
 }}
 |-
-{{#if:{{{koet-chi khî-khî suk-siá|}}}|
+{{#if:{{{cctld|{{{koet-chi khî-khî suk-siá|}}}}}}|
 {{!}}{{!}}'''[[koet-chi khî-khî suk-siá]]'''
-{{!}}{{!}}{{{koet-chi khî-khî suk-siá|}}}
+{{!}}{{!}}{{{cctld|{{{koet-chi khî-khî suk-siá|}}}}}}
 }}
 |-
-{{#if:{{{koet-chi thien-fa khî-ho|}}}|
+{{#if:{{{calling_code|{{{koet-chi thien-fa khî-ho|}}}}}}|
 {{!}}{{!}}'''[[koet-chi thien-fa khî-ho lie̍t-péu|koet-chi thien-fa khî-ho]]'''
-{{!}}{{!}}{{{koet-chi thien-fa khî-ho|}}}
+{{!}}{{!}}{{{calling_code|{{{koet-chi thien-fa khî-ho|}}}}}}
 }}
 |-
 |colspan=2|<div style="float:right; font-size:70%; padding:0 .5em 0 .5em">[{{SERVER}}{{localurl:{{NAMESPACE}}:{{PAGENAME}}|action=edit&section=0}} <small>phiên-cho</small>]</div>
