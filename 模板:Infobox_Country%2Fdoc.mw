@@ -1,4 +1,5 @@
 ==Kak-sṳt==
+Ngì cho-tet yung Hak-kâ-ngî ke mù-pán:
 <pre>
 {{Infobox Country
 | koet-kâ miàng-chhṳ̂n = 
@@ -40,6 +41,48 @@
 | koet-chi khî-khî suk-siá = 
 | koet-chi thien-fa khî-ho = 
 |}
+</pre>
+fe̍t-chá yung Yîn-ngî ke mù-pán:
+<pre>
+{{Infobox Country
+|name         = 
+|native_name   = 
+|image_flag      = 
+|image_coat      = 
+|motto     = 
+|national_anthem    = 
+|image_map         = 
+|capital         = 
+|area_km2         = 
+|area_rank       = 
+|utc_offset      =
+|official_languages  =
+|ethnic_groups    =
+|population_census         = 
+|population_census_year      = 
+|population_census_rank  = 
+|population_density_km2  = 
+|population_density_rank = 
+|government_type =
+|leader_title1 = 
+|leader_name1 = 
+|leader_title2 = 
+|leader_name2   =
+|leader_title3 = 
+|leader_name3   =
+|currency     =
+|GDP_PPP     =
+|GDP_PPP_year =
+|GDP_nominal  =
+|GDP_nominal_year =
+|GDP_nominal_per_capita=
+|GDP_PPP_per_capita=
+|HDI          =
+|HDI_year     =
+|country_code =
+|cctld        =
+|calling_code =
+}}
 </pre>
 
 [[Category:koet-kâ mù-pán|{{PAGENAME}}]]
