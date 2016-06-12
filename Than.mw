@@ -1,4 +1,103 @@
-[[File:C-TableImage.svg|right|thumb|Thàn]]
+{{infobox element
+|name=Than
+|enname=carbon
+|number=6
+|symbol=C
+|left=[[phìn]]
+|right=[[Tham]]
+|above=–
+|below=[[Si̍t|Si]]
+|series=tô-ngièn-chṳ́ fî-kîm-su̍k
+|series comment=sometimes considered a [[metalloid]]
+|group=14
+|period=2
+|block=p
+|allotropes=graphite, diamond
+|appearance=graphite: black<br/>diamond: clear
+|image name=Graphite-and-diamond-with-scale.jpg
+|image name comment=Graphite (left) and diamond (right), the two most well-known allotropes of carbon
+|image name 2=Carbon Spectra.jpg
+|image name 2 comment=Spectral lines of carbon
+|atomic mass=12.011  
+|atomic mass ref=<ref name="CIAAW">[http://www.ciaaw.org/pubs/TSAW2013_xls.xls Conventional Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=
+|atomic mass comment=(12.0096–12.0116)<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|electron configuration=&#91;[[Helium|He]]&#93; 2s<sup>2</sup> 2p<sup>2</sup>
+|electrons per shell=2, 4
+|phase=ku-thí
+|density gpcm3nrt=amorphous: 1.8–2.1
+|density gpcm3nrt ref=<ref name="CRC">{{cite book | editor = Lide, D. R. | title = CRC Handbook of Chemistry and Physics | edition = 86th | location = Boca Raton (FL) | publisher = CRC Press | year = 2005 | isbn = 0-8493-0486-5}}</ref>
+|density gpcm3nrt 2=graphite: 2.267
+|density gpcm3nrt 3=diamond: 3.515
+|sublimation point K=3915
+|sublimation point C=3642
+|sublimation point F=6588
+|triple point K=4600
+|triple point kPa=10,800
+|triple point ref=<ref name=triple2>{{cite journal|doi=10.1016/0008-6223(76)90010-5|title=Graphite-liquid-vapor triple point pressure and the density of liquid carbon|year=1976|author=Haaland, D|journal=Carbon|volume=14|pages=357|issue=6}}</ref><ref name=triple3>{{cite journal|doi=10.1016/j.carbon.2004.12.027|title=Measurements of the melting point of graphite and the properties of liquid carbon (a review for 1963–2003)|year=2005|author=Savvatimskiy, A|journal=Carbon|volume=43|pages=1115|issue=6}}</ref>
+|heat fusion=graphite: 117
+|heat capacity=graphite: 8.517
+|heat capacity 2=diamond: 6.155
+|electronegativity=2.55
+|number of ionization energies=6
+|ionization energy 1=1086.5
+|ionization energy 2=2352.6
+|ionization energy 3=4620.5
+|atomic radius=
+|atomic radius calculated=
+|covalent radius=sp<sup>3</sup>: 77 pm<br/>sp<sup>2</sup>: 73 pm<br/>sp: 69
+|Van der Waals radius=170
+|crystal structure=simple hexagonal
+|crystal structure prefix=graphite:
+|crystal structure comment=(black)
+|crystal structure 2=diamond cubic
+|crystal structure prefix 2=diamond:
+|crystal structure comment 2=(clear)
+|oxidation states='''+4''', +3,<ref>{{citeweb|url=http://bernath.uwaterloo.ca/media/36.pdf|title=Fourier Transform Spectroscopy of the System of CP|accessdate=2007-12-06}}</ref> +2, +1,<ref>{{citeweb|url=http://bernath.uwaterloo.ca/media/42.pdf|title=Fourier Transform Spectroscopy of the Electronic Transition of the Jet-Cooled CCI Free Radical|accessdate=2007-12-06}}</ref> [[Formaldehyde|0]], [[Carbide|−1]], [[Methanol|−2]], [[Ethane|−3]], '''−4'''<ref>{{citeweb|url=http://www.webelements.com/webelements/elements/text/C/comp.html|title=Carbon: Binary compounds|accessdate=2007-12-06}}</ref>
+|oxidation states comment=(a&nbsp;mildly acidic oxide)
+|magnetic ordering=[[diamagnetic]]<ref>[http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf Magnetic susceptibility of the elements and inorganic compounds], in Handbook of Chemistry and Physics 81st edition, CRC press. </ref>
+|electrical resistivity=graphite: 7.837
+|electrical resistivity unit prefix=µ
+|electrical resistivity ref=<ref>https://www.nde-ed.org/GeneralResources/MaterialProperties/ET/ET_matlprop_Misc_Matls.htm</ref>
+|electrical resistivity at 0=
+|electrical resistivity at 20=
+|thermal conductivity=graphite: 119–165
+|thermal conductivity 2=diamond: 900–2300
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=diamond: 0.8
+|thermal expansion at 25 ref=<ref name=ioffe>[http://www.ioffe.ru/SVA/NSM/Semicond/Diamond Properties of diamond], Ioffe Institute Database</ref>
+|speed of sound=
+|speed of sound rod at 20=diamond:&nbsp;18,350
+|speed of sound rod at r.t.=
+|tensile strength=
+|Young's modulus=diamond: 1050
+|Young's modulus ref=<ref name=ioffe/>
+|Shear modulus=diamond: 478
+|Shear modulus ref=<ref name=ioffe/>
+|Bulk modulus=diamond: 442
+|Bulk modulus ref=<ref name=ioffe/>
+|Poisson ratio=diamond: 0.1
+|Poisson ratio ref=<ref name=ioffe/>
+|Mohs hardness=graphite: 1&ndash;2
+|Mohs hardness 2=diamond: 10
+|CAS number=7440-44-0
+|isotopes=
+{{infobox element/isotopes decay | link=carbon-11 | mn=11 | sym=C | na=[[synthetic radioisotope|syn]] | hl=20&nbsp;min | dm= [[Beta emission|β<sup>+</sup>]] | de=0.96
+ | link1=boron-11 | pn=11 | ps=B}}
+{{Infobox element/isotopes stable | link=carbon-12 | mn=12 | sym=C | na=98.9% | n=6 |firstlinks=yes}}
+{{Infobox element/isotopes stable | link=carbon-13 | mn=13 | sym=C | na=1.1% | n=7 |firstlinks=no}}
+{{infobox element/isotopes decay | link=carbon-14 | mn=14 | sym=C | na=[[trace radioisotope|trace]] | hl=5730&nbsp;y | dm=[[Beta emission|β<sup>−</sup>]] | de=0.156
+|link1=nitrogen-14 | pn=14 | ps=N}}
+|predicted by=
+|prediction date=
+|discovered by=[[Ancient Egypt|Egyptians]] and [[Sumer]]ians<ref>{{cite web|url=http://www.caer.uky.edu/carbon/history/carbonhistory.shtml |title=History of Carbon and Carbon Materials - Center for Applied Energy Research - University of Kentucky |publisher=Caer.uky.edu |date= |accessdate=2008-09-12}}</ref>
+|discovery date=3750 BCE
+|first isolation by=
+|first isolation date=
+|history comment label=Recognized as an element by
+|history comment=[[Antoine Lavoisier]]<ref>{{cite web|author=Senese, Fred|date=2000-09-09|url=http://antoine.frostburg.edu/chem/senese/101/inorganic/faq/discovery-of-carbon.shtml|title=Who discovered carbon?|publisher=Frostburg State University|accessdate=2007-11-24}}</ref> (1789)
+}}
 '''Than''' (碳), fe̍t-chá ham-cho '''than-su''' (炭素), he yit-chúng [[fa-ho̍k]] [[ngièn-su]], fa-ho̍k fù-ho vì '''C''', ngièn-chṳ́ su-muk he '''6''', chhai [[ngièn-su chû-khì-péu]] chûng thi-liuk vi.
 {{Ngièn-su Chû-khì-péu}}
 
