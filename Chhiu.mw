@@ -1,6 +1,107 @@
-[[File:Electron shell 035 Bromine.svg|right|thumb|350px|Tshiù]]
-[[File:Bromine.jpg|right|thumb|350px|Tshiù]]
-[[File:Bromine vial in acrylic cube.jpg|right|thumb|350px|Tshiù]]
+{{Infobox element
+|name=Chhiu
+|enname=bromine
+|number=35
+|symbol=Br
+|left=[[selenium]]
+|right=[[krypton]]
+|above=[[liu̍k|Cl]]
+|below=[[tién|&nbsp;I&nbsp;]]
+|series=siang-goân-chú hui-kim-sio̍k
+|series comment=
+|group=17
+|period=4
+|block=p
+|series color=
+|appearance={{nowrap|gas/liquid: red-brown}}<br>{{nowrap|solid: metallic luster}}
+|image name=Bromine 25ml (transparent).png
+|image size=x200px
+|image name comment=
+|image name 2=
+|image size 2=
+|image name 2 comment=
+|atomic mass=79.904 
+|atomic mass ref=<ref name="CIAAW">[http://www.ciaaw.org/pubs/TSAW2013_xls.xls Conventional Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=
+|atomic mass comment=(79.901–79.907)<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|electron configuration=&#91;[[argon|Ar]]&#93; 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>5</sup>
+|electrons per shell=2, 8, 18, 7
+|color=
+|phase=yi̍t-thí
+|phase comment=
+|density gplstp=
+|density gpcm3nrt=Br<sub>2</sub>, liquid: 3.1028
+|density gpcm3nrt 2=
+|density gpcm3nrt 3=
+|density gpcm3mp=
+|melting point K=265.8
+|melting point C=&minus;7.2
+|melting point F=19
+|sublimation point K=
+|sublimation point C=
+|sublimation point F=
+|boiling point K=332.0
+|boiling point C=58.8
+|boiling point F=137.8
+|triple point K=265.90
+|triple point kPa=5.8
+|triple point ref=<ref name=b92>{{RubberBible92nd|page=4.121}}</ref>
+|critical point K=588
+|critical point MPa=10.34
+|critical point ref=<ref name=b92/>
+|heat fusion=(Br<sub>2</sub>) 10.571
+|heat fusion 2=
+|heat vaporization=(Br<sub>2</sub>) 29.96
+|heat capacity=(Br<sub>2</sub>) 75.69
+|vapor pressure 1=185
+|vapor pressure 10=201
+|vapor pressure 100=220
+|vapor pressure 1 k=244
+|vapor pressure 10 k=276
+|vapor pressure 100 k=332
+|vapor pressure comment=
+|crystal structure=orthorhombic
+|oxidation states=7, '''5''', 4, '''3''', '''1''', '''−1'''
+|oxidation states comment=(a strongly [[acid]]ic oxide)
+|electronegativity=2.96
+|number of ionization energies=3
+|ionization energy 1=1139.9
+|ionization energy 2=2103
+|ionization energy 3=3470
+|atomic radius=120
+|atomic radius calculated=
+|covalent radius=120±3
+|Van der Waals radius=185
+|magnetic ordering=[[diamagnetic]]
+|magnetic ordering ref=<ref>[http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf Magnetic susceptibility of the elements and inorganic compounds], in {{RubberBible86th}}</ref>
+|electrical resistivity=
+|electrical resistivity at 0=
+|electrical resistivity at 20=7.8&times;10<sup>10</sup>
+|thermal conductivity=0.122
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=
+|speed of sound=206
+|speed of sound comment =(at&nbsp;20&nbsp;°C)
+|speed of sound rod at 20=
+|speed of sound rod at r.t.=
+|tensile strength=
+|Young's modulus=
+|Shear modulus=
+|Bulk modulus=
+|Poisson ratio=
+|Mohs hardness=
+|Vickers hardness=
+|Brinell hardness=
+|CAS number=7726-95-6
+|isotopes=
+{{Infobox element/isotopes stable | mn=79 | sym=Br | na=50.69% | n=44 |firstlinks=yes}}
+{{Infobox element/isotopes stable | mn=81 | sym=Br | na=49.31% | n=46 |firstlinks=no}}
+|isotopes comment=
+|discovery and first isolation by=[[Antoine Jérôme Balard]] and [[Leopold Gmelin]]
+|discovery date=1825
+}}
 '''Chhiu (溴)''' he yit-tsúng [[Fa-ho̍k]] [[Ngièn-su]], fa-ho̍k fù-ho vì '''Br''', ngièn-tsṳ́ su-muk he '''35'''.
 
 {{Template:Ngièn-su Tsû-khì-péu}}
