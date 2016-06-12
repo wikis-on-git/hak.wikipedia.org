@@ -1,8 +1,8 @@
 {{Infobox
-| headerstyle = background:{{element color |{{#if:{{{series color|}}}|{{{series color}}}|{{{series|}}}}} |default=#ccc}}
+| headerstyle={{Infobox element/headers|{{{series color|}}}|{{{series}}}|{{{phase color|}}}|{{{phase}}} }}
 | labelstyle = padding-top:0.225em;line-height:1.15em;font-size: 90%;text-align: left;<!--(modified longitem, otherwise wrapped labels tend to appear as separate entries)--> padding-right:0.75em;<!--(to ensure some gap between (long/unwrapped) label and subsequent data on same line)-->
 | datastyle = line-height:1.35em;font-size: 90%;<!--(complements labelstyle above)-->
-| belowstyle = background:{{element color |{{#if:{{{series color|}}}|{{{series color}}}|{{{series|}}}}} |default=#ccc}}
+| belowstyle={{Infobox element/headers|{{{series color|}}}|{{{series}}}|{{{phase color|}}}|{{{phase}}} }}
 <!-- TITLE ------------------>
 | title = {{ucfirst:{{{name|{{PAGENAME}}}}}}},&nbsp;&nbsp;<sub><span style="font-size:smaller;">{{{number|00}}}</span></sub>{{{symbol|Xx}}}
 <!-- IMAGES ------------------>
