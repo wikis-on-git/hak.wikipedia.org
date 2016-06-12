@@ -2,16 +2,16 @@
 PLURAL-S note: every end-s is removed to cover "actinide" and "actinides" alike. So words like "gases" MUST be written "gase" here.
 Input handling: REMOVED space and a final 's' once (plural-s) -->{{lc:{{#invoke:String|replace|source={{#invoke:String|replace|source={{{1|}}}|pattern=%s|plain=false}}|pattern=s$|plain=false}}}}<!-- begin #switch list-->
 <!-- CATEGORY -->
-| alkalimetal = &#x23;ff6666
-| alkalineearthmetal = &#x23;ffdead
-| lanthanide = &#x23;ffbfff
-| actinide = &#x23;ff99cc
-| transitionmetal | chhian-îkim-sio̍k = &#x23;ffc0c0
-| post-transitionmetal = &#x23;cccccc
+| alkalimetal | kán-kîm-su̍k = &#x23;ff6666
+| alkalineearthmetal | kán-thú kîm-su̍k = &#x23;ffdead
+| lanthanide | lanthanum-hē = &#x23;ffbfff
+| actinide | actinium-hi = &#x23;ff99cc
+| transitionmetal | ko-thu kîm-su̍k = &#x23;ffc0c0
+| post-transitionmetal | heu-ko-thu kîm-su̍k= &#x23;cccccc
 | metalloid = &#x23;cccc99
-| polyatomicnonmetal | polyatomicnon-metal = &#x23;a1ffc3
-| diatomicnonmetal | diatomicnon-metal = &#x23;e7ff8f
-| noblega | noblegase = &#x23;c0ffff<!-- see plural-s note in top -->
+| polyatomicnonmetal | polyatomicnon-metal | tô-ngièn-chṳ́ fî-kîm-su̍k = &#x23;a1ffc3
+| diatomicnonmetal | diatomicnon-metal | sûng-ngièn-chṳ́ fî-kîm-su̍k = &#x23;e7ff8f
+| noblega | noblegase | hî-yù hi-thí = &#x23;c0ffff<!-- see plural-s note in top -->
 | superactinide = &#x23;d1ddff
 | eka-superactinide = &#x23;c6dd9d
 <!-- BORDER (FRAME) Occurence. Gives full value: "2px solid #4499ff"-->
