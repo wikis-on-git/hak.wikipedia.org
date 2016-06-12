@@ -1,0 +1,48 @@
+text-align:center; background-color:<!-- background color -->#{{#if:{{{1|}}}|{{{1}}}|{{#switch:{{lc:{{{2}}}}}
+| alkalimetal 
+| Kán-kîm-su̍k
+| kán-kîm-su̍k = ff6666
+| alkalineearthmetal
+| Kán-thú kîm-su̍k 
+| kán-thú kîm-su̍k = ffdead
+| lanthanide
+| Lanthanum-hi 
+| lanthanum-hi = ffbfff
+| actinide 
+| Actinium-hi
+| actinium-hi = ff99cc
+| transitionmetal 
+| Ko-thu kîm-su̍k 
+| ko-thu kîm-su̍k = ffc0c0
+| post-transitionmetal
+| Heu-ko-thu kîm-su̍k 
+| heu-ko-thu kîm-su̍k= cccccc
+| metalloid 
+| Lui-kîm-su̍k
+| lui-kîm-su̍k = cccc99
+| polyatomicnonmetal 
+| polyatomicnon-metal 
+| Tô-ngièn-chṳ́ fî-kîm-su̍k
+| tô-ngièn-chṳ́ fî-kîm-su̍k = a1ffc3
+| diatomicnonmetal 
+| diatomicnon-metal 
+| Sûng-ngièn-chṳ́ fî-kîm-su̍k
+| sûng-ngièn-chṳ́ fî-kîm-su̍k = e7ff8f
+| noblega 
+| noblegase 
+| Hî-yù hi-thí
+| hî-yù hi-thí = c0ffff
+| superactinide 
+| Chhêu Actinium-hi
+| chhêu actinium-hi = d1ddff
+| eka-chhêu actinium-hi = c6dd9d
+| Hàn-màng khok-thin
+| hàn-màng khok-thin=E8E8E8
+}} }}; <!-- font color -->color:#{{#if:{{{3|}}}|{{{3}}}|{{#switch:{{lc:{{{4}}}}}
+| ki-thí
+| hi-thai =008000
+| yi̍t-thí
+| yi̍t-thai =0000FF
+| ku-thí
+| ku-thai =000000
+}} }};
