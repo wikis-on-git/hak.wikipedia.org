@@ -1,0 +1,46 @@
+{{#switch:{{lc:{{#invoke:String|replace|source={{{1|}}}|pattern=[%s%-]+|replace=|plain=false}}}}
+<!-- TRICLINIC -->
+| simpletriclinic = {{#ifeq:{{{return|link}}}|image|Triclinic.svg|[[Triclinic crystal system|simple triclinic]]}}
+| triclinic = {{#ifeq:{{{return|link}}}|image|Triclinic.svg|[[Triclinic crystal system|triclinic]]}}
+<!-- MONOCLINIC -->
+| basecenteredmonoclinic
+| monoclinicbasecentered = {{#ifeq:{{{return|link}}}|image|Monoclinic-base-centered.svg|[[Monoclinic crystal system|base-centered monoclinic]]}}
+| simplemonoclinic = {{#ifeq:{{{return|link}}}|image|Monoclinic.svg|[[Monoclinic crystal system|simple monoclinic]]}}
+| monoclinic = {{#ifeq:{{{return|link}}}|image|Monoclinic.svg|[[Monoclinic crystal system|monoclinic]]}}
+<!-- ORTHORHOMBIC -->
+| simpleorthorhombic = {{#ifeq:{{{return|link}}}|image|Orthorhombic.svg|[[Orthorhombic crystal system|simple orthorhombic]]}}
+| orthorhombic = {{#ifeq:{{{return|link}}}|image|Orthorhombic.svg|[[Orthorhombic crystal system|orthorhombic]]}}
+<!-- TETRAGONAL -->
+| tetragonal = {{#ifeq:{{{return|link}}}|image|Tetragonal.svg|[[Tetragonal crystal system|tetragonal]]}}
+| bodycenteredtetragonal = {{#ifeq:{{{return|link}}}|image|Tetragonal-body-centered.svg|[[Tetragonal crystal system|body-centered tetragonal]]}}
+<!-- TRIGONAL/RHOMBO -->
+| simpletrigonal
+| trigonal = {{#ifeq:{{{return|link}}}|image|Rhombohedral.svg|[[Trigonal crystal system|trigonal]]}}
+| rhombohedral = {{#ifeq:{{{return|link}}}|image|Rhombohedral.svg|[[Trigonal crystal system|rhombohedral]]}}
+<!-- HEXAGONAL -->
+| simplehexagonal = {{#ifeq:{{{return|link}}}|image|Hexagonal.svg|[[Hexagonal crystal system|simple hexagonal]]}}
+| hexagonal = {{#ifeq:{{{return|link}}}|image|Hexagonal.svg|[[Hexagonal crystal system|hexagonal]]}}
+| hcp
+| hexagonalclosepacked = {{#ifeq:{{{return|link}}}|image|Hexagonal close packed.svg|[[Close-packing of equal spheres|hexagonal&nbsp;close-packed]] (hcp)}}
+| dhcp
+| doublehexagonalclosepacked = {{#ifeq:{{{return|link}}}|image|Hexagonal.svg|[[Close-packing of equal spheres|double&nbsp;hexagonal close-packed]] (dhcp)}}
+<!-- CUBIC -->
+| simplecubic
+| primitivecubic = {{#ifeq:{{{return|link}}}|image|Lattic simple cubic.svg|[[Cubic crystal system|primitive&nbsp;cubic]]}}
+| cubic = {{#ifeq:{{{return|link}}}|image|Cubic.svg|[[Cubic crystal system|cubic]]}}
+| bcc
+| bodycenteredcubic
+| cubicbodycentered = {{#ifeq:{{{return|link}}}|image|Cubic-body-centered.svg|[[Cubic crystal system|body-centered&nbsp;cubic]] (bcc)}}
+| fcc
+| cubicfacecentered
+| facecenteredcubic
+| facecenteredcubic = {{#ifeq:{{{return|link}}}|image|Cubic-face-centered.svg|[[Cubic crystal system|face-centered&nbsp;cubic]] (fcc)}}
+| diamond
+| diamondcubic = {{#ifeq:{{{return|link}}}|image|Diamond Cubic-F lattice animation.gif|[[Diamond cubic|diamond cubic]]}}
+<!-- UNK -->
+|<!-- blank -->
+| unknown
+| #default = {{{default|{{{1|}}}}}}{{main other|{{#ifeq:{{{return|link}}}|return||[[Category:Element infobox templates that need attention|Δ, {{PAGENAME}}]]}}}}
+}}<noinclude>
+{{documentation|1=Template:Infobox element/doc}}
+</noinclude>
