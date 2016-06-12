@@ -6,10 +6,13 @@
 <!-- TITLE ------------------>
 | title = {{ucfirst:{{{name|{{PAGENAME}}}}}}},&nbsp;&nbsp;<sub><span style="font-size:smaller;">{{{number|00}}}</span></sub>{{{symbol|Xx}}}
 <!-- IMAGES ------------------>
-| image1 = {{#invoke:InfoboxImage|InfoboxImage |image={{{image name|}}} |size={{{image size|}}} |sizedefault=frameless |alt={{{image alt|}}} }}
-| caption1 = {{{image name comment|}}}
-| image2 = {{#invoke:InfoboxImage|InfoboxImage |image={{{image name 2|}}} |size={{{image size 2|}}} |sizedefault=frameless |alt={{{image alt 2|}}} }}
-| caption2 = {{{image name 2 comment|}}}
+| header1={{#if:{{{appearance|}}}{{{image name|}}}{{{image name comment|}}}{{{image name 2 coment|}}} |ngoi-kôn}}
+| data2={{{appearance|}}}<!--
+ -->{{#if:{{{image name|}}}|{{#if:{{{appearance|}}}|<br />}}[[file:{{{image name}}}{{!}}{{#if:{{{image size|}}}|{{{image size}}}|250px}}|alt={{{image alt|}}}]]|}}<!--
+ -->{{#if:{{{image name comment|}}}|<br />{{{image name comment}}}|}}<!--
+ -->{{#if:{{{image name 2|}}}|<br />[[file:{{{image name 2}}}{{!}}{{#if:{{{image size 2|}}}|{{{image size 2|}}}|250px}}|alt={{{image alt 2|}}}]]|}}<!--
+ -->{{#if:{{{image name 2 comment|}}}|<br />{{{image name 2 comment}}}|}}
+
 <!-- GENERAL PROPERTIES (items 10-19) ------------------>
 | header10 = Kî-pún sin-sit
 | label12 = Miàng, [[fù-ho (ngièn-su)|fù-ho]]
