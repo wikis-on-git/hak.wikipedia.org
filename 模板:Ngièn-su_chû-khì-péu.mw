@@ -1,7 +1,8 @@
 <br clear="all" />
-<div class="NavFrame" style="clear:both">
-<div class="NavHead">[[Ngièn-su Chû-khì-péu]]</div>
-<div class="NavContent">
+{| class="navbox collapsible"
+|-
+! colspan="32" style="padding:0 1em;" | [[Ngièn-su chû-khì-péu]]
+|-
 {| border=0 cellpadding=0 cellspacing=0 align=center style="width:100%"
 |-
 | width="3.125%" style="background-color:#a0ffa0"|[[Khîn|H]]
@@ -151,5 +152,6 @@
 | style="background-color:#f0f0f0" width="9%" |vi thin
 |}
 |- bgcolor="#ccccff"
+|}
 |}</div></div><includeonly>[[Category:Ngièn-su]]</includeonly><noinclude>
 </noinclude>
