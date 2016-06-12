@@ -1,0 +1,6 @@
+|-
+| {{#if: {{{link|}}} | [[{{{link}}}|<sup>{{{mn}}}</sup>{{{sym}}}]] | <sup>{{{mn}}}</sup>{{{sym}}} }}
+| style="{{#ifexpr:{{#invoke:string|find|source={{{na|}}}|target=%%$|plain=false}}>0|text-align:right}}" | {{{na}}}
+| colspan="4" | <sup>{{{mn}}}</sup>{{{sym}}} is {{#ifeq:{{{firstlinks|yes}}}|yes|[[stable isotope|stable]]|stable}} with {{{n}}} {{#ifeq:{{{firstlinks|yes}}}|yes|[[neutron]]|neutron}}{{plural:{{{n}}}||s}}<noinclude>
+{{documentation}}
+</noinclude>
