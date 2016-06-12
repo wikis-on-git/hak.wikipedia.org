@@ -213,8 +213,8 @@
 | label147 = {{{history comment label|}}}
 |  data147 = {{{history comment|}}}
 <!-- ISOTOPES (items 160-169) ------------------>
-| header160 = {{#if:{{{isotopes|}}} |Chòe ún-tēng ê tông-ūi-sò͘ |{{#if:{{{isotopes comment|}}}|Isotopes comment}} }}
-|  data161 = {{#if:{{{isotopes|}}} | Chú bûn-chiong: [[{{{name}}} ê tông-ūi-sò͘]] }}
+| header160 = {{#if:{{{isotopes|}}} |Chui vún-thin ke thùng-vi-su|{{#if:{{{isotopes comment|}}}|Isotopes comment}} }}
+|  data161 = {{#if:{{{isotopes|}}} | Chú vùn-chông: [[{{{name}}} ke thùng-vi-su]] }}
 |  data162 = {{#if:{{{isotopes|}}} |
 {{{!}} class="wikitable" style="width:100%; border-collapse:collapse; margin:0; padding:0; text-align:center;"
 {{!}}-
