@@ -8,7 +8,7 @@ Input handling: REMOVED space and a final 's' once (plural-s) -->{{lc:{{#invoke:
 | actinide | actinium-hi = &#x23;ff99cc
 | transitionmetal | ko-thu kîm-su̍k = &#x23;ffc0c0
 | post-transitionmetal | heu-ko-thu kîm-su̍k= &#x23;cccccc
-| metalloid = &#x23;cccc99
+| metalloid| lui-kîm-su̍k = &#x23;cccc99
 | polyatomicnonmetal | polyatomicnon-metal | tô-ngièn-chṳ́ fî-kîm-su̍k = &#x23;a1ffc3
 | diatomicnonmetal | diatomicnon-metal | sûng-ngièn-chṳ́ fî-kîm-su̍k = &#x23;e7ff8f
 | noblega | noblegase | hî-yù hi-thí = &#x23;c0ffff<!-- see plural-s note in top -->
