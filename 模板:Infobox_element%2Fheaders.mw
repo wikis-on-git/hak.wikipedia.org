@@ -39,7 +39,7 @@ text-align:center; background-color:<!-- background color -->#{{#if:{{{1|}}}|{{{
 | Hàn-màng khok-thin
 | hàn-màng khok-thin=E8E8E8
 }} }}; <!-- font color -->color:#{{#if:{{{3|}}}|{{{3}}}|{{#switch:{{lc:{{{4}}}}}
-| ki-thí
+| hi-thí
 | hi-thai =008000
 | yi̍t-thí
 | yi̍t-thai =0000FF
