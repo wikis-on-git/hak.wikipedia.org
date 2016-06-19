@@ -1,4 +1,4 @@
-{| class="infobox" style="text-align: center; font-size: small;"
+{| class="infobox" align="right" style="text-align: center; font-size: small;"
 | style="" |<small>'''[[Sṳ-ki]]: '''</small>
 | align="center" | [[{{CalcBcDate| {{#ifexpr: {{{1|{{CURRENTYEAR}}}}} > 0 | {{#expr: (({{{1|{{CURRENTYEAR}}}}} - 0.9) / 100 - 0.5 round 0) + 1 }} | {{#expr: (({{{1|{{CURRENTYEAR}}}}} + 0.9) / 100 + 0.5 round 0) - 1 }} }} | -1 }} Sṳ-ki]] '''[[{{CalcBcDate| {{#ifexpr: {{{1|{{CURRENTYEAR}}}}} > 0 | {{#expr: (({{{1|{{CURRENTYEAR}}}}} - 0.9) / 100 - 0.5 round 0) + 1 }} | {{#expr: (({{{1|{{CURRENTYEAR}}}}} + 0.9) / 100 + 0.5 round 0) - 1 }} }} | 0 }} Sṳ-ki]]''' [[{{CalcBcDate| {{#ifexpr: {{{1|{{CURRENTYEAR}}}}} > 0 | {{#expr: (({{{1|{{CURRENTYEAR}}}}} - 0.9) / 100 - 0.5 round 0) + 1 }} | {{#expr: (({{{1|{{CURRENTYEAR}}}}} + 0.9) / 100 + 0.5 round 0) - 1 }} }} | 1 }} Sṳ-ki]]
 |-
