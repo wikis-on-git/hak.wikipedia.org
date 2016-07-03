@@ -1,0 +1,111 @@
+*English: This page is an introduction to the interface messages of Hakka Wikipedia. </br>
+*Hak-kâ-ngî： Liá-ya̍p he chôn-mùn kie-shàu Hak-ngî Pha̍k-fa-sṳ Wikipedia ke kie-mien.
+
+
+{|class='wikitable' style='width: 70%;'
+|-
+! style="width: 15%" | Hak-ngî Pha̍k-fa-sṳ !! style"width: 15%" | 客語漢子 !! style="width: 30%" | 中文版 !! style="width: 40%" | English Equivalent  
+|-
+| Thèu-ya̍p  || 頭頁  ||  首頁   || [[:en:Main_Page|Main Page]]
+|-
+| Sîn-vùn Thûng-thai || 新聞動態  ||  （撈客語漢字版共樣）   || [[:en:Portal:Current events|Current Events]]
+|-
+| Chui-khiûn Kiên-kói  ||  最近更改 ||  最近變更  ||  [[:en:Special:RecentChanges|Recent Changes]]
+|-
+| Sùi-kî Ya̍p-mien  ||  隨機頁面    ||  隨機條目    || [[:en:Special:Random|Random Article]]
+|-
+| Sa-khî Chú-ya̍p  ||  社區主頁    ||  維基社群    || [[:en:Wikipedia:Community portal|Community Portal]]
+|-
+| Thâng-hâ  || 廳下  ||   互助客棧   || [[:en:Wikipedia:Village pump|Village pump]]
+|-
+| Pông-sú  ||  幫手    ||   幫助   || [[:en:Help:Contents|Help]] 
+|-
+| Án-pân thu̍k Hak-kâ-fa? ||  恁般讀客家話?     ||  如何讀客家話?    ||  [[:en:Pha%CC%8Dk-fa-s%E1%B9%B3#Consonants|How to Read in Hakka]]
+|-
+| Chhṳ-kâ ke chhet-sṳ     ||  自家个測試    ||   沙盒測試   || <span class="plainlinks">[{{fullurl:Special:Mypage/sandbox|action=edit&preload=Template:User_Sandbox/preload}} My Personal Sandbox]</span> 
+|-
+| Chan-chhu Ngài-têu Wikimedia ||  贊助𠊎兜維基媒體      ||  資助維基百科    ||  [https://donate.wikimedia.org/w/index.php?title=Special:FundraiserLandingPage&country=NZ&uselang=en&utm_medium=sidebar&utm_source=donate&utm_campaign=C13_en.wikipedia.org Donate to Wikipedia]
+|-
+| Kien-li̍p sû sit  ||  建立書籍     ||  [[:zh:使用說明:圖書|創建一本圖書]]    ||  [https://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Book Create a Book]
+|-
+| Hâ-chai vì  PDF  ||  下載為 PDF    ||  （撈客語漢字版共樣）|| [[:en:Help:Download as PDF|Download as PDF]]
+|-
+| Cho-tet yin-chho ke pán-pún  ||  做得印刷个版本    ||   可列印版   || [http://en.wikipedia.org/w/index.php?title=%E5%B9%AB%E5%8A%A9:%E7%95%8C%E9%9D%A2%E5%B9%AB%E5%8A%A9&printable=yes Printable version]
+|-
+| Khì-thâ chiá-moi kie-va̍k   ||  其他姐妹計劃    ||  其他專案    || [[:en:Wikipedia:Wikimedia sister projects|Other Sister Projects]]
+|-
+| Kûng-khí-siông ||  工具箱    ||   工具   ||  [[:en:Wikipedia:Tools|Tools]]
+|-
+| Sông-chhòn vùn-khien  ||  上傳文件    ||  上傳檔案    ||  [[:en:Wikipedia:File Upload Wizard|Upload File]]
+|-
+| Lièn-chiap ngi̍p ya̍p-mien  ||  鏈接入頁面    ||  連結至此的頁面    ||  [https://en.wikipedia.org/wiki/Special:WhatLinksHere/Main_Page What links here]
+|-
+| Siông-kôan kiên-kói   ||  相關更改    ||   相關變更   ||  [https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Wikipedia Related changes]
+|-
+| Thi̍t-sû ya̍p  ||  特殊頁    ||   特殊頁面   ||  [[:en:Help:Special page|Special Pages]]
+|-
+| Ku-thin lièn-kiet  ||  固定鏈接    ||  靜態連結    ||  [[:en:Help:Permanent link|Permanent link]]
+|-
+| Ya̍p-mien chṳ̂-sín  ||  頁面資訊    ||  頁面資訊    || [[:en:Help:Page information|Page Information]]  
+|-
+| Wikidata hong-muk ||  維基數據項目   ||  （共樣）    ||  [[:en:Wikipedia:Wikidata|Wikidata item]]
+|-
+| Yín-yung liá-ya̍p ||  引用邇頁    ||  引用此頁面    ||  [[:en:Wikipedia:Citing Wikipedia|Cite This Page]]
+|-
+| Khì-thâ ngî-ngièn ||  其他語言    ||  （共樣）    ||  [https://meta.wikimedia.org/wiki/List_of_Wikipedias Other languages]
+|-
+| Phiên-siá lièn-kiet ||  編寫鏈接    ||  編輯連結    ||  [https://www.wikidata.org/wiki/Q2013#sitelinks-wikipedia Edit links (at Wikidata)]
+|-
+| Ya̍p-mien ||  頁面    ||  條目    ||  [[:en:Wikipedia:What is an article?|Article]]
+|-
+| Kâu-liù  ||  交流    ||  討論    ||  [[:en:Wikipedia:Talk page guidelines|Talk]]
+|-
+| Ye̍t-thu̍k ||  閱讀    ||  （共樣）    ||  Read
+|-
+| Phiên-siá ||  編寫    ||  編輯    ||  [[:en:Help:Editing|Edit]]
+|-
+| Phiên-siá ngièn-sṳ́ ma  || 編寫原始碼    ||  編輯源代码  ||  Change Source
+|-
+| Chhà-khon ngièn-ma || 查看原碼    ||  檢視原始碼 / 查看源代码    ||  [[:en:Wikipedia:View source|View source]]
+|-
+| Chhà-khon li̍t-sṳ́  ||  查看歷史    ||  靜態連結    ||  [[:en:Help:Page history|View history]]
+|-
+| Chhìm-cháu ||  尋找    ||  搜素    ||  [[:en:Help:Searching|Search]]
+|-
+| Chhóng-kien  ||  創建    ||  （共樣）   ||  [[:en:Wikipedia:Article creation|Create (an article)]]
+|-
+| Pó-chhùn pún-ya̍p ||  保存本頁    ||  保存編輯    ||  Save this page
+|-
+| Chán-sṳ yi-lám ||  展示預覽    ||  顯示預覽    ||  [[:en:Help:Show preview|Show preview]]
+|-
+| Chán-sṳ chhâ-phe̍t ||  展示差別    ||  顯示更改    ||  Show changes
+|-
+| Chhí-sêu ||  取消    ||  （共樣）    ||  [[:en:Help:Undo|Undo]]
+|-
+| Chak-yeu ||  摘要    ||  編輯摘要   ||  [[:en:Help:Edit summary|Edit summary]]
+|-
+| Tên-ngi̍p  ||  登入   ||  登錄    ||  [[:en:Help:Logging in|Log in]]
+|-
+| Kien-li̍p chong-ho ||  建立賬號    ||  創建賬戶   ||  [https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Wikipedia%3AUsername+policy Create an Account]
+|-
+| Tên-chhut || 登出   ||  退出    ||  [[:en:Help:Logging_in#Logging_out|Log out]]
+|-
+| Yung-fu-miàng ||  用戶名    ||  （共樣）    ||  [[:en:Wikipedia:Username policy|Username]]
+|-
+| Me̍t-ma ||  密碼    ||  （共樣）    ||  Password
+|-
+<!--
+| Ku-thin lièn-kiet  ||  固定鏈接    ||  靜態連結    ||  [[:en:Help:Permanent link|Permanent link]]
+|-
+| Ku-thin lièn-kiet  ||  固定鏈接    ||  靜態連結    ||  [[:en:Help:Permanent link|Permanent link]]
+|-
+| Ku-thin lièn-kiet  ||  固定鏈接    ||  靜態連結    ||  [[:en:Help:Permanent link|Permanent link]]
+|-
+| Ku-thin lièn-kiet  ||  固定鏈接    ||  靜態連結    ||  [[:en:Help:Permanent link|Permanent link]]
+|-
+| Ku-thin lièn-kiet  ||  固定鏈接    ||  靜態連結    ||  [[:en:Help:Permanent link|Permanent link]]
+|-
+| Ku-thin lièn-kiet  ||  固定鏈接    ||  靜態連結    ||  [[:en:Help:Permanent link|Permanent link]]
+|-
+-->
+|}
