@@ -1,4 +1,4 @@
-{{Navbox
+<noinclude>{{Hakka-TW|1|模板:Provinces of China}}</noinclude>{{Navbox
 |name  = 中華人民共和國省級行政區
 |title = [[中華人民共和國]]省級行政區劃
 |image = [[Image:Flag of the People's Republic of China.svg|border|76px|中華人民共和國國旗]]
@@ -26,33 +26,5 @@
 {{nowrap end}}
 </div>
 }}
-<noinclude>
-
-<!--Categories-->
-[[Category:中國模板| ]]
-
-<!--Interwikis-->
-[[bg:Шаблон:Административно деление на Китайската народна република]]
-[[da:Skabelon:Kinas provinser]]
-[[en:Template:Province-level divisions of the People's Republic of China]]
-[[he:תבנית:מחוזות סין]]
-[[id:Templat:Provinsi RRC]]
-[[it:Template:Province della Cina]]
-[[ja:Template:中華人民共和国の行政区画]]
-[[ko:틀:중화인민공화국]]
-[[lt:Šablonas:Kinija-ter]]
-[[lv:Veidne:Ķīnas provinces]]
-[[mk:Шаблон:Административна поделба на Народна Република Кина на ниво на провинции]]
-[[ms:Templat:Wilayah China]]
-[[nl:Sjabloon:Navigatie bestuurlijke indeling China]]
-[[no:Mal:Kinas provinser]]
-[[os:Шаблон:Китайы провинцитæ]]
-[[pt:Predefinição:Subdivisões da República Popular da China]]
-[[ro:Format:Împărțirea administrativă a Republicii Populare Chineze]]
-[[ru:Шаблон:Провинции КНР]]
-[[sr:Шаблон:Народна Република Кина]]
-[[sv:Mall:Kina]]
-[[vi:Bản mẫu:Đơn vị hành chính cấp tỉnh CHNDTH]]
-[[zh:Template:中华人民共和国省级行政区]]
-[[zh-min-nan:Template:PRC Hengchengkhu]]
-</noinclude>
+<includeonly>[[Category:中國嘅省級行政區|{{PAGENAME}}]]</includeonly>
+<noinclude>[[Category:中國模板| ]]</noinclude>
