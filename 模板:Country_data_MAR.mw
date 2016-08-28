@@ -1,11 +1,11 @@
 {{ {{{1<noinclude>|country showdata</noinclude>}}}
-| alias = Mô-lo̍k-kô
+| alias = Morocco
 | flag alias = Flag of Morocco.svg
 | flag alias-1913 = Flag of Spanish Morocco.svg
 | flag alias-naval = Naval Ensign of Morocco.svg
 | link alias-naval = Royal Moroccan Navy
 | size = {{{size|}}}
-| name = {{#if: {{{name|}}} | {{{name|}}} | Mô-lo̍k-kô }}
+| name = {{#if: {{{name|}}} | {{{name|}}} | Morocco }}
 | altlink = {{{altlink|}}}
 | variant = {{{variant|}}}
 <noinclude>
