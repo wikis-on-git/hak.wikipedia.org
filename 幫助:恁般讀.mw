@@ -1,4 +1,8 @@
-== 客語白話字與通用拼音及國際音標對照 ==
+邇兜介紹客語白話字嘅讀寫方法。
+
+客語白話字有台灣客語白話字撈汕頭客語白話字（大陸客語白話字）兩種版本。汕頭客語白話字同台灣客語白話字有不同之處，已經分停止使用。<ref>[http://hakka.fhl.net/HakngiLuntham/HakngiLuntham2.html 比較兩種客語聖經譯本底背ke語音差異—用汕頭客語聖經譯本ke現代客語聖經譯本底背ke約翰福音為例]</ref>台灣客語白話字今下還有基督徒在用，邇兜嘅白話字建議用渠來寫。
+
+== 客語白話字同通用拼音撈國際音標對照 ==
 {|align="center" border=1 style="text-align: center;"
 |-
 !客語白話字（Pha̍k-fa-sṳ）
@@ -227,15 +231,43 @@
 |33
 |N/A
 |}
+==台灣版本同汕頭（大陸）版本白話字嘅區別==
+===聲母嘅對應關係===
+#ny→ng：例：「源」（陸：nyen，台：ngien）
+#sh→s：例：「上」（陸：shong，台：song）
+#ts→ch：例：「做」（陸：tso，台：cho）
+#tsh→chh：例：「在」（陸：tshai，台：chhai）
+#kw→k：例：「光」（陸：kwong，台：kong）
+#khw→kh：例：「曠」（陸：khwong，台：khong）
+===聲調對應關係===
+{| class="wikitable"
+|-
+! 傳統調名 !! 大陸客語 !! 台灣客語 !! 例（陸/台）
+|-
+| 陰平 || a || â || 有（yu / yû）
+|-
+| 陰上 || colspan="2"| á || 
+|-
+| 陰去 || à || a || 又（yù / yu）
+|-
+| 陰入 || colspan="2"| ak || 
+|-
+| 陽平 || â || à || 同（thûng / thùng）
+|-
+| 陽上 || colspan="2"| á || 
+|-
+| 陽入 || colspan="2"| a̍k || 
+|}
 
-== 客語與閩南語白話字聲調對照 ==
+
+== 客語同閩南語白話字聲調嘅對照 ==
 {| align="center" class="wikitable" style="text-align:center" border="1" cellpadding="4" cellspacing="2"
 |-
 ! 傳統 || 陰平 || 陰上 || 陰去 || 陰入 || 陽平 || 陽上<ref>歸陰上，調值相同。</ref> || 陽去 || 陽入
 |-
 | 數字 || 1 || 2 || 3 || 4 || 5 || 6 || 7 || 8
 |-
-! 客語白話字 || â || á || a || ak || à || á || (å) || a̍k
+! 客語白話字<br />（台灣版本嘅） || â || á || a || ak || à || á || (å) || a̍k
 |-
 | 四縣調值 || 24 || 41 || 44 || 2 || 11 || 41 || -- || 4
 |-
@@ -258,7 +290,9 @@
 ==其他有用嘅鏈接==
 *[http://hakka.fhl.net/dict/index_hakka.html 客語詞典（台灣客語四縣腔，白話字建議使用渠來寫）]
 *[http://hakka.fhl.net/dict/index_enhakka.html 客英詞典（大陸客語白話字，已經分停止使用，同台灣客語有不同之處）]
+*[http://hakka.fhl.net/HakngiLuntham/HakngiLuntham2.html 比較兩種客語聖經譯本底背ke語音差異—用汕頭客語聖經譯本ke現代客語聖經譯本底背ke約翰福音為例]
 *[http://hakka.dict.edu.tw/ 台灣教育部客家語常用詞詞典]
 *[http://www.hakka.gov.tw/lp.asp?ctNode=472&CtUnit=124&BaseDSD=15&mp=1&ps= 中文佬客家話个轉字列表]，有1893筆資料做得查詢到。
+*[http://taigi.fhl.net/TaigiIME/ 信望愛台語客語輸入法]
 
 [[Category:Then-sú]]
