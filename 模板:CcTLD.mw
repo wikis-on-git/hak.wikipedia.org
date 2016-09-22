@@ -1,0 +1,50 @@
+{{Navbox with collapsible groups
+|name = CcTLD
+|state = {{{state|uncollapsed}}}
+|title = [[Country code top-level domain]]s
+|
+|selected = {{{1|}}}
+|
+|group1 = [[ISO 3166-1 alpha-2|ISO 3166-1]]
+|state1 = {{{iso3166-1|uncollapsed}}}
+|abbr1 = ISO 3166-1
+|list1 = <div>
+'''A'''&nbsp;[[.ac]] [[.ad]] [[.ae]] [[.af]] [[.ag]] [[.ai]] [[.al]] [[.am]] [[.ao]] [[.aq]] [[.ar]] [[.as]] [[.at]] [[.au]] [[.aw]] [[.ax]] [[.az]]{{spaces|2}}
+'''B'''&nbsp;[[.ba]] [[.bb]] [[.bd]] [[.be]] [[.bf]] [[.bg]] [[.bh]] [[.bi]] [[.bj]] [[.bm]] [[.bn]] [[.bo]] [[.br]] [[.bs]] [[.bt]] [[.bw]] [[.by]] [[.bz]]{{spaces|2}}
+'''C'''&nbsp;[[.ca]] [[.cc]] [[.cd]] [[.cf]] [[.cg]] [[.ch]] [[.ci]] [[.ck]] [[.cl]] [[.cm]] [[.cn]] [[.co]] [[.cr]] [[.cu]] [[.cv]] [[.cw]] [[.cx]] [[.cy]] [[.cz]]{{spaces|2}}
+'''D'''&nbsp;[[.de]] [[.dj]] [[.dk]] [[.dm]] [[.do]] [[.dz]]{{spaces|2}}
+'''E'''&nbsp;[[.ec]] [[.ee]] [[.eg]] [[.er]] [[.es]] [[.et]] [[.eu]]{{spaces|2}}
+'''F'''&nbsp;[[.fi]] [[.fj]] [[.fk]] [[.fm]] [[.fo]] [[.fr]]{{spaces|2}}
+'''G'''&nbsp;[[.ga]] [[.gd]] [[.ge]] [[.gf]] [[.gg]] [[.gh]] [[.gi]] [[.gl]] [[.gm]] [[.gn]] [[.gp]] [[.gq]] [[.gr]] [[.gs]] [[.gt]] [[.gu]] [[.gw]] [[.gy]]{{spaces|2}}
+'''H'''&nbsp;[[.hk]] [[.hm]] [[.hn]] [[.hr]] [[.ht]] [[.hu]]{{spaces|2}}
+'''I'''&nbsp;[[.id]] [[.ie]] [[.il]] [[.im]] [[.in]] [[.io]] [[.iq]] [[.ir]] [[.is]] [[.it]]{{spaces|2}}
+'''J'''&nbsp;[[.je]] [[.jm]] [[.jo]] [[.jp]]{{spaces|2}}
+'''K'''&nbsp;[[.ke]] [[.kg]] [[.kh]] [[.ki]] [[.km]] [[.kn]] [[.kp]] [[.kr]] [[.kw]] [[.ky]] [[.kz]]{{spaces|2}}
+'''L'''&nbsp;[[.la]] [[.lb]] [[.lc]] [[.li]] [[.lk]] [[.lr]] [[.ls]] [[.lt]] [[.lu]] [[.lv]] [[.ly]]{{spaces|2}}
+'''M'''&nbsp;[[.ma]] [[.mc]] [[.md]] [[.me]] [[.mg]] [[.mh]] [[.mk]] [[.ml]] [[.mm]] [[.mn]] [[.mo]] [[.mp]] [[.mq]] [[.mr]] [[.ms]] [[.mt]] [[.mu]] [[.mv]] [[.mw]] [[.mx]] [[.my]] [[.mz]]{{spaces|2}}
+'''N'''&nbsp;[[.na]] [[.nc]] [[.ne]] [[.nf]] [[.ng]] [[.ni]] [[.nl]] [[.no]] [[.np]] [[.nr]] [[.nu]] [[.nz]]{{spaces|2}}
+'''O'''&nbsp;[[.om]]{{spaces|2}}
+'''P'''&nbsp;[[.pa]] [[.pe]] [[.pf]] [[.pg]] [[.ph]] [[.pk]] [[.pl]] [[.pm]] [[.pn]] [[.pr]] [[.ps]] [[.pt]] [[.pw]] [[.py]]{{spaces|2}}
+'''Q'''&nbsp;[[.qa]]{{spaces|2}}
+'''R'''&nbsp;[[.re]] [[.ro]] [[.rs]] [[.ru]] [[.rw]]{{spaces|2}}
+'''S'''&nbsp;[[.sa]] [[.sb]] [[.sc]] [[.sd]] [[.se]] [[.sg]] [[.sh]] [[.si]] [[.sk]] [[.sl]] [[.sm]] [[.sn]] [[.so]] [[.sr]] [[.ss]] [[.st]] [[.su]] [[.sv]] [[.sx]] [[.sy]] [[.sz]]{{spaces|2}}
+'''T'''&nbsp;[[.tc]] [[.td]] [[.tf]] [[.tg]] [[.th]] [[.tj]] [[.tk]] [[.tl]] [[.tm]] [[.tn]] [[.to]] [[.tr]] [[.tt]] [[.tv]] [[.tw]] [[.tz]]{{spaces|2}}
+'''U'''&nbsp;[[.ua]] [[.ug]] [[.uk]] [[.us]] [[.uy]] [[.uz]]{{spaces|2}}
+'''V'''&nbsp;[[.va]] [[.vc]] [[.ve]] [[.vg]] [[.vi]] [[.vn]] [[.vu]]{{spaces|2}}
+'''W'''&nbsp;[[.wf]] [[.ws]]{{spaces|2}}
+'''Y'''&nbsp;[[.ye]] [[.yt]]{{spaces|2}}
+'''Z'''&nbsp;[[.za]] [[.zm]] [[.zw]]
+</div>
+
+
+|below = See also: [[Generic top-level domain]]s
+}}<noinclude>
+{{collapsible option}}
+----
+
+===Usage===
+{{Collapsible sections option |list="ISO 3166-1", "IDN", "Proposed" or "Others"}}
+* By default, list1 ("ISO 3166-1") is shown expanded. To show it collapsed, include {{para|iso3166-1}}<code>collapsed</code> when transcluding the template.
+
+[[Category:Computing navigational boxes]]
+</noinclude>
