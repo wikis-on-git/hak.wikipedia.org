@@ -1,3 +1,3 @@
-[[Internet Movie Database]] (IMDb) sông ''[http://www.imdb.com/{{#if:{{{1|{{{id|}}}}}}|title/{{#ifeq:{{Str left|{{{1|{{{id}}}}}}|2}}|tt||tt}}{{Trim|{{{1|{{{id}}}}}}}}|{{#if:{{#property:P345}}|title/{{#property:P345}}|Title?{{urlencode:{{PAGENAME}}}}}}}}/{{#switch:{{lc:{{{section|}}} }}
+[[Mióng-lu Thien-yáng Chṳ̂-liau-khù]] (IMDb) sông ''[http://www.imdb.com/{{#if:{{{1|{{{id|}}}}}}|title/{{#ifeq:{{Str left|{{{1|{{{id}}}}}}|2}}|tt||tt}}{{Trim|{{{1|{{{id}}}}}}}}|{{#if:{{#property:P345}}|title/{{#property:P345}}|Title?{{urlencode:{{PAGENAME}}}}}}}}/{{#switch:{{lc:{{{section|}}} }}
 |award|awards=awards Awards for
 }} {{{2|{{{title|{{PAGENAMEBASE}}}}}}}} {{{3|{{{description|}}}}}}]'' ke chṳ̂-liau {{en}}<noinclude>{{doc}}</noinclude>
