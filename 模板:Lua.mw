@@ -1,0 +1,4 @@
+<includeonly>{{#invoke:Lua banner|main}}</includeonly><noinclude>
+{{Lua|Module:Lua banner}}
+{{模板文件}}
+</noinclude>
