@@ -1,0 +1,45 @@
+{{Documentation subpage}}
+{{template shortcut|lua talk}}
+<!-- Categories go at the bottom of this page and interwikis go in Wikidata. -->
+
+本模板用于标示使用[[Lua]]语言编译的模板，可放置于模板的文档及讨论页，并将模板自动归类于[[:Category:基于Lua编程语言的模板]]。
+
+== 用法 ==
+
+; 基本用法
+{{tlx|lua|模块1|模块2|...}}
+
+其中參數<code>模块1</code>為必填
+
+== 示例 ==
+
+*{{tlx|Lua|Module:Test}}
+{{Lua|Module:Test|nocat=true}}
+連到1個模組
+{{clear}}
+*{{tlx|lua|Module:Test|Module:BananasArgs}}
+{{Lua|Module:Test|Module:BananasArgs|nocat=true}}
+連到多個模組
+{{clear}}
+*{{tlx|Lua|Module:Abc}}
+{{Lua|Module:Abc|nocat=true}}
+若連到1個不存在的模組將出現頁面不存在的紅色超連結
+{{clear}}
+*{{tlx|lua}}
+{{Lua|nocat=true}}
+若沒有連到模組將出現錯誤：<strong class="error">錯誤：未指定模組</strong>
+{{clear}}
+
+== 分類 ==
+
+本模板如果置於模板名字空間下，而且該頁面不是附頁、/doc、/sandbox、/sandbox2、/testcases，就會將頁面加入到[[:Category:基于Lua编程语言的模板]]分類當中。<!--如需要加入到別的分類，可使用{{para|category}}參數，如{{para|category|基于Lua字符的模板}}。要不加入分類，可用{{para|nocat|true}}。-->
+
+== 参见 ==
+* [[Wikipedia:Lua]]
+* {{tl|module rating}}
+
+<includeonly>
+<!-- Categories go here, and interwikis go in Wikidata -->
+[[Category:維基百科Lua模板]]
+
+</includeonly>
