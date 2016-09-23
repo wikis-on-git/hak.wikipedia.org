@@ -1,0 +1,17 @@
+<includeonly>{{pp-template}}</includeonly><noinclude>{{template doc page viewed directly}}</noinclude>
+<!-- 在本行下編輯模板說明 -->
+本模板是{{tl|language icon}}的一个简化应用，其代码为<nowiki>“{{languageicon|en|英文}}”</nowiki>。
+== 用法 ==
+本模版以放在链接前后为佳，例如：
+<pre>[http://english.example.com/ English link] {{En icon}}</pre>
+或者用它的重定向模板：
+<pre>[http://english.example.com/ English link] {{En}}</pre>
+都得到：
+
+[http://english.example.com/ English link] {{En icon}}
+== 参见 ==
+* {{tl|En}}重定向到{{tl|En icon}}。
+* 由{{tl|language icon}}模板衍生的系列模板，请参见[[:Category:语言标示模板]]。
+<includeonly>
+[[Category:语言标示模板]]
+</includeonly>
