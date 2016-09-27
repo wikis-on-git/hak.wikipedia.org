@@ -1,0 +1,11 @@
+[[Theu-phàn]] sông ''[https://<!--
+-->{{#switch:{{{3|{{{type|movie}}}}}}<!-- 如果“type”参数为空，则默认为电影 -->
+|movie|电影|電影=movie.douban.com/subject/{{{1|{{{id|}}}}}}
+|book|书籍|書籍=book.douban.com/subject/{{{1|{{{id|}}}}}}
+|music|音乐|音樂=music.douban.com/subject/{{{1|{{{id|}}}}}}
+|www.douban.com/{{{3|{{{type|}}}}}}/{{{1|{{{id|}}}}}}<!-- #switch的默认情况 -->
+}}/<!--
+--> {{#if:{{{2|{{{title|}}}}}}|{{{2|{{{title|}}}}}}|{{PAGENAME}}}}]''<!-- 如果“title”参数为空，则默认为当前维基百科页面的标题
+--> ke chṳ̂-liau {{zh-cn}}<noinclude>
+{{Documentation}}
+</noinclude>
