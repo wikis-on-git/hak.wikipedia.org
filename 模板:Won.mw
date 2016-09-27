@@ -1,0 +1,13 @@
+<noinclude>{| class="wikitable"
+|-
+|</noinclude>style="background: {{
+#switch: {{lc:{{{place|Fe̍t-chióng}}}}}
+  |won|Fe̍t-chióng|Fe̍t-chióng= {{{color|<nowiki>#</nowiki>99FF99}}}
+  |1|1st|第一名|第1名|gold|金牌|金 = {{{color|gold}}}
+  |2|2nd|第二名|第2名|silver|银牌|銀牌|银|銀 = {{{color|silver}}}
+  |3|3rd|第三名|第3名|bronze|铜牌|銅牌|铜|銅 = {{{color|<nowiki>#</nowiki>D9A821}}}
+  |#default = {{{color|<nowiki>#</nowiki>F8EABA}}}
+}}; color: {{{text|black}}}; vertical-align: middle; text-align: {{{align|center}}}; {{{style|}}}" class="yes table-yes2"|{{{1|{{{place|Fe̍t-chióng}}}}}}<noinclude>
+|}
+{{Documentation, template|Template:Table cell templates}}
+</noinclude>
