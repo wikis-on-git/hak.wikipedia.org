@@ -4,7 +4,7 @@
 
 === 主要演員 ===
 {| class="wikitable" width="100%" style="margin-bottom: 10px;"
-
+|- style="background:green; color:snow" align=center
 | width="5%" |'''演員''' 
 | width="7%" |'''角色''' 
 | width="45%" |'''紹介'''
@@ -31,7 +31,7 @@
 
 === 其他演員 ===
 {| class="wikitable" width="100%"
-
+|- style="background:green; color:snow" align=center
 | width="5%" |'''演員''' 
 | width="7%" |'''角色''' 
 | width="45%" |'''紹介'''
@@ -82,7 +82,7 @@
 
 === 特別演出 ===
 {| class="wikitable" width="100%"
-
+|- style="background:green; color:snow" align=center
 | width="5%" |'''演員''' 
 | width="7%" |'''角色''' 
 | width="45%" |'''紹介'''
@@ -116,7 +116,7 @@
 
 == 電視劇歌曲 ==
 {| class="wikitable" style="width:80%"
-
+|- style="width:100%; background:green; color:snow" align=center
 | style="width:5%" |'''曲別'''
 | style="width:10%" |'''歌名'''
 | style="width:10%" |'''演唱者'''
@@ -128,11 +128,49 @@
 | 草莓救星 
 | 吳曉萱 
 | 吳曉萱、侯啟泰、吳穎然、呂海棻
+|-align=center
+|背景音樂
+| [[G弦之歌]] 
+| 無 
+| 無 
+|[[约翰·塞巴斯蒂安·巴赫|巴哈]]
+|-align=center 
 |}
 
 == 獎項及提名 ==
-
-=== 第50屆金鐘獎 ===
+;[[第50屆金鐘獎]]
+{{awards table}}
+|-
+| rowspan="7"|2015
+|《麻醉風暴》
+|迷你劇集／電視電影獎
+|{{won}}
+|-
+|[[黃健瑋]]
+|迷你劇集／電視電影男主角獎
+|{{nom}}
+|-
+|[[吳慷仁]]
+|迷你劇集／電視電影男配角獎
+|{{won}}
+|-
+|[[黃仲崑]]
+|迷你劇集／電視電影男配角獎
+|{{nom}}
+|-
+|[[謝盈萱]]
+|迷你劇集／電視電影女配角獎
+|{{nom}}
+|-
+|[[蕭力修]]
+|迷你劇集／電視電影導演獎
+|{{won}}
+|-
+|黃建銘、王卉竺
+|迷你劇集／電視電影編劇獎
+|{{won}}
+|-
+{{end}}
 
 == 參考資料 ==
 {{Reflist}}
