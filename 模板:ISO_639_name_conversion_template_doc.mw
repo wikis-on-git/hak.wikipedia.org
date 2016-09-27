@@ -1,25 +1,13 @@
 <includeonly>{{Documentation|1=Template:ISO 639 name conversion template doc|content=
 
-===Usage===
-This template is part of a series that resolves the [[ISO 639-1|ISO&nbsp;639-1]], [[ISO 639-2|ISO&nbsp;639-2]] and [[ISO 639-3|ISO&nbsp;639-3]] codes to language names. {{#ifexist:Category:Articles containing {{{1|{{ {{PAGENAME}} }}}}}-language text
- |In particular it is used to include articles in the category [[:Category:Articles containing {{{1|{{ {{PAGENAME}} }}}}}-language text|Articles containing {{{1|{{ {{PAGENAME}} }}}}}-language text]] by using the code «{{{2|{{Str right|{{PAGENAME}}|13}}}}}».[[Category:ISO 639 name from code templates|{{{2|{{Str right|{{PAGENAME}}|13}}}}}]]
- |It could include articles in the category [[:Category:Articles containing {{{1|{{ {{PAGENAME}} }}}}}-language text|Articles containing {{{1|{{ {{PAGENAME}} }}}}}-language text]], if it was created (the text would be something like {{tlx|Category articles containing non-English-language text|{{ {{PAGENAME}} }}|{{{2|{{Str right|{{PAGENAME}}|13}}}}}}}), by using the code «{{{2|{{Str right|{{PAGENAME}}|13}}}}}».  For example, {{Tlx|Lang|{{{2|{{Str right|{{PAGENAME}}|13}}}}}|some text in {{ {{PAGENAME}} }} }}.[[Category:ISO 639 name from code templates without a category|{{Str right|{{PAGENAME}}|13}}]]
-}}  {{#ifexist:Template:{{{2|{{Str right|{{PAGENAME}}|13}}}}} icon
- |It is used by the template {{Tlx|{{ucfirst:{{{2|{{Str right|{{PAGENAME}}|13}}}}}}} icon}}{{#switch:{{lc:{{{2|}}}}}|sm=|sc=|#default={{#ifexist:Template:{{{2|{{Str right|{{PAGENAME}}|13}}}}}
-  | {{#ifeq: {{{alt|}}} | no | | , and possibly by {{Tlx|{{ucfirst:{{{2|{{Str right|{{PAGENAME}}|13}}}}}}}}} }}
- }}}}.
-}}
+=== 用法 ===
+這個系列模板是用來解決[[ISO 639-1|ISO&nbsp;639-1]]、[[ISO 639-2|ISO&nbsp;639-2]]、[[ISO 639-3|ISO&nbsp;639-3]]代碼轉為語言名稱。{{#ifexist:Category:含有{{{1|（'''語言名稱'''）}}}的條目|使用代碼«{{{2|（''ISO語言代碼''）}}}»以將條目歸入分類[[:Category:含有{{{1|('''l語言名稱''')}}}的條目]]。|它可以將條目歸入分類[[:Category:含有{{{1|（'''語言名稱'''）}}}的條目]]，如果這個類別存在，使用代碼«{{{2|（'''ISO code'''）}}}»。[[Category:未有分類的ISO 639語言代碼模板]]}}  {{#ifexist:template:{{{2|}}} icon|其使用在模板{{Tl|{{{2|zh}}} icon}}-{{{{{2|zh}}} icon}}{{#ifexist:template:{{{2|}}}|，並可能為{{Tl|{{{2|}}}}} }}。}}
 
-;Redirect categories
-* [[:Category:Redirects from {{{1|{{ {{PAGENAME}} }}}}}-language terms|Redirects from {{{1|{{ {{PAGENAME}} }}}}}-language terms]] {{#ifexist:Category:Redirects from {{{1|{{ {{PAGENAME}} }}}}}-language terms||(Create using {{Tlx|Redirect from alternative language category}})}}
-* [[:Category:Redirects to {{{1|{{ {{PAGENAME}} }}}}}-language terms|Redirects to {{{1|{{ {{PAGENAME}} }}}}}-language terms]] {{#ifexist:Category:Redirects to {{{1|{{ {{PAGENAME}} }}}}}-language terms||(Create using {{Tlx|Redirect to alternative language category}})}}
+注意：修改前請先閱讀[[Template:ISO 639 name]]注意事項，並確定能夠完成後續作業。
 
-===See also===
+=== 參見 ===
 * {{Tlx|Lang}}
-* {{#if:{{{dab|}}}
-  | [[{{ISO 639 name {{lcfirst:{{str right|{{BASEPAGENAME}}|13}}}}}} language ({{{dab}}})|{{ISO 639 name {{lcfirst:{{str right|{{BASEPAGENAME}}|13}}}}}} language]] 
-  | [[{{ISO 639 name {{lcfirst:{{str right|{{BASEPAGENAME}}|13}}}}}} language]] 
-  }}
+* [[{{ISO 639 name {{lcfirst:{{str right|{{BASEPAGENAME}}|13}}}}}}]]
 
 }}</includeonly><noinclude>
 {{Documentation}}
