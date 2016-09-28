@@ -1,1 +1,7 @@
-<span class="official website">{{URL|1={{{1|{{{URL|}}}}}}|2={{{2|{{{name|Official website}}}}}}}}</span> {{#ifeq:{{{format}}}|flash|{{link note|note=Requires [[Adobe Flash Player]]}} }} {{#if:{{{1|{{{URL|}}}|}}}|{{#if:{{{mobile|}}}|({{URL|1={{{mobile}}}|2=Mobile}})}} }}<noinclude>{{documentation}}</noinclude>
+<span class="official website">{{URL|1={{{1|{{{URL|{{#invoke:Wikidata|getRawValue|P856|FETCH_WIKIDATA}}}}}}}}|2={{{2|{{{name|kôn-fông mióng-chhàm }}}}}}}}</span>{{#ifeq:{{{format}}}|flash
+ |<span style="font-size:smaller;">（sî-yeu [[Adobe Flash Player]]）</span>
+}}{{#if:{{{1|{{{URL|{{#invoke:Wikidata|getRawValue|P856|FETCH_WIKIDATA}}}}}|}}}|{{#if:{{{mobile|}}}
+ |（{{URL|1={{{mobile}}}|2=hàng-thûng-pán}}）}}
+}}<noinclude>
+{{documentation}}
+</noinclude>
