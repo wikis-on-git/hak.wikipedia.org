@@ -1,9 +1,5 @@
 {| class="notice metadata plainlinks" id="disambig" style="width:100%; margin:16px 0; background:none;"
 |style="vertical-align:middle;"|[[File:{{{image|Disambig.svg}}}|30px|link=Wikipedia:Disambiguation]]
-|style="vertical-align:middle; font-style:italic;"|{{{text|Liá he yit-ke [[Help:Disambiguation|sêu-khi-ngi]] ya̍p, lò-lie̍t lê yû siông-thùng ya siông-khiûn ke phiêu-thì, than nui-yùng m̀-thùng ke thiàu-muk.<br /> <small>Ká-yì ngì he théu-ko mêu thiàu-muk ke [{{fullurl:Special:WhatLinksHere/{{{page-title|{{FULLPAGENAME}}}}}|namespace=0}} nui-phu lièn-kiet] yì chón-to pún-ya̍p, hî-mong ngì nèn hia̍p-chhu siû chang liá ke nui-phu lièn-kiet, chiông khì chṳ́-hiong chang-khok ke thiàu-muk.</small>}}}
-|}{{#if:{{{nocat|}}}{{NAMESPACE}}||[[Category:消歧義條目]]}}<noinclude>
-{{doc}}
-
-
-[[ml:ഫലകം:നാനാര്‍ത്ഥങ്ങള്‍]]
-</noinclude>
+|style="vertical-align:middle; font-style:italic;"|{{{text|Liá he yit-ke [[Help:Disambiguation|yù khi-ngi ke ya̍p]].<br /> <small>Na-he ngì chhṳ nâi-têu [{{fullurl:Special:WhatLinksHere/{{{page-title|{{FULLPAGENAME}}}}}|namespace=0}} lièn-kiet] lòi liá-têu, chhiáng ngì pông-chhen siû-kói yit-ha, ngiong khì lièn chṳ chṳn-khok ke vùn-chông ke-têu.</small>}}}
+|}{{#if:{{{nocat|}}}{{NAMESPACE}}||[[Category:Yù khi-ngi ke ya̍p]]}}<noinclude>
+{{doc}}</noinclude>
