@@ -693,4 +693,5 @@
 {{!}}-
 {{!}} style="padding:0.5em; text-align:left;" {{!}}
 {{{synonyms|}}} }}
-|}{{namespace||{{#if:{{trimbi|{{{binomial|}}}}}|[[Category:TaxoboxLatinName|{{trimbi|{{{binomial|}}}}}]]}}{{#if:{{trimbi|{{{trinomial|}}}}}|[[Category:TaxoboxLatinName2|{{trimbi|{{{trinomial|}}}}}]]}}}}{{Wikidata image|1={{{image|}}} }}</includeonly><noinclude>{{Documentation}}</noinclude>
+|}
+</includeonly><noinclude>{{Documentation}}</noinclude>
