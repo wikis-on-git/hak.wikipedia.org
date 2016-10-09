@@ -63,7 +63,7 @@ KATEGORIJOS
         <div class="jcarousel-item">
 {| width="100%" cellpadding="2" cellspacing="3" style="vertical-align: top; background-color:#ffffff; -moz-border-radius:10px;"
 |-
-! style="background-color: #FFFDD0; font-family: DFKai-SB,KaiTi,SimKai-GB2312; font-size: 1.5em; border: 1px solid #FBEC5D; text-align: left;  padding-left: 7px;  border-radius: 10px; -moz-border-radius:10px; font-vatiant:small-caps;"  | <div style="float:right;">[[Image:wbar_yellow.jpg|link=]]</div><div style="float:center;">[[Image:Disambigua compass.svg|20px|link=]] 分類</div>
+! style="background-color: #FFFDD0; font-family: DFKai-SB,KaiU,KaiTi,SimKai-GB2312,STKaiti,BiaoKai,Kai,'AR PL UKai'; font-size: 1.5em; border: 1px solid #FBEC5D; text-align: left;  padding-left: 7px;  border-radius: 10px; -moz-border-radius:10px; font-vatiant:small-caps;"  | <div style="float:right;">[[Image:wbar_yellow.jpg|link=]]</div><div style="float:center;">[[Image:Disambigua compass.svg|20px|link=]] 分類</div>
 |-
 | style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 105%" |{{分類}}
 |}
