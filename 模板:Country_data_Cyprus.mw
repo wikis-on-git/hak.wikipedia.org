@@ -1,0 +1,17 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Cyprus
+| flag alias = Flag of Cyprus.svg
+| flag alias-colonial = Blue Ensign of Cyprus (1922).svg
+| flag alias-April 1960 = Flag of Cyprus (1960).svg
+| flag alias-1960 = Flag of Cyprus (1960-2006).svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| variant = {{{variant|}}}
+| altlink = {{{altlink|}}}
+<noinclude>
+| redir1 = CYP
+| var1 = colonial
+| var2 = April 1960
+| var3 = 1960
+</noinclude>
+}}
