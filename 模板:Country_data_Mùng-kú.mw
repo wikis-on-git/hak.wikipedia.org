@@ -1,0 +1,16 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Mùng-kú
+| flag alias = Flag of Mongolia.svg
+| flag alias-1924 = Flag of the People's Republic of Mongolia (1924-1940).svg
+| flag alias-1949 = Flag of the People's Republic of Mongolia (1949-1992).svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1924
+| var2 = 1949
+| redir1 = MNG
+| redir2 = MGL
+</noinclude>
+}}
