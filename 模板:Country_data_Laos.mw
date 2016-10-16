@@ -1,0 +1,16 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Liàu-koet
+| flag alias = Flag of Laos.svg
+| flag alias-colonial = Flag of French Laos.svg
+| flag alias-1952 = Flag of Laos (1952-1975).svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = colonial
+| var2 = 1952
+| redir1 = LAO
+</noinclude>
+}}
