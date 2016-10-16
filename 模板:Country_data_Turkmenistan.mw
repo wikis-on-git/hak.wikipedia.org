@@ -1,0 +1,18 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Turkmenistan
+| flag alias = Flag of Turkmenistan.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+| flag alias-1991 = Flag of the Turkmen SSR.svg
+| flag alias-1992 = Flag of Turkmenistan (1992-1997).svg
+| flag alias-1997 = Flag of Turkmenistan (1997-2001).svg
+<noinclude>
+| var1 = 1991
+| var2 = 1992
+| var3 = 1997
+| redir1 = TKM
+| related1 = Turkmen SSR
+</noinclude>
+}}
