@@ -1,0 +1,25 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Saudi Â-lâ-pak
+| flag alias = Flag of Saudi Arabia.svg
+| flag alias-1932 = Flag of Saudi Arabia (1932-1934).svg
+| flag alias-1934 = Flag of Saudi Arabia (1934-1938).svg
+| flag alias-1938 = Flag of Saudi Arabia (1938-1973).svg
+| flag alias-naval = Naval Ensign of Saudi Arabia.svg
+| link alias-naval = Royal Saudi Navy
+| flag alias-army = Chief of General Staff flag of the Saudi Armed Forces.svg
+| link alias-army = Saudi Arabian Army
+| border-army = 
+| flag alias-air force = Flag of the Royal Saudi Air Force.svg
+| link alias-air force = Royal Saudi Air Force
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1932
+| var2 = 1934
+| var3 = 1938
+| redir1 = SAU
+| redir2 = KSA
+</noinclude>
+}}
