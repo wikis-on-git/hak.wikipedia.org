@@ -1,0 +1,17 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Samoa
+| flag alias = Flag of Samoa.svg
+| flag alias-colonial = Blue flag of colonial Samoa.png
+| link alias-football = Samoa {{{mw|}}} national {{{age|}}} association football team
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = colonial
+| redir1 = SAM
+| redir2 = Western Samoa
+| redir3 = WSM
+</noinclude>
+}}
