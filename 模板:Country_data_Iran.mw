@@ -1,0 +1,21 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Iran
+| flag alias = Flag of Iran.svg
+| flag alias-1925 = State Flag of Iran (1925).svg
+| flag alias-1964 = State Flag of Iran (1964).svg
+| flag alias-air force = Flag of the Islamic Republic of Iran Army.png
+| flag alias-army = Flag of the Islamic Republic of Iran Army.png
+| link alias-army = Islamic Republic of Iran Army Ground Forces
+| link alias-naval = Islamic Republic of Iran Navy
+| link alias-air force = Islamic Republic of Iran Air Force
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1925
+| var2 = 1964
+| redir1 = IRN
+| redir2 = IRI
+</noinclude>
+}}
