@@ -1,0 +1,24 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Chêu-sién Mìn-chú-chú-ngi Ngìn-mìn Khiung-fò-koet
+| flag alias = Flag of North Korea.svg
+| flag alias-naval = Naval ensign of North Korea.svg
+| link alias-naval = Korean People's Navy
+| flag alias-army = Flag of the Korean People's Army Ground Force.svg
+| link alias-army = Korean People's Army Ground Force
+| flag alias-navy = Flag of the Korean People's Navy.svg
+| link alias-navy = Korean People's Navy
+| flag alias-air force = Flag of the North Korean People's Army Air Force.svg
+| link alias-air force = Korean People's Army Air Force
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| redir1 = PRK
+| redir2 = Democratic People's Republic of Korea
+| redir3 = Korea, North
+| related1 = Korea
+| related2 = South Korea
+</noinclude>
+}}
