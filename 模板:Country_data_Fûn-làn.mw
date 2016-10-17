@@ -1,0 +1,17 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Fûn-làn
+| flag alias = Flag of Finland.svg
+| flag alias-state = Flag of Finland (state).svg
+| flag alias-naval = Military Flag of Finland.svg
+| link alias-naval = Finnish Navy
+| border-naval =
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = state
+| redir1 = FIN
+| related1 = Åland
+</noinclude>
+}}
