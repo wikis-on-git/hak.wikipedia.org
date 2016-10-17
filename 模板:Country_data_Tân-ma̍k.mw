@@ -1,0 +1,19 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Tân-ma̍k
+| flag alias = Flag of Denmark.svg
+| flag alias-state = Flag of Denmark (state).svg
+| border-state =
+| flag alias-naval = Naval Ensign of Denmark.svg
+| border-naval =
+| link alias-naval = Royal Danish Navy
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = state
+| redir1 = DNK
+| redir2 = DEN
+| redir3 = Kingdom of Denmark
+</noinclude>
+}}
