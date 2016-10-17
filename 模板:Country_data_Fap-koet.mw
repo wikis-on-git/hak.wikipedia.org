@@ -1,0 +1,21 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Fap-koet
+| flag alias = Flag of France.svg
+| flag alias-1790 = Flag of France (1790-1794).svg
+| flag alias-1814 = Flag of the Kingdom of France (1814-1830).svg
+| flag alias-naval = Civil and Naval Ensign of France.svg
+| flag alias-naval-1790 = Flag of French-Navy-Revolution.svg
+| link alias-naval = French Navy
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1790
+| var2 = 1814
+| var3 = naval-1790
+| redir1 = FRA
+| related1 = Kingdom of France
+| related2 = Free France
+</noinclude>
+}}
