@@ -1,0 +1,18 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Argentina
+| flag alias = Flag of Argentina.svg
+| flag alias-alt  = Flag of Argentina (alternative).svg
+| flag alias-1818 = Flag of Argentina (1818).svg
+| link alias-naval = {{#ifeq:{{{variant|}}}|coast guard|Argentine Naval Prefecture|Argentine Navy}}
+| link alias-coast guard = Argentine Naval Prefecture
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = alt
+| var2 = 1818
+| redir1 = ARG
+| related1 = Argentine Confederation
+</noinclude>
+}}
