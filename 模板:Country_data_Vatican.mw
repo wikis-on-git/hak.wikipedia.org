@@ -1,0 +1,12 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Vatican
+| flag alias = Flag of the Vatican City.svg
+| size = {{#if:{{{size|}}}|{{{size}}}|23x16px}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+<noinclude>
+| redir1 = VAT
+| related1 = Holy See
+| related2 = Papal States
+</noinclude>
+}}
