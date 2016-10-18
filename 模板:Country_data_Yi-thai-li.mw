@@ -1,0 +1,25 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Yi-thai-li
+| flag alias = Flag of Italy.svg
+| flag alias-1861 = Flag of Italy (1861-1946).svg
+| flag alias-2003 = Flag of Italy (2003-2006).svg
+| flag alias-civil = Civil Ensign of Italy.svg
+| flag alias-naval = Naval Ensign of Italy.svg
+| link alias-naval = Marina Militare
+| link alias-army = Italian Army
+| link alias-roller hockey = Italy {{{mw}}} national roller hockey team
+| size = {{{size|}}}
+| name = {{{name|}}}
+| variant = {{{variant|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+<noinclude>
+| var1 = 1861
+| var2 = 2003
+| var3 = civil
+| redir1 = ITA
+| related1 = Kingdom of Italy
+| related2 = Italian Social Republic
+| related3 = Napoleonic Italy
+</noinclude>
+}}
