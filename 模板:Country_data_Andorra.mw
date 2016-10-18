@@ -1,0 +1,13 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Andorra
+| flag alias = Flag of Andorra.svg
+| flag alias-1806 = Flag of Andorra 1806.png
+| size = {{{size|}}}
+| name = {{{name|}}}
+| variant = {{{variant|}}}
+| altlink = {{{altlink|}}}
+<noinclude>
+| var1 = 1806
+| redir1 = AND
+</noinclude>
+}}
