@@ -1,0 +1,16 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Trinidad lâu Tobago
+| flag alias = Flag of Trinidad and Tobago.svg
+| flag alias-colonial = Trinidadflag.gif
+| flag alias-naval = Naval Ensign of Trinidad and Tobago.svg
+| link alias-naval = Trinidad and Tobago Coast Guard
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = colonial
+| redir1 = TTO
+| redir2 = TRI
+</noinclude>
+}}
