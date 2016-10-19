@@ -1,0 +1,19 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Saint Vincent lâu Grenadines
+| flag alias = Flag of Saint Vincent and the Grenadines.svg
+| flag alias-colonial = St Vincent colonial flag.png
+| flag alias-1979 = Flag of Saint Vincent and the Grenadines (1979).png
+| flag alias-1985 = Flag of Saint Vincent and the Grenadines (1985).png
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = colonial
+| var2 = 1979
+| var3 = 1985
+| redir1 = VCT
+| redir2 = VIN
+| redir3 = SVG
+</noinclude>
+}}
