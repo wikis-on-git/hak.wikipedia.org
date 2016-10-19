@@ -1,0 +1,16 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Guatemala
+| flag alias = Flag of Guatemala.svg
+| flag alias-1839 = Flag of Guatemala (1839-1843).svg
+| flag alias-civil = Civil Ensign of Guatemala.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| variant = {{{variant|}}}
+| altlink = {{{altlink|}}}
+<noinclude>
+| var1 = 1839
+| var2 = civil
+| redir1 = GTM
+| redir2 = GUA
+</noinclude>
+}}
