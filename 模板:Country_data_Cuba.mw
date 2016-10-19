@@ -1,0 +1,16 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Cuba
+| flag alias = Flag of Cuba.svg
+| link alias-naval = Cuban Navy
+| flag alias-1803 = Flag of Cuba sky blue.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant= {{{variant|}}}
+<noinclude>
+| var1 = 1803
+| redir1 = CUB
+| redir2 = Republic of Cuba
+</noinclude>
+}}
