@@ -1,0 +1,15 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Antigua lâu Barbuda
+| flag alias = Flag of Antigua and Barbuda.svg
+| flag alias-colonial = Flag of Antigua, 1957-1967.png
+| flag alias-naval = Coastguard Ensign of Antigua and Barbuda.svg
+| link alias-naval = Royal Antigua and Barbuda Defence Force
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = colonial
+| redir1 = ATG
+</noinclude>
+}}
