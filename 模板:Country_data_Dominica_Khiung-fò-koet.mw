@@ -1,0 +1,19 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Dominica Khiung-fò-koet
+| flag alias = Flag of the Dominican Republic.svg
+| flag alias-1844  = Flag of the Dominican Republic (up to 1844).svg
+| flag alias-naval = Naval Ensign of the Dominican Republic.svg
+| link alias-naval = Dominican Navy
+| flag alias-army = Army flag of Dominican Republic.svg
+| link alias-army = Dominican Army
+| flag alias-air force =Air Force Ensign of Dominican Republic.svg
+| link alias-air force = Dominican Air Force
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1844
+| redir1 = DOM
+</noinclude>
+}}
