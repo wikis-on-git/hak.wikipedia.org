@@ -1,0 +1,20 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Sudan
+| flag alias = Flag of Sudan.svg
+| flag alias-1956 = Flag of Sudan (1956-1970).svg
+| flag alias-air force=Ensign of the Sudanese Air Force.svg
+| link alias-air force=Sudanese Air Force
+| flag alias-naval = Naval ensign of Sudan.svg
+| link alias-naval=Sudanese Navy
+| link alias-army=Sudanese Army
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1956
+| redir1 = SDN
+| redir2 = SUD
+| related1 = South Sudan
+</noinclude>
+}}
