@@ -1,0 +1,17 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Zambia
+| flag alias = Flag of Zambia.svg
+| flag alias-1964 = Flag of Zambia (1964-1996).svg
+| flag alias-air force=Zambian Air Force ensign.svg
+| link alias-air force=Zambian Air Force
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| redir1 = ZMB
+| redir2 = ZAM
+| var1 = 1964
+| related1 = Northern Rhodesia
+</noinclude>
+}}
