@@ -1,21 +1,21 @@
 {{ {{{1<noinclude>|country showdata</noinclude>}}}
-| alias = China
+| alias = Chûng-koet  
 | flag alias = Flag of the People's Republic of China.svg
 | flag alias-1889 = Flag of the Qing Dynasty (1889-1912).svg
 | flag alias-1912 = Flag of the Republic of China 1912-1928.svg
-| link-alias-1912 = Republic of China
+| link-alias-1912 = Chûng-fà Mìn-koet 
 | flag alias-1929 = Flag of the Republic of China.svg
-| link-alias-1929 = Republic of China
+| link-alias-1929 = Chûng-fà Mìn-koet 
 | flag alias-military = People's Liberation Army Flag of the People's Republic of China.svg
 | flag alias-army = Ground Force Flag of the People's Republic of China.svg
-| link alias-army = People's Liberation Army Ground Force
+| link alias-army = Chûng-koet ngìn-mìn kié-piong-kiûn liu̍k-kiûn 
 | flag alias-naval = Naval Ensign of the People's Republic of China.svg
-| link alias-naval = People's Liberation Army Navy
+| link alias-naval = Chûng-koet ngìn-mìn kié-piong-kiûn hói-kiûn 
 | flag alias-air force = Air Force Flag of the People's Republic of China.svg
-| link alias-air force = People's Liberation Army Air Force
-| name alias-football = China PR
+| link alias-air force = Chûng-koet ngìn-mìn kié-piong-kiûn khûng-kiûn 
+| name alias-football = Chûng-koet 
 | size = {{{size|}}}
-| name = {{{name|}}}
+| name = {{#if: {{{name|}}} | {{{name|}}} | Chûng-koet  }}
 | altlink = {{{altlink|}}}
 | altvar = {{{altvar|}}}
 | variant = {{{variant|}}}
@@ -27,10 +27,10 @@
 | redir1 = CHN
 | redir2 = People's Republic of China
 | redir3 = China, People's Republic of
-| redir4 = China (People's Republic of)
+| redir4 = Chûng-koet 
 | redir5 = PRC
 | related1 = Qing dynasty
 | related2 = Republic of China
-| related3 = Republic of China (1912–1949)
+| related3 = Republic of China (1912-1949)
 </noinclude>
 }}
