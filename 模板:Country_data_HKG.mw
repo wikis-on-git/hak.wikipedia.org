@@ -1,0 +1,40 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Hiông-kóng 
+| flag alias = Flag of Hong Kong.svg
+| flag alias-colonial = Flag of Hong Kong 1959.svg  <!-- deprecate the "colonial" varname -->
+| flag alias-1959 = Flag of Hong Kong 1959.svg
+| flag alias-1941 = Merchant flag of Japan (1870).svg
+| flag alias-1910 = Flag of Hong Kong (1910-1959).png
+| flag alias-1876 = Flag of Hong Kong (1876-1910).png
+| flag alias-1871 = Flag of Hong a| link alias-naval = Hiông-kóng Súi-kín 
+| link alias-cricket = Hiông-kóng Pán-khiù-chhui 
+| link alias-korfball = Hiông-kóng Ha̍p-khiù Thoi-péu-chhui 
+| name alias-football = Chûng-koet Hiông-kóng 
+| link alias-football = Hiông-kóng {{{mw|}}} Chiuk-khiù Thoi-péu-chhui 
+| name alias-basketball = Chûng-koet Hiông-kóng 
+| link alias-basketball = Hiông-kóng {{{mw|nàm-chṳ́}}} Làm-khiù-chhui 
+| name alias-field hockey = Chûng-koet Hiông-kóng 
+| link alias-field hockey = Hiông-kóng {{{mw|nàm-chṳ́}}} Khiuk-kun-khiù chhui 
+| link alias-ice hockey = Hiông-kóng {{{mw|nàm-chṳ́}}} Pên-khiù-chhui 
+| link alias-rugby union = Hiông-kóng {{{mw|}}} Lám-khiù Thoi-péu-chhui 
+| size = {{{size|}}}
+| name = {{#if: {{{name|}}} | {{{name|}}} | Hiông-kóng  }}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1959
+| var2 = 1941
+| var3 = 1910
+| var4 = 1876
+| var5 = 1871
+| var6 = red
+| related1 = Yîn-su̍k Hiông-kóng 
+| redir1 = HKG
+| redir2 = Hong Kong, China
+| redir3 = HKSAR
+| redir4 = Hiông-kóng 
+| redir5 = Chûng-koet Hiông-kóng 
+| redir6 = Hiông-kóng Thi̍t-phe̍t Hàng-chṳn-khî 
+</noinclude>
+}}
