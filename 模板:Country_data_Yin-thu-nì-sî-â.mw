@@ -1,0 +1,13 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Yin-thu-nì-sî-â
+| flag alias = Flag of Indonesia.svg
+| link alias-naval = Yin-thu-nì-sî-â hói-kiûn 
+| link alias-air force = Yin-thu-nì-sî-â khûng-kiûn 
+| size = {{{size|}}}
+| name = {{#if: {{{name|}}} | {{{name|}}} | Yin-thu-nì-sî-â }}
+| altlink = {{{altlink|}}}
+<noinclude>
+| redir1 = IDN
+| redir2 = INA
+</noinclude>
+}}
