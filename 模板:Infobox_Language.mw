@@ -1,0 +1,370 @@
+{{Infobox
+| bodystyle = {{#if:{{{boxsize|}}}|width: {{{boxsize}}};}}
+
+| abovestyle = color: {{#if:{{{creator|}}}{{{setting|}}}{{#ifeq:{{Infobox Language/family-color|{{{familycolor|}}} }}|black|1}}|white|{{{fontcolor|black}}} }}; background-color: {{#if:{{{creator|}}}{{{setting|}}}|black|{{#if:{{{signers|}}}|silver|{{Infobox Language/family-color|{{{familycolor|Default}}} }} }} }};
+| above = {{{name|{{PAGENAME}}}}}
+| aboveclass = above
+| labelstyle = white-space: nowrap;
+
+| headerstyle = color: {{#if:{{{creator|}}}{{{setting|}}}{{#ifeq:{{Infobox Language/family-color|{{{familycolor|}}}}}|black|1}}|white|{{{fontcolor|black}}}}}; background-color: {{#if:{{{signers|}}}|silver|{{#if:{{{creator|}}}{{{setting|}}}|black|{{Infobox Language/family-color|{{{familycolor|Default}}}}}}}}};
+
+| subheaderstyle = font-weight: bold; color: {{#if:{{{creator|}}}{{{setting|}}}{{#ifeq:{{Infobox Language/family-color|{{{familycolor|}}} }}|black|1}}|white|{{{fontcolor|black}}} }}; background-color: {{#if:{{{creator|}}}{{{setting|}}}|black|{{#if:{{{signers|}}}|silver|{{Infobox Language/family-color|{{{familycolor|Default}}} }} }} }};
+| subheader1 = {{#if:{{{altname|}}}|<span style="font-size: small;">{{{altname|}}}</span>}}
+| subheader2 = {{#if:{{{nativename|}}}|<span style="font-size: small;">{{{nativename|}}}</span>}}
+
+| image = {{#if:{{{image|}}}
+  |{{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image size|{{{image_size|{{{imagesize|}}}}}}}}}|sizedefault=frameless|alt={{{alt|{{{imagealt|}}}}}}|suppressplaceholder=yes}}
+  }}
+| caption = {{{imagecaption|}}}
+
+| label1 = Fat-yîm 
+| data1 = {{#if:{{{pronunciation|}}}| {{IPA|{{{pronunciation|''Chiông-fi kâ-sông''}}}}}}}
+| label2 = {{#if:{{{creator|}}}{{{setting|}}}{{#ifeq:{{Infobox Language/family-color|{{{familycolor|}}}}}|black|1}}
+  | Chhóng-chho-chá 
+  | Mû-ngî koet-kâ lâu thi-khî <!--Native to-->
+  }}
+| data2 = {{#if:{{{creator|}}}{{{setting|}}}{{#ifeq:{{Infobox Language/family-color|{{{familycolor|}}}}}|black|1}}
+  |{{{creator|–}}}
+  |{{{states|{{{state|}}}}}}
+  }}
+| label3 = Chhóng-chho ngit-khì
+| data3 = {{{created|}}}
+| label4 = {{#if:{{{creator|}}}{{{setting|}}}{{#ifeq:{{Infobox Language/family-color|{{{familycolor|}}}}}|black|1}}
+  |Sat-thin lâu yung-fap <!--Setting and usage-->
+  |{{#if:{{{region|}}}|'''Khî-vet '''}}
+  }}
+| data4 = {{#if:{{{creator|}}}{{{setting|}}}{{#ifeq:{{Infobox Language/family-color|{{{familycolor|}}}}}|black|1}}
+    |{{{setting|}}}
+    |{{{region|}}}
+    }}
+| label5 = [[Kîn-vúi-thu]]
+| data5 = {{#if:{{{latd|}}}
+  | <small style="white-space: nowrap">{{coord|{{{latd}}}|{{{latm}}}|{{{latNS}}}|{{{longd}}}|{{{longm}}}|{{{longEW}}}|type:landmark|display=inline}}</small>
+  }}
+| label6 = Chhu̍k-khiùn 
+| data6 = {{{ethnicity|}}}
+| label7 = {{#if:{{{extinct|}}}
+  |[[Ngî-ngièn me̍t-mòng]]
+  |{{#if:{{{era|}}}
+  |Ngièn-thoi <!--Era-->
+  |{{#if:{{{creator|}}}
+  |Sṳ́-yung-chá <!--Users-->
+  |Mû-ngî {{#if:{{{signers|}}}{{#ifeq:{{Infobox Language/family-color|{{{familycolor|}}}}}|silver|1}}
+    |Sṳ́-yung-chá 
+    |Sṳ́-yung ngìn-sú
+    }} }}
+  }} }}
+| data7 =<!--
+-->{{#if:{{{extinct|}}}|{{#ifeq:{{{extinct}}}|?|（date missing）|{{{extinct}}}}}<!-- extinct input used
+   -->|{{#if:{{{era|}}}|{{{era}}}<!-- era input used
+      -->|<!-- no era, check for sign/spoken -->{{#if:{{{signers|}}}{{#ifeq:{{Infobox Language/family-color|{{{familycolor|}}} }}|silver|1}}<!-- check for signers/silver
+         -->|<!-- SIGN language (silver) -->{{#if:{{{signers|}}}{{{speakers|}}}|{{#ifeq: {{lc:{{{date}}}}}|na|{{{signers|{{{speakers|–}}}}}}
+      |{{#ifeq:{{{signers|{{{speakers}}}}}}|?|(hàn-mò kû-kie sú-liòng <!--no estimate available-->）
+      |{{#ifeq:{{{signers|{{{speakers}}}}}}|none|mò
+      |{{#if:{{{date|}}}|{{{signers|{{{speakers|–}}}}}}（{{{dateprefix|}}}{{{date}}}）
+      |{{{signers|{{{speakers|–}}}}}}（ngit-khì mò-siòng <!--date missing-->）[[Category:Ngî-ngièn sṳ́-yung ngìn-sú mò chu-mìn ngit-khì ke thiàu-muk]]}} }} }} }} }}<!--（end if:date, ifeq:date=na, if:signers. end of SIGN）
+         -->|<!-- SPOKEN language (not silver) -->{{#if:{{{speakers|}}}|{{#ifeq: {{lc:{{{date}}}}}|na|{{{speakers|–}}}
+      |{{#ifeq: {{{date}}}|mò ngit-khì <!--no date-->|vi-tî<!--unknown-->（undated figure of {{{speakers}}}）|<!--
+The following changes the display depending on the age of the data. Limit set to 25 years, as a population can double in that time.
+-->{{#if:{{{date|}}}|{{#iferror:{{#expr: {{padleft:|4|{{{date}}}|}} }}||{{#ifexpr:(({{CURRENTYEAR}} - {{padleft:|4|{{{date}}}|}})< 25)<!--
+    -->|<!-- regular-->{{{speakers|–}}}（{{{dateprefix|}}}{{{date}}}）<!--
+    -->|<!-- old (25+)  -->vi-tî（{{{speakers}}} kîn-kí {{{dateprefix|}}}{{{date}}}){{main other|{{#ifeq:{{{ref}}}|e18|[[Category:Language articles with old Ethnologue 18 speaker data]]|[[Category:Ngî-ngièn sṳ́-yung-chá sú-kí ko-khì ke thiàu-muk ]]}}}}}}}}<!--（end ifexpr:25+, iferror:）
+    -->|{{#ifeq:{{{speakers}}}|?|(hàn-mò kû kie sú liòng <!--no estimate available-->）
+       |{{#ifeq:{{{speakers}}}|none|mò 
+       |<!-- no date input -->{{{speakers|–}}}(ngit-khì mò-siòng) [[Category:Ngî-ngièn sṳ́-yung ngìn-sú mò chu-mìn ngit-khì ke thiàu-muk]]}} }} }}<!--（end if:date, before the 25+ expr check）
+    -->}}<!--（end ifeq:date=no date）
+    -->}}<!--（end ifeq:date=na）
+    -->|<!--（no speakers number to be shown）-->}}}}<!--（end if:speakers (in 2nd param of silver-check）, if:silver. end of SPOKEN)
+      -->}} }}<!--（end if:era, if:extinct. No open #if:s left）
+If there is a ref, and there is any input for this row (data7), then we add the reference:
+-->{{#if:{{{ref|}}}|{{#if:{{{extinct|}}}{{{era|}}}{{{signers|}}}{{{speakers|}}}{{{date|}}}{{#ifeq:{{Infobox Language/family-color|{{{familycolor|}}}}}|silver|sign_language}}|{{Infobox Language/ref|{{{ref}}}|iso3={{{iso3|}}}|name={{{name|{{PAGENAME}}}}}|lc1={{{lc1|}}}|ld1={{{ld1}}}|lc2={{{lc2|}}}|ld2={{{ld2}}}|lc3={{{lc3|}}}|ld3={{{ld3}}}|lc4={{{lc4|}}}|ld4={{{ld4}}}|lc5={{{lc5|}}}|ld5={{{ld5}}}|lc6={{{lc6|}}}|ld6={{{ld6}}}|lc7={{{lc7|}}}|ld7={{{ld7}}}}}}}}}<!--
+Add speakers2 after the ref:
+-->{{#if:{{{speakers2|}}}|<div>{{{speakers2|}}}</div> }}
+
+| label8 = {{#if:{{{creator|}}}{{{setting|}}}{{#ifeq:{{Infobox Language/family-color|{{{familycolor|}}}}}|black|1}}
+  |fûn-lui <br>(muk-phiêu)<!--Purpose-->
+  |[[ngî-ngièn hì-su̍k fûn-lui|ngî-hì]]
+  }}
+| data8 = {{#ifeq: {{lc:{{{family}}}}}|na||<div style="text-align:left;">{{{family|{{{fam1|{{#if:{{{signers|}}}{{#ifeq:{{Infobox Language/family-color|{{{familycolor|}}}}}|silver|1}}
+  |vi-tî <includeonly>[[Category:mò hì-su̍k fûn-lui ke ngî-ngièn]]</includeonly>
+  |{{#if:{{{creator|}}}{{{setting|}}}
+    |[[Ngìn-chho ngî-ngièn]]
+    |{{Infobox Language/genetic|{{{familycolor|Default}}}}}
+    }}
+  }}}}}
+<ul style="line-height:100%; margin-left:1em;padding-left:0"><li>
+{{#ifeq:{{{familycolor|}}}|unclassified||{{#ifeq:{{{familycolor|}}}|Unclassified||{{#ifeq:{{{familycolor|}}}|isolate||{{#ifeq:{{{familycolor|}}}|Isolate||{{#if:{{{fam2|}}}
+| {{{fam2}}}<ul style="line-height:100%; margin-left:1em;padding-left:0"><li>{{#if:{{{fam3|}}}
+| {{{fam3}}}<ul style="line-height:100%; margin-left:1em;padding-left:0"><li>{{#if:{{{fam4|}}}
+| {{{fam4}}}<ul style="line-height:100%; margin-left:1em;padding-left:0"><li>{{#if:{{{fam5|}}}
+| {{{fam5}}}<ul style="line-height:100%; margin-left:1em;padding-left:0"><li>{{#if:{{{fam6|}}}
+| {{{fam6}}}<ul style="line-height:100%; margin-left:1em;padding-left:0"><li>{{#if:{{{fam7|}}}
+| {{{fam7}}}<ul style="line-height:100%; margin-left:1em;padding-left:0"><li>{{#if:{{{fam8|}}}
+| {{{fam8}}}<ul style="line-height:100%; margin-left:1em;padding-left:0"><li>{{#if:{{{fam9|}}}
+| {{{fam9}}}<ul style="line-height:100%; margin-left:1em;padding-left:0"><li>{{#if:{{{fam10|}}}
+| {{{fam10}}}<ul style="line-height:100%; margin-left:1em;padding-left:0"><li>{{#if:{{{fam11|}}}
+| {{{fam11}}}<ul style="line-height:100%; margin-left:1em;padding-left:0"><li>{{#if:{{{fam12|}}}
+| {{{fam12}}}<ul style="line-height:100%; margin-left:1em;padding-left:0"><li>{{#if:{{{fam13|}}}
+| {{{fam13}}}<ul style="line-height:100%; margin-left:1em;padding-left:0"><li>{{#if:{{{fam14|}}}
+| {{{fam14}}}<ul style="line-height:100%; margin-left:1em;padding-left:0"><li>{{#if:{{{fam15|}}}
+| {{{fam15}}}<ul style="line-height:100%; margin-left:1em;padding-left:0"><li>'''{{{name|{{PAGENAME}}}}}'''</li></ul>
+| '''{{{name|{{PAGENAME}}}}}'''
+}}</li></ul>| '''{{{name|{{PAGENAME}}}}}'''
+}}</li></ul>| '''{{{name|{{PAGENAME}}}}}'''
+}}</li></ul>| '''{{{name|{{PAGENAME}}}}}'''
+}}</li></ul>| '''{{{name|{{PAGENAME}}}}}'''
+}}</li></ul>| '''{{{name|{{PAGENAME}}}}}'''
+}}</li></ul>| '''{{{name|{{PAGENAME}}}}}'''
+}}</li></ul>| '''{{{name|{{PAGENAME}}}}}'''
+}}</li></ul>| '''{{{name|{{PAGENAME}}}}}'''
+}}</li></ul>| '''{{{name|{{PAGENAME}}}}}'''
+}}</li></ul>| '''{{{name|{{PAGENAME}}}}}'''
+}}</li></ul>| '''{{{name|{{PAGENAME}}}}}'''
+}}</li></ul>| '''{{{name|{{PAGENAME}}}}}'''
+}}</li></ul>| '''{{{name|{{PAGENAME}}}}}'''
+}}</li></ul>
+}}}}}}}}}}}</div>}}
+| label9 = chó-khì hìn-sṳt <!--Early forms-->
+| data9 = {{#if:{{{protoname|}}}{{{ancestor|}}}|<div style="text-align:left;">{{{protoname|{{{ancestor|}}}}}}
+<ul style="line-height:100%; margin-left:15px;padding-left:0"><li>{{#if:{{{ancestor2|}}}
+| {{{ancestor2}}}<ul style="line-height:100%; margin-left:2em;padding-left:0"><li>{{#if:{{{ancestor3|}}}
+| {{{ancestor3}}}<ul style="line-height:100%; margin-left:1em;padding-left:0"><li>{{#if:{{{ancestor4|}}}
+| {{{ancestor4}}}<ul style="line-height:100%; margin-left:1em;padding-left:0"><li>{{#if:{{{ancestor5|}}}
+| {{{ancestor5}}}<ul style="line-height:100%; margin-left:1em;padding-left:0"><li>'''{{{name|{{PAGENAME}}}}}'''</li></ul>
+| '''{{{name|{{PAGENAME}}}}}'''
+}}</li></ul>| '''{{{name|{{PAGENAME}}}}}'''
+}}</li></ul>| '''{{{name|{{PAGENAME}}}}}'''
+}}</li></ul>| '''{{{name|{{PAGENAME}}}}}'''
+}}</li></ul> </div>
+}}
+| label10 = [[Phiêu-chún ngî-ngièn|phiêu-chún hìn-sṳt]]<!--Standard forms-->
+| data10 = {{#if:{{{standards|}}}|{{{standards}}}
+|{{#if:{{{stand1|}}}|
+<div>{{{stand1|}}}</div>
+<div>{{{stand2|}}}</div>
+<div>{{{stand3|}}}</div>
+<div>{{{stand4|}}}</div>
+<div>{{{stand5|}}}</div>
+<div>{{{stand6|}}}</div>
+}}}}
+| label11 = Fông-ngièn <!--Dialects-->
+| data11 = {{#if:{{{dialects|}}}|{{{dialects}}}
+|{{#if:{{{dia1|}}}|
+<div>{{{dia1|}}}</div>
+<div>{{{dia2|}}}</div>
+<div>{{{dia3|}}}</div>
+<div>{{{dia4|}}}</div>
+<div>{{{dia5|}}}</div>
+<div>{{{dia6|}}}</div>
+<div>{{{dia7|}}}</div>
+<div>{{{dia8|}}}</div>
+<div>{{{dia9|}}}</div>
+<div>{{{dia10|}}}</div>
+<div>{{{dia11|}}}</div>
+<div>{{{dia12|}}}</div>
+<div>{{{dia13|}}}</div>
+<div>{{{dia14|}}}</div>
+<div>{{{dia15|}}}</div>
+<div>{{{dia16|}}}</div>
+<div>{{{dia17|}}}</div>
+<div>{{{dia18|}}}</div>
+<div>{{{dia19|}}}</div>
+<div>{{{dia20|}}}</div>
+}}}}
+| label12 = [[Vùn-sṳ]]
+| data12 =  {{#switch: {{lc:{{{script|}}}}}
+             | Là-tên 
+             | [[Là-tên]]
+             | Là-tên sṳ-mû
+             | [[Là-tên sṳ-mû]]<!--
+             | [[latin alphabet|latin]] = [[Latin script|Latin]]-->
+             | #default = {{{script|}}}
+            }}
+
+| label13 = {{allow wrap|{{longitem|[[sú-ngî |sú-ngî hìn-sṳt]]}}}}
+| data13 = {{#if:{{{sign|}}}|{{{sign}}}}}
+
+| label14 = Fûn-lui <br> (lòi-ngièn)<!--Sources-->
+| data14 = {{{posteriori|}}}
+
+| header15 = {{#if:{{{nation|}}}{{{minority|}}}{{{agency|}}}|Kôn-fông thi-vi}}
+| label16 = [[Kôn-fông ngî-ngièn lie̍t-péu|Chok-vì kôn-fông ngî-ngièn ]]
+| data16 = {{{nation|}}}
+| label17 = Sṳ̀n-ngin séu-sú ngî-ngièn 
+| data17 = {{{minority|}}}
+| label18 = Kón-lî kî-kèu 
+| data18 = {{{agency|{{#ifexpr:{{#if:{{{agency|}}}|1|0}}<!-- and -->{{#if:{{{creator|}}}{{{setting|}}}{{#ifeq:{{Infobox Language/family-color|{{{familycolor|Default}}}}}|black|1}}|1|0}}
+  | 无
+<!--  | {{#if:{{{nation|}}}|Mò kôn-fông kî-kèu}} [this ends up claiming that languages have no regulation just cuz no-one bothered to add the regulator -->
+  }}}}}
+| header19 = Ngî-ngièn thoi-ma 
+| label20 = [[ISO 639-1]]
+| data20 = {{#if:{{{iso1|}}}|<code>{{{iso1}}}</code>}}
+| label21 = [[ISO 639-2]]
+| data21 = {{#if:{{{iso2|}}}{{{iso2b|}}}{{{iso2t|}}}
+ |<code>{{#if:{{{iso2b|}}}{{{iso2t|}}}
+  |[[ISO639-3:{{{iso2b|{{{iso2|–}}}}}}|{{{iso2b}}}]] （B）
+  |{{#if:{{{signers|}}}{{#ifeq:{{Infobox Language/family-color|{{{familycolor|}}}}}|silver|1}}
+   |{{{iso2|sgn}}}
+   |{{
+    #if:{{{creator|}}}{{{setting|}}}{{#ifeq:{{Infobox Language/family-color|{{{familycolor|}}}}}|black|1}}
+    |{{{iso2|art}}}
+    |[[ISO639-3:{{{iso2}}}|{{{iso2}}}]]}}}}}}</code>{{
+     #if:{{{iso2b|}}}{{{iso2t|}}}
+     |<br /><code>[[ISO639-3:{{{iso2t|{{{iso2|–}}}}}}|{{{iso2t}}}]] （T）</code>}}
+ }}
+| label22 = [[ISO 639-3]]
+| data22 = {{#if:{{{iso3|}}}
+   |{{#ifeq:{{lc:{{{iso3|}}}}}|none|{{#if:{{{iso3comment|}}}|{{{iso3comment}}}|Mò（{{codespan|mis}}）}}|<code>[[ISO639-3:{{{iso3}}}|{{{iso3}}}]]</code>{{#if:{{{lc1|}}}|——<!--ISO 639 macrolanguage-->{{le|ISO 639 fên ngî-ngièn|ISO 639 macrolanguage|Nông-koat thoi-ma}}<!--not all are 'macrolanguages': Hittite, for example-->}} {{{iso3comment|}}}}}|{{#if:{{{lc1|}}}| |–}}}}{{#ifexpr:{{#if:{{{lc1|}}}|1|0}} and {{#if:{{{lc2|}}}|1|0}}|{{#if:{{{iso3|}}}|<br />kok-hong thoi-ma <!--Individual codes-->|{{#if:{{{lc3|}}}|fûn-phe̍t vì|lióng-chá chṳ̂-yit}}}}：{{Infobox Language/codelist
+|{{{lc1|}}}|{{{ld1|}}}}}{{Infobox Language/codelist
+|{{{lc2|}}}|{{{ld2|}}}}}{{Infobox Language/codelist
+|{{{lc3|}}}|{{{ld3|}}}}}{{Infobox Language/codelist
+|{{{lc4|}}}|{{{ld4|}}}}}{{Infobox Language/codelist
+|{{{lc5|}}}|{{{ld5|}}}}}{{Infobox Language/codelist
+|{{{lc6|}}}|{{{ld6|}}}}}{{Infobox Language/codelist
+|{{{lc7|}}}|{{{ld7|}}}}}{{Infobox Language/codelist
+|{{{lc8|}}}|{{{ld8|}}}}}{{Infobox Language/codelist
+|{{{lc9|}}}|{{{ld9|}}}}}{{Infobox Language/codelist
+|{{{lc10|}}}|{{{ld10|}}}}}{{Infobox Language/codelist
+|{{{lc11|}}}|{{{ld11|}}}}}{{Infobox Language/codelist
+|{{{lc12|}}}|{{{ld12|}}}}}{{Infobox Language/codelist
+|{{{lc13|}}}|{{{ld13|}}}}}{{Infobox Language/codelist
+|{{{lc14|}}}|{{{ld14|}}}}}{{Infobox Language/codelist
+|{{{lc15|}}}|{{{ld15|}}}}}{{Infobox Language/codelist
+|{{{lc16|}}}|{{{ld16|}}}}}{{Infobox Language/codelist
+|{{{lc17|}}}|{{{ld17|}}}}}{{Infobox Language/codelist
+|{{{lc18|}}}|{{{ld18|}}}}}{{Infobox Language/codelist
+|{{{lc19|}}}|{{{ld19|}}}}}{{Infobox Language/codelist
+|{{{lc20|}}}|{{{ld20|}}}}}{{Infobox Language/codelist
+|{{{lc21|}}}|{{{ld21|}}}}}{{Infobox Language/codelist
+|{{{lc22|}}}|{{{ld22|}}}}}{{Infobox Language/codelist
+|{{{lc23|}}}|{{{ld23|}}}}}{{Infobox Language/codelist
+|{{{lc24|}}}|{{{ld24|}}}}}{{Infobox Language/codelist
+|{{{lc25|}}}|{{{ld25|}}}}}{{Infobox Language/codelist
+|{{{lc26|}}}|{{{ld26|}}}}}{{Infobox Language/codelist
+|{{{lc27|}}}|{{{ld27|}}}}}{{Infobox Language/codelist
+|{{{lc28|}}}|{{{ld28|}}}}}{{Infobox Language/codelist
+|{{{lc29|}}}|{{{ld29|}}}}}{{Infobox Language/codelist
+|{{{lc30|}}}|{{{ld30|}}}}}{{Infobox Language/codelist
+|{{{lc31|}}}|{{{ld31|}}}}}{{Infobox Language/codelist
+|{{{lc32|}}}|{{{ld32|}}}}}{{Infobox Language/codelist
+|{{{lc33|}}}|{{{ld33|}}}}}{{Infobox Language/codelist
+|{{{lc34|}}}|{{{ld34|}}}}}{{Infobox Language/codelist
+|{{{lc35|}}}|{{{ld35|}}}}}{{Infobox Language/codelist
+|{{{lc36|}}}|{{{ld36|}}}}}{{Infobox Language/codelist
+|{{{lc37|}}}|{{{ld37|}}}}}{{Infobox Language/codelist
+|{{{lc38|}}}|{{{ld38|}}}}}{{Infobox Language/codelist
+|{{{lc39|}}}|{{{ld39|}}}}}{{Infobox Language/codelist
+|{{{lc40|}}}|{{{ld40|}}}}}{{Infobox Language/codelist
+|{{{lc41|}}}|{{{ld41|}}}}}{{Infobox Language/codelist
+|{{{lc42|}}}|{{{ld42|}}}}}{{Infobox Language/codelist
+|{{{lc43|}}}|{{{ld43|}}}}}{{Infobox Language/codelist
+|{{{lc44|}}}|{{{ld44|}}}}}{{Infobox Language/codelist
+|{{{lc45|}}}|{{{ld45|}}} }}
+ |{{#if:{{{lc1|}}}|{{#if:{{{iso3|}}}|<br />tân-hong thoi-ma <!--Individual code-->：}}{{Infobox Language/codelist|code={{{lc1}}}|2={{{ld1|}}} }} }} }}
+
+| label23 = [[ISO 639-6]]
+| data23 = {{#if:{{{iso6|}}}|<code>{{{iso6}}}</code>}}
+
+| label24 = Ngî-ngièn ho̍k-kâ lie̍t-péu <!--Linguist List-->
+| data24 = {{Infobox Language/linguistlist|1={{{linglist|}}} |2={{{lingname|}}}}}
+| label25 =  
+| data25 = {{Infobox Language/linguistlist|1={{{linglist2|}}}|2={{{lingname2|}}}}}
+| label26 =  
+| data26 = {{Infobox Language/linguistlist|1={{{linglist3|}}}|2={{{lingname3|}}}}}
+| label27 =  
+| data27 = {{Infobox Language/linguistlist|1={{{linglist4|}}}|2={{{lingname4|}}}}}
+| label28 =  
+| data28 = {{Infobox Language/linguistlist|1={{{linglist5|}}}|2={{{lingname5|}}}}}
+| label29 =  
+| data29 = {{Infobox Language/linguistlist|1={{{linglist6|}}}|2={{{lingname6|}}}}}
+
+| label30 = [[Àu-thai-li-â Ngièn-chhu-mìn lâu thok-lùi-sṳ̂ hói-hia̍p tó-mìn ngièn-kiu hia̍p-fi |AIATSIS]]{{#if:{{{aiatsis|}}}|{{#tag:ref|{{AIATSIS|{{{aiatsis|}}}|{{{aiatsisname|{{{name}}}}}}|{{{aiatsis2|}}}}}|name="AIATSIS"}}}}<!--Australian Institute of Aboriginal and Torres Strait Islander Studies-->
+| data30 = {{#if:{{{aiatsis|}}}|<code>[http://austlang.aiatsis.gov.au/main.php?code={{{aiatsis}}} {{{aiatsis}}}]</code>{{#if:{{{aiatsisname|}}}| {{{aiatsisname}}}}} }}{{#if:{{{aiatsis2|}}}|, <code>[http://austlang.aiatsis.gov.au/main.php?code={{{aiatsis2}}} {{{aiatsis2}}}]</code>{{#if:{{{aiatsis2name|}}}| {{{aiatsis2name}}}}} }}{{#if:{{{aiatsis3|}}}|, <code>[http://austlang.aiatsis.gov.au/main.php?code={{{aiatsis3}}} {{{aiatsis3}}}]</code>{{#if:{{{aiatsis3name|}}}| {{{aiatsis3name}}}}} }}
+
+| label31 = [[Bantu-ngî ke Guthrie fûn-lui|Guthrie thoi-ma]]<!--Guthrie classification of Bantu languages-->
+| data31 = {{#if:{{{guthrie|}}}|<code>{{{guthrie}}}</code><ref name="Guthrie">Jouni Filip Maho, 2009. [http://goto.glocalnet.net/mahopapers/nuglonline.pdf New Updated Guthrie List Online]</ref>}}
+
+| label32 = [[ngî-ngièn liâu-mong-chhàm]]
+| data32 = {{#if:{{{lingua|}}}|<code>{{{lingua}}}</code>}}
+
+| header33 = {{#if:{{{IDN_ccTLD|}}}|mióng-vet miàng-chhṳ̂n}}
+| label34 = [[koet-chi-fa koet-kâ khi̍p thi-khî táng-kip-vet|IDN ccTLD]]
+| data34 = {{{IDN_ccTLD|}}}
+
+| data35 = {{#if:{{{map|}}}
+  | {{#invoke:InfoboxImage|InfoboxImage|image={{{map}}}|size={{px|{{{mapsize|}}}}}|sizedefault=300px|alt={{{alt|{{{mapalt|}}}}}}|suppressplaceholder=yes}}{{#if:{{{mapcaption|}}}|<div style="text-align:left;">{{{mapcaption}}}</div>}}
+  }}
+| data36 = {{#if:{{{map2|}}}
+  | {{#invoke:InfoboxImage|InfoboxImage|image={{{map2}}}|size={{px|{{{mapsize|}}}}}|sizedefault=300px|alt={{{alt|{{{mapalt2|}}}}}}|suppressplaceholder=yes}}{{#if:{{{mapcaption2|}}}|<div style="text-align:left;">{{{mapcaption2}}}</div>}}
+  }}
+
+| below = {{#ifeq:{{lc:{{{notice|{{{notice2|}}}}}}}}|ipa
+  |'''Pún thiàu-muk pâu-hàm [[Koet-chi yîm-phiêu]] fù-ho.''' phu-fûn [[chhâu-chok hì-thúng]] khi̍p [[mióng-ya̍p liù-lám-hi|liù-lám-hi]] sî-yeu [[{{{fix|Help:thi̍t-sû sṳ-mû lâu fù-ho}}}|thi̍t-sû sṳ-mû lâu fù-ho kî-chhṳ̀]] chhòi-nèn chang-khok hién-sṳ, féu-chet khó-nèn hién-sṳ vì {{{error|[[lon-ma]], mun-ho, khûng-kak tén khì-thâ fù-ho}}}.
+  }}
+| belowclass = noprint selfref
+| belowstyle = background-color:#ddddff;padding:0.3em 0.5em;text-align:left;line-height:1.3;
+}}<!-- Adding tracking categories:
+-->{{#if:{{Infobox Language/family-color|{{{familycolor|}}}}}{{{signers|}}}{{{creator|}}}||<includeonly>[[Category:Mò  ngî-hì phi-set ke ngî-ngièn]]</includeonly>}}<!--
+-->{{#if:{{{extinct|}}}{{{era|}}}{{{signers|}}}{{{speakers|}}}{{{creator|}}}{{{setting|}}}||<!-- no main input for data7 -->{{main other|[[Category:Mò sṳ́-yung-chá ngìn-sú ke ngî-ngièn lui thiàu-muk]]}}}}<!--
+
+-->{{#ifeq:{{lc:{{{iso3|}}}}}|none|{{main other|{{#if:{{{creator|}}}{{{setting|}}}{{#ifeq:{{Infobox Language/family-color|{{{familycolor|}}}}}|black|1}}|[[Category:Mò ISO 639-3thoi-ma ke ngìn-chho ngî-ngièn]]|}}}}}}<!-- yî-hâ ke fûn-lui lièn-chiap on-cheu Yîn-vùn Wikipedia ke ke sat-thin, fûn-lui kiûn kûi-yî ngî-ngièn chôn-thì fûn-lui 
+-->{{#if:{{{date|}}}|{{#iferror: {{#expr: {{padleft:|4|{{{date}}}|}} }} |<!--
+   -->{{#switch: {{lc:{{{date}}}}}
+   | na = [[Category:ngî-ngièn sṳ́-yung ngìn-sú thúng-kie sṳ̀-kiên put-mìn ke thiàu-muk]]
+   | no date = [[Category:Language articles with 'no date' set]]
+   | #default = [[Category:ngî-ngièn sṳ́-yung-chá khi̍p ngit-khì mò-háu ke thiàu-muk]]<!--
+   -->}}|<!-- no error -->}}|<!-- no date -->}}<!--
+-->{{#if:{{{iso3|}}}|<!--ok-->|{{#if:{{{lc1|}}}|<!--ok-->|<!--
+    -->{{#switch: {{lc:{{{isoexception}}}}}
+    | dialect = [[Category:Yúng yû ISO thoi-ma ke ngî-ngièn ke fông-ngièn]]
+    | historical = [[Category:Historical forms of languages with ISO codes]]
+    | protolanguage = [[Category:Mò ISOthoi-ma ke ngièn-sṳ́ ngî-ngièn]]
+    | talkpage =
+    |}}}}}}<!--
+-->{{#ifeq:{{{iso3|}}}|none|{{#if:{{{linglist|}}}|<!--ok-->|{{#if:{{{lingua|}}}|<!--ok-->|{{#if:{{{aiatsis|}}}|<!--ok-->|{{#if:{{{guthrie|}}}|<!--ok-->|{{#if:{{{creator|}}}|<!--ok-->|{{#if:{{{created|}}}|<!--ok-->|[[Category:Mò ISO 639-3 thoi-ma ke ngî-ngièn]]}}}}}}}}}}}}}}<!--
+-->{{#if:{{{iso3|}}}|<!--ok-->|{{#if:{{{lc1|}}}|<!--ok-->|{{#if:{{{linglist|}}}|<!--ok-->|{{#if:{{{lingua|}}}|<!--ok-->|{{#if:{{{aiatsis|}}}|<!--ok-->|{{#if:{{{guthrie|}}}|<!--ok-->|{{#if:{{{isoexception|}}}|<!--ok-->|[[Category:Mò ngî-ngièn thoi-ma ke ngî-ngièn lui thiàu-muk]]}}}}}}}}}}}}}}<!--
+-->{{#if:{{{lc1|}}}|{{#if:{{{lc2|}}}|<!--ok-->|[[Category:Sî-yeu ISO 639-3 thoi-ma ke ngî-ngièn]]}}}}<!--
+-->{{#ifeq:{{{iso3|}}}|none|{{#ifeq:{{{ref|}}}|e17|[[Category:Nonexistent E17 links]]}}}}<!--
+-->{{#ifeq:{{{ref|}}}|e16|[[Category:Language articles citing Ethnologue 16]]}}<!--
+-->{{#ifeq:{{{ref|}}}|e15|[[Category:Language articles citing Ethnologue 15]]}}<!--
+-->{{#ifeq:{{{ref|}}}|e14|[[Category:Language articles citing Ethnologue 14]]}}<!--
+-->{{#ifeq:{{{iso3|}}}|none|{{#if:{{{linglist|}}}|{{#ifeq:{{{isoexception|}}}|dialect|[[Category:Linguist lie̍t-péu thoi-ma ke ngî-ngièn]]|[[Category:Mò ISO 639-3thoi-ma than yû  Linguist lie̍t-péu thoi-ma ke ngî-ngièn]]}}}}{{#if:{{{lingua|}}}|[[Category:Mò ISO 639-3thoi-ma than yû Linguasphere thoi-ma ke ngî-ngièn]]}}{{#if:{{{aiatsis|}}}|[[Category:Mò ISO 639-3thoi-ma than yû AIATSIS thoi-ma ke ngî-ngièn]]}}{{#if:{{{guthrie|}}}|[[Category:Mò ISO 639-3thoi-ma than yû Guthrie thoi-ma ke ngî-ngièn]]}}}}<!--
+-->{{#if:{{{iso3|}}}|<!--okay-->|{{#if:{{{lc1|}}}|<!--ok-->|{{#if:{{{linglist|}}}|{{#ifeq:{{{isoexception|}}}|dialect|[[Category:Linguist lie̍t-péu thoi-ma ke fông-ngièn]]|[[Category:Mò ISO 639-3thoi-ma than yû Linguist lie̍t-péu thoi-ma ke ngî-ngièn]]}}}}{{#if:{{{lingua|}}}|[[Category:Mò ISO 639-3thoi-ma than yû Linguasphere thoi-ma ke ngî-ngièn]]}}{{#if:{{{aiatsis|}}}|[[Category:Mò ISO 639-3thoi-ma than yû AIATSIS thoi-ma ke ngî-ngièn]]}}{{#if:{{{guthrie|}}}|[[Category:Mò ISO 639-3thoi-ma than yû Guthrie thoi-ma ke ngî-ngièn]]}}}}}}<!--
+-->{{#if:{{{caption|}}}{{{map_caption|}}}{{{rank|}}}{{{country|}}}{{{regions|}}}{{{status|}}}{{{SIL|}}}{{{sil|}}}{{{silname|}}}{{{child1|}}}{{{child2|}}}{{{children|}}}{{{iso5|}}}{{{year|}}}|[[Category:Hàm yû put pûn kî-chhṳ̀ sin-sit khiông sṳ-thon ke ngî-ngièn lui thiàu-muk]]|<!--ok-->}}<!--
+-->{{#if:{{{iso2|}}}{{{iso2b|}}}{{{iso2t|}}}|[[Category:ISO 639-2 thoi-ma ke ngî-ngièn]]|<!--ok-->}}<!--
+-->{{#if:{{{iso1|}}}|[[Category:ISO 639-1 thoi-ma ke ngî-ngièn]]|<!--ok-->}}<!--
+-->{{#if:{{{speakers|}}}|{{#if:{{{ref|}}}|<!--ok-->|{{#ifeq:{{{speakers|}}}|?|<!--ok-->|{{#ifeq:{{{speakers|}}}|none|<!--ok-->|[[Category:sin-sit khiông mò chhâm kháu chṳ̂ liau sṳ-thon ke ngî-ngièn lui thiàu-muk]]}}}}}}}}<!--
+-->{{#invoke:Check for unknown parameters|check|unknown=[[Category:sṳ́-yung ko-sṳ̀ chhâm-sú ke ngî-ngièn lui thiàu-muk|_VALUE_]]
+|name|altname|nativename|acceptance|pronunciation
+|states|state|region
+|latd|latm|latNS|longd|longm|longEW
+|ethnicity|speakers|speakers2|extinct|era|revived
+|date|dateprefix|ref
+|familycolor|fam1|fam2|fam3|fam4|fam5|fam6|fam7|fam8|fam9
+|fam10|fam11|fam12|fam13|fam14|fam15|family
+|ancestor|ancestor2|ancestor3|ancestor4|ancestor5|protoname
+|creator|created|setting|posteriori
+|dialects|dia1|dia2|dia3|dia4|dia5|dia6|dia7|dia8|dia9|dia10
+|dia11|dia12|dia13|dia14|dia15|dia16|dia17|dia18|dia19|dia20
+|stand1|stand2|stand3|stand4|stand5|stand6|standards
+|script|sign
+|nation|minority|agency
+|iso1|iso2|iso2b|iso2t|iso3|iso2comment|iso3comment|isoexception|iso6|ietf
+|lc1|ld1|lc2|ld2|lc3|ld3|lc4|ld4|lc5|ld5|lc6|ld6|lc7|ld7|lc8|ld8|lc9|ld9|lc10|ld10
+|lc11|ld11|lc12|ld12|lc13|ld13|lc14|ld14|lc15|ld15|lc16|ld16|lc17|ld17|lc18|ld18|lc19|ld19|lc20|ld20
+|lc21|ld21|lc22|ld22|lc23|ld23|lc24|ld24|lc25|ld25|lc26|ld26|lc27|ld27|lc28|ld28|lc29|ld29|lc30|ld30
+|linglist|lingname|linglist2|lingname2|linglist3|lingname3|linglist4|lingname4|linglist5|lingname5
+|lingua|guthrie
+|aiatsis|aiatsis2|aiatsis3|aiatsis4|aiatsis5|aiatsis6
+|aiatsisname|aiatsisname2|aiatsisname3|aiatsisname4|aiatsisname5|aiatsisname6
+|glotto|glotto2|glotto3|glotto4|glotto5
+|glottoname|glottoname2|glottoname3|glottoname4|glottoname5
+|glottorefname|glottorefname2|glottorefname3|glottorefname4|glottorefname5
+|glottofoot
+|image|imagesize|imagealt|imagecaption|imageheader
+|map|mapsize|mapalt|mapcaption|map2|mapalt2|mapcaption2|boxsize
+|notice|notice2
+}}<noinclude>
+
+{{documentation}}</noinclude>
