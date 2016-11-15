@@ -1,0 +1,27 @@
+<noinclude>{{pp-template|small=yes}}</noinclude>{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Chûng-fà Mìn-koet 
+| flag alias = Flag of the Republic of China.svg
+| alt attribute = Flag of the Republic of China
+| flag alias-1912 = Flag of the Republic of China 1912-1928.svg
+| flag alias-army = Republic of China Army Flag.svg
+| flag alias-naval = Flag_of_the_Republic_of_China.svg
+| flag alias-air force = Flag of the Republic of China Air Force.svg
+| flag alias-coast guard = Flag of the Coast Guard Administration of the Republic of China.svg
+| flag alias-police = Flag of police of the Republic of China.svg
+| flag alias-civil = Flag_of_the_Republic_of_China.svg
+| size = {{{size|}}}
+| name = {{#if: {{{name|}}} | {{{name|}}} | Chûng-fà Mìn-koet }}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1912
+| var2 = civil
+| redir1 = ROC
+| redir2 = TWN
+| redir3 = China, Republic of
+| related1 = Chinese Taipei
+| related2 = People's Republic of China
+| related3 = Taiwan
+</noinclude>
+}}
