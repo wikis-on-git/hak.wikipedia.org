@@ -83,7 +83,7 @@ Add speakers2 after the ref:
 
 | label8 = {{#if:{{{creator|}}}{{{setting|}}}{{#ifeq:{{Infobox Language/family-color|{{{familycolor|}}}}}|black|1}}
   |fûn-lui <br>(muk-phiêu)<!--Purpose-->
-  |[[ngî-ngièn hì-su̍k fûn-lui|ngî-hì]]
+  |[[ngî-ngièn hì-su̍k fûn-lui|Ngî-hì]]
   }}
 | data8 = {{#ifeq: {{lc:{{{family}}}}}|na||<div style="text-align:left;">{{{family|{{{fam1|{{#if:{{{signers|}}}{{#ifeq:{{Infobox Language/family-color|{{{familycolor|}}}}}|silver|1}}
   |vi-tî <includeonly>[[Category:mò hì-su̍k fûn-lui ke ngî-ngièn]]</includeonly>
