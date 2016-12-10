@@ -1,16 +1,16 @@
 {{Hakka-TW|0|西洋棋}}
 {{Chess diagram
 | tright
-| 
-<!-- 8 -->|rd|nd|bd|qd|kd|bd|nd|rd
-<!-- 7 -->|pd|pd|pd|pd|pd|pd|pd|pd
-<!-- 6 -->|  |  |  |  |  |  |  |  
-<!-- 5 -->|  |  |  |  |  |  |  |  
-<!-- 4 -->|  |  |  |  |  |  |  |  
-<!-- 3 -->|  |  |  |  |  |  |  |  
-<!-- 2 -->|pl|pl|pl|pl|pl|pl|pl|pl
-<!-- 1 -->|rl|nl|bl|ql|kl|bl|nl|rl
-<!--    a  b  c  d  e  f  g  h-->
+| <!--
+ 8 -->|rd|nd|bd|qd|kd|bd|nd|rd<!--
+ 7 -->|pd|pd|pd|pd|pd|pd|pd|pd<!--
+ 6 -->|  |  |  |  |  |  |  |  <!--
+ 5 -->|  |  |  |  |  |  |  |  <!--
+ 4 -->|  |  |  |  |  |  |  |  <!--
+ 3 -->|  |  |  |  |  |  |  |  <!--
+ 2 -->|pl|pl|pl|pl|pl|pl|pl|pl<!--
+ 1 -->|rl|nl|bl|ql|kl|bl|nl|rl<!--
+    a  b  c  d  e  f  g  h-->
 | Sî-yòng-khî tú-tú khôi-sṳ́ ke phài-fap.
 }}
 '''Sî-yòng-khî''', ya hêm cho '''koet-chi siong-khî''', he yit-chúng [[khî-lui yù-hi]], chhai hien-hâ koet-chi tú yù-liau ke ngìn tông-tô.
