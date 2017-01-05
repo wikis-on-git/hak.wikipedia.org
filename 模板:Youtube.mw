@@ -1,0 +1,22 @@
+{{#ifeq:{{{link}}}|no
+ |YouTube
+ |[[YouTube]]}}上的[https://www.youtube.com/{{#if:{{{user|{{{u|}}}}}}
+ |user/{{{user|{{{u|}}}}}} {{#if:{{{title|{{{1|}}}}}}|<span class="plainlinks">{{{title|{{{1}}}}}}</span>|{{PAGENAME}}}}頻道]
+ |{{#if:{{{channel|{{{c|}}}}}}
+  |channel/{{{channel|{{{c|}}}}}} {{#if:{{{title|{{{1|}}}}}}|<span class="plainlinks">{{{title|{{{1}}}}}}</span>|{{PAGENAME}}}}頻道]
+ |{{#if:{{{playlist|{{{p|}}}}}}
+  |playlist?list={{{playlist|{{{p|}}}}}} {{#if:{{{title|{{{1|}}}}}}|<span class="plainlinks">{{{title|{{{1}}}}}}</span>|{{PAGENAME}}}}]播放列表
+ |{{#if:{{{show|}}}
+  |show/{{{show|}}} {{#if:{{{title|{{{1|}}}}}}|<span class="plainlinks">{{{title|{{{1}}}}}}</span>|''{{PAGENAME}}''}}]劇集
+   |watch?v={{{id|{{{1|}}}}}}#t={{#iferror:{{#expr:{{{h|0}}}}}|0|{{#expr:{{{h|0}}}}}}}h{{#iferror:{{#expr:{{{m|0}}}}}|0|{{#expr:{{{m|0}}}}}}}m{{#iferror:{{#expr:{{{s|0}}}}}|0|{{#expr:{{{s|0}}}}}}}s {{{title|{{#if:{{{2|}}}|{{{2}}}|-{zh-tw:影片;zh-cn:视频;zh-hk:影片}-}}}}}]{{#iferror:{{#expr:{{{h|0}}}*60*60+{{{m|0}}}*60+{{{s|0}}}}}| 
+   |{{#ifexpr: {{{h|0}}}*60*60+{{{m|0}}}*60+{{{s|0}}}>0 
+   |，始於{{#ifexpr: ({{{h|0}}}*60*60+{{{m|0}}}*60+{{{s|0}}})/60/60>=1|{{floor|({{{h|0}}}*60*60+{{{m|0}}}*60+{{{s|0}}})/60/60}}小時}}{{#ifexpr: (({{{m|0}}}*60+{{{s|0}}})/60) mod 60 < 10 and ({{{h|0}}}*60*60+{{{m|0}}}*60+{{{s|0}}})/60/60>=1|0}}{{#expr:({{{m|0}}}*60+{{{s|0}}})/60 mod 60}}分{{#ifexpr:{{{s|0}}} mod 60<10|0}}{{#expr:{{{s|0}}} mod 60}}秒}}}}
+  }}
+ }}
+}}
+}}{{#if:{{{language|}}}
+  |{{#ifexist:Template:{{{language}}}
+   |{{{{{language}}}}}
+   |（{{{language}}}）}}}}<noinclude>
+{{documentation}}
+</noinclude>
