@@ -1,6 +1,6 @@
 <table class="shortcutbox shortcutbox-template plainlinks noprint"
        style="{{#switch:{{{clear|}}} |true=clear:{{{float|right}}}; |left|right|both=clear:{{{clear|}}}; |#default=}}{{#ifeq:{{{float|}}}|left |float:left;margin:{{{top|0.3em}}} 1.0em 0.3em 0.3em; |float:right;margin:{{{top|0.3em}}} 0.3em 0.3em 1.0em;}}border:1px solid #aaa;background:#fff;padding:3px;text-align:center;"><!--
- --><tr><th style="font-size:85%;border:none;background:transparent;"> {{#if:{{{redirect|}}} |重定向 |-{zh-hans:快捷方式; zh-hant:捷徑;}-}}
+ --><tr><th style="font-size:85%;border:none;background:transparent;"> {{#if:{{{redirect|}}} |重定向 |chhia̍p-kang}}
 <div class="plainlist" style="font-size:120%;font-family:monospace;">
 <!--- Note: {{#if:true...}} in the following removes whitespace accompanying a parameter: --->
 * &#123;&#123;{{{pre|}}}{{#ifexist:Template:{{{1}}}  |[{{fullurl:Template:{{{1}}}|redirect=no}} {{#if:true|{{{1}}}}}]  |[[Template:{{{1|{{PAGENAME}}}}}|{{#if:true|{{{1|{{PAGENAME}}}}}}}]]}}&#125;&#125;<!--
