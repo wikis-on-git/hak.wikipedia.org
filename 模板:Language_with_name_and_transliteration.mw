@@ -1,0 +1,8 @@
+{{#ifeq:{{{links|{{{link|}}}}}}|no
+ |{{{2}}}
+ |[[{{{2}}}]]
+}}ː {{Lang|{{{1}}}|{{{3}}}|rtl={{{rtl|}}}}}{{#if:{{{4<includeonly>|{{{translit|}}}</includeonly>}}}
+ |, {{small|{{#ifexist:{{{script|{{{2}}}}}}Lò-mâ fa|[[{{{script|{{{2}}}}}}Lò-mâ fa|yîm-yi̍t]]|yîm-yi̍t}}&nbsp;}}{{transl|{{{1}}}|{{{4|{{{translit<includeonly>|</includeonly>}}}}}}}}
+}}{{#if:{{{5<includeonly>|{{{lit|}}}</includeonly>}}}
+ |, {{small|[[chhṳ̍t-yi̍t]]&nbsp;}}&#39;{{{5|{{{lit}}}}}}&#39;
+}}<noinclude>{{documentation}}</noinclude>
