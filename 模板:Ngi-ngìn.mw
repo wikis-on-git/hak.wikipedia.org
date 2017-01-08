@@ -1,0 +1,327 @@
+{{Infobox
+| child       = {{lc:{{{embed}}}}}
+
+| bodyclass   = vcard
+| bodystyle   = width:325px; font-size: 95%;
+| aboveclass  = fn n
+
+| title       = {{#ifeq:{{lc:{{{embed}}}}}|yes|'''Yên-ngi sâng-ngài '''}}
+
+| above       = {{#ifeq:{{lc:{{{embed}}}}}|yes||{{#if:{{{name|}}}|{{{name|}}}|<includeonly>{{BASEPAGENAME}}</includeonly>}}}}
+
+| abovestyle  = text-align: center; font-size: 120%; background: {{Gē-jîn/color selector|{{{type|artist}}}}};
+| headerstyle = {{#ifeq:{{lc:{{{embed}}}}}|yes||background: {{Gē-jîn/color selector|{{{type|artist}}} }};}}
+| labelstyle  = white-space:nowrap;
+
+| image       = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{imagesize|}}}|sizedefault=220px|alt={{{caption|}}}}}
+| caption     = {{{caption|}}}
+
+| class1      = title role
+| header1     = <includeonly>{{#ifeq:{{lc:{{{embed}}}}}|yes||{{#if:{{Ngi-ngìn/type return|{{{type|none}}}}}|{{Ngi-ngìn/type return|{{{type|none}}}}}|Ngi-ngìn fe̍t ngi-su̍t-kâ}}}}</includeonly>
+
+| class2      = additional-name
+| label2      = Pún-miàng
+| data2       = {{{birthname|}}}
+
+| label3      = Ngièn-pún miàng
+| data3       = {{#if:{{{fnamelang|}}}|{{lang|{{Gē-jîn/lang selector|{{{fnamelang|}}}}}|{{{foreignname|}}} }}|{{{foreignname|}}}}}
+
+| label4      = Lò-mâ-sṳ
+| data4       = {{#if:{{{romanizedname|}}}|<span lang="en" xml:lang="en">{{{romanizedname|}}}</span>}}
+
+| label5      = Yîn-vùn miàng
+| data5       = {{#if:{{{englishname|}}}|{{lang|en|{{{englishname|}}} }}}}
+
+| class6      = nickname
+| label6      = Sok-ho
+| data6       = {{{nickname|}}}
+
+| class7      = nickname
+| label7      = Phe̍t-miàng
+| data7       = {{{othername|}}}
+
+| class8      = adr
+| label8      = Koet-sit
+| data8       = {{#if:{{{nationality|}}}|<span class="country-name">{{{nationality|}}}</span>}}
+
+| class9      = adr
+| label9      = Mìn-chhu̍k 
+| data9       = {{{people|}}}
+
+| label10     = Ku-hiông
+| data10      = {{{hometown|}}}
+
+| label11     = Chhut-se
+| data11      = {{br separated entries|{{#if:{{{birthdate|}}}
+ |{{{birthdate|}}}
+ |{{#switch:{{#expr:{{#ifexpr:{{#if:{{{birthyear|}}}|1|0}} + {{#if:{{{birthmonth|}}}|1|0}} + {{#if:{{{birthday|}}}|1|0}}=3|1|0}} + {{#ifexpr:{{#if:{{{deathyear|}}}|1|0}} + {{#if:{{{deathmonth|}}}|1|0}} + {{#if:{{{deathday|}}}|1|0}}=3|2|0}}}}|1={{Birth date and age|year={{{birthyear|}}}|month={{{birthmonth|}}}|day={{{birthday|}}}}}|3={{birth date|{{{birthyear|}}}|{{{birthmonth|}}}|{{{birthday|}}}}}}}}}|{{#if:{{{birthplace|}}}|<span class="city">{{{birthplace|}}}</span>}}}}
+
+| label12     = Ko-se
+| data12      = {{br separated entries|{{#if:{{{deathdate|}}}
+ |{{{deathdate|}}}
+ |{{#ifexpr:{{#ifexpr:{{#if:{{{birthyear|}}}|1|0}} + {{#if:{{{birthmonth|}}}|1|0}} + {{#if:{{{birthday|}}}|1|0}}=3|1|0}} + {{#ifexpr:{{#if:{{{deathyear|}}}|1|0}} + {{#if:{{{deathmonth|}}}|1|0}} + {{#if:{{{deathday|}}}|1|0}}=3|2|0}}=3|{{Death date and age|{{{deathyear|}}}|{{{deathmonth|}}}|{{{deathday|}}}|{{{birthyear|}}}|{{{birthmonth|}}}|{{{birthday|}}}}}}}}}|{{#if:{{{deathplace|}}}|<span class="city">{{{deathplace|}}}</span>}}}}
+
+| class13     = role
+| label13     = Chṳt-ngia̍p
+| data13      = {{{occupation|}}}
+
+| label14     = Ngî-ngièn
+| data14      = {{{language|}}}
+
+| label15     = Kau-yuk 
+| data15      = {{{education|}}}
+
+| label16     = Mû-káu 
+| data16      = {{{almamater|}}}
+
+| label17     = Chûng-kau 
+| data17      = {{{religion|}}}
+
+| class18     = contact
+| label18     = Tui-siong 
+| data18      = {{{spouse|}}}
+
+| class19     = contact
+| label19     = Yì-ńg
+| data19      = {{{children|}}}
+
+| class20     = contact
+| label20     = Fu-mû
+| data20      = {{{parents|}}}
+
+| class21     = contact
+| label21     = Chhîn-yû
+| data21      = {{{relations|{{{relatives|}}}}}}
+
+| class22     = category
+| label22     = Yîm-ngo̍k lui-hîn 
+| data22      = {{{musicgenre|}}}
+
+| label23     = Ngo̍k-hi
+| data23      = {{{instrument|}}}
+
+| class24     = adr
+| label24     = Chhut-tho thi-tiám
+| data24      = {{#if:{{{originplace|}}}|<span class="locality">{{{originplace|}}}</span>}}
+
+| label25     = Chhut-tho ngit-khì
+| data25      = {{{debutdate|}}}
+
+| label26     = Chhut-tho-chok
+| data26      = {{{debutwork|}}}
+
+| label27     = Thoi-péu-chok 
+| data27      = {{{famousworks|}}}
+
+| label28     = Chhut-miàng kiok-set
+| data28      = {{{notableroles|}}}
+
+| label29     = Fa̍t-chhiok sṳ̀-thoi 
+| data29      = {{{yearactive|}}}
+
+| class30     = org
+| label30     = Chhong-phién kûng-sṳ̂
+| data30      = {{{label|}}}
+
+| class31     = org
+| label31     = Kîn-chi kûng-sṳ̂
+| data31      = {{{agentcompany|}}}
+
+| label32     = Chhiâm-miàng 
+| data32      = {{#invoke:InfoboxImage|InfoboxImage|image={{{signature|}}}|size={{{signature size|{{{signature_size|}}}}}}|sizedefault=150px|alt={{{signature alt|{{{signature_alt|}}}}}}}}
+
+| class33     = url
+| label33     = Mióng-chhàm
+| data33      = {{{website|}}}
+
+| label34     = Siông-koân
+| data34      = {{{relatedgroup|}}}
+
+| data35      = {{{misc|{{{module|{{{misc1|{{{module1|}}}}}}}}}}}}
+| data36      = {{{misc2|{{{module2|}}}}}}
+| data37      = {{{misc3|{{{module3|}}}}}}
+| data38      = {{{misc4|{{{module4|}}}}}}
+| data39      = {{{misc5|{{{module5|}}}}}}
+| data40      = {{{misc6|{{{module6|}}}}}}
+
+| data41      = {{#if:{{{IMDb|{{{imdb|}}}}}}|'''[http://www.imdb.com/name/nm{{{IMDb|{{{imdb|}}}}}}/ IMDb chṳ̂-sín ya̍p-mien]'''}} 
+
+| header42    = {{#if:{{{currentmembers|}}}|Sṳ̀n-yèn}}
+| data43      = {{{currentmembers|}}}
+
+| header44    = {{#if:{{{pastmembers|}}}|Chhièn sṳ̀n-yèn}}
+| data45      = {{{pastmembers|}}}
+
+| header46    = {{#if:{{{notableinstruments|}}}|Chhut-miàng ngo̍k-hi}}
+| data47      = {{{notableinstruments|}}}
+
+| data60 = {{#if:{{{awards|}}}{{{award|}}}{{{academyawards|}}}{{{cannesfilmawards|}}}{{{afiawards|}}}{{{arielaward|}}}{{{baftaawards|}}}{{{cesarawards|}}}{{{emmyawards|}}}{{{filmfareawards|}}}{{{geminiawards|}}}{{{goldenglobeawards|}}}{{{goldenraspberryawards|}}}{{{goyaawards|}}}{{{grammyawards|}}}{{{hongkongfilmawards|}}}{{{olivierawards|}}}{{{iftaawards|}}}{{{imageaward|}}}{{{nationalfilmawards|}}}{{{screenactorsguildawards|}}}{{{screenactorguildsawards|}}}{{{sagawards|}}}{{{tonyawards|}}}{{{goldenbauhiniaawards|}}}{{{hkfcsawards|}}}{{{asianfilmawards|}}}{{{goldenhorseawards|}}}{{{huabiaoawards|}}}{{{goldenroosterawards|}}}{{{hundredflowersawards|}}}{{{goldeneagleawards|}}}{{{flyingapsarasawards|}}}{{{rthktop10goldsongsawards|}}}{{{goldenmelodyawards|}}}{{{mtvasiaawards|}}}{{{ntsawards|}}}{{{chinamusicawards|}}}{{{goldenbellawards|}}}{{{tvbanniversaryawards|}}}{{{magnoliaawards|}}}{{{asiantvawards|}}}{{{rainbowawards|}}}{{{tokyofilmawards|}}}{{{yokohamafilmawards|}}}{{{japanacademyawards|}}}{{{japanesefilmcreticsawards|}}}{{{mainichifilmawards|}}}{{{blueribbonawards|}}}{{{hochifilmawards|}}}{{{kinemajunpotop10awards|}}}{{{grandbellawards|}}}{{{bluedragonfilmawards|}}}{{{paeksangartsawards|}}}|{{Collapsible list
+ |title = Chióng-hong
+ |titlestyle = {{#ifeq:{{lc:{{{embed}}}}}|yes|background-color:transparent;|background-color:{{Ngi-ngìn/color selector|{{{type|artist}}} }};}}
+ |1 = <table width="100%">
+  {{Infobox|child=yes
+  | headerstyle  = {{#ifeq:{{lc:{{{embed}}}}}|yes||background-color:{{Ngi-ngìn/color selector|{{{type|artist}}} }};}}
+
+  | header1   = {{#if:{{{academyawards|}}}|Oscar Chióng}}
+  | data2     = {{{academyawards|}}}
+
+  | header3   = {{#if:{{{cannesfilmawards|}}}|Cannes Thien-yáng Chiet}}
+  | data4     = {{{cannesfilmawards|}}}
+
+  | header5   = {{#if:{{{afiawards|}}}|AFI Thien-yáng Chióng}}
+  | data6     = {{{afiawards|}}}
+
+  | header7   = {{#if:{{{arielaward|}}}|Ariel Chióng}}
+  | data8     = {{{arielaward|}}}
+
+  | header9   = {{#if:{{{baftaawards|}}}|Yîn-koet Thien-yáng Ho̍k-yen Chióng}}
+  | data10    = {{{baftaawards|}}}
+
+  | header11  = {{#if:{{{cesarawards|}}}|César Thien-yáng Chióng}}
+  | data12    = {{{cesarawards|}}}
+
+  | header13  = {{#if:{{{emmyawards|}}}|Emmy Chióng}}
+  | data14    = {{{emmyawards|}}}
+
+  | header15  = {{#if:{{{filmfareawards|}}}|Yin-thu Thien-yáng Kôn-chung Chióng}}
+  | data16    = {{{filmfareawards|}}}
+
+  | header17  = {{#if:{{{geminiawards|}}}|Gemini Chióng}}
+  | data18    = {{{geminiawards|}}}
+
+  | header19  = {{#if:{{{goldenglobeawards|}}}|Kîm Khiù Chióng}}
+  | data20    = {{{goldenglobeawards|}}}
+
+  | header21  = {{#if:{{{goldenraspberryawards|}}}|Kîm Sôn-mòi Chióng}} 
+  | data22    = {{{goldenraspberryawards|}}}
+
+  | header23  = {{#if:{{{goyaawards|}}}|Goya Chióng}}
+  | data24    = {{{goyaawards|}}}
+
+  | header25  = {{#if:{{{grammyawards|}}}|Grammy Chióng}}
+  | data26    = {{{grammyawards|}}}
+
+  | header27  = {{#if:{{{hongkongfilmawards|}}}|Hiông-kóng Thien-yáng Kîm Chhiong Chióng}}
+  | data28    = {{{hongkongfilmawards|}}}
+
+  | header29  = {{#if:{{{olivierawards|}}}|Laurence Olivier Chióng}}
+  | data30    = {{{olivierawards|}}}
+
+  | header31  = {{#if:{{{iftaawards|}}}|Éire Thien-sṳ Thien-yáng Chióng}}
+  | data32    = {{{iftaawards|}}}
+
+  | header33  = {{#if:{{{imageaward|}}}|NAACP Image Chióng}}
+  | data34    = {{{imageaward|}}}
+
+  | header35  = {{#if:{{{nationalfilmawards|}}}|Yin-thu Koet-kâ Thien-yáng Chióng}}
+  | data36    = {{{nationalfilmawards|}}}
+
+  | header37  = {{#if:{{{screenactorsguildawards|}}}{{{screenactorguildsawards|}}}{{{sagawards|}}}|Mî-koet Yên-yèn Kûng-fi Chióng}}
+  | data38    = {{{screenactorsguildawards|{{{screenactorguildsawards|{{{sagawards|}}}}}}}}}
+
+  | header39  = {{#if:{{{tonyawards|}}}|Tony Chióng}}
+  | data40    = {{{tonyawards|}}}
+
+  | header41  = {{#if:{{{goldenbauhiniaawards|}}}|Hiông-kóng Thien-yáng Kîm Chṳ́-kin Chióng}}
+  | data42    = {{{goldenbauhiniaawards|}}}
+
+  | header43  = {{#if:{{{hkfcsawards|}}}|Hiông-kóng Thien-yáng Phìn-lun Ho̍k-fi Chióng}}
+  | data44    = {{{hkfcsawards|}}}
+
+  | header45  = {{#if:{{{asianfilmawards|}}}|Â-chû Thien-yáng Chióng}}
+  | data46    = {{{asianfilmawards|}}}
+
+  | header47  = {{#if:{{{goldenhorseawards|}}}|Kîm Mâ Chióng}}
+  | data48    = {{{goldenhorseawards|}}}
+
+  | header49  = {{#if:{{{huabiaoawards|}}}|Fà-péu Chióng}}
+  | data50    = {{{huabiaoawards|}}}
+
+  | header51  = {{#if:{{{goldenroosterawards|}}}|Kîm Kiê Chióng}}
+  | data52    = {{{goldenroosterawards|}}}
+
+  | header53  = {{#if:{{{hundredflowersawards|}}}|Pak-fâ Chióng}}
+  | data54    = {{{hundredflowersawards|}}}
+
+  | header55  = {{#if:{{{goldeneagleawards|}}}|Kîm Ên Chióng}}
+  | data56    = {{{goldeneagleawards|}}}
+
+  | header57  = {{#if:{{{flyingapsarasawards|}}}|Fî-thiên Chióng}}
+  | data58    = {{{flyingapsarasawards|}}}
+
+  | header59  = {{#if:{{{rthktop10goldsongsawards|}}}|Sṳ̍p-thai Chûng-vùn Kîm Khiuk Yîm-ngo̍k-fi}}
+  | data60    = {{{rthktop10goldsongsawards|}}}
+
+  | header61  = {{#if:{{{goldenmelodyawards|}}}|Kîm Khiuk Chióng}}
+  | data62    = {{{goldenmelodyawards|}}}
+
+  | header63  = {{#if:{{{mtvasiaawards|}}}|MTV Â-chû Yîm-ngo̍k Chióng}}
+  | data64    = {{{mtvasiaawards|}}}
+
+  | header65  = {{#if:{{{ntsawards|}}}|TVB Chhiòn-khiù Fà-ngìn Sîn-siù Kô-chhong Thai-soi}}
+  | data66    = {{{ntsawards|}}}  
+
+  | header67  = {{#if:{{{chinamusicawards|}}}|Chûng Kô Póng}}
+  | data68    = {{{chinamusicawards|}}}
+
+  | header69  = {{#if:{{{goldenbellawards|}}}|Kîm Chûng Chióng}}
+  | data70    = {{{goldenbellawards|}}}
+
+  | header71  = {{#if:{{{tvbanniversaryawards|}}}|Van Chhiên Sên Fî Pân-chióng Tién-lî}}
+  | data72    = {{{tvbanniversaryawards|}}}
+
+
+  | header73  = {{#if:{{{magnoliaawards|}}}|Sông-hói Thien-sṳ Chiat Pha̍k Ngiu̍k-làn Chióng}}
+  | data74    = {{{magnoliaawards|}}}
+
+  | header75  = {{#if:{{{asiantvawards|}}}|Â-chû Thien-sṳ Chióng}}
+  | data76    = {{{asiantvawards|}}}
+
+  | header77  = {{#if:{{{rainbowawards|}}}|Â-chû Chhái kiûng Thien-sṳ Chióng}}
+  | data78    = {{{rainbowawards|}}}
+
+  | header79  = {{#if:{{{tokyofilmawards|}}}|TōKyō kokusai eigasai}}
+  | data80    = {{{tokyofilmawards|}}}
+
+  | header81  = {{#if:{{{yokohamafilmawards|}}}|Yokohama Eigasai}}
+  | data82    = {{{yokohamafilmawards|}}}
+
+  | header83  = {{#if:{{{japanacademyawards|}}}|Nippon Akademi Chióng}}
+  | data84    = {{{japanacademyawards|}}}
+
+  | header85  = {{#if:{{{japanesefilmcreticsawards|}}}|Nihon Eiga Hihyōka Taishō}}
+  | data86    = {{{japanesefilmcreticsawards|}}}
+
+  | header87  = {{#if:{{{mainichifilmawards|}}}|Mainichi Eiga Konkūru}}
+  | data88    = {{{mainichifilmawards|}}}
+
+  | header89  = {{#if:{{{blueribbonawards|}}}|Burū Ribon Chióng}}
+  | data90    = {{{blueribbonawards|}}}
+
+  | header91  = {{#if:{{{hochifilmawards|}}}|Hōchi Eiga Chióng}}
+  | data92    = {{{hochifilmawards|}}}
+
+  | header93  = {{#if:{{{kinemajunpotop10awards|}}}|Kinema Junpo Chióng}}
+  | data94    = {{{kinemajunpotop10awards|}}}
+
+  | header95  = {{#if:{{{grandbellawards|}}}|Dae Jong Sang}}
+  | data96    = {{{grandbellawards|}}}
+
+  | header97  = {{#if:{{{bluedragonfilmawards|}}}|Cheongryong Yeonghwasang}}
+  | data98    = {{{bluedragonfilmawards|}}}
+
+  | header99  = {{#if:{{{paeksangartsawards|}}}|Baeksang Yeasul Daesang}}
+  | data100   = {{{paeksangartsawards|}}}
+
+  | header101 = {{#if:{{{awards|}}}{{{award|}}}|{{#if:{{{academyawards|}}}{{{cannesfilmawards|}}}{{{afiawards|}}}{{{arielaward|}}}{{{baftaawards|}}}{{{cesarawards|}}}{{{emmyawards|}}}{{{filmfareawards|}}}{{{geminiawards|}}}{{{goldenglobeawards|}}}{{{goldenraspberryawards|}}}{{{goyaawards|}}}{{{grammyawards|}}}{{{hongkongfilmawards|}}}{{{olivierawards|}}}{{{iftaawards|}}}{{{imageaward|}}}{{{nationalfilmawards|}}}{{{screenactorsguildawards|}}}{{{screenactorguildsawards|}}}{{{sagawards|}}}{{{tonyawards|}}}{{{goldenbauhiniaawards|}}}{{{hkfcsawards|}}}{{{asianfilmawards|}}}{{{goldenhorseawards|}}}{{{huabiaoawards|}}}{{{goldenroosterawards|}}}{{{hundredflowersawards|}}}{{{goldeneagleawards|}}}{{{flyingapsarasawards|}}}{{{rthktop10goldsongsawards|}}}{{{goldenmelodyawards|}}}{{{mtvasiaawards|}}}{{{ntsawards|}}}{{{chinamusicawards|}}}{{{goldenbellawards|}}}{{{tvbanniversaryawards|}}}{{{magnoliaawards|}}}{{{asiantvawards|}}}{{{rainbowawards|}}}{{{tokyofilmawards|}}}{{{yokohamafilmawards|}}}{{{japanacademyawards|}}}{{{japanesefilmcreticsawards|}}}{{{mainichifilmawards|}}}{{{blueribbonawards|}}}{{{hochifilmawards|}}}{{{kinemajunpotop10awards|}}}{{{grandbellawards|}}}{{{bluedragonfilmawards|}}}{{{paeksangartsawards|}}}|Khì-thâ chióng-hong}}}}
+  | data102   = {{{awards|{{{award|}}}}}}
+  }}
+ </table>
+ }}
+}}
+
+}}{{main other|<!--
+-->{{Gē-jîn/tracking|{{{type|}}}}}}}<!--
+--><includeonly>{{Wikidata image|1={{{image|}}} }}</includeonly><noinclude>
+{{Documentation}}
+</noinclude>
