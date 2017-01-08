@@ -1,0 +1,291 @@
+{{Infobox 
+|italic title= {{{italic_title|<noinclude>no</noinclude>}}}
+|bodystyle  = width:38em; text-align:left; font-size:90%
+|name       =
+|titlestyle = background: {{{bgcolour|{{Television colour|{{{colour|{{{show_name|<includeonly>{{PAGENAMEBASE}}</includeonly>}}}}}}}}}}}
+|above      = {{{show_name|<includeonly>{{PAGENAMEBASE}}</includeonly>}}}{{#if:{{{eng_name|}}}|<br /><small>{{{eng_name|}}}</small>|{{#if:{{{original_name|}}}|<br /><small>{{{original_name|}}}</small>}}}}
+|abovestyle = font-size:12pt;background:{{{bgcolour|{{Television colour|{{{colour|{{{show_name|}}}}}}}}}}};{{#if:{{{color text|{{{colour text|}}}}}}|color: {{{color text|{{{colour text}}}}}};}}
+<!-- 注意：上方有修改。font-size被批评太大，改小一点。-->
+|image      = {{#ifexist:Media:{{{image|}}}|[[File:{{{image|}}}|220px{{#if:{{{caption|}}}|{{!}}{{{caption|}}}}}]]|{{{image|}}}}}
+|caption    = {{{caption|}}}
+|image2     = 
+|caption2   = 
+
+|headerstyle = font-size:100%; background:{{{bgcolour|{{Television colour|{{{colour|{{{show_name|}}}}}}}}}}};{{#if:{{{color text|{{{colour text|}}}}}}|color: {{{color text|{{{colour text}}}}}};}}
+
+|label1   = Phe̍t-miàng
+|data1    = {{{show_name_2|}}}
+|label2   = Lui-hîn
+|data2    = {{{genre|}}}
+|label3   = Kak-sṳt
+|data3    = {{{format|}}}
+|label4   = Ngièn-chhóng
+|data4    = {{{based_on|{{{creator|}}}}}}
+|label5   = {{{developer_label|Khôi-fat}}}
+|data5    = {{{developer|}}}
+|label6   = Phiên-khia̍k
+|data6    = {{{writer|}}}
+|label7   = {{{general_director_label|Chúng-thô-yên}}}
+|data7    = {{{general_director|}}}
+|label8   = {{{director_label|Thô-yên}}}
+|data8    = {{{director|}}}
+|label9   = {{{assi_director_label|Chhu-lî thô-yên}}}
+|data9    = {{{assistance_director|}}}
+|label10  = Chhóng-yi chúng-kâm
+|data10   = {{{creative_director|}}}
+|label11  = Chú-chhṳ̀
+|data11   = {{{presenter|{{{host|}}}}}}
+|label12  = Chú-yên
+|data12   =  {{{starring|}}}
+|label13  = Phìn-ve
+|data13   = {{{judges|}}}
+|label14  = Phi-yîm
+|data14   = {{{voices|}}}
+|label15  = Phòng-pha̍k
+|data15   = {{{narrated|}}}
+|label16  = {{nowrap|{{#if:{{{first_run|}}} |Chṳ-chok koet-kâ|Koet-kâ}}}}
+|data16   =  {{{country|}}}
+<!-- |label17  = {{nowrap|Sú-pô koet-kâ}}
+|data17   = {{{first_run|}}} -->
+|label18  = Ngî-ngièn
+|data18   = {{{language|}}}
+|label19  = Sṳ-mok
+|data19   = {{{subtitle|}}}
+|label20  = {{nowrap|Phiêu-ngî}}
+|data20   = {{{slogan|}}}
+
+|label21  = {{#if:{{{num_seasons|}}}|Kui-sú|{{#if:{{{num_collections|}}}|Si̍p-sú|{{#if:{{{num_series|}}}|Hì-lie̍t sú}}}}}}
+|data21   = {{#if:{{{num_seasons|}}} | {{{num_seasons|}}} | {{#if:{{{num_collections|}}} | {{{num_collections|}}} | {{#if:{{{num_series|}}} | {{{num_series|}}} | }}}}}}
+|label22  = Si̍p-sú
+|data22   = {{{original_num_episodes|{{{num_episodes|}}}}}} {{#if:{{{list_episodes|}}} | （[[{{{list_episodes|}}}|Lie̍t-péu]]）}}
+|label23  = {{nowrap|Chhòng-thu}}
+|data23   = {{{runtime|}}}
+<!-- 注意：上方有修改。-->
+|label24  = {{nowrap|Phi-lo̍k}}
+|data24   = {{{theme_music_composer|}}}
+|label25  = {{nowrap|Chú-thì-khiuk}}
+|data25   = {{#if:{{{theme_song|}}} | {{{theme_song|}}} | {{#if:{{{theme_music|}}} | {{{theme_music|}}} }}}}
+|label26  = {{nowrap|Phién-thèu-khiuk}}
+|data26   = {{{opentheme|}}}
+|label27  = {{nowrap|Chok-khiuk}}
+|data27  = {{{composer|{{{composers|}}}}}}
+|label28  = Chok-chhṳ̀
+|data28   = {{{lyricist|}}}
+|label29  = Yên-chhong
+|data29   = {{{singer|}}}
+|label30  = {{nowrap|Phién-mî-khiuk}}
+|data30   = {{{endtheme|}}}
+|label31  = {{nowrap|Chok-khiuk}}
+|data31   = {{{composer_2|}}}
+|label32  = Chok-chhṳ̀
+|data32   = {{{lyricist_2|}}}
+|label33  = Yên-chhong
+|data33   = {{{singer_2|}}}
+|label34  = {{nowrap|Chhap-khiuk}}
+|data34   = {{{interlude|}}}
+
+<!-- 预留35-36 -->
+
+|header37 = {{#ifeq: {{#expr: {{#if:{{{produce_year|}}}|1|0}} or {{#if:{{{producer|}}}|1|0}} or {{#if:{{{executive_producer|}}}|1|0}} or {{#if:{{{supervising_producer|}}}|1|0}} or {{#if:{{{senior_producer|}}}|1|0}} or {{#if:{{{story_editor|}}}|1|0}} or {{#if:{{{editor|}}}|1|0}} or {{#if:{{{location|}}}|1|0}} or {{#if:{{{company|}}} |1|0}} or {{#if:{{{camera|}}}|1|0}} }} | 1 |Chṳ-chok}}
+
+|label38  = {{nowrap|Chṳ-chok ngièn-fun}}
+|data38   = {{{produce_year|}}}
+|label39  = Chṳ-chok-ngìn 
+|data39   = {{{producer|}}}
+|label40  = {{nowrap|Khiung-thùng chṳ-chok-ngìn}}
+|data40   = {{{co-producer|}}}
+|label41  = Chhut-phín-ngìn
+|data41   = {{{program_presenter|}}}
+|label42  = Chúng-kâm-chṳ
+|data42   = {{{senior_producer|}}}
+|label43  = Kâm-chṳ
+|data43   = {{{supervising_producer|}}}
+|label44  = {{nowrap|Chṳp-hàng chṳ-chok}}
+|data44   = {{{executive_producer|}}}
+|label45  = {{nowrap|Khiung-thùng chṳp-hàng chṳ-chok}}
+|data45   = {{{co_exec|}}}
+<!-- associate producer使用率并非很高，而且存在一些目前地域概念上的争议，所以暂时隐藏，待日后取得确认之后再考虑恢复。
+|label46  = {{nowrap|Fu chhut-phín-ngìn}}
+|data46   = {{{asst_producer|{{{associate_producer|}}}}}} -->
+
+<!-- |label47-49预留 -->
+
+|label50  = {{{consultant_label|Ku-mun}}}
+|data50   = {{{consultant|{{{consulting_producer|}}}}}}
+|label51  = {{{story_label|Ku-sṳ}}}
+|data51   = {{{story|}}}
+|label52  = Phiên-sṳ́m
+|data52   = {{{story_editor|}}}
+|label53  = Chién-si̍p
+|data53   = {{{editor|}}}
+|label54  = Ngoi-kín
+|data54   = {{{location|}}}
+|label55  = Ngiap-yáng
+|data55   = {{{cinematography|}}}
+|label56  = Kî-vi
+|data56   = {{{camera|}}}
+|label57  = {{nowrap|Chṳ-chok kûng-sṳ̂}}
+|data57   = {{{company|}}}
+|label58  = {{nowrap|Fat-hàng kûng-sṳ̂}}
+|data58   = {{{distributor|}}}
+
+<!-- label59-62预留 -->
+
+|header63 = {{#switch: {{#expr: {{#if:{{{network|}}}  {{{channel|}}}  {{{TV_station|}}} |1|0}}+{{#if:{{{channel_1|}}} {{{TV_station_1|}}} {{{network_1|}}}|2|0}}}}
+ |1 = Phi-yîm
+ |2 = <!--有bug-->
+ |3 = {{#if:{{{network|}}} | {{{network|}}} Sú-pô | {{#if:{{{TV_station|}}} | {{{TV_station|}}} Sú-pô | {{#if:{{{channel|}}} | {{{channel|}}} Sú-pô }}}}}}}}
+<!-- {{#if: {{{channel|{{{network|{{{TV_station|}}}}}}}}}| {{{channel|{{{network|{{{TV_station_|}}}}}}}}} Sú-pô -->
+ {{Infobox
+  | child  = yes
+  | label1 = {{nowrap|Sú-pô phîn-tho}}
+  | data1  = {{#ifeq: {{#expr: {{#if:{{{channel|}}} {{{network|}}} {{{TV_station|}}} |1|0}}+{{#if:{{{channel_1|}}} {{{TV_station_1|}}} {{{network_1|}}}|2|0}}}}
+ |1 | {{#if:{{{network|}}} | {{{network|}}} | {{#if:{{{TV_station|}}} |{{{TV_station|}}} | {{#if:{{{channel|}}} | {{{channel|}}} }}}}}} | }}
+  | label2 = {{nowrap|Thù-chhiong kak-sṳt}}
+  | data2  = {{{picture_format|}}}
+  | label3 = {{nowrap|Sâng-yîm kak-sṳt}}
+  | data3  = {{{audio_format|}}}
+  | label4 = {{nowrap|Pô-chhut koet-kâ}}
+  | data4  = {{{first_run|}}}
+  | label5 = Si̍p-sú 
+  | data5  = {{{num_episodes_0|}}}
+<!-- label6预留 -->
+  | label7 = {{nowrap|Chhòng-thu}}
+  | data7  = {{{runtime_0|}}}
+<!-- 注意：上方有修改。-->
+  | label8 = {{nowrap|Pô-chhut ngit-khì}}
+  | data8  = {{#if:{{{first_aired|}}} | {{{first_aired|}}}－{{{last_aired|}}}}}
+}}
+
+|header64 = {{#if:{{{network_1|}}}{{{TV_station_1|}}}{{{channel_1|}}} | {{{network_1|{{{TV_station_1|{{{channel_1|}}}}}}}}} Sú-pô
+{{Infobox
+  | child  = yes
+  | label2 = {{nowrap|Thù-chhiong kak-sṳt}}
+  | data2  = {{{picture_format_1|}}}
+  | label3 = {{nowrap|Sâng-yîm kak-sṳt}}
+  | data3  = {{{audio_format_1|}}}
+  | label4 = {{nowrap|Pô-chhut koet-kâ}}
+  | data4  = {{{first_run_1|}}}
+  | label5 = Si̍p-sú
+  | data5  = {{{num_episodes_1|}}}
+  | label7 = {{nowrap|Chhòng-thu}}
+  | data7  = {{{runtime_1|}}}
+  | label8 = {{nowrap|Pô-chhut ngit-khì}}
+  | data8  = {{#if:{{{first_aired_1|}}} | {{{first_aired_1|}}}－{{{last_aired_1|}}}}}
+}} }}<!-- endif -->
+
+|header65 = {{#if:{{{network_2|}}}{{{TV_station_2|}}}{{{channel_2|}}} | {{{network_2|{{{TV_station_2|{{{channel_2|}}}}}}}}} Sú-pô
+{{Infobox
+  | child  = yes
+  | label2 = {{nowrap|Thù-chhiong kak-sṳt}}
+  | data2  = {{{picture_format_2|}}}
+  | label3 = {{nowrap|Sâng-yîm kak-sṳt}}
+  | data3  = {{{audio_format_2|}}}
+  | label4 = {{nowrap|Pô-chhut koet-kâ}}
+  | data4  = {{{first_run_2|}}}
+  | label5 = Si̍p-sú
+  | data5  = {{{num_episodes_2|}}}
+  | label7 = {{nowrap|Chhòng-thu}}
+  | data7  = {{{runtime_2|}}}
+  | label8 = {{nowrap|Pô-chhut ngit-khì}}
+  | data8  = {{#if:{{{first_aired_2|}}} | {{{first_aired_2|}}}－{{{last_aired_2|}}}}}
+}} }}<!-- endif -->
+
+|header66 = {{#if:{{{network_3|}}}{{{TV_station_3|}}}{{{channel_3|}}} | {{{network_3|{{{TV_station_3|{{{channel_3|}}}}}}}}} Sú-pô
+{{Infobox
+  | child  = yes
+  | label2 = {{nowrap|Thù-chhiong kak-sṳt}}
+  | data2  = {{{picture_format_3|}}}
+  | label3 = {{nowrap|Sâng-yîm kak-sṳt}}
+  | data3  = {{{audio_format_3|}}}
+  | label4 = {{nowrap|Pô-chhut koet-kâ}}
+  | data4  = {{{first_run_3|}}}
+  | label5 = Si̍p-sú
+  | data5  = {{{num_episodes_3|}}}
+  | label7 = {{nowrap|Chhòng-thu}}
+  | data7  = {{{runtime_3|}}}
+  | label8 = {{nowrap|Pô-chhut ngit-khì}}
+  | data8  = {{#if:{{{first_aired_3|}}} | {{{first_aired_3|}}}－{{{last_aired_3|}}}}}
+}} }}
+
+|header67 = {{#if:{{{network_4|}}}{{{TV_station_4|}}}{{{channel_4|}}} | {{{network_4|{{{TV_station_4|{{{channel_4|}}}}}}}}} Sú-pô
+{{Infobox
+  | child  = yes
+  | label2 = {{nowrap|Thù-chhiong kak-sṳt}}
+  | data2  = {{{picture_format_4|}}}
+  | label3 = {{nowrap|Sâng-yîm kak-sṳt}}
+  | data3  = {{{audio_format_4|}}}
+  | label4 = {{nowrap|Pô-chhut koet-kâ}}
+  | data4  = {{{first_run_4|}}}
+  | label5 = Si̍p-sú
+  | data5  = {{{num_episodes_4|}}}
+  | label7 = {{nowrap|Chhòng-thu}}
+  | data7  = {{{runtime_4|}}}
+  | label8 = {{nowrap|Pô-chhut ngit-khì}}
+  | data8  = {{#if:{{{first_aired_4|}}} | {{{first_aired_4|}}}－{{{last_aired_4|}}}}}
+}} }}<!-- endif -->
+
+|header68 = {{#if:{{{network_5|}}}{{{TV_station_5|}}}{{{channel_5|}}} | {{{network_5|{{{TV_station_5|{{{channel_5|}}}}}}}}} Sú-pô
+{{Infobox
+  | child  = yes
+  | label2 = {{nowrap|Thù-chhiong kak-sṳt}}
+  | data2  = {{{picture_format_5|}}}
+  | label3 = {{nowrap|Sâng-yîm kak-sṳt}}
+  | data3  = {{{audio_format_5|}}}
+  | label4 = {{nowrap|Pô-chhut koet-kâ}}
+  | data4  = {{{first_run_5|}}}
+  | label5 = Chi̍p-sò͘
+  | data5  = {{{num_episodes_5|}}}
+  | label7 = {{nowrap|Chhòng-thu}}
+  | data7  = {{{runtime_5|}}}
+  | label8 = {{nowrap|Pô-chhut ngit-khì}}
+  | data8  = {{#if:{{{first_aired_5|}}} | {{{first_aired_5|}}}－{{{last_aired_5|}}}}}
+}} }}<!-- endifs -->
+
+|header69 = {{#ifeq: {{#expr: {{#if: {{{preceded_by|}}} |1|0}} or {{#if: {{{followed_by|}}} |1|0}} or {{#if: {{{related|}}} |1|0}} }} | 1 | Siông-koân chiet-muk}}
+|label70  = Chhièn-chok
+|data70   = {{{preceded_by|}}}
+|label71  = Sa-chok
+|data71   = {{{followed_by|}}}
+|label72  = {{nowrap|Siông-koân chiet-muk}}
+|data72   = {{{related|}}}
+
+|header73 = {{#if:
+{{{show_name_zh-cn|}}}
+{{{show_name_zh-hk|}}}
+{{{show_name_zh-my|}}}
+{{{show_name_zh-sg|}}}
+{{{show_name_zh-tw|}}}
+{{{show_name_zh-jp|}}}
+{{{show_name_zh-kr|}}}
+{{{show_name_zh-th|}}}
+{{{show_name_zh-vi|}}}
+|Koet-chi chiet-muk miàng-sṳ}}
+
+|label74  = {{nowrap|Chûng-koet}}
+|data74   = {{{show_name_zh-cn|}}}
+|label75  = {{nowrap|Thòi-vân}}
+|data75   = {{{show_name_zh-tw|}}}
+|label76  = {{nowrap|kóng-Àu}}
+|data76   = {{{show_name_zh-hk|}}}
+|label77  = {{nowrap|Sîn-kâ-po}}
+|data77   = {{{show_name_zh-sg|}}}
+|label78  = {{nowrap|Mâ-lòi-sî-â}}
+|data78   = {{{show_name_zh-my|}}}
+|label79  = {{nowrap|Ngit-pún}}
+|data79   = {{{show_name_zh-jp|}}}
+|label80  = {{nowrap|Hòn-koet}}
+|data80   = {{{show_name_zh-kr|}}}
+|label81  = {{nowrap|Thai-koet}}
+|data81   = {{{show_name_zh-th|}}}
+|label82  = {{nowrap|Ye̍t-nàm}}
+|data82   = {{{show_name_zh-vi|}}}
+<!-- label83-99 预留 -->
+
+|header100= {{#ifeq: {{#expr: {{#if:{{{website|}}}|1|0}} or {{#if:{{{production_website|}}}|1|0}} or {{#if:{{{imdb_id|}}}|1|0}} or {{#if:{{{tv_com_id|}}}|1|0}} }} | 1 |{{nowrap|Ngoi-phu}}}}
+|data101  = {{#if:{{{website|}}} | [{{{website|}}} Kôn-fông mióng-chhàm]}}
+|data102  = {{#if:{{{production_website|}}} | [{{{production_website|}}} Chṳ-chok mióng-chhàm]}}
+|data103  = {{#if:{{{imdb_id|}}} | [http://www.imdb.com/title/tt{{{imdb_id}}}/ IMDb kie-sàu]}}
+|data104  = {{#if:{{{tv_com_id|}}} | [http://www.tv.com/show/{{{tv_com_id}}}/summary.html TV.com kie-sàu]}}
+}}<noinclude>
+{{documentation}}</noinclude>
