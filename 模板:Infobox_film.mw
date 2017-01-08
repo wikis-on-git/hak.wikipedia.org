@@ -1,0 +1,89 @@
+{{Infobox
+| italic title = {{{italic title|<noinclude>no</noinclude>}}}
+| bodyclass = vevent
+| bodystyle = font-size:90%;
+
+| aboveclass = summary
+| abovestyle = font-size:110%;font-style:italic;
+| above = {{{name|<includeonly>{{PAGENAME}}</includeonly>}}}
+
+| image = {{#invoke:InfoboxImage|InfoboxImage |image={{{image|}}} |size={{{image_size|{{{image size|}}}}}} |sizedefault=frameless |upright=1 |alt={{{alt|}}} |border={{{border|yes}}} }}
+| captionstyle = font-size:95%;padding:0.35em 0.35em 0.25em;line-height:1.25em;
+| caption = {{{caption|}}}
+
+| labelstyle = white-space:nowrap;padding-right:0.65em<!--(to ensure gap between any long/nonwrapped label and subsequent data on same line-->; font-size:98%;
+| datastyle = line-height:1.3em; font-size:100%;
+
+| class1  = description
+|  data1  = {{{film name|}}}
+
+| label2  = Kàm-tok
+|  data2  = {{{director|{{{directors|}}}}}}
+
+| label3  = Chṳ-chok
+|  data3  = {{{producer|{{{producers|}}}}}}
+
+| label4  = Khia̍k-pún
+|  data4  = {{{writer|{{{writers|}}}}}}
+
+| label5  = Phiên-khia̍k
+|  data5  = {{{screenplay|}}}
+
+| label6  = Ku-sṳ
+|  data6  = {{{story|}}}
+
+| label7  = Ngièn-chho̍k
+|  data7  = {{{based on|}}}
+
+| label8  = Chú-yên
+|  data8  = {{{starring|}}}
+
+| label9  = Phòng-pha̍k
+|  data9  = {{{narrator|{{{narrators|}}}}}}
+
+| label10 = Phi-lo̍k
+|  data10 = {{{music|}}}
+
+| label11 = Ngiap-yáng
+|  data11 = {{{cinematography|}}}
+
+| label12 = Chién-si̍p
+|  data12 = {{{editing|}}}
+
+| label13 = Chṳ-chok</br>kûng-sṳ̂
+|  data13 = {{#if:{{{production companies|{{{studio|}}}}}} |<div style="vertical-align:middle;">{{{production companies|{{{studio|}}}}}}</div>}}
+
+| label14 = Chhut-phín
+|  data14 = {{{distributor|{{{distributors|}}}}}}
+
+| label15 = Sông-yàng
+|  data15 = {{{released|}}}
+
+| label16 = Phién-chhòng
+|  data16 = {{{runtime|}}}
+
+| label17 = Koet-kâ
+|  data17 = {{{country|}}}
+
+| label18 = Ngî-ngièn
+|  data18 = {{#if:{{{language|}}}
+             | {{#switch:{{lc:{{{language|}}}}}
+                | english = English {{#if:{{NAMESPACE}} | |[[Category:English-language films]]}}
+                | silent (english intertitles) |silent(english intertitles) |silent film (english intertitles) |silent film(english intertitles) |silent with english intertitles |silent |silent film = Silent {{#if:{{NAMESPACE}} | |[[Category:Silent films]]}}
+                | #default = {{{language|}}} {{#if:{{NAMESPACE}} | |{{#ifexist:Category:{{#invoke:string|replace|{{{language}}}|%[%[([^%[%]]*) [%(]?language[%)]?{{!}}[^%[%]]*%]%]|%1|plain=false}}-language films |[[Category:{{#invoke:string|replace|{{{language}}}|%[%[([^%[%]]*) [%(]?language[%)]?{{!}}[^%[%]]*%]%]|%1|plain=false}}-language films]]}} }}
+            }} }}
+
+| label19 = Yi-son
+|  data19 = {{{budget|}}}
+
+| label20 = Piàu-fòng
+|  data20 = {{{gross|}}}
+
+}} <includeonly><!--
+    Tracking categories:
+    -->{{#if:{{{1|}}}{{{imdb_id|}}}{{{amg_id|}}}{{{website|}}}{{{imdb_rating|}}}{{{mpaa_rating|}}} |[[Category:Film articles using deprecated parameters]]}}<!--
+    -->{{#if:{{{image_size|}}}{{{image size|}}} |[[Category:Film articles using image size parameter]]}}<!--
+    -->{{#if:{{{preceded_by|}}}{{{preceded by|}}}{{{followed_by|}}}{{{followed by|}}} |[[Category:Film articles using infobox succession]]}}<!--
+--></includeonly><noinclude>
+{{Documentation}}
+</noinclude>
