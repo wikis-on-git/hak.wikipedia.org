@@ -1,4 +1,4 @@
-<includeonly>{{#if:{{{1|}}}|{{#switch:{{MONTHNUMBER|{{{1}}}}}|1=1月|2=2月|3=3月|4=4月|5=5月|6=6月|7=7月|8=8月|9=9月|10=10月|11=11月|12=12月|Incorrect required parameter 1=''month''!}}|Missing required parameter 1=''month''!}}</includeonly><noinclude>
+<includeonly>{{#if:{{{1|}}}|{{#switch:{{MONTHNUMBER|{{{1}}}}}|1=1-ngie̍t|2=2-ngie̍t|3=3-ngie̍t|4=4-ngie̍t|5=5-ngie̍t|6=6-ngie̍t|7=7-ngie̍t|8=8-ngie̍t|9=9-ngie̍t|10=10-ngie̍t|11=11-ngie̍t|12=12-ngie̍t|Incorrect required parameter 1=''month''!}}|Missing required parameter 1=''month''!}}</includeonly><noinclude>
 
 {{Documentation}}
 <!-- Add categories and interwikis to the /doc subpage, not here! -->
