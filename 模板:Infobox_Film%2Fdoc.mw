@@ -1,0 +1,55 @@
+== Usage ==
+{{Infobox film
+| name           = {{{name}}}
+| image          = {{{image}}}
+| alt            = {{{alt}}}
+| caption        = {{{caption}}}
+| film name      = {{{film name}}}
+| director       = {{{director}}}
+| producer       = {{{producer}}}
+| writer         = {{{writer}}}
+| screenplay     = {{{screenplay}}}
+| story          = {{{story}}}
+| based on       = {{{based on}}}
+| starring       = {{{starring}}}
+| narrator       = {{{narrator}}}
+| music          = {{{music}}}
+| cinematography = {{{cinematography}}}
+| editing        = {{{editing}}}
+| studio         = {{{studio}}}
+| distributor    = {{{distributor}}}
+| released       = {{{released}}}
+| runtime        = {{{runtime}}}
+| country        = {{{country}}}
+| language       = {{{language}}}
+| budget         = {{{budget}}}
+| gross          = {{{gross}}}
+}}
+<pre>
+{{Infobox film
+| name           = 
+| image          = 
+| alt            = 
+| caption        = 
+| film name      = <!--(for non-English films: film's name in its native language)-->
+| director       = <!-- or: |directors = -->
+| producer       = <!-- or: |producers = -->
+| writer         = <!-- or: |writers = -->
+| screenplay     = 
+| story          = 
+| based on       = <!-- {{based on|title of the original work|writer of the original work}} -->
+| starring       = 
+| narrator       = <!-- or: |narrators = -->
+| music          = 
+| cinematography = 
+| editing        = 
+| studio         = <!-- or: |production companies = -->
+| distributor    = <!-- or: |distributors = -->
+| released       = <!-- {{film date|year|month|day|location}} -->
+| runtime        = 
+| country        = 
+| language       = 
+| budget         = 
+| gross          = <!--(please use condensed and rounded values, e.g. "£11.6 million" not "£11,586,221")-->
+}}
+</pre>
