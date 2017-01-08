@@ -9,8 +9,8 @@
 
 | above       = {{#ifeq:{{lc:{{{embed}}}}}|yes||{{#if:{{{name|}}}|{{{name|}}}|<includeonly>{{BASEPAGENAME}}</includeonly>}}}}
 
-| abovestyle  = text-align: center; font-size: 120%; background: {{Gē-jîn/color selector|{{{type|artist}}}}};
-| headerstyle = {{#ifeq:{{lc:{{{embed}}}}}|yes||background: {{Gē-jîn/color selector|{{{type|artist}}} }};}}
+| abovestyle  = text-align: center; font-size: 120%; background: {{Ngi-ngìn/color selector|{{{type|artist}}}}};
+| headerstyle = {{#ifeq:{{lc:{{{embed}}}}}|yes||background: {{Ngi-ngìn/color selector|{{{type|artist}}} }};}}
 | labelstyle  = white-space:nowrap;
 
 | image       = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{imagesize|}}}|sizedefault=220px|alt={{{caption|}}}}}
@@ -24,7 +24,7 @@
 | data2       = {{{birthname|}}}
 
 | label3      = Ngièn-pún miàng
-| data3       = {{#if:{{{fnamelang|}}}|{{lang|{{Gē-jîn/lang selector|{{{fnamelang|}}}}}|{{{foreignname|}}} }}|{{{foreignname|}}}}}
+| data3       = {{#if:{{{fnamelang|}}}|{{lang|{{Ngi-ngìn/lang selector|{{{fnamelang|}}}}}|{{{foreignname|}}} }}|{{{foreignname|}}}}}
 
 | label4      = Lò-mâ-sṳ
 | data4       = {{#if:{{{romanizedname|}}}|<span lang="en" xml:lang="en">{{{romanizedname|}}}</span>}}
@@ -321,7 +321,7 @@
 }}
 
 }}{{main other|<!--
--->{{Gē-jîn/tracking|{{{type|}}}}}}}<!--
+-->{{Ngi-ngìn/tracking|{{{type|}}}}}}}<!--
 --><includeonly>{{Wikidata image|1={{{image|}}} }}</includeonly><noinclude>
 {{Documentation}}
 </noinclude>
