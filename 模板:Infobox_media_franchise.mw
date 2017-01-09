@@ -1,7 +1,7 @@
 {{italic title}}
 {{Infobox
 | bodystyle   = width: 26em;
-| above       = <includeonly>''{{{title|{{PAGENAME}}}}}''</includeonly>
+| above       = <includeonly>{{{title|''{{PAGENAME}}''}}}</includeonly>
 | aboveclass  = navbox-title
 | labelstyle  = white-space: nowrap;
 | image       = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|{{{imagesize|}}}}}}|sizedefault=frameless|alt={{{alt|}}}}}
