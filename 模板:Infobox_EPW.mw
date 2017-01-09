@@ -1,0 +1,41 @@
+{{Infobox
+| child = {{lc:{{{child}}}}}
+| bodyclass = bordered
+| bodystyle = font-size: 90%; float:right
+
+| data1 = {{#if:{{{educate|}}}|{{Collapsible list
+ | title = Kau-yuk
+ | title_style = background: {{{color|#CFCFCF}}};
+ | frame_style = border: none; padding: 0;
+ | 1 = {{Infobox|child=yes
+  | datastyle = border: none; font-size:90%; text-align:left
+  | data1 = {{{educate|}}}
+  }}
+ }}
+}}
+
+| data2 = {{#if:{{{past|}}}|{{Collapsible list
+ | title = Kîn-li̍t
+ | title_style = background: {{{color|#CFCFCF}}};
+ | frame_style = border: none; padding: 0;
+ | 1 = {{Infobox|child=yes
+  | datastyle = border: none; font-size:90%; text-align:left
+  | data1 = {{{past|}}}
+  }}
+ }}
+}}
+
+| data3 = {{#if:{{{work|}}}|{{Collapsible list
+ | title = Chho̍k-chok
+ | title_style = background: {{{color|#CFCFCF}}};
+ | frame_style = border: none; padding: 0;
+ | 1 = {{Infobox|child=yes
+  | datastyle = border: none; font-size:90%; text-align:left
+  | data1 = {{{work|}}}
+  }}
+ }}
+}}
+
+}}<noinclude>
+{{Documentation}}
+</noinclude>
