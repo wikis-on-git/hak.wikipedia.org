@@ -1,0 +1,21 @@
+{{Infobox
+| child       = {{lc:{{{embed}}}}}
+| decat       = yes <!-- remove from template:infobox tracking categories -->
+| bodyclass   = vcard plainlist
+| bodystyle   = font-size:90%; width:{{#if:{{{tablewidth|}}}|{{px|{{{tablewidth}}}}}|275px}}
+|image        = {{#if:{{{image|}}}|{{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{width|}}}|sizedefault=200px|alt={{{caption|}}}}} }}
+|imagestyle   = 
+|captionstyle = 
+|headerstyle  = background: {{{color|#B0C4DE}}}; border-bottom: 1px solid border-top:1px solid; table-layout:fixed;
+|labelstyle   = white-space:nowrap;
+|datastyle    = text-align:left
+|header1  = Ngit-ngî siá-fap
+|label2   = Ngit-ngî ngièn-vùn
+|data2    = {{#if:{{{japanese|}}}|{{lang|ja|{{{japanese|}}}}}}}
+|label3   = [[Furigana|Kana]]
+|data3    = {{#if:{{{kana|}}}|{{lang|ja|{{{kana|}}}}}}}
+|label4   = [[Hepburn-sṳt Lò-mâ-sṳ]]
+|data4    = {{#if:{{{romaji|}}}|{{transl|ja|{{{romaji|}}}}}}}
+|label5   = [[Khiu-sṳ-thí|Ngit-ngî khiu-sṳ-thí]]
+|data5    = {{#if:{{{kyujitai|}}}|<span lang="ja" style="font-feature-settings: 'trad' 1;-webkit-font-feature-settings: 'trad' 1;">-{{{{kyujitai|}}}}-</span>}}
+}}
