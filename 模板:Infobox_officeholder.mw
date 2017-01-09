@@ -1368,30 +1368,30 @@
 
 <!----------Personal data---------->
 | header19 = {{#if:{{{pronunciation|}}}{{{birth_name|{{{birthname|}}}}}}{{{birth_date|}}}{{{birth_place|}}}{{{death_date|}}}{{{death_place|}}}{{{resting_place|{{{restingplace|}}}}}}{{{resting_place_coordinates|{{{restingplacecoordinates|}}}}}}{{{citizenship|}}}{{{nationality|}}}{{{party|}}}{{{otherparty|}}}{{{spouse|}}}{{{partner|}}}{{{relations|}}}{{{children|}}}{{{parents|}}}{{{residence|}}}{{{education|}}}{{{alma_mater|}}}{{{occupation|}}}{{{profession|}}}{{{known_for|}}}{{{cabinet|}}}{{{committees|}}}{{{portfolio|}}}{{{religion|}}}{{{awards|}}}{{{data1|}}}{{{data2|}}}{{{data3|}}}{{{data4|}}}{{{data5|}}}|Kò-jîn chu-sìn}}
-| label20 = Tha̍k-im
+| label20 = Thu̍k-yîm
 | data20 = {{{pronunciation|}}}
 
-| label21 = Chhut-sì
+| label21 = Chhut-se
 | data21 = {{br separated entries
  |1 = {{#if:{{{birth_name|{{{birthname|}}}}}}|<span class="nickname">{{{birth_name|{{{birthname}}}}}}</span>}}
  |2 = {{{birth_date|}}}
  |3 = {{{birth_place|}}}
  }}
 
-| label22 = Kòe-sin
+| label22 = Ko-sṳ̂n
 | data22 = {{br separated entries|{{{death_date|}}}|{{{death_place|}}}}}
 
-| label23 = Bōng
+| label23 = Chhúng-pu
 | class23 = label
 | data23 = {{br separated entries|{{{resting_place|{{{restingplace|}}}}}}|{{{resting_place_coordinates|{{{restingplacecoordinates|}}}}}}}}
 
 | label24 = Kong-bîn-khoân
 | data24 = {{{citizenship|}}}
 
-| label25 = Kok-che̍k
+| label25 = Koet-kâ
 | data25 = {{{nationality|}}}
 
-| label26 = Chèng-tóng
+| label26 = Chṳn-tóng 
 | data26 = {{#switch:{{{party}}}
 | [[United States Democratic Party|Democrat]]
 | [[Democratic Party (United States)|Democratic]]
@@ -1423,59 +1423,59 @@
 | {{DPP}} = [[Democratic Progressive Party]]
 | #default = {{{party|}}} }}
 
-| label27 = Other political<br />affiliations
+| label27 = Khì-thâ tóng-phai
 | data27 = {{{otherparty|}}}
 
 | label28 = Height
 | data28 = {{#if:{{{height|}}}|{{infobox person/height|{{{height|}}}}}}}
 
-| label29 = Phoè-ngó͘
+| label29 = Tui-siong
 | data29 = {{{spouse|}}}
 
-| label30 = Domestic partner
+| label30 = koet-nui ha̍p-chok fó-phân
 | data30 = {{{partner|}}}
 
-| label31 = Ka-sio̍k
+| label31 = Chhîn-yû
 | data31 = {{{relations|}}}
 
-| label32 = Kiáⁿ-jî
+| label32 = Yì-ńg
 | data32 = {{{children|}}}
 
-| label33 = Pē-bú
+| label33 = Fu-mû
 | data33 = {{{parents|}}}
 
-| label34 = Toà
+| label34 = Thi-tiám 
 | class34 = {{#if:{{{death_date|}}}{{{death_place|}}}||label}}
 | data34 = {{{residence|}}}
 
-| label35 = Kàu-io̍k
+| label35 = Kau-yuk
 | data35 = {{{education|}}}
 
-| label36 = [[Bú-hāu]]
+| label36 = [[Mû-káu]]
 | data36 = {{{alma_mater|}}}
 
-| label37 = Chit-gia̍p
+| label37 = Chṳt-ngia̍p
 | data37 = {{{occupation|}}}
 
-| label38 = Choan-gia̍p
+| label38 = Chôn-ngia̍p
 | data38 = {{{profession|}}}
 
-| label40 = Chhut-miâ
+| label40 = Tî-miàng 
 | data40 = {{{known_for|}}}
 
-| label41 = Cabinet
+| label41 = Nui-kok
 | data41 = {{{cabinet|}}}
 
-| label42 = Committees
+| label42 = Ve-yèn-fi
 | data42 = {{{committees|}}}
 
-| label43 = Portfolio
+| label43 = Thai-chhṳ̀n
 | data43 = {{{portfolio|}}}
 
-| label44 = Chong-kàu
+| label44 = Chûng-kau
 | data44 = {{{religion|}}}
 
-| label45 = {{#if:{{{mawards|}}}|Chhī-bîn ê chióng|Chióng}}
+| label45 = {{#if:{{{mawards|}}}|Sṳ-mìn ke chióng|Chióng}}
 | data45 = {{{awards|}}}
 
 | label46 = {{{blank1}}}
@@ -1493,39 +1493,39 @@
 | label50 = {{{blank5}}}
 | data50 = {{{data5|}}}
 
-| label51 = Chhiam-miâ
-| data51 = {{#if:{{{signature|}}}|[[File:{{{signature}}}|128x80px|alt={{{signature_alt|}}}|{{PAGENAME}}--ê chhiam-miâ]]}}
+| label51 = Chhiâm-miàng
+| data51 = {{#if:{{{signature|}}}|[[File:{{{signature}}}|128x80px|alt={{{signature_alt|}}}|{{PAGENAME}}--ê chhiâm-miàng]]}}
 
-| label52 = Bāng-chām
+| label52 = Mióng-chhàm
 | data52 = {{{website|}}}
 
-| header53 = {{#if:{{{allegiance|}}}{{{branch|}}}{{{serviceyears|}}}{{{rank|}}}{{{unit|}}}{{{commands|}}}{{{battles|}}}{{{military_blank1|}}}|Pō͘-tūi ho̍k-e̍k}}
+| header53 = {{#if:{{{allegiance|}}}{{{branch|}}}{{{serviceyears|}}}{{{rank|}}}{{{unit|}}}{{{commands|}}}{{{battles|}}}{{{military_blank1|}}}|Phu-chhui fu̍k-yi̍t}}
 
-| label54 = Goā-hō
+| label54 = Ngoi-ho
 | data54 = {{{nickname|}}}
 
-| label55 = Hāu-tiong
+| label55 = Háu-chûng
 | data55 = {{{allegiance|}}}
 
-| label56 = Ho̍k-e̍k/hun-chi
+| label56 = Fu̍k-yi̍t
 | data56 = {{{branch|}}}
 
-| label57 = Ho̍k-e̍k sî-kan
+| label57 = Fu̍k-yi̍t sṳ̀-kiên 
 | data57 = {{{serviceyears|}}}
 
-| label58 = Kun-hâm
+| label58 = Kiûn-hâm
 | data58 = {{{rank|}}}
 
-| label59 = Tan-ūi
+| label59 = Tân-vi
 | data59 = {{{unit|}}}
 
-| label60 = Su-lēng-pō͘
+| label60 = Sṳ̂-lin-phu
 | data60 = {{{commands|}}}
 
-| label61 = Chham-ka chiàn-tàu
+| label61 = Chhâm-kâ chan-châng
 | data61 = {{{battles|}}}
 
-| label62 = {{#if:{{{awards|}}}|Pō͘-tūi ê chióng|Chióng}}
+| label62 = {{#if:{{{awards|}}}|Phu-chhui ke chióng|Chióng}}
 | data62 = {{{mawards|}}}
 
 | label63 = {{{military_blank1}}}
