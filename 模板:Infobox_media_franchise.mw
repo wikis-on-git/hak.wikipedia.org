@@ -1,0 +1,137 @@
+{{italic title}}
+{{Infobox
+| bodystyle   = width: 26em;
+| above       = <includeonly>''{{{title|{{PAGENAME}}}}}''</includeonly>
+| aboveclass  = navbox-title
+| labelstyle  = white-space: nowrap;
+| image       = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|{{{imagesize|}}}}}}|sizedefault=frameless|alt={{{alt|}}}}}
+| caption     = {{{caption|{{{image caption|}}}}}}
+
+| subheader1 = {{#if:{{{japanese|}}}|<span lang="ja" xml:lang="ja">-{{{{japanese}}}}-</span>}}
+| subheader2 = {{#if:{{{english|}}}|<span lang="en" xml:lang="en">-{<i>{{{english}}}</i>}-</span>}}
+
+| label1      = Chhóng-chho-chá
+| data1       = {{{creator|}}}
+
+| label2      = Chui-chhû chok-phín 
+| data2       = {{{origin|}}}
+
+| header3     = {{#if:{{{books|}}}{{{novels|}}}{{{comics|}}}{{{magazines|}}}{{{strips|}}}{{{short_stories|}}}{{{graphic_novels|}}}|Chhut-pán-vu̍t}}
+| class3      = navbox-abovebelow
+
+| label4      = Sû-sit
+| data4       = {{{books|}}}
+
+| label5      = Séu-sot 
+| data5       = {{{novels|}}}
+
+| label6      = Tón-phiên séu-sot
+| data6       = {{{short_stories|}}}
+
+| label7      = Màn-va̍k
+| data7       = {{{comics|}}}
+
+| label8      = [[Sṳ-kok vùn-ho̍k]]
+| data8       = {{{graphic_novels|}}}
+
+| label9      = Lièn-fàn màn-va̍k
+| data9       = {{{strips|}}}
+
+| label10      = Chha̍p-chṳ
+| data10       = {{{magazines|}}}
+
+| header11     = {{#if:{{{films|}}}{{{shorts|}}}{{{tv|}}}{{{atv|}}}{{{tv_specials|}}}{{{tv_films|}}}{{{dtv|}}}|Yáng-sṳ}}
+| class11      = navbox-abovebelow
+
+| label12     = Thien-yáng
+| data12      = {{{films|}}}
+
+| label13     = Thûng-va̍k
+| data13      = {{{atv|}}}
+
+| label14     = Thien-sṳ thi̍t-si̍p
+| data14      = {{{tv_specials|}}}
+
+| label15     = Thien-sṳ yáng-si̍p
+| data15      = {{{tv|}}}
+
+| label16     = Tón-phién 
+| data16      = {{{shorts|}}}
+
+| label17     = Thien-sṳ thien-yáng
+| data17      = {{{tv_films|}}}
+
+| label18     = [[Liu̍k-yáng-tai sú-yàng]]
+| data18      = {{{dtv|}}}
+
+| header19    = {{#if:{{{plays|}}}{{{musicals|}}}|Hi-khia̍k}}
+| class19     = navbox-abovebelow
+
+| label20     = Fa-khia̍k
+| data20      = {{{plays|}}}
+
+| label21     = Yîm-lo̍k-khia̍k
+| data21      = {{{musicals|}}}
+
+| header22    = {{#if:{{{games|}}}{{{rpgs|}}}{{{vgs|}}}|Yù-hi}}
+| class22     = navbox-abovebelow
+
+| label23     = Chok-mien yù-hi
+| data23      = {{{games|}}}
+
+| label24     = Chok-mien kok-set pan-yên yù-hi
+| data24      = {{{rpgs|}}}
+
+| label25     = Thien-chṳ́ yù-hi
+| data25      = {{{vgs|}}}
+
+| header26    = {{#if:{{{radio|}}}{{{soundtracks|}}}{{{music|}}}|Yîm-chhiong}}
+| class26     = navbox-abovebelow
+
+| label27     = Kóng-pô-khia̍k
+| data27      = {{{radio|}}}
+
+| label28     = Ngièn-sâng-tai
+| data28      = {{{soundtracks|}}}
+
+| label29     = Ngièn-chhóng yîm-lo̍k
+| data29      = {{{music|}}}
+
+| header30    = {{#if:{{{toys|}}}{{{otherlabel1|}}}{{{otherlabel2|}}}{{{otherlabel3|}}}|Chû-piên}}
+| class30     = navbox-abovebelow
+
+| label31     = Nguàn-khí
+| data31      = {{{toys|}}}
+
+| label32     = {{{otherlabel1|}}}
+| data32      = {{{otherdata1|}}}
+
+| label33     = {{{otherlabel2|}}}
+| data33      = {{{otherdata2|}}}
+
+| label34     = {{{otherlabel3|}}}
+| data34      = {{{otherdata3|}}}
+
+| header35    = {{#if:{{{cn_name|}}}{{{hk_name|}}}{{{mo_name|}}}{{{my_name|}}}{{{sg_name|}}}{{{tw_name|}}}|Kok-thi Chûng-vùn miàng}}
+| class35     = navbox-abovebelow
+
+| label36     = Chûng-koet
+| data36      = {{#if:{{{cn_name|}}}|-{zh; zh-hans; zh-hant;{{!}}{{{cn_name|}}} }-}}
+
+| label37     = Hiông-kóng
+| data37      = {{#if:{{{cn_name|}}}|-{zh; zh-hans; zh-hant;{{!}}{{{hk_name|}}} }-}}
+
+| label38     = Au-mùn
+| data38      = {{#if:{{{cn_name|}}}|-{zh; zh-hans; zh-hant;{{!}}{{{mo_name|}}} }-}}
+
+| label39     = Mâ-lòi-sî-â
+| data39      = {{#if:{{{cn_name|}}}|-{zh; zh-hans; zh-hant;{{!}}{{{my_name|}}} }-}}
+
+| label40     = Sîn-kâ-po
+| data40      = {{#if:{{{cn_name|}}}|-{zh; zh-hans; zh-hant;{{!}}{{{sg_name|}}} }-}}
+
+| label41     = Thòi-vân
+| data41      = {{#if:{{{cn_name|}}}|-{zh; zh-hans; zh-hant;{{!}}{{{tw_name|}}} }-}}
+}}<noinclude>
+{{Documentation}}
+</noinclude>
