@@ -108,7 +108,7 @@
   |{{#if:{{{termstart|}}}
       | {{#if:{{{termend|}}}
          |<!--then: term has start and end:-->{{nowrap|'''{{{termlabel|In office}}}'''}}<br />{{{termstart}}}{{#iferror:{{#expr:{{{termstart}}}*{{{termend}}}}}|&nbsp;–&#32;|–}}{{{termend}}}{{#if:{{{alongside|}}}{{{co-leader|}}}|<br />{{#if:{{{alongside|}}}|Serving|Co-leading}}&#32;with&#32;{{#if:{{{alongside|}}}|{{{alongside}}}|{{{co-leader}}}}}}}
-         |<!--else: term is ongoing--><div style="width:100%; margin:0; padding:0; background-color: {{{color|lavender}}}">'''[[Chāi-jīm]]'''</div>
+         |<!--else: term is ongoing--><div style="width:100%; margin:0; padding:0; background-color: {{{color|lavender}}}">'''[[Chhai-ngim]]'''</div>
          }}
     }}
 }} }}
