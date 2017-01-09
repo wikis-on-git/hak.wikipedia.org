@@ -116,22 +116,22 @@
 | class35     = navbox-abovebelow
 
 | label36     = Chûng-koet
-| data36      = {{#if:{{{cn_name|}}}|{{{cn_name|}}}}}
+| data36      = {{#if:{{{cn_name|}}}|''{{{cn_name|}}}''}}
 
 | label37     = Hiông-kóng
-| data37      = {{#if:{{{cn_name|}}}|{{{cn_name|}}}}}
+| data37      = {{#if:{{{cn_name|}}}|''{{{hk_name|}}}''}}
 
 | label38     = Au-mùn
-| data38      = {{#if:{{{cn_name|}}}|{{{cn_name|}}}}}
+| data38      = {{#if:{{{cn_name|}}}|''{{{mo_name|}}}''}}
 
 | label39     = Mâ-lòi-sî-â
-| data39      = {{#if:{{{cn_name|}}}|{{{cn_name|}}}}}
+| data39      = {{#if:{{{cn_name|}}}|''{{{my_name|}}}''}}
 
 | label40     = Sîn-kâ-po
-| data40      = {{#if:{{{cn_name|}}}|{{{cn_name|}}}}}
+| data40      = {{#if:{{{cn_name|}}}|''{{{sg_name|}}}''}}
 
 | label41     = Thòi-vân
-| data41      = {{#if:{{{cn_name|}}}|{{{cn_name|}}}}}
+| data41      = {{#if:{{{cn_name|}}}|''{{{tw_name|}}}''}}
 }}<noinclude>
 {{Documentation}}
 </noinclude>
