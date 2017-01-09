@@ -56,7 +56,7 @@
  |{{{birthdate|}}}
  |{{#switch:{{#expr:{{#ifexpr:{{#if:{{{birthyear|}}}|1|0}} + {{#if:{{{birthmonth|}}}|1|0}} + {{#if:{{{birthday|}}}|1|0}}=3|1|0}} + {{#ifexpr:{{#if:{{{deathyear|}}}|1|0}} + {{#if:{{{deathmonth|}}}|1|0}} + {{#if:{{{deathday|}}}|1|0}}=3|2|0}}}}|1={{Birth date and age|year={{{birthyear|}}}|month={{{birthmonth|}}}|day={{{birthday|}}}}}|3={{birth date|{{{birthyear|}}}|{{{birthmonth|}}}|{{{birthday|}}}}}}}}}|{{#if:{{{birthplace|}}}|<span class="city">{{{birthplace|}}}</span>}}}}
 
-| label12     = Ko-se
+| label12     = Ko-sṳ̂n
 | data12      = {{br separated entries|{{#if:{{{deathdate|}}}
  |{{{deathdate|}}}
  |{{#ifexpr:{{#ifexpr:{{#if:{{{birthyear|}}}|1|0}} + {{#if:{{{birthmonth|}}}|1|0}} + {{#if:{{{birthday|}}}|1|0}}=3|1|0}} + {{#ifexpr:{{#if:{{{deathyear|}}}|1|0}} + {{#if:{{{deathmonth|}}}|1|0}} + {{#if:{{{deathday|}}}|1|0}}=3|2|0}}=3|{{Death date and age|{{{deathyear|}}}|{{{deathmonth|}}}|{{{deathday|}}}|{{{birthyear|}}}|{{{birthmonth|}}}|{{{birthday|}}}}}}}}}|{{#if:{{{deathplace|}}}|<span class="city">{{{deathplace|}}}</span>}}}}
