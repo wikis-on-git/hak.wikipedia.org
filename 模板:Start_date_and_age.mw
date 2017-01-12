@@ -11,7 +11,7 @@
      -->|{{{1}}}-ngièn <!--
    -->}}<!--
    --><span class="noprint"><!--
-     -->{{#ifeq:{{yesno|{{{paren|{{{p|no}}}}}}}}|yes||, }}<!--
+     -->{{#ifeq:{{yesno|{{{paren|{{{p|no}}}}}}}}|yes|| , }}<!--
      -->{{#ifeq:{{{br|}}}|yes|<br/>|&#x200B;}}<!--
      -->{{#ifeq:{{yesno|{{{paren|{{{p|no}}}}}}}}|yes|(}}<!--
      -->{{time ago<!--
