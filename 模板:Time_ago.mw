@@ -1,0 +1,18 @@
+{{#switch:
+  {{#expr: <!--WHAT 'ORDER OF MAGNITUDE' IS THE OFFSET?-->
+   {{#ifexpr: floor( abs( {{#time:U}} - {{#time:U| {{{1|}}} }} ) / 120      ) | 1 | 0 }}+
+   {{#ifexpr: floor( abs( {{#time:U}} - {{#time:U| {{{1|}}} }} ) / 7200     ) | 1 | 0 }}+
+   {{#ifexpr: floor( abs( {{#time:U}} - {{#time:U| {{{1|}}} }} ) / 172800   ) | 1 | 0 }}+
+   {{#ifexpr: floor( abs( {{#time:U}} - {{#time:U| {{{1|}}} }} ) / 5356800  ) | 1 | 0 }}+
+   {{#ifexpr: floor( abs( {{#time:U}} - {{#time:U| {{{1|}}} }} ) / 63115200 ) | 1 | 0 }}
+  }}
+ | 0 = {{#expr: floor( abs( {{#time:U}} - {{#time:U| {{{1|}}} }} ) / 1        ) }}-miáu
+ | 1 = {{#expr: floor( abs( {{#time:U}} - {{#time:U| {{{1|}}} }} ) / 60       ) }}-fûn
+ | 2 = {{#expr: floor( abs( {{#time:U}} - {{#time:U| {{{1|}}} }} ) / 3600     ) }}-tiám-chûng
+ | 3 = {{#expr: floor( abs( {{#time:U}} - {{#time:U| {{{1|}}} }} ) / 86400    ) }}-thiên
+ | 4 = {{#expr: floor( abs( {{#time:U}} - {{#time:U| {{{1|}}} }} ) / 2678400  ) }}-chak-ngie̍t
+ | 5 = {{#expr: floor( abs( {{#time:U}} - {{#time:U| {{{1|}}} }} ) / 31557600 ) }}-ngièn
+
+}}{{#if: ( {{#time:U}} - {{#time:U| {{{1|}}} }} ) > 0 | -chhièn | -heu }}<noinclude>
+{{documentation}}
+</noinclude>
