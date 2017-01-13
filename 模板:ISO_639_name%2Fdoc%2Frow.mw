@@ -5,5 +5,5 @@
  <td><span class="plainlinks">{{#if:{{{4|}}}|[[Template:ISO_639_name_{{{4}}}|{{{4}}}]]}}</span></td>
  <td>{{ISO 639 name|{{{1}}}}}</td>
  <td>[[{{ISO 639 name|{{{1}}}}}]]</td>
- <td>[[:Category:含有{{ISO 639 name|{{{1}}}}}的條目]]</td>
+ <td>[[:Category:Hàm yû {{ISO 639 name|{{{1}}}}} ke thiàu-muk]]</td>
 </tr>
