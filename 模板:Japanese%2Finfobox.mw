@@ -12,7 +12,7 @@
 |header1  = Ngit-ngî siá-fap
 |label2   = Ngit-ngî ngièn-vùn
 |data2    = {{#if:{{{japanese|}}}|{{lang|ja|{{{japanese|}}}}}}}
-|label3   = [[Furigana|Kana]]
+|label3   = [[Kana]]
 |data3    = {{#if:{{{kana|}}}|{{lang|ja|{{{kana|}}}}}}}
 |label4   = [[Hepburn-sṳt Lò-mâ-sṳ]]
 |data4    = {{#if:{{{romaji|}}}|{{transl|ja|{{{romaji|}}}}}}}
