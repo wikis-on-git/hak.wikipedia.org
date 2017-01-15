@@ -1,0 +1,3 @@
+{{Flag|PRC}}{{#if:{{{1<includeonly>|</includeonly>}}}|{{#ifexist:{{{1}}} (中华人民共和国)|[[{{{1}}} (中华人民共和国)|{{{1}}}]]|{{#ifexist:中华人民共和国{{{1}}}|[[中华人民共和国{{{1}}}|{{{1}}}]]|[[{{{1}}}]]}}}}}}<noinclude>
+{{Documentation}}
+</noinclude>
