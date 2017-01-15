@@ -1,0 +1,35 @@
+<noinclude>{{pp-template|small=yes}}</noinclude>{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Chûng-fà Ngìn-mìn Khiung-fò-koet
+| shortname alias = Chûng-koet
+| flag alias = Flag of the People's Republic of China.svg
+| flag alias-military = People's Liberation Army Flag of the People's Republic of China.svg
+| name alias-army = Chûng-koet Ngìn-mìn Kié-piong-kiûn
+| flag alias-army = Ground Force Flag of the People's Republic of China.svg
+| link-alias-army = Chûng-koet Ngìn-mìn Kié-piong-kiûn Liu̍k-kiûn
+| name alias-naval = {{{name|}}}
+| flag alias-naval = Naval Ensign of the People's Republic of China.svg
+| link alias-naval = Chûng-koet Ngìn-mìn Kié-piong-kiûn Hói-kiûn
+| flag alias-coast guard = Cmp.jpg
+| link alias-coast guard = Chûng-koet Hói Kín
+| flag alias-police = People's Armed Police cap badge 2007.png
+| link alias-police = Chûng-koet Ngìn-mìn Vú-chông Kín-chhat Phu-chhui 
+| name alias-air force = {{{name|}}}
+| flag alias-air force = Air Force Flag of the People's Republic of China.svg
+| link alias-air force = Chûng-koet Ngìn-mìn Kié-piong-kiûn Khûng-kiûn
+| link alias-ice hockey = China national {{{mw|men's}}} ice hockey team
+| name alias-football = Chûng-koet
+| link alias-football = Chûng-koet koet-kâ {{{mw|}}} Kha-kiû-chhui
+| size = {{{size|}}}
+| name = {{#if: {{{name|}}} | {{{name|}}} | Chûng-fà Ngìn-mìn Khiung-fò-koet }}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| redir1 = CHN
+| redir2 = Chûng-fà Ngìn-mìn Khiung-fò-koet
+| redir3 = China, People's Republic of
+| redir4 = PRC
+| related1 = Qing Dynasty
+| related2 = Republic of China
+</noinclude>
+}}
