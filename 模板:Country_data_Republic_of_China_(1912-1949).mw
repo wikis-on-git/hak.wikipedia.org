@@ -1,0 +1,26 @@
+{{ {{{1<noinclude>
+|country showdata
+</noinclude>}}}
+| alias = Chûng-fà Mìn-koet (1912-1949)
+| shortname alias = Chûng-koet
+| flag alias = Flag of the Republic of China.svg
+| flag alias-1912 = Flag of the Republic of China 1912-1928.svg
+| flag alias-army = Flag of the Republic of China Army.svg
+| flag alias-civil = Civil Ensign of the Republic of China.svg
+| link alias-army = Koet-mìn Kiet-miang-kiûn
+| link alias-naval = Chûng-fà Mìn-koet Hói-kiûn
+| link alias-air force = Chûng-fà Mìn-koet Khûng-kiûn 
+| size = {{{size|}}}
+| name = {{#if: {{{name|}}} | {{{name|}}} | Chûng-fà Mìn-koet }}
+| variant = {{{variant|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+<noinclude>
+| var1 = 1912
+| var2 = civil
+| related1 = Republic of China
+| related2 = China
+| related3 = Taiwan
+| cat = China republic 1912
+</noinclude>
+}}<noinclude>
