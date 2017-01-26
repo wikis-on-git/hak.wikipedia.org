@@ -1,9 +1,7 @@
 {{Infobox
 | child       = {{lc:{{{embed}}}}}
 
-| bodyclass   = vcard
-| bodystyle   = width:325px; font-size: 95%;
-| aboveclass  = fn n
+| bodyclass   = vcard plainlist
 
 | title       = {{#ifeq:{{lc:{{{embed}}}}}|yes|'''Yên-ngi sâng-ngài '''}}
 
