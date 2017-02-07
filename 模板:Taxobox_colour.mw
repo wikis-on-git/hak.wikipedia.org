@@ -1,0 +1,64 @@
+<includeonly>{{#switch:{{lc:{{{1|{{get regnum()|{{{taxon}}} }} }}}}}
+|[[Thung-vu̍t-kie]] animalia|[[Thung-vu̍t-kie]] animalia
+|[[Thung-vu̍t-kie]]|[[Thung-vu̍t-kie]]
+|[[Thung-vu̍t|Thung-vu̍t-kie]]|[[Thung-vu̍t|Thung-vu̍t-kie]]
+|[[Thung-vu̍t|Thung-vu̍t-kie]] animalia|[[Thung-vu̍t|Thung-vu̍t-kie]] animalia
+|[[animal]]ia|animalia|[[animalia]]
+ = rgb(211,211,164)
+
+|[[archaeplastida]]
+|plantae|[[plant]]ae|[[plantae]]|[[plant|plantae]]|[[viridiplantae]]|plantae|plant
+|[[Chhṳ̍t-vu̍t-kie]] plantae
+|[[Chhṳ̍t-vu̍t-kie]]
+|[[Chhṳ̍t-vu̍t|Chhṳ̍t-vu̍t-kie]]
+|[[Chhṳ̍t-vu̍t|Chhṳ̍t-vu̍t-kie]] plantae
+|[[Chhṳ̍t-vu̍t|Chhṳ̍t-vu̍t-kie]] Plantae
+ = rgb(144,238,144) <!--lightgreen-->
+
+|[[變形蟲界]]|[[变形虫界]]
+|[[變形蟲界]] amoebozoa|[[变形虫界]] amoebozoa
+ = rgb(255,200,160) <!--Peach Puff-->
+
+|chromalveolata|[[chromalveolata]]|Chromalveolate|[[Chromalveolate]]
+|[[囊泡藻界]]
+|[[囊泡藻界]] chromalveolata
+ = rgb(173,238,63) <!--Green Yellow-->
+
+|excavata|[[excavata]]|[[excavates]]|[[excavate|excavata]]|[[excavates|excavata]]
+|[[古虫界]]|[[古蟲界]]
+|[[古虫界]] excavata|[[古蟲界]] excavata
+ = rgb(240,230,140) <!--(khaki)-->
+
+|fungi|[[fungi]]
+|[[Chṳ̂n-khiùn-kie]] fungi
+|[[Chṳ̂n-khiùn-kie]] 
+|[[Chṳ̂n-khiùn|Chṳ̂n-khiùn-kie]]
+|[[Chṳ̂n-khiùn|Chṳ̂n-khiùn-kie]] fungi
+= rgb(173,216,230) <!--(lightblue)-->
+
+|rhizaria|[[rhizaria]]
+|[[有孔虫界]]|[[有孔蟲界]]
+|[[有孔虫界]] rhizaria|[[有孔蟲界]] rhizaria
+ = rgb(225,204,252)
+
+|[[amoebozoa]]|amoebozoa = rgb(255,200,160)
+
+|bacteria|[[bacteria]]
+|[[细菌域]] bacteria|[[細菌域]] bacteria
+|[[细菌域]]|[[細菌域]]
+ = rgb(211,211,211) <!--(lightgray)-->
+
+|[[archaea]]|archaea
+|[[古菌域]] archaea|[[古菌域]]
+ = rgb(236,210,210)
+
+|[[virus]]|[[viruses]]|[[virus]]es|i|ii|iii|iv|v|vi|vii|viii
+|[[Phiang-thu̍k]]
+ = rgb(238,130,238) <!--(violet)-->
+
+|[[incertae sedis]]
+|''[[incertae sedis]]'' = rgb(250,240,230) <!--(linen)-->
+|=transparent
+|#default = {{taxobox/Error colour}}
+}}</includeonly><noinclude>
+{{Documentation}}</noinclude>
