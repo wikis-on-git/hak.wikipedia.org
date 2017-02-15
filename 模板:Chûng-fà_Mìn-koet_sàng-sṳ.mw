@@ -58,22 +58,22 @@
 |-
 {{#if:{{{tsúng mien-tsit <includeonly>|</includeonly>}}}|
 <!-- -->! style="width: 92px" {{!}} tsúng mien-tsit 
-<!-- -->{{!}} {{{tsúng mien-tsit}}}<br><small>（[[thòi-vân hàng-tsṳn khî mien-tsit péu|thòi-vân ke {{{tsúng mien-tsit miàng-tshṳ}}}]]）<small/>
+<!-- -->{{!}} {{{tsúng mien-tsit}}}<br><small>（[[thòi-vân hàng-tsṳn khî mien-tsit péu|thòi-vân ke {{{tsúng mien-tsit miàng-tshṳ}}}]]）</small>
 }}
 |-
 {{#if:{{{tsúng ngìn-khiéu <includeonly>|</includeonly>}}}|
 <!-- -->! style="width: 92px" {{!}} tsúng ngìn-khiéu 
-<!-- -->{{!}} {{{tsúng ngìn-khiéu}}}<br><small>（[[thòi-vân hàng-tsṳn khî ngìn-khiéu péu|thòi-vân ke {{{tsúng ngìn-khiéu miàng-tshṳ}}}]]）<small/>
+<!-- -->{{!}} {{{tsúng ngìn-khiéu}}}<br><small>（[[thòi-vân hàng-tsṳn khî ngìn-khiéu péu|thòi-vân ke {{{tsúng ngìn-khiéu miàng-tshṳ}}}]]）</small>
 }}
 |-
 {{#if:{{{tû-fi khî ngìn-khiéu<includeonly>|</includeonly>}}}|
 <!-- -->! style="width: 92px" {{!}} tû-fi khî ngìn-khiéu
-<!-- -->{{!}} {{{tû-fi khî ngìn-khiéu}}}<br><small>（thòi-vân ke {{{thòi-vân tû-fi khî ngìn-khiéu miàng-tshṳ}}}／sṳ-kie ke {{{sṳ-kie tû-fi khî ngìn-khiéu miàng-tshṳ}}}）<small/>
+<!-- -->{{!}} {{{tû-fi khî ngìn-khiéu}}}<br><small>（thòi-vân ke {{{thòi-vân tû-fi khî ngìn-khiéu miàng-tshṳ}}}／sṳ-kie ke {{{sṳ-kie tû-fi khî ngìn-khiéu miàng-tshṳ}}}）</small>
 }}
 |-
 {{#if:{{{ngìn-khiéu me̍t-thu<includeonly>|</includeonly>}}}|
 <!-- -->! style="width: 92px" {{!}} ngìn-khiéu me̍t-thu
-<!-- -->{{!}} {{{ngìn-khiéu me̍t-thu}}}<br><small>（[[thòi-vân hàng-tsṳn khî ngìn-khiéu péu|thòi-vân ke {{{ngìn-khiéu me̍t-thu miàng-tshṳ}}}]]）<small/>
+<!-- -->{{!}} {{{ngìn-khiéu me̍t-thu}}}<br><small>（[[thòi-vân hàng-tsṳn khî ngìn-khiéu péu|thòi-vân ke {{{ngìn-khiéu me̍t-thu miàng-tshṳ}}}]]）</small>
 }}
 |-
 {{#if:{{{hàng-tsṳn khî siong-tsṳ̂n <includeonly>|</includeonly>}}}|
