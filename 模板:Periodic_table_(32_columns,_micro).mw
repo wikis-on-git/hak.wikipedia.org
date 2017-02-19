@@ -129,12 +129,12 @@
 | style="border:none" | {{Periodic table (32 columns, micro)/elementcell|group=10|category={{#ifexpr:{{{number|0}}}>118|transition metal (predicted)|unknown chemical properties}}|number=110|name=Darmstadtium|mark={{{mark|}}}|symbol=Ds}}
 | style="border:none" | {{Periodic table (32 columns, micro)/elementcell|group=11|category={{#ifexpr:{{{number|0}}}>118|transition metal (predicted)|unknown chemical properties}}|number=111|name=Roentgenium|mark={{{mark|}}}|symbol=Rg}}
 | style="border:none" | {{Periodic table (32 columns, micro)/elementcell|group=12|category=transition metal|number=112|name=Copernicium|mark={{{mark|}}}|symbol=Cn}}
-| style="border:none" | {{Periodic table (32 columns, micro)/elementcell|group=13|category={{#ifexpr:{{{number|0}}}>118|post-transition metal (predicted)|unknown chemical properties}}|number=113|name=Ununtrium|mark={{{mark|}}}|symbol=Uut}}
+| style="border:none" | {{Periodic table (32 columns, micro)/elementcell|group=13|category={{#ifexpr:{{{number|0}}}>118|post-transition metal (predicted)|unknown chemical properties}}|number=113|name=Nihonium|mark={{{mark|}}}|symbol=Nh}}
 | style="border:none" | {{Periodic table (32 columns, micro)/elementcell|group=14|category=post-transition metal|number=114|name=Flerovium|mark={{{mark|}}}|symbol=Fl}}
-| style="border:none" | {{Periodic table (32 columns, micro)/elementcell|group=15|category={{#ifexpr:{{{number|0}}}>118|post-transition metal (predicted)|unknown chemical properties}}|number=115|name=Ununpentium|mark={{{mark|}}}|symbol=Uup}}
+| style="border:none" | {{Periodic table (32 columns, micro)/elementcell|group=15|category={{#ifexpr:{{{number|0}}}>118|post-transition metal (predicted)|unknown chemical properties}}|number=115|name=Moscovium|mark={{{mark|}}}|symbol=Mc}}
 | style="border:none" | {{Periodic table (32 columns, micro)/elementcell|group=16|category={{#ifexpr:{{{number|0}}}>118|post-transition metal (predicted)|unknown chemical properties}}|number=116|name=Livermorium|mark={{{mark|}}}|symbol=Lv}}
-| style="border:none" | {{Periodic table (32 columns, micro)/elementcell|group=-1|category={{#ifexpr:{{{number|0}}}>118|metalloid (predicted)|unknown chemical properties}}|number=117|name=Ununseptium|mark={{{mark|}}}|symbol=Uus}}
-| style="border:none" | {{Periodic table (32 columns, micro)/elementcell|group=-1|category={{#ifexpr:{{{number|0}}}>118|noble gas (predicted)|unknown chemical properties}}|number=118|name=Ununoctium|mark={{{mark|}}}|symbol=Uuo}}
+| style="border:none" | {{Periodic table (32 columns, micro)/elementcell|group=-1|category={{#ifexpr:{{{number|0}}}>118|metalloid (predicted)|unknown chemical properties}}|number=117|name=Tennessine|mark={{{mark|}}}|symbol=Ts}}
+| style="border:none" | {{Periodic table (32 columns, micro)/elementcell|group=-1|category={{#ifexpr:{{{number|0}}}>118|noble gas (predicted)|unknown chemical properties}}|number=118|name=Oganesson|mark={{{mark|}}}|symbol=Og}}
 |}
 {{#ifexpr:{{{number|0}}}>118|{{Periodic table (32 columns, micro)/119+|number={{{number|0}}}|mark={{{mark|}}} }}}}<noinclude>
 {{documentation}}
