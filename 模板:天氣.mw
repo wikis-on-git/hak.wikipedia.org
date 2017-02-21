@@ -1,0 +1,46 @@
+{| class="floatright" cellpadding="1" cellspacing="5" style="float: right; margin: 0 0 0.5em 0.5em; text-align:center; background: #F9F9F9; border: 1px solid #D4CBC0;" width=160px
+|height="40"  style="padding:0.2em; border solid thin #0000CC; text-align:center; margin-bottom:5px; background-color:#F9F9F9; font color:#FFFFFF |<span style="font-size:small">[[自然]]系列條目之</span><br><span style="line-height:1.8em; font-size:120%;">'''[[天氣]]'''</span><br>
+|-
+! style="font-size: 95%; color:#FFFFFF; background-color:#EFE4B0;" | [[季節|<span class="org", style="color: #9C8B49">季節</span>]]
+|-
+|style="font-size:90%;"|
+[[春]]{{.w}}[[夏]]{{.w}}[[秋]]{{.w}}[[冬]]
+|-
+! style="font-size: 95%; color:#3F8F3F; background-color:#B0C2DB;" | [[云|<span class="org", style="color:#1C2B3E">云</span>]]
+|-
+| style="font-size:90%;"|
+[[积云]]{{.w}}[[积雨云]]<br />
+[[层云]]{{.w}}[[层积云]]{{.w}}[[雨层云]]<br />
+[[高积云]]{{.w}}[[高层云]]<br />
+[[卷云]]{{.w}}[[卷积云]]{{.w}}[[卷层云]]
+|-
+! style="font-size: 95%; color:#FFFFFF; background-color:#43446D;" | [[風|<span class="org", style="color: #E6E2EF">風</span>]]
+|-
+| style="font-size:90%;"|
+[[风暴]]{{.w}}[[雷暴]]{{.w}}[[龍捲風]]<br />
+[[颶風]]{{.w}}[[氣旋]]{{.w}}[[雪暴]]
+|-
+! style="font-size: 95%; color:#3F8F3F; background-color:#B0C2DB;" | [[降水|<span class="org", style="color: #1C2B3E">降水</span>]]
+|-
+| style="font-size:90%;" |
+液態：[[雨毛]]{{.w}}[[雨]]{{.w}}[[暴雨]]<br />
+固態：[[雪]]{{.w}}[[冰珠]]{{.w}}[[鑽石塵]]{{.w}}[[霰]]{{.w}}[[雹]]<br />
+其他：[[霙]]{{.w}}[[冻雨]]
+|-
+! style="font-size: 95%; color:#3F8F3F; background-color:#43446D;" | [[凝結|<span class="org", style="color: #E6E2EF">凝結</span>]]
+|-
+| style="font-size:90%;" |
+液態：[[靄]]{{.w}}[[霧]]{{.w}}[[露]]<br />
+固態：[[霜]]{{.w}}[[霧凇]]{{.w}}[[冰]]
+|-
+! style="font-size: 95%; color:#393C3E; background-color:#EDE6EE;" | 其他
+|-
+| style="font-size:90%;"|
+[[氣象學]]{{.w}}[[天氣預報]]<br />
+[[氣候]]{{.w}}[[空氣污染]]
+|-
+| style="font-size: 90%; line-height:120%; border-top: 1px solid #999;" |
+<small>{{navbar|天氣|mini=1}}</small>
+|}<noinclude>
+[[Category:天氣模板]]
+</noinclude>
