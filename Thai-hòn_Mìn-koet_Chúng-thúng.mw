@@ -1,0 +1,200 @@
+'''Thai-thúng-liâng''' ([[Hòn-ngî]]: {{lang|ko|대통령}}/ {{lang|ko|大統領}}<sup>''Daetongnyeong''</sup> ) he [[Thai-hòn Mìn-koet]] ke liâng-thô-ngìn, ńg-ngièn yit ngin.
+== Li̍t-thoi chúng-thúng ==
+<!--待更改
+<timeline>
+ImageSize = width:800 height:auto barincrement:12
+PlotArea  = top:10 bottom:50 right:130 left:20
+AlignBars = late
+
+DateFormat = dd/mm/yyyy
+Period     = from:01/01/1948 till:01/01/2023
+TimeAxis   = orientation:horizontal
+ScaleMajor = unit:year increment:5 start:1948
+
+Colors     =
+  id:con value:blue 
+  id:lib value:green
+  id:act value:pink
+
+BarData =
+  barset:PM
+
+PlotData=
+  width:8 align:left fontsize:S shift:(5,-4) anchor:till
+  barset:PM
+
+ from: 20/07/1948 till: 26/04/1960 color:con text:"[[李承晚]]" fontsize:10
+ from: 26/04/1960 till: 13/08/1960 color:act text:"[[許政]]" fontsize:10
+ from: 13/08/1960 till: 22/03/1962 color:lib text:"[[尹潽善]]" fontsize:10
+ from: 22/03/1962 till: 26/10/1979 color:con text:"[[朴正熙]]" fontsize:10
+ from: 26/10/1979 till: 16/08/1980 color:con text:"[[崔圭夏]]" fontsize:10
+ from: 16/08/1980 till: 01/09/1980 color:act text:"[[朴忠勛]]" fontsize:10
+ from: 01/09/1980 till: 24/02/1988 color:con text:"[[全斗焕]]" fontsize:10
+ from: 25/02/1988 till: 24/02/1993 color:con text:"[[盧泰愚]]" fontsize:10
+ from: 25/02/1993 till: 24/02/1998 color:con text:"[[金泳三]]" fontsize:10
+ from: 25/02/1998 till: 24/02/2003 color:lib text:"[[金大中]]" fontsize:10
+ from: 25/02/2003 till: 24/02/2008 color:lib text:"[[盧武鉉]]" fontsize:10
+ from: 12/03/2004 till: 14/05/2004 color:act text:"[[高建 (韓國)|高建]]" fontsize:10
+ from: 25/02/2008 till: 24/02/2013 color:con text:"[[李明博]]" fontsize:10
+ from: 25/02/2013 till: 09/12/2016 color:con text:"[[朴槿惠]]" fontsize:10
+ from: 09/12/2016 till: 09/05/2017 color:act text:"[[黄教安]]" fontsize:10
+ from: 10/05/2017 till: 09/05/2022 color:lib text:"[[Vùn Chhai-yìn]]" fontsize:10
+</timeline>
+-->
+{| class="wikitable" style="text-align:center;"
+!
+<nowiki>#</nowiki>
+!
+Siong-phién
+!
+Miàng-è
+!
+Hòn-ngî miàng
+!
+Ngin-khì
+!
+Tóng-phai
+!
+Phi-chu
+|-
+|1-3
+|
+|Lí Sṳ̀n-vân
+李承晚
+| 이승만
+Syngman Rhee
+|1948-1960
+|Chhṳ-yù Tóng(自由黨)
+|Sú-vi liâng-thô-ngìn
+|-
+|Thoi-hàng(代行)
+|
+|Hí Chṳn
+許政
+|
+|1960
+|
+|
+|-
+|4
+|
+|尹潽善
+|
+윤보선
+Yun Posun
+|
+|
+|
+|-
+|5-9
+|
+|Phok Chang-hî
+朴正熙
+|박정희
+Park Chung-hee
+|
+|
+|
+|-
+|10
+|
+|崔圭夏
+|최규하
+Choi Kyu-hah
+|
+|
+|
+|-
+|代行
+|
+|朴忠勛
+|
+|
+|
+|
+|-
+|11-12
+|
+|全斗煥
+|전두환
+Chun Doo-hwan
+|1980-1988
+|
+|
+|-
+|13
+|
+|盧泰愚
+|노태우
+Roh Tae-woo
+|1988-1993
+|
+|
+|-
+|14
+|
+|金泳三
+|김영삼
+Kim Young-sam
+|1993-1998
+|
+|
+|-
+|15
+|
+|金大中
+|김대중
+Kim Dae-jung
+|1998-2003
+|
+|
+|-
+|16
+|
+|[[盧武鉉]]
+|노무현
+Roh Moo-hyun
+|2003-2008
+|
+|
+|-
+|17
+|[[File:Sebastián Piñera - Lee Myung-bak (cropped).jpg|100x100px]]
+|李明博
+|이명박
+Lee Myung-bak
+|2008-2013
+|
+|
+|-
+|18
+|[[File:Park Geun-hye (8724400493) (cropped).jpg|100x100px|Phok Kiún-fi]]
+|[[Park Geun-hye|Phok Kiún-fi]]
+朴槿惠
+|박근혜
+Park Geun-hye
+|2013-2017年3月10日
+|新世界黨
+|
+|-
+|代行
+|
+|[[Vòng Kau-ôn]]
+黃教安
+|황교안
+Hwang Gyo-an
+|2017
+|自由韓國黨
+|
+|-
+|19
+|[[File:文在寅.jpg|100x100px]]
+|[[Vùn Chhai-yìn]]
+文在寅
+|문재인
+Moon Jae-in
+|2017
+|Khiung-thùng-mìn-chú-tóng<small>(共同民主黨)</small>
+|
+|}
+[[分類:Chûng-fà_mìn-koet_chúng-thúng]]
