@@ -1,6 +1,5 @@
 {{infobox
 | bodystyle   = width: 18em;
-|線顏色= gray
 | datastyle   = text-align: left
 | title       = {{{name|<includeonly>{{PAGENAME}}</includeonly>}}}
 | headerstyle = background:{{Infobox instrument/Color|{{{background|}}} }}
