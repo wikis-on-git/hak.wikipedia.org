@@ -1,2 +1,2 @@
-{{#ifeq: {{{1}}} | {{{2|{{CURRENTYEAR}}}}} |0|{{#expr:{{age|{{{1|0}}}|{{CURRENTMONTH}}|{{CURRENTDAY}}|{{{2|{{CURRENTYEAR}}}}}}}-1}}–{{age|{{{1|0}}}|{{CURRENTMONTH}}|{{CURRENTDAY}}|{{{2|{{CURRENTYEAR}}}}}}}}}<!-- Error checks: -->{{#if:{{{1|}}}|{{#ifexpr: {{{1}}} > {{{2|{{CURRENTYEAR}}}}}
+{{#ifeq: {{{1}}} | {{{2|{{year}}}}} |0|{{#expr:{{age|{{{1|0}}}|{{month}}|{{day}}|{{{2|{{year}}}}}}}-1}}–{{age|{{{1|0}}}|{{month}}|{{day}}|{{{2|{{year}}}}}}}}}<!-- Error checks: -->{{#if:{{{1|}}}|{{#ifexpr: {{{1}}} > {{{2|{{year}}}}}
  | &#32;{{error|invalid year}}{{main other|[[Category:Pages using age template with invalid date]]}}}}|}}<noinclude>{{doc}}</noinclude>
