@@ -1,0 +1,31 @@
+<includeonly>{| class="infobox" style="width: 23.5em; text-align: left; font-size: 95%;" cellspacing="2"
+| style="font-size: 110%; text-align:center" colspan="2" | '''{{{name}}}'''
+{{#if:{{{image|}}} | <tr><th style="font-size: 90%; text-align:center" colspan="2">[[Image:{{{image}}}|{{#if:{{{image_size|}}} | {{{image_size|220px}}} | 220px}}]]{{#if:{{{caption|}}} | <br />{{{caption|}}}}}</th></tr>}}<!--
+-->{{#if:{{{chinese character|}}} | <tr><th>[[Hon-sṳ]]</th> <td>{{{chinese character|}}}</td></tr>}}<!--
+-->{{#if:{{{hakka|}}} | <tr><th>[[Hak-kâ-ngî]]</th> <td>{{{hakka|}}}</td></tr>}}<!--
+-->{{#if:{{{japanese kana|}}} | <tr><th>[[Kana]]</th> <td>{{{japanese kana|}}}</td></tr>}}<!--
+-->{{#if:{{{korean|}}} | <tr><th>[[Ko-lê-jī]]</th> <td>{{{korean|}}}</td></tr>}}<!--
+-->{{#if:{{{english|}}} | <tr><th>[[Yîn-vùn]]</th> <td>{{{english|}}}</td></tr>}}<!--
+-->{{#if:{{{native_name|}}} | <tr><th>Goân-bûn</th> <td>{{{native_name|}}}</td></tr>}}<!--
+-->{{#if:{{{birth_date|}}} | <tr><th>Chhut-se</th> <td>{{{birth_date|}}}</td></tr>}}<!--
+-->{{#if:{{{death_date|}}} | <tr><th>Ko-sṳ̂n</th> <td>{{{death_date|}}}</td></tr>}}<!--
+-->{{#if:{{{nationality|}}} | <tr><th>[[Koet-sit]]</th> <td>{{{nationality|}}}</td></tr>}}<!--
+-->{{#if:{{{ethnicity|}}} | <tr><th>Mìn-chhu̍k</th> <td>{{{ethnicity|}}}</td></tr>}}<!--
+-->{{#if:{{{language|}}} | <tr><th>Ngî-ngièn</th> <td>{{{language|}}}</td></tr>}}<!--
+-->{{#if:{{{education|}}} | <tr><th>Kau-yuk</th> <td>{{{education|}}}</td></tr>}}<!--
+-->{{#if:{{{field|}}} | <tr><th>Liâng-vet</th> <td>{{{field|}}}</td></tr>}}<!--
+-->{{#if:{{{occupation|}}} | <tr><th>Thèu-lu</th> <td>{{{occupation|}}}</td></tr>}}<!--
+-->{{#if:{{{political_party|}}} | <tr><th>Chṳn-tóng</th> <td>{{{political_party|}}}</td></tr>}}<!--
+-->{{#if:{{{known_for|}}} | <tr><th>Sṳ̀n-chhiu</th> <td>{{{known_for|}}}</td></tr>}}<!--
+-->{{#if:{{{religion|}}} | <tr><th>Chûng-kau</th> <td>{{{religion|}}}</td></tr>}}<!--
+-->{{#if:{{{father|}}} | <tr><th>Â-pâ</th> <td>{{{father|}}}</td></tr>}}<!--
+-->{{#if:{{{mother|}}} | <tr><th>Â-mê</th> <td>{{{mother|}}}</td></tr>}}<!--
+-->{{#if:{{{spouse|}}} | <tr><th>[[Tui-siong]]</th> <td>{{{spouse|}}}</td></tr>}}<!--
+-->{{#if:{{{children|}}} | <tr><th>Yì-ńg</th> <td>{{{children|}}}</td></tr>}}<!--
+-->{{#if:{{{relatives|}}} | <tr><th>Chhîn-yû</th> <td>{{{relatives|}}}</td></tr>}}<!--
+-->{{#if:{{{prizes|}}} | <tr><th>Chióng-hong</th> <td>{{{prizes|}}}</td></tr>}}<!--
+-->{{#if:{{{website|}}} | <tr><th>Mióng-chhàm</th> <td>{{{website|}}}</td></tr>}}<!--
+-->{{#if:{{{signature|}}} | <tr><th style="font-size: 90%; text-align:center" colspan="2">[[Image:{{{signature}}}|{{#if:{{{signature_size|}}} | {{{signature_size|150px}}} | 150px}}]]</th></tr>}}
+|}</includeonly><noinclude>
+{{Documentation}} 
+</noinclude>
