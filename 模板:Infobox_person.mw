@@ -8,7 +8,10 @@
 -->{{#if:{{{english|}}} | <tr><th>[[Yîn-vùn]]</th> <td>{{{english|}}}</td></tr>}}<!--
 -->{{#if:{{{native_name|}}} | <tr><th>Goân-bûn</th> <td>{{{native_name|}}}</td></tr>}}<!--
 -->{{#if:{{{birth_date|}}} | <tr><th>Chhut-se</th> <td>{{{birth_date|}}}</td></tr>}}<!--
+-->{{#if:{{{birth_place|}}} | <tr><th>Chhut-se thi-tiám</th> <td>{{{birth_place|}}}</td></tr>}}!--
+-->{{#if:{{{baptised|}}} | <tr><th>Sé-lî</th> <td>{{{baptised|}}}</td></tr>}}<!--
 -->{{#if:{{{death_date|}}} | <tr><th>Ko-sṳ̂n</th> <td>{{{death_date|}}}</td></tr>}}<!--
+-->{{#if:{{{death_place|}}} | <tr><th>Ko-sṳ̂n thi-tiám</th> <td>{{{death_place|}}}</td></tr>}}<!--
 -->{{#if:{{{nationality|}}} | <tr><th>[[Koet-sit]]</th> <td>{{{nationality|}}}</td></tr>}}<!--
 -->{{#if:{{{ethnicity|}}} | <tr><th>Mìn-chhu̍k</th> <td>{{{ethnicity|}}}</td></tr>}}<!--
 -->{{#if:{{{language|}}} | <tr><th>Ngî-ngièn</th> <td>{{{language|}}}</td></tr>}}<!--
@@ -25,6 +28,8 @@
 -->{{#if:{{{relatives|}}} | <tr><th>Chhîn-yû</th> <td>{{{relatives|}}}</td></tr>}}<!--
 -->{{#if:{{{prizes|}}} | <tr><th>Chióng-hong</th> <td>{{{prizes|}}}</td></tr>}}<!--
 -->{{#if:{{{website|}}} | <tr><th>Mióng-chhàm</th> <td>{{{website|}}}</td></tr>}}<!--
+-->{{#if:{{{past|}}} | <tr><th>Kîn-li̍t</th> <td>{{{past|}}}</td></tr>}}<!--
+-->{{#if:{{{work|}}} | <tr><th>Thoi-péu chok-phín</th> <td>{{{work|}}}</td></tr>}}<!--
 -->{{#if:{{{signature|}}} | <tr><th style="font-size: 90%; text-align:center" colspan="2">[[Image:{{{signature}}}|{{#if:{{{signature_size|}}} | {{{signature_size|150px}}} | 150px}}]]</th></tr>}}
 |}</includeonly><noinclude>
 {{Documentation}} 
