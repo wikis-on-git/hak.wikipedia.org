@@ -1,10 +1,10 @@
 {{Navbox
-  |title      = <font color="white">[[TThòi-vân Chûng-ha̍p Thai-ho̍k He-thúng]]</font>
+  |title      = <font color="white">[[Thòi-vân Chûng-ha̍p Thai-ho̍k He-thúng]]</font>
   |titlestyle = background:#04AAC3;color:#FFFFFF;navbar:plain
   |abovestyle = background:#026675;color:#FFFFFF
   |belowstyle = background:#026675;color:#FFFFFF
   |groupstyle = background:#B3E5ED
-  |name       = Tâi-oân Chong-ha̍p Tāi-ha̍k Hē-thóng
+  |name       = Thòi-vân Chûng-ha̍p Thai-ho̍k He-thúng
   |style      = width:100%
   |list1      = [[Koet-li̍p Chûng-hîn Thai-ho̍k]]{{.w}}[[Koet-li̍p Sṳ̀n-kûng Thai-ho̍k]]{{.w}}[[Koet-li̍p Chûng-sân Thai-ho̍k]]{{.w}}[[Koet-li̍p Chûng-chang Thai-ho̍k]]
   |below      = 
