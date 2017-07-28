@@ -1,0 +1,26 @@
+{{#switch:{{{1}}}
+ | Kôn-thòng=008000
+ | Chhiên-vân=FF0000
+ | Kóng-tó=0000FF
+ | Tûng-yúng=FF6600
+ | Pet-kóng-tó=FF6600
+ | Kî-chhòng Khoai-sien=008080
+ | Chiông-kiûn-àu=550088
+ | Disney=FF99CC
+ | Tûng-sî=8B4513
+ | Sî-thiet=AA0077
+ | Nàm-pet
+ | Tûng-thiet=6699FF
+ | Mâ-on-sân =8B4513
+ | Khiâng-kuí=DDAA44
+ | Nàm-kóng-tó tûng=FF00FF
+ | Nàm-kóng-tó sî=99CC00
+ | Kóng-Kiú
+ | Kîn-Kiú
+ | Fù-Kiú
+ | Intercity=000000
+ | #default=000000
+}}<noinclude>
+
+[[Category:MTR templates| ]]
+</noinclude>
