@@ -1,0 +1,25 @@
+{{#switch:{{{1|}}}
+|#default= {{HK-MTR color|Khiâng-kuí}}
+|kcr = <nowiki>#</nowiki>FF6600
+|505 = <nowiki>#</nowiki>DB1F26
+|507 = <nowiki>#</nowiki>00A650
+|610 = <nowiki>#</nowiki>431115
+|614 = <nowiki>#</nowiki>4DC6F4
+|614P= <nowiki>#</nowiki>F46989
+|615 = <nowiki>#</nowiki>FDDD04
+|615P= <nowiki>#</nowiki>215483
+|705 = <nowiki>#</nowiki>64C542
+|706 = <nowiki>#</nowiki>B365B9
+|751 = <nowiki>#</nowiki>F47216
+|751P= <nowiki>#</nowiki>000000
+|761 = <nowiki>#</nowiki>672290
+|761P= <nowiki>#</nowiki>672290
+|Thi-1 Sû-fi-khî = <nowiki>#</nowiki>F0397B
+|Thi-2 Sû-fi-khî = <nowiki>#</nowiki>F68712
+|Thi-3 Sû-fi-khî = <nowiki>#</nowiki>0E88D3
+|Thi-4 Sû-fi-khî = <nowiki>#</nowiki>33B540
+|Thi-5A Sû-fi-khî= <nowiki>#</nowiki>F25C19
+|Thi-5 Sû-fi-khî = <nowiki>#</nowiki>7641A4
+}}<noinclude>
+{{Documentation}}
+</noinclude>
