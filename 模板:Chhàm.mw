@@ -1,0 +1,7 @@
+{{ #if: {{{3|}}}|<!-- true
+   -->[[{{{1}}} Chhàm ({{{3}}})|{{ #if: {{{2|}}}|{{{2}}}|{{{1}}}}}]]<!-- true, first link
+   -->|<!-- condition pipe
+   -->[[{{{1}}} Chhàm|{{ #if: {{{2|}}}|{{{2}}}|{{{1}}}}}]]<!-- false, second link
+ -->}}<noinclude>
+{{documentation}}
+</noinclude>
