@@ -1,0 +1,76 @@
+{{MTR route infobox
+|engname    =East Rail Line
+|chiname    =東鐵綫
+|image      =SP1900 E227.jpg
+|caption    =An [[MTR EMU SP1900|SP1900 EMU train]] departing [[Tai Wai Station]]
+|map        =East Rail Line.svg
+|map_size   =300
+|line       =East Rail
+|line2      =
+|line3      =
+|line4      =
+|stationno  =14<!--East Tsim Sha Tsui subtracted-->
+|type       =Heavy rail
+|length     =
+|district   =[[Yau Tsim Mong District|Yau Tsim Mong]], [[Kowloon City District|Kowloon City]], [[Sha Tin District|Sha Tin]], [[Tai Po District|Tai Po]], [[North District, Hong Kong|North]], [[Yuen Long District|Yuen Long]]
+|open       =1910
+|voltage    =AC 25000 V, 50 Hz
+|gauge      =1435 mm
+}}
+{{BS3||CONTg|||||{{RoutemapRoute|[[Guangshen railway]]|Ricon=u|enclosed=no}}}}
+{{BS3|utCONTg|STR|||||{{RoutemapRoute|[[Shenzhen Metro]] Line 4|Ricon=u|enclosed=no}}}}
+{{BS3|utSTR|STR|utCONTg||||{{RoutemapRoute|Shenzhen Metro Line 1|Ricon=u|enclosed=no}}}}
+{{BS3|utSTR|STR|utKBHFe||'''[[Luohu Station|Luohu]]'''|(Shenzhen Metro Line 1)||O3=HUBa}}
+{{BS3|utKBHFe|STR|HUB||'''[[Futiankouan Station|Futiankouan]]'''|(Shenzhen Metro Line 4)||O1=HUBa}}
+{{BS3|lGRENZE|GRENZE+WBRÜCKE|lGRENZE||[[Hong Kong]] / [[China]] border|||O1=HUB|O3=HUB}}
+{{BS3|KBFa-ELEV|STR|HUB||[[Lok Ma Chau Station|'''Lok Ma Chau''']]|||O1=HUBe}}
+{{BS3|hSTR|BHF|HUBrf||[[Lo Wu Station|'''Lo Wu''']]|||O2=HUBaq}}
+{{BS3|ehBHF|ABZlf|STRlg||[[Chau Tau Station|''Chau Tau'']]|}}
+{{BS3|htSTRa|STR|DST||[[Sheung Shui Slaughterhouse]]|}}
+{{BS3|etBHF|ABZrg|STRrf||[[Kwu Tung Station|''Kwu Tung'']]||}}
+{{BS3|tSTRe|STR|||}}
+{{BS3|BS2l|BS2r|||}}
+{{BS2|BHF|||[[Sheung Shui Station|'''Sheung Shui''']]}}
+{{BS2|BHF|||[[Fanling Station|'''Fanling''']]|}}
+{{BS2|STR|||}}
+{{BS2|BHF|||[[Tai Wo Station|'''Tai Wo''']]}}
+{{BS4||eABZrg|exKBHFr|MBAHN||[[Hong Kong Railway Museum]]|}}
+{{BS2|BHF|||[[Tai Po Market Station|'''Tai Po Market''']]|}}
+{{BS2|TUNNEL2|||Tunnel No.5}}
+{{BS2|eBHF|||[[Science Park Station|''Science Park'']]||}}
+{{BS2|BHF|||[[University Station (MTR)|'''University''']]}}
+{{BS4||ABZlf|ABZ3lg|STRlg|||}}
+{{BS4||STR|STR|BHF||[[Racecourse Station (MTR)|'''Racecourse''']]|(Racing days only)}}
+{{BS4|STRrg|ABZrf|DST|STR||Ho Tung Lau Depot}}
+{{BS4|KDSTe|STR|STR|STR||[[Fo Tan Station#Fo Tan Goods Yard|Fo Tan Goods Yard]]|}}
+{{BS4||BHF|STR|STR||[[Fo Tan Station|'''Fo Tan''']]}}
+{{BS4||ABZrg|ABZ3rf|STRrf|||}}
+{{BS2|BHF|||[[Sha Tin Station|'''Sha Tin''']]|}}
+{{BS4||STR|STRrg|CONTr||||{{RoutemapRoute|[[Ma On Shan Line]]|Ricon=r|enclosed=no}}}}
+{{BS2|CPICl|xCPICre||[[Tai Wai Station|'''Tai Wai''']]|(Ma On Shan Line)||}}
+{{BS2|TUNNELa|exCONTf||||{{RoutemapRoute|''[[Sha Tin to Central Link]]''|Ricon=d|enclosed=no}}}}
+{{BS2|tSTR|||[[Beacon Hill Tunnel]] (Tunnel No. 2)||}}
+{{BS2|TUNNELe|||||}}
+{{BS2|BHF|||[[Kowloon Tong Station|'''Kowloon Tong''']]|([[Kwun Tong Line|Kwun Tong Line]])||O1=HUB84|O2=HUB64}}
+{{BS4|CHRISBOT|KRZt|tBHFq|CHRISBOT2||||{{RoutemapRoute|Licon=l|Kwun Tong Line|Ricon=r|enclosed=no}}|O3=HUB83}}
+{{BS2|BHF|||[[Mong Kok East Station|'''Mong Kok East''']]}}
+{{BS2|eABZlf|exSTRlg||||}}
+{{BS2|STR|exTUNNELa||||}}
+{{BS2|TUNNEL2|extSTR||Tunnel No. 1A||}}
+{{BS4|tCPICla|CPICre|extBHF|LDER||[[Hung Hom Station|'''Hung Hom''']]|([[Through Train]] terminus)|O1=HUB84|O2=HUB25|O3=HUB82}}
+{{BS4|tCONTf||extSTR|||||{{RoutemapRoute|[[West Rail Line]]|Ricon=d|enclosed=no}}}}
+{{BS4|||extWSTR|||||[[Victoria Harbor]]}}
+{{BS4|tCONTg||extBHF|||[[Exhibition Station (MTR)|''Exhibition'']]||{{RoutemapRoute|[[Tsuen Wan Line]]|Ricon=u|enclosed=no}}}}
+{{BS4|tSTR|tSTRrg|xtKRZt|CHRISBOT2||||{{RoutemapRoute|[[Island Line (MTR)|Island Line]]|Ricon=r|enclosed=no}}}}
+{{BS4|tCPICl|tCPICr|extKBHFe|||[[Admiralty Station (MTR)|'''''Admiralty''''']]|(Tsuen Wan Line, |O1=HUB84|O2=HUB25|O3=HUB82}}
+{{BS4|tSTR|tSTR|||||Island Line)|}}
+{{BS4|tSTR|tCONTf||||||{{RoutemapRoute|Island Line|Ricon=d|enclosed=no}}}}
+{{BS4|tCONTf|||||||{{RoutemapRoute|Tsuen Wan Line|Ricon=d|enclosed=no}}}}
+|}
+|}<noinclude>
+
+{{rdt intro|[[East Rail Line]] of [[MTR]]}}
+
+[[Category:MTR route templates|E]]
+
+</noinclude>
