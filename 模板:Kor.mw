@@ -1,0 +1,1 @@
+<includeonly><span style="color:#555;">[[Hòn-koet-ngî]]: <Span title="諺文標記">{{lang|ko|{{{k}}}}}</Span>{{ #if: {{{hanja|}}} | ／<Span title="漢字表記">{{lang|ko|{{{hanja}}}}}</Span> }}{{ #if: {{{rm|}}}|／<Span title="羅馬拼音表記">{{lang|ko|{{{rm}}}}}</Span>}}{{trans_link|ko|{{{k}}}}}</span></includeonly><noinclude>{{Documentation}}</noinclude>
