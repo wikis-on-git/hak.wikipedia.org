@@ -1,0 +1,34 @@
+{{Infobox
+| above          = {{{name|{{PAGENAME}}}}}
+| abovestyle     = white-space: nowrap; font-size: 100%; text-align: center;
+| subheader      = Siang-sṳ
+| subheaderstyle = font-weight:bold; font-size: 90%;
+| image          = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|}}}|sizedefault=frameless}}
+| caption        = {{{caption|}}}
+
+| captionstyle = white-space: nowrap; font-size: 90%; text-align: center;
+| labelstyle = white-space: nowrap; font-size: 90%; text-align: left;
+| datastyle  = white-space: nowrap; font-size: 90%;
+
+| label1         = Fat-yîm
+| data1          = {{{pronunciation|}}}
+| label2         = Yi-ngi
+| data2          = {{{meaning|}}}
+| label3         = Fûn-pu
+| data3          = {{{region|}}}
+| label4         = Ngìn-khiéu 
+| data4          = {{{population|}}}
+| label5         = Kak-ngièn
+| data5          = {{{motto|}}}
+| label6         = Ngî-ngièn
+| data6          = {{{language|}}}
+| label7         = Siông-koân siang-sṳ
+| data7          = {{{related names|}}}
+| label8         = Kâ-chhu̍k
+| data8          = {{{clans|}}}
+
+| below          = {{#if:{{{footnotes|}}}|'''Chu-kiok :''' {{{footnotes}}}}}
+
+}}<noinclude>
+{{Documentation}}
+</noinclude>
