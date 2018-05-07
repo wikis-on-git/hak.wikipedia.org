@@ -2335,16 +2335,15 @@
 |-
 | 163
 | [[Hak-kâ-ngî]]
-| class="plainlinksneverexpand" | [{{fullurl:hak:Hak-kâ-fa}} Hak-kâ-fa/ Hak-kâ-fa]
-| [[:hak:|hak]]
-| class="plainlinksneverexpand" | [{{fullurl:hak:Special:Statistics|action=raw}} '''3,654''']
-
-| 7,135
-| [[:hak:Special:Statistics|90,326]]
-| [[:hak:Special:Listadmins|0]]
-| [[:hak:Special:Listusers|10,318]]
-| [[:hak:Special:ActiveUsers|14]]
-| [[:hak:Special:Imagelist|38]]
+| class="plainlinksneverexpand" |{{lang|hak|[[Hak-kâ-ngî]]}}
+| [[{{MediaWiki:mainpage}}|hak]]
+| class="plainlinksneverexpand" | [[:hak:Special:Statistics|'''{{NUMBEROFARTICLES}}''']]
+| {{NUMBEROFPAGES}}
+| [[:hak:Special:Statistics|{{NUMBEROFEDITS}}]]
+| [[:hak:Special:Listadmins|{{NUMBEROFADMINS}}]]
+| [[:hak:Special:Listusers|{{NUMBEROFUSERS}}]]
+| [[:hak:Special:ActiveUsers|{{NUMBEROFACTIVEUSERS}}]]
+| [[:hak:Special:Imagelist|{{NUMBEROFFILES}}]]
 | 11
 |-
 | 164
