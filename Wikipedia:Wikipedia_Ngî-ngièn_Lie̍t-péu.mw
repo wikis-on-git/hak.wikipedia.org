@@ -158,7 +158,7 @@
 !Style="white-space:nowrap;"| Chhṳ̂m-thu 
 |-
 | 10
-| [[Ngá-shuì-ngá-shuì-ngî]]
+| [[Waray-Waray-ngî]]
 | class="plainlinksneverexpand" | [{{fullurl:war:Winaray}} Winaray]
 | [[:war:|war]]
 | class="plainlinksneverexpand" | [{{fullurl:war:Special:Statistics|action=raw}} '''959,418''']
@@ -172,8 +172,8 @@
 | 3
 |-
 | 11
-| [[Ngit-ngî]]
-| class="plainlinksneverexpand" | [{{fullurl:ja: Ngit-pún ngî }} -{ Ngit-pún ngî }-]
+| [[Ngi̍t-pún-ngî]]
+| class="plainlinksneverexpand" | [{{fullurl:ja:日本語}} 日本語]
 | [[:ja:|ja]]
 | class="plainlinksneverexpand" | [{{fullurl:ja:Special:Statistics|action=raw}} '''894,175''']
 
@@ -186,7 +186,7 @@
 | 66
 |-
 | 12
-| [[Suk-vú-ngî]]
+| [[Cebu-ngî]]
 | class="plainlinksneverexpand" | [{{fullurl:ceb:Sinugboanon}} Sinugboanong Binisaya]
 | [[:ceb:|ceb]]
 | class="plainlinksneverexpand" | [{{fullurl:ceb:Special:Statistics|action=raw}} '''892,552''']
@@ -228,20 +228,20 @@
 | 117
 |-
 | 15
-| [[Chûng-vùn]]
-| class="plainlinksneverexpand" |{{lang|zh|[[Hon-ngî | chûng-vùn]]}}
-| [[{{MediaWiki:mainpage}}|zh]]
-| class="plainlinksneverexpand" | [[:zh:Special:Statistics|'''{{NUMBEROFARTICLES}}''']]
-| {{NUMBEROFPAGES}}
-| [[:zh:Special:Statistics|{{NUMBEROFEDITS}}]]
-| [[:zh:Special:Listadmins|{{NUMBEROFADMINS}}]]
-| [[:zh:Special:Listusers|{{NUMBEROFUSERS}}]]
-| [[:zh:Special:ActiveUsers|{{NUMBEROFACTIVEUSERS}}]]
-| [[:zh:Special:Imagelist|{{NUMBEROFFILES}}]]
-| 108
+| [[Hon-ngî]]
+| class="plainlinksneverexpand" | [{{fullurl:zh:汉语}} 中文]
+| [[:zh:|zh]]
+| class="plainlinksneverexpand" | [{{fullurl:zh:Special:Statistics|action=raw}} '''819,332''']
+| 3,448,787
+| [[:zh:Special:Statistics|39,138,571]]
+| [[:zh:Special:Listadmins|37]]
+| [[:zh:Special:Listusers|1,248,280]]
+| [[:zh:Special:ActiveUsers|5,490]]
+| [[:zh:Special:Imagelist|27,175]]
+| 117
 |-
 | 16
-| [[Vû-khiet-làn-ngî]]
+| [[Ukraina-ngî]]
 | class="plainlinksneverexpand" | [{{fullurl:uk:Українська_мова}} Українська]
 | [[:uk:|uk]]
 | class="plainlinksneverexpand" | [{{fullurl:uk:Special:Statistics|action=raw}} '''483,878''']
@@ -255,7 +255,7 @@
 | 38
 |-
 | 17
-| [[Kâ-thai-lò-nì-â-ngî]]
+| [[Catalunya-ngî]]
 | class="plainlinksneverexpand" | [{{fullurl:ca:Català}} Català]
 | [[:ca:|ca]]
 | class="plainlinksneverexpand" | [{{fullurl:ca:Special:Statistics|action=raw}} '''421,376''']
@@ -325,7 +325,7 @@
 | 55
 |-
 | 22
-| [[Tshia̍p-khiet-ngî]]
+| [[Chhia̍p-khiet-ngî]]
 | class="plainlinksneverexpand" | [{{fullurl:cs:Čeština}} Čeština]
 | [[:cs:|cs]]
 | class="plainlinksneverexpand" | [{{fullurl:cs:Special:Statistics|action=raw}} '''287,673''']
@@ -339,8 +339,8 @@
 | 39
 |-
 | 23
-| [[Chêu-siên-ngî | Chêu-siên ngî ／ Hòn-ngî]]
-| class="plainlinksneverexpand" | [{{fullurl:ko:한국어}} 조선어／한국어]
+| [[Hòn-koet-ngî]]
+| class="plainlinksneverexpand" | [{{fullurl:ko:한국어}} 한국어]
 | [[:ko:|ko]]
 | class="plainlinksneverexpand" | [{{fullurl:ko:Special:Statistics|action=raw}} '''265,764''']
 
@@ -395,7 +395,7 @@
 | 17
 |-
 | 27
-| [[Set-ngì-vì-â-ngî]]
+| [[Serbia-ngî]]
 | class="plainlinksneverexpand" | [{{fullurl:sr:Српски_језик}} Српски/Srpski]
 | [[:sr:|sr]]
 | class="plainlinksneverexpand" | [{{fullurl:sr:Special:Statistics|action=raw}} '''242,735''']
@@ -409,7 +409,7 @@
 | 62
 |-
 | 28
-| [[Lò-mâ-nì-â-ngî]]
+| [[Romania-ngî]]
 | class="plainlinksneverexpand" | [{{fullurl:ro:Limba_română}} Română]
 | [[:ro:|ro]]
 | class="plainlinksneverexpand" | [{{fullurl:ro:Special:Statistics|action=raw}} '''240,006''']
@@ -437,7 +437,7 @@
 | 213
 |-
 | 30
-| [[Mí-nàm-kâ-pó-ngî]]
+| [[Minangkabau-ngî]]
 | class="plainlinksneverexpand" | [{{fullurl:min:Bahaso_Minangkabau}} Minangkabau]
 | [[:min:|min]]
 | class="plainlinksneverexpand" | [{{fullurl:min:Special:Statistics|action=raw}} '''220,913''']
@@ -451,7 +451,7 @@
 | 0
 |-
 | 31
-| [[Hâ-sat-khiet-ngî]]
+| [[Kazakh-ngî]]
 | class="plainlinksneverexpand" | [{{fullurl:kk:Қазақ тілі}} Қазақша]
 | [[:kk:|kk]]
 | class="plainlinksneverexpand" | [{{fullurl:kk:Special:Statistics|action=raw}} '''204,725''']
@@ -479,7 +479,7 @@
 | 18
 |-
 | 33
-| [[Sṳ̂-lo̍k-phat-khiet-ngî]]
+| [[Slovakia-ngî]]
 | class="plainlinksneverexpand" | [{{fullurl:sk:Slovenčina}} Slovenčina]
 | [[:sk:|sk]]
 | class="plainlinksneverexpand" | [{{fullurl:sk:Special:Statistics|action=raw}} '''190,444''']
@@ -493,7 +493,7 @@
 | 18
 |-
 | 34
-| [[Tan-ma̍k-ngî]]
+| [[Tân-ma̍k-ngî]]
 | class="plainlinksneverexpand" | [{{fullurl:da:Dansk_(sprog)}} Dansk]
 | [[:da:|da]]
 | class="plainlinksneverexpand" | [{{fullurl:da:Special:Statistics|action=raw}} '''185,427''']
@@ -507,7 +507,7 @@
 | 69
 |-
 | 35
-| [[Pâ-sṳ̂-khiet-ngî]]
+| [[Basque-ngî]]
 | class="plainlinksneverexpand" | [{{fullurl:eu:Euskara}} Euskara]
 | [[:eu:|eu]]
 | class="plainlinksneverexpand" | [{{fullurl:eu:Special:Statistics|action=raw}} '''165,784''']
@@ -521,7 +521,7 @@
 | 29
 |-
 | 36
-| [[Li̍p-thâu-vón-ngî]]
+| [[Lithuania-ngî]]
 | class="plainlinksneverexpand" | [{{fullurl:lt:Lietuvių kalba}} Lietuvių]
 | [[:lt:|lt]]
 | class="plainlinksneverexpand" | [{{fullurl:lt:Special:Statistics|action=raw}} '''163,146''']
@@ -535,7 +535,7 @@
 | 18
 |-
 | 37
-| [[Pó-kâ-li-â-ngî]]
+| [[Bulgaria-ngî]]
 | class="plainlinksneverexpand" | [{{fullurl:bg:Български език}} Български]
 | [[:bg:|bg]]
 | class="plainlinksneverexpand" | [{{fullurl:bg:Special:Statistics|action=raw}} '''156,954''']
@@ -563,7 +563,7 @@
 | 253
 |-
 | 39
-| [[Khiet-lò-thi-â-ngî]]
+| [[Croatia-ngî]]
 | class="plainlinksneverexpand" | [{{fullurl:hr:Hrvatski_jezik}} Hrvatski]
 | [[:hr:|hr]]
 | class="plainlinksneverexpand" | [{{fullurl:hr:Special:Statistics|action=raw}} '''143,365''']
@@ -577,7 +577,7 @@
 | 35
 |-
 | 40
-| [[Sṳ̂-lo̍k-vùn-nì-â-ngî]]
+| [[Slovenia-ngî]]
 | class="plainlinksneverexpand" | [{{fullurl:sl:Slovenščina}} Slovenščina]
 | [[:sl:|sl]]
 | class="plainlinksneverexpand" | [{{fullurl:sl:Special:Statistics|action=raw}} '''139,513''']
@@ -591,7 +591,7 @@
 | 21
 |-
 | 41
-| [[Vû-tsṳ-phe̍t-khiet-ngî]]
+| [[Uzbek-ngî]]
 | class="plainlinksneverexpand" | [{{fullurl:uz:Oʻzbek_tili}} O'zbek]
 | [[:uz:|uz]]
 | class="plainlinksneverexpand" | [{{fullurl:uz:Special:Statistics|action=raw}} '''127,366''']
@@ -605,7 +605,7 @@
 | 57
 |-
 | 42
-| [[Oi-sâ-nì-â-ngî]]
+| [[Estonia-ngî]]
 | class="plainlinksneverexpand" | [{{fullurl:et:Eesti_keel}} Eesti]
 | [[:et:|et]]
 | class="plainlinksneverexpand" | [{{fullurl:et:Special:Statistics|action=raw}} '''120,779''']
@@ -619,7 +619,7 @@
 | 31
 |-
 | 43
-| [[Vok-là-phú-khiet-ngî]]
+| [[Volapük-ngî]]
 | class="plainlinksneverexpand" | [{{fullurl:vo:Volapük_perevidöl}} Volapük]
 | [[:vo:|vo]]
 | class="plainlinksneverexpand" | [{{fullurl:vo:Special:Statistics|action=raw}} '''119,123''']
@@ -661,7 +661,7 @@
 | 49
 |-
 | 46
-| [[Kâ-lî-sî-â-ngî]]
+| [[Galicia-ngî]]
 | class="plainlinksneverexpand" | [{{fullurl:gl:Lingua_galega}} Galego]
 | [[:gl:|gl]]
 | class="plainlinksneverexpand" | [{{fullurl:gl:Special:Statistics|action=raw}} '''110,124''']
@@ -675,7 +675,7 @@
 | 19
 |-
 | 47
-| [[Â-mî-nì-â-ngî]]
+| [[Armenia-ngî]]
 | class="plainlinksneverexpand" | [{{fullurl:hy:Հայերեն}} Հայերեն]
 | [[:hy:|hy]]
 | class="plainlinksneverexpand" | [{{fullurl:hy:Special:Statistics|action=raw}} '''109,395''']
@@ -717,7 +717,7 @@
 | 11
 |-
 | 50
-| [[Set-ngì-vì-â - Khiet-lò-âi-sî-â-ngî]]
+| [[Serbia-Croatia-ngî]]
 | class="plainlinksneverexpand" | [{{fullurl:sh:Srpskohrvatski_jezik}} Srpskohrvatski/Српскохрватски]
 | [[:sh:|sh]]
 | class="plainlinksneverexpand" | [{{fullurl:sh:Special:Statistics|action=raw}} '''100,390''']
