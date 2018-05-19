@@ -1,5 +1,138 @@
 {{Hakka-TW|1|Thòi-vân}}<br />
 {{Otheruses|subject=台灣島|other='''台灣'''一詞做得表達嘅意思}}<br />
+<div style="position: relative; style="float: right; font-size: small;">
+
+{| class="infobox bordered" cellpadding="4" style="width: 300px; font-size: 90%;"
+|-
+| colspan=2 align=center bgcolor=#e3e3e3| '''臺灣'''
+|-
+| colspan="2" |
+    {| style="text-align: center; margin: 0 auto; background: none;"
+    |-
+    | style="border: 0; vertical-align: middle;" | <span style="border: 1px solid #bbbbbb; display: table-cell;">[[Image:Flag of the Republic of China.svg| 125px]]</span>
+    | style="border: 0; vertical-align: middle;" | [[Image:Republic of China National Emblem.svg|110px]]
+    |- style="font-size: 95%;"
+    | style="border: 0;" | [[國旗]]
+    | style="border: 0;" | [[國徽]]
+    |}
+|-
+{{#if:{{{國家格言|}}}
+ |{{!}}colspan="2" style="font-size: 95%; text-align: center;" {{!}} [[格言|國家格言]]：{{{國家格言}}}
+}}
+|-
+{{#if:{{{國歌名稱}}}
+ |{{!}}colspan="2" style="font-size: 95%; text-align: center;" {{!}} [[國歌]]：三民主義歌
+}}
+|-
+|colspan="2" align="center" bgcolor="#c6c9ff"|'''自然地理'''<br/><small>（實際管轄區）</small>
+|-
+|colspan="2" align="center"|[[Image:Taiwan NASA Terra MODIS 23791.jpg|250px]]
+|-
+|'''[[首都]]'''||台北市
+|-
+{{#if:{{{最大城市名稱|}}}|
+{{!}}{{!}}'''最大城市'''
+{{!}}{{!}}台北市
+}}
+|-
+|colspan="2"|'''[[國家面積列表|面積]]'''
+*國土面積：36,188平方公里
+*面積排名：134
+|-
+{{#if:{{{最高點|}}}|
+{{!}}{{!}}'''地理最高點'''
+{{!}}{{!}}{{{最高點|}}}
+}}
+|-
+{{#if:{{{時區|}}}|
+{{!}}{{!}}'''[[時區]]'''
+{{!}}{{!}}{{{時區|}}}
+}}
+|-
+|colspan="2" align="center" bgcolor="#33CC99"|'''人民生活'''
+|-
+{{#if:{{{官方語言|}}}|
+{{!}}{{!}}'''[[官方語言]]'''
+{{!}}{{!}}[[中文]],[[臺語]],[[客家語]]
+}}
+|-
+|colspan="2"|'''[[國家人口列表|人口]]'''
+*總人口：22,894,283
+*人口排名：22,894,283
+*[[國家人口密度列表|人口密度]]：632.44/km<sup>2</sup>
+*[[人口密度排名]]：9
+|-
+|colspan="2" align="center" bgcolor="#FFCC66"|'''政治文化'''
+|-
+{{#if:{{{政治體制|}}}|
+{{!}}{{!}}'''政治體制'''
+{{!}}{{!}}自由民主制度
+}}
+|-
+|colspan="2" |'''國家領導人：'''
+*[[國家元首]]：[[中華民國總統|總統]]：[[蔡英文]]
+*[[政府首腦]]：[[中華民國行政院院長|行政院院長]]：[[賴清德]]
+|-
+{{#if:{{{主要節日|}}}|
+{{!}}{{!}}'''主要節日'''
+{{!}}{{!}}{{{主要節日|}}}
+}}
+|-
+|colspan="2" align="center" bgcolor="#CC9966"|'''經濟實力'''
+|-
+{{#if:{{{貨幣單位|}}}|
+{{!}}{{!}}'''貨幣單位'''
+{{!}}{{!}}{{{貨幣單位|}}}
+}}
+|-
+{{#if:{{{國內生產總值數據|}}}|
+[[國內生產總值|GDP]]4,740億
+
+|-
+{{#if:{{{人均國內生產總值數據|}}}|
+{{!}}{{!}}'''人均[[國內生產總值|GDP]]'''
+{{!}}{{!}}{{{人均國內生產總值數據|}}}
+}}
+|-
+{{#if:{{{中央銀行|}}}|
+{{!}}{{!}}'''[[中央銀行]]'''
+{{!}}{{!}}{{{中央銀行|}}}
+}}
+|-
+{{#if:{{{國際事務|}}}
+ |{{!}}colspan="2" align="center" bgcolor="#00FF00"{{!}} '''國際事務'''
+}}
+|-
+{{#if:{{{國際事務|}}}
+ |{{!}}colspan="2" style="font-size: 95%; text-align: center;" {{!}} {{{國際事務}}}
+}}
+|-
+|colspan="2" align="center" bgcolor="#FFCCCC"|'''國家資料'''
+|-
+{{#if:{{{國家象徵|}}}|
+{{!}}{{!}}'''國家象徵'''
+{{!}}{{!}}{{{國家象徵|}}}
+}}
+|-
+{{#if:{{{國家代碼|}}}|
+{{!}}{{!}}'''國家代碼'''
+{{!}}{{!}}{{{國家代碼|}}}
+}}
+|-
+{{#if:{{{國際域名縮寫|}}}|
+{{!}}{{!}}'''[[國際域名縮寫]]'''
+{{!}}{{!}}.tw
+}}
+|-
+{{#if:{{{國際電話區號|}}}|
+{{!}}{{!}}'''[[國際電話區號列表|國際電話區號]]'''
+{{!}}{{!}}+886
+}}
+|-
+|colspan=2|<div style="float:right; font-size:70%; padding:0 .5em 0 .5em">[{{SERVER}}{{localurl:{{​​NAMESPACE}}:{{PAGENAME }}|action=edit&section=0}} <small>編輯</small>]</div>
+|}
+</div><noinclude>
+
 
 　　'''台灣'''，又寫做臺灣，係西太平洋个細島，有'''中華寶島'''嘅喊法。1945年光復後成為中華民國第一大島（至今依舊係其法理上還係恁樣）；今下係中華民國主要控制地區，也因為邇隻原因，國際上通常用“'''台灣'''”來喊[[中華民國]]；[[中華人民共和國]]雖然吂統治過台灣，也看其做第一大島。附近係[[琉球]]、[[菲律賓]]等等。<br />
 
