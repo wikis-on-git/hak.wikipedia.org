@@ -1,0 +1,8 @@
+{{#switch: {{{3|+}}}
+ | - = {{{4|Roman-ngî}}}:&#x0020;
+ | + = [[Roman Ngî-chhu̍k|{{{4|Roman-ngî}}}]]:&#x0020;
+ | * =
+}}<!--
+-->{{lang|roa|{{{1<noinclude>|{{SIL|Text in Romance}}</noinclude>}}}}}<!-- 
+-->{{#if: {{{2|<noinclude>—</noinclude>}}}|&nbsp;– « {{{2<noinclude>|{{SIL|Translation in Hakka}}</noinclude>}}} »}}<!-- 
+--><noinclude>{{Documentation}}</noinclude>
