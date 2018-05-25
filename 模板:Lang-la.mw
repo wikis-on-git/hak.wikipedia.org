@@ -1,0 +1,8 @@
+{{ #switch: {{{3|+}}}
+ | - = {{{4|Lâ-tên-ngî}}}:&#x0020;
+ | + = [[Lâ-tên-ngî|{{{4|Lâ-tên-ngî}}}]]:&#x0020;
+ | * =
+}}<!--
+-->{{lang|la|{{{1<noinclude>|{{SIL|Text in Latin}}</noinclude>}}}}}<!--
+-->{{#if: {{{2|<noinclude>—</noinclude>}}}|&nbsp;– « {{{2<noinclude>|{{SIL|Translation in Hakka}}</noinclude>}}} »}}<!--
+--><noinclude>{{Documentation}}</noinclude>
