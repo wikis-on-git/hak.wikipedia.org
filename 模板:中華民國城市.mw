@@ -1,7 +1,5 @@
 {| class="infobox" style="font-size: 90%; width: 23em;"
-! colspan="2" style="font-size: 16px; margin-top: 1px;   bgcolor="#E3E3E3" | {{{行政區名稱}}} {{#if:{{{外文名稱|}}}|<br><font size="-2">{{{外文名稱}}}（{{{外文語言}}}）</font>}}
-|-
-! colspan="2" style="font-size: 16px; margin-top: 1px;   bgcolor="#E3E3E3" | {{ROC}}[[中華民國行政區劃|城市]]
+! colspan="2" style="font-size: 16px; margin-top: 1px;   bgcolor="#E3E3E3" | {{{城市名稱}}} {{#if:{{{外文名稱|}}}|<br><font size="-2">{{{外文名稱}}}（{{{外文語言}}}）</font>}}
 |-
 <!-- -->{{#if:{{{代表圖像|}}}|{{!}}-
 {{!}} colspan="2" style="text-align: center;" {{!}} [[File:{{{代表圖像}}}|300px]]<br />{{{代表圖像名稱}}}}}
@@ -16,7 +14,7 @@
 | style="border: 0;" | {{#if:{{{徽文件名<includeonly>|{{{徽文件名|}}}</includeonly>}}}|{{{徽}}}}}
 |}
 |-
-!colspan="2" bgcolor="#E3E3E3" | 概況
+!colspan="2" bgcolor="#E3E3E3" | 狀況
 |-
 {{#if:{{{上級行政區劃<includeonly>|</includeonly>}}}|
 <!-- -->! style="width: 92px" {{!}} 上級行政區劃
