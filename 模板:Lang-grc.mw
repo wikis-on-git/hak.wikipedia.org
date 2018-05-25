@@ -1,0 +1,9 @@
+{{ #switch: {{{4|+}}}
+ | - = {{{5|Hî-lia̍p-ngî}}}:&#x0020;
+ | + = [[Hî-lia̍p-ngî|{{{5|Hî-lia̍p-ngî}}}]]:&#x0020;
+ | * =
+}}<!--
+-->{{lang|grc|{{{1<noinclude>|{{SIL|Text in English}}</noinclude>}}}}}<!--
+-->{{#if: {{{2|<noinclude>—</noinclude>}}}|, {{lang|grc-Latn|{{{2<noinclude>|{{SIL|Greek text in Latin script}}</noinclude>}}}}}}}<!--
+-->{{#if: {{{3|<noinclude>—</noinclude>}}}|&nbsp;– « {{{3<noinclude>|{{SIL|Translation in Hakka}}</noinclude>}}} »}}<!--
+--><noinclude>{{Documentation}}</noinclude>
