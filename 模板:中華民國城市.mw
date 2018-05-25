@@ -1,0 +1,221 @@
+{| class="infobox" style="font-size: 90%; width: 23em;"
+! colspan="2" style="font-size: 16px; margin-top: 1px;   bgcolor="#E3E3E3" | {{{行政區名稱}}} {{#if:{{{外文名稱|}}}|<br><font size="-2">{{{外文名稱}}}（{{{外文語言}}}）</font>}}
+|-
+! colspan="2" style="font-size: 16px; margin-top: 1px;   bgcolor="#E3E3E3" | {{ROC}}[[中華民國行政區劃|城市]]
+|-
+<!-- -->{{#if:{{{代表圖像|}}}|{{!}}-
+{{!}} colspan="2" style="text-align: center;" {{!}} [[File:{{{代表圖像}}}|300px]]<br />{{{代表圖像名稱}}}}}
+|-
+| colspan="2" |
+{| style="text-align: center; margin: 0 auto; background: none;"
+|-
+| style="border: 0; vertical-align: middle;" |{{#if:{{{旗文件名<includeonly>|{{{旗文件名|}}}</includeonly>}}}|<span style="border: 1px solid #bbbbbb; display: table-cell;">[[File:{{{image_flag|{{{旗文件名|{{{旗文件名|Example.png}}}}}}}}}|125px]]</span>}}
+| style="border: 0; vertical-align: middle;" | {{#if:{{{徽文件名<includeonly>|{{{徽文件名|}}}</includeonly>}}}|[[File:{{{image_coat|{{{徽文件名|{{{徽文件名|Example.png}}}}}}}}}|125px]]}}
+|- style="font-size: 95%;"
+| style="border: 0;" | {{#if:{{{旗文件名<includeonly>|{{{旗文件名|}}}</includeonly>}}}|{{{旗}}}}}
+| style="border: 0;" | {{#if:{{{徽文件名<includeonly>|{{{徽文件名|}}}</includeonly>}}}|{{{徽}}}}}
+|}
+|-
+!colspan="2" bgcolor="#E3E3E3" | 概況
+|-
+{{#if:{{{上級行政區劃<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} 上級行政區劃
+<!-- -->{{!}} [[{{{上級行政區劃}}}]]
+}}
+|-
+{{#if:{{{行政區類別<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} 行政區類別
+<!-- -->{{!}} [[{{{行政區類別}}} (中華民國)|{{{行政區類別}}}]]
+}}
+|-
+{{#if:{{{縣治<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} 縣治
+<!-- -->{{!}} [[{{{縣治}}}]]
+}}
+|-
+{{#if:{{{行政機關首長姓名<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} {{{行政機關首長職稱}}}
+<!-- -->{{!}} {{{行政機關首長姓名}}}<br>（[[{{{行政區名稱}}}{{{行政機關首長職稱}}}]]列表）
+}}
+|-
+{{#if:{{{立法機關首長姓名<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} {{{立法機關首長職稱}}}
+<!-- -->{{!}} {{{立法機關首長姓名}}}<br>（[[{{{行政區名稱}}}{{{立法機關首長職稱}}}]]列表）
+}}
+|-
+<!--  ■■依討論區決議，將「格言」內容移除
+{{#if:{{{格言<includeonly>|</includeonly>}}}|
+! style="width: 92px" {{!}} 格言
+{{!}} {{{格言}}}
+}}
+|-
+■■依討論區決議，將「格言」內容移除 -->
+{{#if:{{{舊稱<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} 舊稱
+<!-- -->{{!}} {{{舊稱}}}
+}}
+|-
+{{#if:{{{簡稱<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} 簡稱
+<!-- -->{{!}} {{{簡稱}}}
+}}
+|-
+{{#if:{{{設立始年<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} 設立始年
+<!-- -->{{!}} {{{設立始年}}}
+}}
+|-
+{{#if:{{{區劃<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} 區劃
+<!-- -->{{!}} {{{區劃}}}
+}}
+|-
+{{#if:{{{行政機關地址<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} 行政機關地址
+<!-- -->{{!}} {{{行政機關地址}}}
+}}
+|-
+{{#if:{{{立法機關地址<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} 立法機關地址
+<!-- -->{{!}} {{{立法機關地址}}}
+}}
+|-
+{{#if:{{{行政機關網站<includeonly>|</includeonly>}}}|
+! style="width: 92px" {{!}} 行政機關網站
+{{!}} {{{行政機關網站}}}
+}}
+|-
+{{#if:{{{立法機關網站<includeonly>|</includeonly>}}}|
+! style="width: 92px" {{!}} 立法機關網站
+{{!}} {{{立法機關網站}}}
+}}
+|-
+{{#if:{{{總面積<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} 總面積
+<!-- -->{{!}} {{{總面積}}}平方公里{{#if:{{{總面積名次|}}}|<br><small>（[[臺灣行政區面積表|台灣的{{{總面積名次}}}]]）</small>}}
+}}
+|-
+{{#if:{{{總戶數<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} 總戶數
+<!-- -->{{!}} {{{總戶數}}}戶
+}}
+|-
+{{#if:{{{總人口<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} 總人口
+<!-- -->{{!}} {{{總人口}}}人{{#if:{{{總人口年份|}}}|（{{{總人口年份}}}）}}{{#if:{{{總人口名次|}}}|<br><small>（[[臺灣行政區人口表|台灣的{{{總人口名次}}}]]）</small>}}
+}}
+|-
+{{#if:{{{都會區人口<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} 都會區人口
+<!-- -->{{!}} {{{都會區人口}}}人{{#if:{{{台灣都會區人口名次|}}}|<br><small>（[[臺灣行政區人口表|台灣的{{{台灣都會區人口名次}}}]]／[[按市區人口排列世界城市列表|世界的{{{世界都會區人口名次}}}]]）</small>}}
+}}
+|-
+{{#if:{{{人口密度<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} 人口密度
+<!-- -->{{!}} {{{人口密度}}}人／平方公里{{#if:{{{人口密度名次|}}}|<br><small>（[[臺灣行政區人口密度表|台灣的{{{人口密度名次}}}]]）</small>}}
+}}
+|-
+{{#if:{{{行政區名稱（象徵）<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} {{{行政區名稱（象徵）}}}象徵
+<!-- -->{{!}} <li>{{{行政區名稱（象徵）}}}花：{{{象徵花}}}<li>{{{行政區名稱（象徵）}}}樹：{{{象徵樹}}}<li>{{{行政區名稱（象徵）}}}鳥：{{{象徵鳥}}}
+}}
+|-
+{{#if:{{{郵政編碼<includeonly>|</includeonly>}}}|
+! style="width: 92px" {{!}} [[臺灣地區郵遞區號一覽表|郵政編碼]]
+{{!}} {{{郵政編碼}}}
+}}
+|-
+{{#if:{{{戶役政資訊系統資料代碼<includeonly>|</includeonly>}}}|
+! style="width: 92px" {{!}} [[戶役政資訊系統資料代碼]]
+{{!}} {{{戶役政資訊系統資料代碼}}}
+}}
+|-
+{{#if:{{{ISO_3166-2:TW<includeonly>|</includeonly>}}}|
+! style="width: 92px" {{!}} [[ISO 3166-2:TW|ISO 3166-2]]
+{{!}} {{{ISO_3166-2:TW}}}
+}}
+|-
+{{#if:{{{毗鄰縣市<includeonly>|</includeonly>}}}|
+! style="width: 92px" {{!}} 毗鄰縣市
+{{!}} {{{毗鄰縣市}}}
+}}
+|-
+{{#if:{{{毗鄰省市<includeonly>|</includeonly>}}}|
+! style="width: 92px" {{!}} 毗鄰省市
+{{!}} {{{毗鄰省市}}}
+}}
+|-
+<!--  ■■依討論區決議，將「官方語言」、「鄉土語言」、「時區」、「電話區號」等內容移除
+|-
+{{#if:{{{官方語言<includeonly>|</includeonly>}}}|
+! style="width: 92px" {{!}} 官方語言
+{{!}} {{{官方語言}}}
+}}
+|-
+{{#if:{{{鄉土語言<includeonly>|</includeonly>}}}|
+! style="width: 92px" {{!}} 鄉土語言
+{{!}} {{{鄉土語言}}}
+}}
+|-
+{{#if:{{{時區<includeonly>|</includeonly>}}}|
+! style="width: 92px" {{!}} 時區
+{{!}} {{{時區}}}
+}}
+|-
+{{#if:{{{電話區號<includeonly>|</includeonly>}}}|
+! style="width: 92px" {{!}} 電話區號
+{{!}} {{{電話區號}}}
+}}
+|-
+■■依討論區決議，將「官方語言」、「鄉土語言」、「時區」、「電話區號」等內容移除 -->
+<!-- ■■依討論區決議，將「地理」、「氣候」部份移除
+|-
+!colspan="2" bgcolor="#E3E3E3" {{!}} 地理
+|-
+{{#if:{{{經緯度<includeonly>|</includeonly>}}}|
+! style="width: 92px" {{!}} 經緯度
+{{!}} {{{經緯度}}}
+}}
+|-
+{{#if:{{{總面積<includeonly>|</includeonly>}}}|
+! style="width: 92px" {{!}} 總面積
+{{!}} {{{總面積}}}
+}}
+|-
+{{#if:{{{海拔<includeonly>|</includeonly>}}}|
+! style="width: 92px" {{!}} {{{海拔}}}
+{{!}} <li>最高：{{{最高高度地方}}}<li>最低：{{{最低高度地方}}}<li>中位值：{{{中位值高度地方}}}
+}}
+|-
+!colspan="2" bgcolor="#E3E3E3" {{!}} 氣候
+|-
+{{#if:{{{氣候類型<includeonly>|</includeonly>}}}|
+! style="width: 92px" {{!}} 氣候類型
+{{!}} [[{{{氣候類型}}}]]
+}}
+|-
+{{#if:{{{溫度<includeonly>|</includeonly>}}}|
+! style="width: 92px" {{!}} {{{溫度}}}
+{{!}} <li>年平均溫：{{{年平均溫}}}℃<li>最高月均溫：{{{最高月均溫}}}℃<li>最低月均溫：{{{最低月均溫}}}℃
+}}
+|-
+{{#if:{{{雨量<includeonly>|</includeonly>}}}|
+! style="width: 92px" {{!}} 雨量
+{{!}} {{{雨量}}}
+}}
+|-
+!colspan="2" bgcolor="#E3E3E3" {{!}} 地圖
+依討論區決議，將「地理」、「氣候」部份移除■■ -->
+<!-- 改用位置圖 (請參考討論頁說明)
+|-
+{{!}}colspan="2" align="center" {{!}} <center>[[File:{{{地圖檔名}}}|{{#if:{{{大小|}}}|{{{大小}}}|300px}}|{{{城市名稱}}}|地图]]</center> 
+-->
+|-
+{{#if: {{{位置圖|}}}|
+! colspan="2" style="background: #CFCFCF; text-align: center" {{!}} 位置圖
+{{!}}-
+{{!}} colspan="2" style="font-size: 90%" {{!}}<div style="text-align: left">
+{{{位置圖|}}}
+</div>
+}}
+|}<noinclude>{{documentation}}</noinclude>
