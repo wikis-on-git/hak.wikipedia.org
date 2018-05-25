@@ -1,0 +1,9 @@
+{{#switch: {{{4|+}}}
+ | - = {{{5|Limbu-ngî}}}:&#x0020;
+ | + = [[Limbu-ngî|{{{5|Limbu-ngî}}}]]:&#x0020;
+ | * =
+}}<!--
+-->{{lang|lif|{{{1<noinclude>|{{text|Limbu}}</noinclude>}}}}}<!-- 
+-->{{#if: {{{2|<noinclude>—</noinclude>}}}|, {{lang|lif-Latn|{{{2<noinclude>|{{text in Latin script|Limbu}}</noinclude>}}}}}}}<!-- 
+-->{{#if: {{{3|<noinclude>—</noinclude>}}}|{{Translation in Hakka|{{{3<noinclude>|{{SIL|Translation in Hakka}}</noinclude>}}}}}}}<!-- 
+--><noinclude>{{Documentation}}</noinclude>
