@@ -17,9 +17,9 @@
 |-
 !colspan="2" bgcolor="#E3E3E3" | 狀況
 |-
-{{#if:{{{上級行政區劃<includeonly>|</includeonly>}}}|
-<!-- -->! style="width: 92px" {{!}} 上級行政區劃
-<!-- -->{{!}} [[{{{上級行政區劃}}}]]
+{{#if:{{{所屬國家<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} 所屬國家
+<!-- -->{{!}} {{ROC}}
 }}
 |-
 {{#if:{{{行政區類別<includeonly>|</includeonly>}}}|
