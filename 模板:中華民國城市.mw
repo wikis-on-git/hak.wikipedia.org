@@ -47,9 +47,9 @@
 <!-- -->{{!}} [[中華民國行政區劃|{{{行政區類別}}}]]
 }}
 |-
-{{#if:{{{khî-va̍k<includeonly>|</includeonly>}}}|
-<!-- -->! style="width: 92px" {{!}} khî-va̍k
-<!-- -->{{!}} {{{khî-va̍k}}}
+{{#if:{{{區劃<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} 區劃
+<!-- -->{{!}} {{{區劃}}}
 }}
 |-
 {{#if:{{{行政所在地<includeonly>|</includeonly>}}}|
