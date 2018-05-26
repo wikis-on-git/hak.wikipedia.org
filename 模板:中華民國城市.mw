@@ -145,54 +145,54 @@
 邇个模板係[[中華民國政府]]各城市个訊息框, 實用於[[中華民國]]城市條目中.
 
 ==使用方法==
-將以下原始碼插入中華民國城市條目頁面个tsui táng-tôn：
+將以下原始碼插入中華民國城市條目頁面个最頂端：
 <pre>
-{{Chûng-fà Mìn-koet sàng-sṳ 
-|sàng-sṳ miàng-tshṳ̂n      = 
-|ngoi-vùn miàng-tshṳ̂n       = 
-|thoi-péu thù-tshiong       = 
-|khì vùn-khien miàng       = 
-|fui vùn-khien miàng       = 
-|khì              = 
-|fui              =  
-|hàng-tsṳn khî        = 
-|siong-tsṳ̂n fâ         = 
-|siong-tsṳ̂n su         = 
-|siong-tsṳ̂n tiâu         = 
+{{中華民國城市
+|城市名稱       = 
+|外文名稱       = 
+|代表圖像       = 
+|旗文件名       = 
+|徽文件名       = 
+|旗            = 
+|徽            =  
+|行政區         = 
+|象徵花         = 
+|象徵樹         = 
+|象徵鳥         = 
 |siang-miàng           = 
 |kiet-ngièn            = 
-|kién-tshṳ̂n            = 
-|sat-li̍p sṳ́-ngièn       = 
-|hàng-tsṳn khî lui-phe̍t     = 
-|khî-va̍k           = 
-|tsṳn-fú só-tshai thi     = 
-|tsúng mien-tsit          = 
-|tsúng mien-tsit miàng-tshṳ   = 
-|tsúng ngìn-khiéu          = 
-|tsúng ngìn-khiéu miàng-tshṳ        = 
-|tû-fi khî ngìn-khiéu          = 
-|thòi-vân tû-fi khî ngìn-khiéu miàng-tshṳ   = 
-|sṳ-kie tû-fi khî ngìn-khiéu miàng-tshṳ      = 
-|ngìn-khiéu me̍t-thu       = 
-|ngìn-khiéu me̍t-thu miàng-tshṳ     = 
-|hàng-tsṳn khî siong-tsṳ̂n      = 
-|siong-tsṳ̂n            = 
-|kôn-fông ngî-ngièn        = 
-|sṳ̀-khî            = 
-|thien-fa khî-ho       = 
-|yû-tsṳn phiên-ma       = 
+|簡稱            = 
+|設立始年       = 
+|行政區類別     = 
+|區劃           = 
+|政府所在地     = 
+|總面積          = 
+|總面積名次   = 
+|總人口          = 
+|總人口名次        = 
+|都會區人口          = 
+|臺灣都會區人口名次   = 
+|世界都會區人口名次      = 
+|人口密度       = 
+|人口密度名次     = 
+|行政區象徵      = 
+|象徵            = 
+|官方語言        = 
+|時區            = 
+|電話區號       = 
+|郵政編碼       = 
 |mióng-tshàm           = 
 |kîn-vúi-thu         = {{Coor dms| | | |N| | | |E}}
-|hói-pha̍t           =
-|tsui-kôkô-thu thi-fông   = 
-|tsui-tâi kô-thu thi-fông   = 
-|chûng vi-tshṳ̍t kô-thu thi-fông =  
-|hi-hèu lui-hîn       = 
-|vûn-thu           =
-|ngièn phìn-kiûn vûn       = 
-|tsui-kô ngie̍t-kiûn vûn    = 
-|tsui-tâi ngie̍t-kiûn vûn     = 
-|yí-liòng           = 
+|海拔           =
+|最高高度地方   = 
+|最低高度地方   = 
+|中位值高度地方 =  
+|氣候類型       = 
+|溫度           =
+|年平均溫       = 
+|最高月均溫    = 
+|最低月均溫     = 
+|雨量           = 
 |}
 </pre>
 
