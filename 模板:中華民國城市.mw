@@ -124,11 +124,11 @@
 <!-- -->{{!}} <li>最高：{{{最高高度地方}}}<li>最低 ：{{{最低高度地方}}}<li>chûng vi-tshṳ̍t：{{{chûng vi-tshṳ̍t kô-thu thi-fông}}}
 }}
 |-
-!colspan="2" bgcolor="#E3E3E3" {{!}} hi-hèu 
+!colspan="2" bgcolor="#E3E3E3" {{!}} 氣候
 |-
-{{#if:{{{hi-hèu lui-hîn <includeonly>|</includeonly>}}}|
-<!-- -->! style="width: 92px" {{!}} hi-hèu lui-hîn 
-<!-- -->{{!}} [[{{{hi-hèu lui-hîn}}}]]
+{{#if:{{{氣候類型 <includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} 氣候類型
+<!-- -->{{!}} [[{{{氣候類型}}}]]
 }}
 |-
 {{#if:{{{溫度<includeonly>|</includeonly>}}}|
@@ -136,9 +136,9 @@
 <!-- -->{{!}} <li>年平均溫：{{{年平均溫}}}℃<li>最高月均溫：{{{最高月均溫}}}℃<li>最低月均溫：{{{最低月均溫}}}℃
 }}
 |-
-{{#if:{{{yí-liòng<includeonly>|</includeonly>}}}|
-<!-- -->! style="width: 92px" {{!}} yí-liòng
-<!-- -->{{!}} {{{yí-liòng}}}
+{{#if:{{{雨量<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} 雨量
+<!-- -->{{!}} {{{雨量}}}
 }}
 </center>
 |}<noinclude>{{esoteric}}
