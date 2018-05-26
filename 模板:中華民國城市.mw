@@ -22,9 +22,9 @@
 <!-- -->{{!}} {{ROC}}
 }}
 |-
-{{#if:{{{行政區類別<includeonly>|</includeonly>}}}|
-<!-- -->! style="width: 92px" {{!}} 行政區類別
-<!-- -->{{!}} [[{{{行政區類別}}} (中華民國)|{{{行政區類別}}}]]
+{{#if:{{{行政區<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} 行政區
+<!-- -->{{!}} {{{siang-miàng}}}<br>（[[{{{城市名稱}}}{{{行政區}}}]]列表）
 }}
 |-
 {{#if:{{{縣治<includeonly>|</includeonly>}}}|
