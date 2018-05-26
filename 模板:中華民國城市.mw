@@ -121,7 +121,7 @@
 |-
 {{#if:{{{海拔 <includeonly>|</includeonly>}}}|
 <!-- -->! style="width: 92px" {{!}} {{{海拔}}}
-<!-- -->{{!}} <li>tsui-kô：{{{tsui-kô kô-thu thi-fông}}}<li>tsui-tâi ：{{{tsui-tâi kô-thu thi-fông}}}<li>chûng vi-tshṳ̍t：{{{chûng vi-tshṳ̍t kô-thu thi-fông}}}
+<!-- -->{{!}} <li>最高：{{{最高高度地方}}}<li>最低 ：{{{最低高度地方}}}<li>chûng vi-tshṳ̍t：{{{chûng vi-tshṳ̍t kô-thu thi-fông}}}
 }}
 |-
 !colspan="2" bgcolor="#E3E3E3" {{!}} hi-hèu 
