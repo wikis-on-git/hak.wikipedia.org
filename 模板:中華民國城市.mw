@@ -32,9 +32,9 @@
 <!-- -->{{!}} {{{kiet-ngièn}}}
 }}
 |-
-{{#if:{{{kién-tshṳ̂n<includeonly>|</includeonly>}}}|
-<!-- -->! style="width: 92px" {{!}} kién-tshṳ̂n
-<!-- -->{{!}} {{{kién-tshṳ̂n}}}
+{{#if:{{{簡稱<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} 簡稱
+<!-- -->{{!}} {{{簡稱}}}
 }}
 |-
 {{#if:{{{設立始年<includeonly>|</includeonly>}}}|
@@ -145,7 +145,7 @@
 邇个模板係[[中華民國政府]]各城市个訊息框, 實用於[[中華民國]]城市條目中.
 
 ==使用方法==
-Chiông yî-ha ngièn-sṳ́ ma tshap-ngi̍p Chûng-fà Mìn-koet sàng-sṳ thiàu-muk ya̍p-mien ke tsui táng-tôn：
+將以下原始碼插入中華民國城市條目頁面个tsui táng-tôn：
 <pre>
 {{Chûng-fà Mìn-koet sàng-sṳ 
 |sàng-sṳ miàng-tshṳ̂n      = 
