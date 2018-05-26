@@ -77,9 +77,9 @@
 <!-- -->{{!}} {{{人口密度}}}<br><small>（[[臺灣行政區人口表|臺灣个{{{人口密度名次}}}]]）</small>
 }}
 |-
-{{#if:{{{hàng-tsṳn khî siong-tsṳ̂n <includeonly>|</includeonly>}}}|
-<!-- -->! style="width: 92px" {{!}} {{{hàng-tsṳn khî siong-tsṳ̂n}}} siong-tsṳ̂n
-<!-- -->{{!}} <li>{{{hàng-tsṳn khî siong-tsṳ̂n}}} fâ：{{{siong-tsṳ̂n fâ}}}<li>{{{hàng-tsṳn khî siong-tsṳ̂n}}} su ：{{{siong-tsṳ̂n su}}}<li>{{{hàng-tsṳn khî siong-tsṳ̂n}}} tiâu：{{{hàng-tsṳn khî tiâu}}}
+{{#if:{{{行政區象徵 <includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} {{{行政區象徵}}} 象徵
+<!-- -->{{!}} <li>{{{行政區象徵}}} 花：{{{象徵花}}}<li>{{{h行政區象徵}}} 樹：{{{象徵樹}}}<li>{{{行政區象徵}}} 鳥：{{{行政區鳥}}}
 }}
 |-
 {{#if:{{{官方語言 <includeonly>|</includeonly>}}}|
@@ -97,9 +97,9 @@
 <!-- -->{{!}} {{{電話區號}}}
 }}
 |-
-{{#if:{{{yû-tsṳn phiên-ma<includeonly>|</includeonly>}}}|
-<!-- -->! style="width: 92px" {{!}} yû-tsṳn phiên-ma
-<!-- -->{{!}} {{{yû-tsṳn phiên-ma}}}
+{{#if:{{{郵政編碼<includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} 郵政編碼
+<!-- -->{{!}} {{{郵政編碼}}}
 }}
 |-
 {{#if:{{{mióng-tshàm|}}}|
