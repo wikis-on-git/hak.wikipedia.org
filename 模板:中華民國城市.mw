@@ -87,9 +87,9 @@
 <!-- -->{{!}} {{{官方語言}}}
 }}
 |-
-{{#if:{{{sṳ̀-khî <includeonly>|</includeonly>}}}|
-<!-- -->! style="width: 92px" {{!}} sṳ̀-khî 
-<!-- -->{{!}} {{{sṳ̀-khî}}}
+{{#if:{{{時區 <includeonly>|</includeonly>}}}|
+<!-- -->! style="width: 92px" {{!}} 時區
+<!-- -->{{!}} {{{時區}}}
 }}
 |-
 {{#if:{{{電話區號<includeonly>|</includeonly>}}}|
