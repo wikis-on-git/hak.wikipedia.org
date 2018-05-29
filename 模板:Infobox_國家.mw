@@ -1,74 +1,98 @@
 <noinclude>{{esoteric}}{{Hakka-TW|1|模板:Infobox Country}}</noinclude>
 <div style="position: relative; style="float: right; font-size: small;">
 
+
+<div style="position: relative; style="float: right; font-size: small; border:0.1px solid #73B839;">
 {| class="infobox bordered" cellpadding="4" style="width: 300px; font-size: 90%;"
 |-
-| colspan=2 align=center bgcolor=#e3e3e3| '''{{{國家名稱}}}'''
+| colspan=2 align=center bgcolor=#e3e3e3| '''{{{name|{{{國家名稱|{{PAGENAME}} }}} }}}'''
+|-
+| colspan=2 align=center bgcolor=#4798B3| '''{{{native_name|{{{國名原文|}}}}}}'''
 |-
 | colspan="2" |
     {| style="text-align: center; margin: 0 auto; background: none;"
     |-
-    | style="border: 0; vertical-align: middle;" | <span style="border: 1px solid #bbbbbb; display: table-cell;">[[Image:{{{國旗文件名}}}| 125px]]</span>
-    | style="border: 0; vertical-align: middle;" | [[Image:{{{國徽文件名}}}|110px]]
+    | style="border: 0; vertical-align: middle;" | <span style="border: 1px solid #bbbbbb; display: table-cell;">[[File:{{{image_flag|{{{國旗文件名}}}}}}|125px]]</span>
+    | style="border: 0; vertical-align: middle;" | [[File:{{{image_coat|{{{國徽文件名}}}}}}|100px]]
     |- style="font-size: 95%;"
-    | style="border: 0;" | [[{{{國名}}}國旗|國旗]]
-    | style="border: 0;" | [[{{{國名}}}國徽|國徽]]
+    | style="border: 0;" | [[{{PAGENAME}} 國旗|國旗]]
+    | style="border: 0;" | [[{{PAGENAME}} 國徽|國徽]]
     |}
 |-
-{{#if:{{{國家格言|}}}
- |{{!}}colspan="2" style="font-size: 95%; text-align: center;" {{!}} [[格言|國家格言]]：{{{國家格言}}}
+{{#if:{{{motto|{{{national_motto|{{{國家格言|}}}}}}}}}
+ |{{!}}colspan="2" style="font-size: 95%; text-align: center;" {{!}} [[格言|國家格言]]：{{{motto|{{{national_motto|{{{國家格言|}}}}}}}}}
 }}
 |-
-{{#if:{{{國歌名稱|}}}
- |{{!}}colspan="2" style="font-size: 95%; text-align: center;" {{!}} [[國歌]]：{{{國歌名稱}}}
+{{#if:{{{anthem|{{{national_anthem|{{{國歌名稱|}}}}}}}}}
+ |{{!}}colspan="2" style="font-size: 95%; text-align: center;" {{!}} [[國歌]]: {{{anthem|{{{national_anthem|{{{國歌名稱|}}}}}}}}}
 }}
 |-
-|colspan="2" align="center" bgcolor="#c6c9ff"|'''自然地理'''<br/><small>（實際管轄區）</small>
+|colspan="2" align="center" bgcolor="#c6c9ff"|'''自然地理'''<br/><small>(實際管轄區)</small>
 |-
-|colspan="2" align="center"|[[Image:{{{國家位置圖片文件名}}}|250px]]
+|colspan="2" align="center"|[[File:{{{image_map|{{{國家位置圖片文件名}}}}}}|250px]]
 |-
-|'''[[首都]]'''||{{{國家首都名稱}}}
+|style="width:9em";|'''[[首都]]'''||{{{capital|{{{國家首都名稱|}}}}}}
 |-
-{{#if:{{{最大城市名稱|}}}|
+{{#if:{{{largest_city|{{{最大城市名稱|}}}}}}|
 {{!}}{{!}}'''最大城市'''
-{{!}}{{!}}{{{最大城市名稱|}}}
+{{!}}{{!}}{{{largest_city|{{{最大城市名稱|}}}}}}
 }}
 |-
 |colspan="2"|'''[[國家面積列表|面積]]'''
-*國土面積：{{{國土面積數據}}}平方公里
-*水域率：{{{水域率百分比}}}%
+*國土面積: {{{area_km2|{{{國土面積數據|}}}}}} km<sup>2</sup> ([[國家面積列表|世界第{{{area_rank|{{{面積排名|}}}}}} 名]])
 |-
 {{#if:{{{最高點|}}}|
 {{!}}{{!}}'''地理最高點'''
 {{!}}{{!}}{{{最高點|}}}
 }}
 |-
-{{#if:{{{時區|}}}|
+{{#if:{{{最長河流|}}}|
+{{!}}{{!}}'''最長河流'''
+{{!}}{{!}}{{{最長河流|}}}
+}}
+|-
+{{#if:{{{最大湖泊|}}}|
+{{!}}{{!}}'''最大湖泊'''
+{{!}}{{!}}{{{最大湖泊|}}}
+}}
+|-
+{{#if:{{{海岸線|}}}|
+{{!}}{{!}}'''海岸線'''
+{{!}}{{!}}{{{海岸線|}}}
+}}
+|-
+{{#if:{{{utc_offset|{{{時區|}}}}}}|
 {{!}}{{!}}'''[[時區]]'''
-{{!}}{{!}}{{{時區|}}}
+{{!}}{{!}}{{{utc_offset|{{{時區|}}}}}}
 }}
 |-
 |colspan="2" align="center" bgcolor="#33CC99"|'''人民生活'''
 |-
-{{#if:{{{官方語言|}}}|
+{{#if:{{{official_languages|{{{官方語言|}}}}}}|
 {{!}}{{!}}'''[[官方語言]]'''
-{{!}}{{!}}{{{官方語言|}}}
+{{!}}{{!}}{{{official_languages|{{{官方語言|}}}}}}
 }}
 |-
 |colspan="2"|'''[[國家人口列表|人口]]'''
-*總人口：{{{總人口數據}}}
-*[[國家人口密度列表|人口密度]]：{{{人口密度數據}}}/km<sup>2</sup>
+*總人口: {{{population_census|{{{總人口數據}}}}}} ([[{{{population_census_year|{{{人口年}}}}}}年]], [[國家人口列表|世界第{{{population_census_rank|{{{人口排名|}}}}}}名]])
+*[[國家人口密度列表|人口密度]]: {{{population_density_km2|{{{人口密度數據|}}}}}}/km<sup>2</sup>([[{{{population_census_year|{{{人口年}}}}}}年]], [[國家人口密度列表|世界第{{{population_density_rank|{{{人口密度排名|}}}}}}名]])
+|-
+{{#if:{{{ethnic_groups|{{{民族|}}}}}}|
+{{!}}{{!}}'''[[民族]]'''
+{{!}}{{!}}{{{ethnic_groups|{{{民族|}}}}}}
+}}
 |-
 |colspan="2" align="center" bgcolor="#FFCC66"|'''政治文化'''
 |-
-{{#if:{{{政治體制|}}}|
+{{#if:{{{government_type|{{{政治體制|}}}}}}|
 {{!}}{{!}}'''政治體制'''
-{{!}}{{!}}{{{政治體制|}}}
+{{!}}{{!}}{{{government_type|{{{政治體制|}}}}}}
 }}
 |-
-|colspan="2" |'''國家領導人：'''
-*[[國家元首]]：[[{{{國名}}}{{{國家元​​首職稱}}}|{{{國家元​​首職稱}}}]]：[[{{{現任國家元首名字}} }]]
-*[[政府首腦]]：[[{{{國名}}}{{{政府首腦職稱}}}|{{{政府首腦職稱}}}]]：[[{{{現任政府首腦名字}} }]]
+|colspan="2" |'''國家領導人'''
+*[[{{PAGENAME}} {{{leader_title1|{{{國家元首職稱|}}}}}}|{{{leader_title1|{{{國家元首職稱|}}}}}}]]: {{{leader_name1|{{{現任國家元首名字}}}}}}
+{{#if:{{{leader_title2|{{{政府代表職稱|}}}}}}|*[[{{PAGENAME}} {{{leader_title2|{{{政府代表職稱|}}}}}}|{{{leader_title2|{{{政府代表職稱|}}}}}}]]: {{{leader_name2|{{{現任政府代表名字|}}}}}}}}
+{{#if:{{{leader_title3|{{{政府首腦職稱|}}}}}}|*[[{{PAGENAME}} {{{leader_title3|{{{政府首腦職稱}}}}}}|{{{leader_title3|{{{政府首腦職稱}}}}}}]]: {{{leader_name3|{{{現任政府首腦名字}}}}}}}}
 |-
 {{#if:{{{主要節日|}}}|
 {{!}}{{!}}'''主要節日'''
@@ -77,19 +101,34 @@
 |-
 |colspan="2" align="center" bgcolor="#CC9966"|'''經濟實力'''
 |-
-{{#if:{{{貨幣單位|}}}|
-{{!}}{{!}}'''貨幣單位'''
-{{!}}{{!}}{{{貨幣單位|}}}
+{{#if:{{{currency|{{{金幣單位|}}}}}}|
+{{!}}{{!}}'''金幣單位'''
+{{!}}{{!}}{{{currency|{{{金幣單位|}}}}}}
 }}
 |-
-{{#if:{{{國內生產總值數據|}}}|
-{{!}}{{!}}'''[[國內生產總值|GDP]]'''
-{{!}}{{!}}{{{國內生產總值數據|}}}
+{{#if:{{{GDP|{{{GDP_nominal|{{{國內生產總數|}}}}}}}}}|
+{{!}}{{!}}'''[[國內生產總數|GDP]]''' (名義上个)
+{{!}}{{!}}{{{GDP|{{{GDP_nominal|{{{國內生產總數|}}}}}}}}} <small>({{{GDP_nominal_year|{{{GDP 年}}}}}} 年)</small>
 }}
 |-
-{{#if:{{{人均國內生產總值數據|}}}|
-{{!}}{{!}}'''人均[[國內生產總值|GDP]]'''
-{{!}}{{!}}{{{人均國內生產總值數據|}}}
+{{#if:{{{GDP_PPP|}}}|
+{{!}}{{!}}'''[[國內生產總數|GDP]]''' (PPP)
+{{!}}{{!}}{{{GDP_PPP|}}} <small>({{{GDP_PPP_year|{{{GDP PPP 年}}}}}}年)</small>
+}}
+|-
+{{#if:{{{GDP_nominal_per_capita|{{{平均國內生產總數|}}}}}}|
+{{!}}{{!}}'''平均[[國內生產總數|GDP]]''' (名義上个)
+{{!}}{{!}}{{{GDP_nominal_per_capita|{{{平均國內生產總數|}}}}}} <small>({{{GDP_nominal_year|{{{GDP 年}}}}}}年)</small>
+}}
+|-
+{{#if:{{{GDP_PPP_per_capita|{{{pêng-kin GDP PPP|}}}}}}|
+{{!}}{{!}}'''平均[[國內生產總數|GDP]]''' (PPP)
+{{!}}{{!}}{{{GDP_PPP_per_capita|{{{平均 GDP PPP|}}}}}} <small>({{{GDP_PPP_year|{{{GDP PPP 年}}}}}}年)</small>
+}}
+|-
+{{#if:{{{HDI|{{{人類發展總數|}}}}}}|
+{{!}}{{!}}'''[[人類發展總數|HDI]]'''
+{{!}}{{!}}{{{HDI|{{{人類發展總數|}}}}}} <small>({{{HDI_year|{{{HDI 年|}}}}}}年)</small>
 }}
 |-
 {{#if:{{{中央銀行|}}}|
@@ -112,23 +151,24 @@
 {{!}}{{!}}{{{國家象徵|}}}
 }}
 |-
-{{#if:{{{國家代碼|}}}|
-{{!}}{{!}}'''國家代碼'''
-{{!}}{{!}}{{{國家代碼|}}}
+{{#if:{{{country_code|{{{國家代號|}}}}}}|
+{{!}}{{!}}'''國家代號'''
+{{!}}{{!}}{{{country_code|{{{國家代號|}}}}}}
 }}
 |-
-{{#if:{{{國際域名縮寫|}}}|
+{{#if:{{{cctld|{{{國際域名縮寫|}}}}}}|
 {{!}}{{!}}'''[[國際域名縮寫]]'''
-{{!}}{{!}}{{{國際域名縮寫|}}}
+{{!}}{{!}}{{{cctld|{{{國際域名縮寫|}}}}}}
 }}
 |-
-{{#if:{{{國際電話區號|}}}|
+{{#if:{{{calling_code|{{{國際電話區號|}}}}}}|
 {{!}}{{!}}'''[[國際電話區號列表|國際電話區號]]'''
-{{!}}{{!}}{{{國際電話區號|}}}
+{{!}}{{!}}{{{calling_code|{{{國際電話區號|}}}}}}
 }}
 |-
-|colspan=2|<div style="float:right; font-size:70%; padding:0 .5em 0 .5em">[{{SERVER}}{{localurl:{{​​NAMESPACE}}:{{PAGENAME }}|action=edit&section=0}} <small>編輯</small>]</div>
+|colspan=2|<div style="float:right; font-size:70%; padding:0 .5em 0 .5em">[{{SERVER}}{{localurl:{{NAMESPACE}}:{{PAGENAME}}|action=edit&section=0}} <small>phiên-cho</small>]</div>
 |}
+
 </div><noinclude>
 ==重新改寫==
 2006年7月27日又重新改寫了，遵循“有就顯示，無就不顯示”的原則。
