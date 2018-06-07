@@ -1,7 +1,129 @@
-[[File:Al-TableImage.png|right|thumb|Lî]]
-[[File:Aluminum Metal coinless.jpg|right|thumb|Lî]]
-[[File:Al,13.jpg|right|thumb|Lî]]
-
+{{infobox element
+|name=Lî
+|number=13
+|symbol=Al
+|alt name=aluminum (US)
+|left=[[magnesium]]
+|right=[[Si̍t]]
+|above=[[Phìn|B]]
+|below=[[gallium|Ga]]
+|series=heu-ko-thu kîm-su̍k
+|series comment=ū-sî hong hun chò [[lūi-kim-sio̍k]]
+|group=13
+|period=3
+|block=p
+|series color=
+|appearance=kim-sio̍k-khoán phú-gîn-sek 
+|image name=Aluminium-4.jpg
+|image size=
+|image name comment=
+|image name 2=Aluminum Spectra.jpg
+|image name 2 comment=A-lú-mih ê [[kng-phó͘ sòaⁿ]] (spectral lines)
+|atomic mass=26.9815385
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=7
+|atomic mass comment=
+|electron configuration=&#91;[[neon|Ne]]&#93; 3s<sup>2</sup> 3p<sup>1</sup>
+|electrons per shell=2, 8, 3
+|color=
+|phase=ku-thí
+|phase comment=
+|density gplstp=
+|density gpcm3nrt=2.70
+|density gpcm3nrt 2=
+|density gpcm3mp=2.375
+|melting point K=933.47
+|melting point C=660.32
+|melting point F=1220.58
+|boiling point K=2743
+|boiling point C=2470
+|boiling point F=4478
+|triple point K=
+|triple point kPa=
+|critical point K=
+|critical point MPa=
+|heat fusion=10.71
+|heat fusion 2=
+|heat vaporization=284
+|heat capacity=24.20
+|vapor pressure 1=1482
+|vapor pressure 10=1632
+|vapor pressure 100=1817
+|vapor pressure 1 k=2054
+|vapor pressure 10 k=2364
+|vapor pressure 100 k=2790
+|vapor pressure comment=
+|crystal structure=face-centered cubic
+|oxidation states='''+3''', +2,<ref>[[Aluminium monoxide]]</ref> +1<ref>[[Aluminium iodide]]</ref>, −1, −2
+|oxidation states comment=(an [[Amphoterism|amphoteric]] oxide)
+|electronegativity=1.61
+|number of ionization energies=4
+|ionization energy 1=577.5
+|ionization energy 2=1816.7
+|ionization energy 3=2744.8
+|atomic radius=143
+|atomic radius calculated=
+|covalent radius=121±4
+|Van der Waals radius=184
+|magnetic ordering=[[paramagnetism|paramagnetic]]
+|magnetic ordering ref=<ref>
+{{cite book
+ |last1=Lide |first1=D. R.
+ |year=2000
+ |chapter=Magnetic susceptibility of the elements and inorganic compounds
+ |chapter-url=http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf
+ |title=[[CRC Handbook of Chemistry and Physics]]
+ |edition=81st
+ |publisher=[[CRC Press]]
+ |isbn=0849304814
+}}</ref>
+|electrical resistivity=
+|electrical resistivity unit prefix=n
+|electrical resistivity at 0=
+|electrical resistivity at 20=28.2
+|thermal conductivity=237
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=23.1
+|speed of sound=
+|speed of sound rod at 20=
+|speed of sound rod at r.t.=(rolled) 5000
+|Young's modulus=70
+|Shear modulus=26
+|Bulk modulus=76
+|Poisson ratio=0.35
+|Mohs hardness=2.75
+|Vickers hardness=160–350
+|Brinell hardness=160–550
+|CAS number=7429-90-5
+|isotopes=
+{{infobox element/isotopes decay3
+ | mn=26 | sym=Al | na=[[trace radioisotope|trace]] | hl=7.17×10<sup>5</sup>&nbsp;y
+ | dm1=[[positron emission|β<sup>+</sup>]] | de1=1.17 | link1=magnesium-26 | pn1=26 | ps1=Mg
+ | dm2=[[electron capture|ε]] | de2=– | link2= | pn2=26 | ps2=Mg
+ | dm3=[[gamma radiation|γ]] | de3=1.8086 | pn3= | ps3=–
+}}
+{{Infobox element/isotopes stable | mn=27 | sym=Al | na=100% | n=14 |firstlinks=yes}}
+|isotopes comment=
+|predicted by=[[Antoine Lavoisier]]<ref name="losalamos">
+{{cite web
+ |url=http://periodic.lanl.gov/13.shtml
+ |title=Aluminum
+ |author=<!--Staff writer(s); no by-line.-->
+ |date=
+ |work=
+ |publisher=[[Los Alamos National Laboratory]]
+ |accessdate=3 March 2013
+}}</ref>
+|prediction date=1787
+|discovered by=
+|discovery date=
+|first isolation by=[[Hans Christian Ørsted]]<ref>{{cite web|url=http://elements.vanderkrogt.net/element.php?sym=al |title=13 Aluminium  |publisher=Elements.vanderkrogt.net |accessdate=2008-09-12}}</ref>
+|first isolation date=1825
+|named by=[[Humphry Davy]]<ref name="losalamos" />
+|named date=1807
+}}
 '''Lî''' (鋁) he yit-chúng [[Fa-ho̍k]] [[Ngièn-su]], fa-ho̍k fù-ho vì '''Al''', ngièn-chṳ́ su-muk he '''13''', chhai [[Ngièn-su Chû-khì péu]] chûng thi-sṳ̍p-sâm vi.
 
 {{Ngièn-su Chû-khì-péu}}
