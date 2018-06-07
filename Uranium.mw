@@ -1,4 +1,125 @@
-[[File:U-TableImage.png|right|thumb|Uranium]]
+{{infobox element
+|name=uranium
+|number=92
+|symbol=U
+|left=[[protactinium]]
+|right=[[neptunium]]
+|above=[[neodymium|Nd]]
+|below=(Uqq)
+|series=actinium-hi
+|series comment=
+|group=n/a
+|period=7
+|block=f
+|series color=
+|appearance=silvery gray metallic; corrodes to a [[spalling]] black oxide coat in air
+|image name=HEUraniumC.jpg
+|image alt=Two hands in brown gloves holding a blotched gray disk with a number 2068 hand-written on it
+|image size=
+|image name comment=
+|image name 2=
+|image name 2 comment=
+|atomic mass=238.02891
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=3
+|atomic mass comment=
+|electron configuration=&#91;[[radon|Rn]]&#93; 5f<sup>3</sup> 6d<sup>1</sup> 7s<sup>2</sup>
+|electrons per shell=2, 8, 18, 32, 21, 9, 2
+|color=
+|phase=ku-thí
+|phase comment=
+|density gplstp=
+|density gpcm3nrt=19.1
+|density gpcm3mp=17.3
+|melting point K=1405.3
+|melting point C=1132.2
+|melting point F=2070
+|boiling point K=4404
+|boiling point C=4131
+|boiling point F=7468
+|triple point K=
+|triple point kPa=
+|critical point K=
+|critical point MPa=
+|heat fusion=9.14
+|heat vaporization=417.1
+|heat capacity=27.665
+|vapor pressure 1=2325
+|vapor pressure 10=2564
+|vapor pressure 100=2859
+|vapor pressure 1 k=3234
+|vapor pressure 10 k=3727
+|vapor pressure 100 k=4402
+|vapor pressure comment=
+|crystal structure=orthorhombic
+|oxidation states='''6''', 5, 4, 3,<ref>{{cite book|title=The Chemistry of the Actinide and Transactinide Elements|edition=3rd|editor=Morss, L.R.; Edelstein, N.M. and Fuger, J. |place=Netherlands|publisher=Springer|year=2006|isbn=9048131464}}</ref> 2, 1
+|oxidation states comment=(a&nbsp;weakly [[base (chemistry)|basic]] oxide)
+|electronegativity=1.38
+|number of ionization energies=2
+|ionization energy 1=597.6
+|ionization energy 2=1420
+|ionization energy 3=
+|atomic radius=156
+|covalent radius=196±7
+|Van der Waals radius=186
+|magnetic ordering=[[paramagnetism|paramagnetic]]
+|electrical resistivity unit prefix=µ
+|electrical resistivity at 0=0.280
+|electrical resistivity at 20=
+|thermal conductivity=27.5
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=13.9
+|speed of sound=
+|speed of sound rod at 20=3155
+|speed of sound rod at r.t.=
+|Young's modulus=208
+|Shear modulus=111
+|Bulk modulus=100
+|Poisson ratio=0.23
+|Mohs hardness=
+|Vickers hardness=1960–2500
+|Brinell hardness=2350–3850
+|CAS number=7440-61-1
+|isotopes=
+{{infobox element/isotopes decay2 | link=uranium-232 | mn=232 | sym=U
+ | na=[[synthetic radioisotope|syn]] | hl=[[1 E9 s|68.9&nbsp;y]]
+ | dm1=[[spontaneous fission|SF]] | de1=– | pn1= | ps1=–
+ | dm2=[[alpha decay|α]] | de2=5.414 | link2=thorium-228 | pn2=228 | ps2=Th }}
+{{infobox element/isotopes decay2 | link=uranium-233 | mn=233 | sym=U
+ | na=[[trace radioisotope|trace]] | hl=[[1 E12 s|1.592×10<sup>5</sup>&nbsp;y]]
+ | dm1=SF | de1=197.93<ref>{{cite book
+ |url=https://www-nds.iaea.org/publications/indc/indc_usa_0085_II.pdf
+ |editor1=Magurno, B.A.|editor2=Pearlstein, S
+ |title=Proceedings of the conference on nuclear data evaluation methods and procedures. BNL-NCS 51363, vol. II
+ |publisher=Brookhaven National Lab.|place=Upton, NY (USA)|year=1981|pages=835 ff|accessdate=2014-08-06}}</ref>
+ | pn1= | ps1=–
+ | dm2=α | de2=4.909 | link2=thorium-229 | pn2=229 | ps2=Th }}
+{{infobox element/isotopes decay2 | link=uranium-234 | mn=234 | sym=U
+ | na=0.005% | hl=2.455×10<sup>5</sup>&nbsp;y
+ | dm1=SF | de1=197.78 | pn1= | ps1=–
+ | dm2=α | de2=4.859 | link2=thorium-230 | pn2=230 | ps2=Th }}
+{{infobox element/isotopes decay2 | link=uranium-235 | mn=235 | sym=U
+ | na=0.720% | hl=7.04×10<sup>8</sup>&nbsp;y
+ | dm1=SF | de1=202.48 | pn1= | ps1=–
+ | dm2=α | de2=4.679 | link2=thorium-231 | pn2=231 | ps2=Th }}
+{{infobox element/isotopes decay2 | link=uranium-236 | mn=236 | sym=U
+ | na=trace | hl=[[1 E14 s|2.342×10<sup>7</sup>&nbsp;y]]
+ | dm1=SF | de1=201.82 | pn1= | ps1=–
+ | dm2=α | de2=4.572 | link2=thorium-232 | pn2=232 | ps2=Th }}
+{{infobox element/isotopes decay3 | link=uranium-238 | mn=238 | sym=U
+ | na=99.274% | hl=[[1 E17 s|4.468×10<sup>9</sup>&nbsp;y]]
+ | dm1=α | de1=4.270 | link1=thorium-234 | pn1=234 | ps1=Th
+ | dm2=SF | de2=205.87 | pn2= | ps2=–
+ | dm3=[[Double_beta_decay|β<sup>−</sup>β<sup>−</sup>]] | de3=– | link3=plutonium-238 | pn3=238 | ps3=Pu
+ }}
+|naming=after planet [[Uranus]], itself named after Greek god of the sky [[Uranus (mythology)|Uranus]]
+|discovered by=[[Martin Heinrich Klaproth]]
+|discovery date=1789
+|first isolation by=[[Eugène-Melchior Péligot]]
+|first isolation date=1841
+}}
 '''Uranium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''U''', ngièn-chṳ́ su-muk he '''92'''.
 
 {{Ngièn-su chû-khì-péu}}
