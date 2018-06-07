@@ -1,4 +1,127 @@
-[[File:Hg-TableImage.png|right|thumb|súi-ngiùn]]
+{{infobox element
+|name=Súi-ngiùn
+|enname=mercury
+|number=80
+|symbol=Hg
+|left=[[kîm]]
+|right=[[thallium]]
+|above=[[cadmium|Cd]]
+|below=[[copernicium|Cn]]
+|series=ko-thu kîm-su̍k
+|series comment=
+|group=12
+|period=6
+|block=d
+|series color=
+|appearance=silvery
+|image name=Pouring liquid mercury bionerd.jpg
+|image name comment=
+|image name 2=Mercury Spectra.jpg
+|image size 2=
+|image name 2 comment=Spectral lines of mercury (UV not seen)
+|atomic mass=200.592
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=3
+|atomic mass comment=
+|electron configuration=&#91;[[xenon|Xe]]&#93; 4f<sup>14</sup> 5d<sup>10</sup> 6s<sup>2</sup>
+|electrons per shell=2, 8, 18, 32, 18, 2
+|color=
+|phase=yi̍t-thí
+|phase comment=
+|density gplstp=
+|density gpcm3nrt=13.534
+|density gpcm3nrt 2=
+|density gpcm3nrt 3=
+|density gpcm3mp=
+|melting point K=234.3210
+|melting point C=−38.8290
+|melting point F=−37.8922
+|sublimation point K=
+|sublimation point C=
+|sublimation point F=
+|boiling point K=629.88
+|boiling point C=356.73
+|boiling point F=674.11
+|triple point K=234.3156
+|triple point kPa=1.65×10{{sup|−7}}
+|critical point K=1750
+|critical point MPa=172.00
+|heat fusion=2.29
+|heat fusion 2=
+|heat vaporization=59.11
+|heat capacity=27.983
+|vapor pressure 1=315
+|vapor pressure 10=350
+|vapor pressure 100=393
+|vapor pressure 1 k=449
+|vapor pressure 10 k=523
+|vapor pressure 100 k=629
+|vapor pressure comment=
+|crystal structure=rhombohedral
+|oxidation states=4, '''2''' (mercuric), 1 (mercurous), −2
+|oxidation states comment=(a mildly [[base (chemistry)|basic]] oxide)
+|electronegativity=2.00
+|number of ionization energies=3
+|ionization energy 1=1007.1
+|ionization energy 2=1810
+|ionization energy 3=3300
+|atomic radius=151
+|atomic radius calculated=
+|covalent radius=132±5
+|Van der Waals radius=155
+|magnetic ordering=diamagnetic
+|magnetic ordering ref=<ref>{{cite web|title=Mgnetic Susceptibility of the Elements And Inorganic Compounds|url=http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf|website=www-d0.fnal.gov|publisher=Fermi National Accelerator Laboratory: DØ Experiment (lagacy document)|accessdate=18 February 2015|archiveurl=http://web.archive.org/web/20040324080747/http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf|archivedate=2004-03-24}}</ref>
+|electrical resistivity unit prefix=n
+|electrical resistivity=961
+|electrical resistivity comment=(at&nbsp;25&nbsp;&deg;C)
+|electrical resistivity at 0=
+|electrical resistivity at 20=
+|thermal conductivity=8.30
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=60.4
+|speed of sound=liquid: 1451.4
+|speed of sound comment=(at&nbsp;20&nbsp;°C)
+|speed of sound rod at 20=
+|speed of sound rod at r.t.=
+|tensile strength=
+|Young's modulus=
+|Shear modulus=
+|Bulk modulus=
+|Poisson ratio=
+|Mohs hardness=
+|Vickers hardness=
+|Brinell hardness=
+|CAS number=7439-97-6
+|isotopes=
+{{infobox element/isotopes decay | mn=194 | sym=Hg
+ | na=[[synthetic radioisotope|syn]] | hl=444&nbsp;y
+ | dm=[[electron capture|ε]] | de=0.040 | link1=gold-194 | pn=194 | ps=Au}}
+{{infobox element/isotopes decay | mn=195 | sym=Hg
+ | na=syn | hl=9.9&nbsp;h
+ | dm=ε | de=1.510 | link1=gold-195 | pn=195 | ps=Au}}
+{{infobox element/isotopes decay2 | mn=196 | sym=Hg | na=0.15% | hl=>2.5×10<sup>18</sup>&nbsp;y
+ | dm1=([[alpha decay|α]]) | link1=platinum-192 | de1=2.0273 | pn1=192 | ps1=Pt
+ | dm2=([[double beta decay|β<sup>+</sup>β<sup>+</sup>]]) | de2=0.8197 | link2=platinum-196 | pn2=196 | ps2=Pt}}
+{{infobox element/isotopes decay | mn=197 | sym=Hg
+ | na=syn | hl=64.14&nbsp;h
+ | dm=ε | de=0.600 | link1=gold-197 | pn=197 | ps=Au}}
+{{infobox element/isotopes decay | mn=198 | sym=Hg | na=9.97% | hl=– | dm=(α) | de=1.3833 | link1=platinum-194 | pn=194 | ps=Pt }}
+{{infobox element/isotopes decay | mn=199 | sym=Hg | na=16.87% | hl=– | dm=(α) | de=0.8242 | link1=platinum-195 | pn=195 | ps=Pt }}
+{{infobox element/isotopes decay | mn=200 | sym=Hg | na=23.10% | hl=– | dm=(α) | de=0.7178 | pn=196 | ps=Pt }}
+{{infobox element/isotopes decay | mn=201 | sym=Hg | na=13.18% | hl=– | dm=(α) | de=0.3341 | link1=platinum-197 | pn=197 | ps=Pt }}
+{{infobox element/isotopes decay | mn=202 | sym=Hg | na=29.86% | hl=– | dm=(α) | de=0.1363 | link1=platinum-198 | pn=198 | ps=Pt }}
+{{infobox element/isotopes decay | mn=203 | sym=Hg
+ | na=syn | hl=46.612&nbsp;d
+ | dm=[[beta emission|β]]<sup>−</sup> | de=0.492 | link1=thallium-203 | pn=203 | ps=Tl}}
+{{infobox element/isotopes decay2 | mn=204 | sym=Hg | na=6.87% | hl=–
+ | dm1=(α) | link1=platinum-200 | de1=– | pn1=200 | ps1=Pt
+ | dm2=([[double beta decay|β<sup>−</sup>β<sup>−</sup>]]) | de2=0.4163 | link2=lead-204 | pn2=204 | ps2=Pb}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|discovered by=Ancient Chinese and Indians
+|discovery date=before [[2000 BCE]]
+}}
 '''Súi-ngiùn''' (水銀) fe̍t-chá ham-cho '''Kúng''' (汞) he yit-tsúng [[Fa-ho̍k]] [[Ngièn-su]], fa-ho̍k fù-ho vì '''Hg''', ngièn-tsṳ́ su-muk he '''80''', tshai [[Ngièn-su Tsû-khì péu]] chûng thi pat-sṳ̍p vi. 
 
 {{Template:Ngièn-su Tsû-khì-péu}}
