@@ -1,4 +1,104 @@
-[[File:Cl-TableImage.svg|right|thumb|Liu̍k]]
+{{Infobox element
+|name=Liu̍k
+|enname=chlorine
+|number=17
+|symbol=Cl
+|left=[[Liù-vòng]]
+|right=[[argon]]
+|above=[[Fuk|F]]
+|below=[[Chhiu|Br]]
+|series=sûng-ngièn-chṳ́ fî-kîm-su̍k
+|series comment=
+|group=17
+|period=3
+|block=p
+|series color=
+|appearance=pale yellow-green gas
+|image name=Chlorine ampoule.jpg
+|image size=
+|image name comment=A glass container filled with chlorine gas
+|image name 2=Chlorine spectrum visible.png
+|image name 2 comment=[[Emission line]] spectra; 400&ndash;700&nbsp;nm
+|atomic mass=35.45 
+|atomic mass ref=<ref name="CIAAW">[http://www.ciaaw.org/pubs/TSAW2013_xls.xls Conventional Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=
+|atomic mass comment=(35.446–35.457)<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|electron configuration=&#91;[[neon|Ne]]&#93; 3s<sup>2</sup> 3p<sup>5</sup>
+|electrons per shell=2, 8, 7
+|color=
+|phase=hi-thí
+|phase comment=
+|density gplstp=3.2
+|density gpcm3nrt=
+|density gpcm3nrt 2=
+|density gpcm3mp=
+|density gpcm3bp=1.5625
+|density gpcm3bp ref=<ref>[http://encyclopedia.airliquide.com/Encyclopedia.asp?LanguageID=11&CountryID=19&Formula=&GasID=13&UNNumber=&EquivGasID=3&PressionBox=&VolLiquideBox=&MasseLiquideBox=&VolGasBox=&MasseGasBox=&RD20=29&RD9=8&RD6=64&RD4=2&RD3=22&RD8=27&RD2=20&RD18=41&RD7=18&RD13=71&RD16=35&RD12=31&RD19=34&RD24=62&RD25=77&RD26=78&RD28=81&RD29=82 Chlorine], Gas Encyclopaedia, Air Liquide</ref>
+|melting point K=171.6
+|melting point C=−101.5
+|melting point F=−150.7
+|boiling point K=239.11
+|boiling point C=−34.04
+|boiling point F=−29.27
+|triple point K=
+|triple point kPa=
+|critical point K=416.9
+|critical point MPa=7.991
+|heat fusion=(Cl<sub>2</sub>) 6.406
+|heat fusion 2=
+|heat vaporization=(Cl<sub>2</sub>) 20.41
+|heat capacity=(Cl<sub>2</sub>)<br/>33.949
+|vapor pressure 1=128
+|vapor pressure 10=139
+|vapor pressure 100=153
+|vapor pressure 1 k=170
+|vapor pressure 10 k=197
+|vapor pressure 100 k=239
+|vapor pressure comment=
+|crystal structure=orthorhombic
+|oxidation states='''7''', 6, '''5''', 4, '''3''', 2, '''1''', '''−1'''
+|oxidation states comment=(a strongly [[acid]]ic oxide)
+|electronegativity=3.16
+|number of ionization energies=4
+|ionization energy 1=1251.2
+|ionization energy 2=2298
+|ionization energy 3=3822
+|atomic radius=
+|atomic radius calculated=
+|covalent radius=102±4
+|Van der Waals radius=175
+|magnetic ordering=[[diamagnetic]]
+|magnetic ordering ref=<ref>[http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf Magnetic susceptibility of the elements and inorganic compounds], in {{RubberBible86th}}</ref>
+|electrical resistivity=
+|electrical resistivity at 0=
+|electrical resistivity at 20=&gt;10
+|thermal conductivity=8.9{{e|-3}}
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=
+|speed of sound=206
+|speed of sound comment=(gas, at&nbsp;0&nbsp;°C)
+|speed of sound rod at 20=
+|speed of sound rod at r.t.=
+|Young's modulus=
+|Shear modulus=
+|Bulk modulus=
+|Poisson ratio=
+|Mohs hardness=
+|Vickers hardness=
+|Brinell hardness=
+|CAS number=7782-50-5
+|isotopes=
+{{Infobox element/isotopes stable | mn=35 | sym=Cl | na=75.77% | n=18 |firstlinks=yes}}
+{{infobox element/isotopes decay2 | mn=36 | sym=Cl | na=[[trace radioisotope|trace]] | hl=[[1 E12 s|3.01×10<sup>5</sup>&nbsp;y]] | dm1=[[beta emission|β<sup>−</sup>]] | de1=0.709 | link1=argon-36 | pn1=36 | ps1=Ar | dm2=[[electron capture|ε]] | de2=– | link2=sulfur-36 | pn2=36 | ps2=S }}
+{{Infobox element/isotopes stable | mn=37 | sym=Cl | na=24.23% | n=20 |firstlinks=no}}
+|isotopes comment=
+|discovery and first isolation by=[[Carl Wilhelm Scheele]]
+|discovery date=1774
+|history comment label=Recognized as an [[chemical element|element]] by
+|history comment=[[Humphry Davy]] (1808)
+}}
 '''Liu̍k''' (綠, 氯), fe̍t-chá ham-cho '''yàm-su''' (鹽素), he yit-chúng [[fa-ho̍k]] [[ngièn-su]], fa-ho̍k fù-ho he '''Cl''', ngièn-chṳ́ su-muk he '''18''', chhai [[ngièn-su chû-khì-péu]] chûng thi sṳ̍p-pat vi.
 
 {{ngièn-su chû-khì-péu}}
