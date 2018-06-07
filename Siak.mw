@@ -1,5 +1,95 @@
-[[File:Sn-TableImage.png|right|thumb|]]
-[[File:Sn,50.jpg|right|thumb|Siak]]
+{{Infobox element
+|name=Siak
+|number=50
+|symbol=Sn
+|enname=tin
+|allotropes={{nowrap|alpha, α (gray)}}; {{nowrap|beta, β (white)}}
+|left=[[indium]]
+|right=[[antimony]]
+|above=[[germanium|Ge]]
+|below=[[Yèn|Pb]]
+|series=heu-ko-thu kîm-su̍k
+|group=14
+|period=5
+|block=p
+|image name=Tin drop.jpg
+|image name comment=
+|appearance=silvery-white (beta, β) or gray (alpha, α)
+|atomic mass=118.710
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=7
+|atomic mass comment=
+|electron configuration=&#91;[[krypton|Kr]]&#93; 4d<sup>10</sup> 5s<sup>2</sup> 5p<sup>2</sup>
+|electrons per shell=2, 8, 18, 18, 4
+|phase=ku-thí
+|density gpcm3nrt=white, β: 7.365
+|density gpcm3nrt 2=gray, α: 5.769
+|density gpcm3mp=6.99
+|melting point K=505.08
+|melting point C=231.93
+|melting point F=449.47
+|boiling point K=2875
+|boiling point C=2602
+|boiling point F=4716
+|heat fusion=white, β: 7.03
+|heat vaporization=white, β: 296.1
+|heat capacity=white, β: 27.112
+|vapor pressure 1=1497
+|vapor pressure 10=1657
+|vapor pressure 100=1855
+|vapor pressure 1 k=2107
+|vapor pressure 10 k=2438
+|vapor pressure 100 k=2893
+|vapor pressure comment=
+|crystal structure=tetragonal
+|crystal structure comment=white (β)
+|crystal structure 2=diamond cubic
+|crystal structure 2 comment=gray (α)
+|oxidation states='''4''', 3,<ref>{{cite web|title=SnH3|url=http://webbook.nist.gov/cgi/cbook.cgi?ID=B1001467&Units=SI|work=NIST Chemistry WebBook|publisher=National Institure of Standards and Technology|accessdate=23 January 2013}}</ref> '''2''', 1,<ref>{{cite web|title=HSn|url=http://webbook.nist.gov/cgi/cbook.cgi?ID=C13940255&Units=SI|work=NIST Chemistry WebBook|publisher=National Institute of Standards and Technology|accessdate=23 January 2013}}</ref> −1, −2, −3, '''−4'''
+|oxidation states comment=(an [[amphoterism|amphoteric]] oxide)
+|electronegativity=1.96
+|number of ionization energies=3
+|ionization energy 1=708.6
+|ionization energy 2=1411.8
+|ionization energy 3=2943.0
+|atomic radius=140
+|covalent radius=139±4
+|Van der Waals radius=217
+|magnetic ordering=gray: [[diamagnetic]]
+|magnetic ordering ref=<ref>{{cite book |url=http://web.archive.org/web/20110303222309/http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf|chapter=Magnetic susceptibility of the elements and inorganic compounds| editor = Lide, D. R. | title = CRC Handbook of Chemistry and Physics | edition = 86th | location = Boca Raton (FL) | publisher = CRC Press | year = 2005 | isbn = 0-8493-0486-5 }}
+</ref><br/>white (β): [[paramagnetic]]
+|electrical resistivity unit prefix=n
+|electrical resistivity at 0=115
+|thermal conductivity=66.8
+|thermal expansion at 25=22.0
+|speed of sound rod at r.t.=2730
+|speed of sound rod at r.t. comment=(rolled)
+|Young's modulus=50
+|Shear modulus=18
+|Bulk modulus=58
+|Poisson ratio=0.36
+|Mohs hardness=
+|Brinell hardness=50–440
+|CAS number=7440-31-5
+|isotopes=
+{{infobox element/isotopes decay | mn=112 | sym=Sn | na=0.97% | hl=– | dm=([[double beta decay|β<sup>+</sup>β<sup>+</sup>]]) | de=1.9222 | link1=cadmium-112 | pn=112 | ps=Cd }}
+{{infobox element/isotopes decay | mn=114 | sym=Sn | na=0.66% | hl=– | dm=([[spontaneous fission|SF]]) | de=<27.965 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=115 | sym=Sn | na=0.34% | hl=– | dm=(SF) | de=<26.791 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=116 | sym=Sn | na=14.54% | hl=– | dm=(SF) | de=<25.905 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=117 | sym=Sn | na=7.68% | hl=– | dm=(SF) | de=<25.334 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=118 | sym=Sn | na=24.22% | hl=– | dm=(SF) | de=<23.815 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=119 | sym=Sn | na=8.59% | hl=– | dm=(SF) | de=<23.140 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=120 | sym=Sn | na=32.58% | hl=– | dm=(SF) | de=<21.824 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=122 | sym=Sn | na=4.63% | hl=– | dm=([[double beta decay|β<sup>−</sup>β<sup>−</sup>]]) | de=0.3661 | link1=tellurium-122 | pn=122 | ps=Te }}
+{{infobox element/isotopes decay | mn=124 | sym=Sn | na=5.79% | hl=>1×10<sup>17</sup>&nbsp;y | dm=(β<sup>−</sup>β<sup>−</sup>) | de=2.2870
+ | link1=tellurium-124 | pn=124 | ps=Te }}
+{{infobox element/isotopes decay | mn=126 | sym=Sn
+ | na=[[trace radioisotope|trace]] | hl=2.3×10<sup>5</sup>&nbsp;y
+ | dm=[[beta emission|β<sup>−</sup>]] | de=0.380 +
+ |link1=antimony-126 | pn=126 | ps=Sb}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|discovery date=around [[3500 BC]]
+}}
 '''Siak''' he yit-tsúng [[ngièn-su]], [[Fa-ho̍k]] fù-ho he Sn, [[Lâ-tên-ngî]]: "Stannum" ke sok-siá. Siak he yit-tsúng tsú-tshu̍k [[Kîm-su̍k]]. Sùn-tsṳn ke siak yû [[ngiùn]] [[fôi-set]] tsṳ̂ kîm-su̍k kông-yùng, yúng-yû liòng-hó ke tshûn-tsán sin-nèn. Siak ke tô-tsúng [[ha̍p-kîm]] yû fòng-[[fú-sṳ̍t]] ke sin-nèn, só-yî sòng-sòng pûn-ngìn yung-lòi tsok-vì khì-thâ kîm-su̍k ke fòng-fú tshèn. Siak sṳn-sán tì [[Chûng-koet]] [[Yùn-nàm]], [[Mâ-lòi-sî-â]] tén-tén thi-khî.
 
 {{Ngièn-su Chû-khì-péu}}
