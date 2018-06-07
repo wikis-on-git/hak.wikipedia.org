@@ -1,4 +1,108 @@
-[[File:Fe,26.jpg|right|thumb|Thiet]]
+{{infobox element
+|name=Thiet
+|enname=iron
+|number=26
+|symbol=Fe
+|left=[[manganese]]
+|right=[[cobalt]]
+|above=–
+|below=[[ruthenium|Ru]]
+|series=ko-thu kîm-su̍k
+|series comment=
+|group=8
+|period=4
+|block=d
+|series color=
+|appearance=lustrous metallic with a grayish tinge
+|image name=Iron_electrolytic_and_1cm3_cube.jpg
+|image alt=A rough wedge of silvery metal
+|image size=
+|image name comment=
+|image name 2=Iron Spectrum.jpg
+|image name 2 comment=[[Spectral lines]] of iron
+|atomic mass=55.845
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=2
+|atomic mass comment=
+|electron configuration=&#91;[[argon|Ar]]&#93; 3d<sup>6</sup> 4s<sup>2</sup>
+|electrons per shell=2, 8, 14, 2
+|color=
+|phase=ku-thí
+|density gpcm3nrt=7.874
+|density gpcm3mp=6.98
+|melting point K=1811
+|melting point C=1538
+|melting point F=2800
+|boiling point K=3134
+|boiling point C=2862
+|boiling point F=5182
+|triple point K=
+|triple point kPa=
+|critical point K=
+|critical point MPa=
+|heat fusion=13.81
+|heat fusion 2=
+|heat vaporization=340
+|heat capacity=25.10
+|vapor pressure 1=1728
+|vapor pressure 10=1890
+|vapor pressure 100=2091
+|vapor pressure 1 k=2346
+|vapor pressure 10 k=2679
+|vapor pressure 100 k=3132
+|vapor pressure comment=
+|crystal structure=body-centered cubic
+|crystal structure comment=''a''=286.65 pm
+|crystal structure 2=face-centered cubic
+|crystal structure 2 comment=between 1185&ndash;1667 K
+|oxidation states= −4, −2, −1, +1,<ref>{{cite journal|url=http://bernath.uwaterloo.ca/media/266.pdf| author=Ram, R. S. and Bernath, P. F.| journal=Journal of Molecular Spectroscopy |volume=221| year=2003| page=261|bibcode=2003JMoSp.221..261R |doi=10.1016/S0022-2852(03)00225-X|title=Fourier transform emission spectroscopy of the g<sup>4</sup>Δ-a<sup>4</sup>Δ system of FeCl|issue=2 }}</ref> '''+2''', '''+3''', +4, +5,<ref>{{cite journal|doi=10.1002/zaac.19824910109|title=Recent developments in the field of high oxidation states of transition elements in oxides stabilization of Six-coordinated Iron(V)|year=1982|author=Demazeau, G.|journal=Zeitschrift für anorganische und allgemeine Chemie|volume=491|pages=60|last2=Buffat|first2=B.|last3=Pouchard|first3=M.|last4=Hagenmuller|first4=P.}}</ref> '''+6'''
+|oxidation states comment=(an [[amphoterism|amphoteric]] oxide)
+|electronegativity=1.83
+|number of ionization energies=4
+|ionization energy 1=762.5
+|ionization energy 2=1561.9
+|ionization energy 3=2957
+|atomic radius=126
+|atomic radius calculated=
+|covalent radius=Low spin: 132±3 pm<br/>High spin: 152±6
+|Van der Waals radius=
+|magnetic ordering=[[ferromagnetism|ferromagnetic]]
+|Curie point K=1043
+|electrical resistivity=
+|electrical resistivity unit prefix=n
+|electrical resistivity at 0=
+|electrical resistivity at 20=96.1
+|thermal conductivity=80.4
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=11.8
+|speed of sound=
+|speed of sound rod at 20=
+|speed of sound rod at r.t.=5120
+|speed of sound rod at r.t. comment=(electrolytic)
+|Young's modulus=211
+|Shear modulus=82
+|Bulk modulus=170
+|Poisson ratio=0.29
+|Mohs hardness=4
+|Vickers hardness=608
+|Brinell hardness=200–1180
+|CAS number=7439-89-6
+|isotopes=
+{{infobox element/isotopes decay | mn=54 | sym=Fe | na=5.8% | hl=>3.1&times;10<sup>22</sup>&nbsp;y | dm=[[double electron capture|εε]] | de=0.668 | link1=chromium-54 | pn=54 | ps=Cr}}
+{{infobox element/isotopes decay | mn=55 | sym=Fe | na=[[synthetic radioisotope|syn]] | hl=2.73&nbsp;y | dm=[[electron capture|ε]] | de=0.231 | link1=manganese-55 | pn=55 | ps=Mn}}
+{{Infobox element/isotopes stable | mn=56 | sym=Fe | na=91.72%
+ | n=30 | link=Iron-56 |firstlinks=yes}}
+{{Infobox element/isotopes stable | mn=57 | sym=Fe | na=2.2%
+ | n=31  |firstlinks=no}}
+{{Infobox element/isotopes stable | mn=58 | sym=Fe | na=0.28%
+ | n=32  |firstlinks=no}}
+{{infobox element/isotopes decay | mn=59 | sym=Fe | na=syn | hl=44.503&nbsp;d | dm=[[Beta decay|β<sup>−</sup>]] | de=1.565 | link1=cobalt-59 | pn=59 | ps=Co }}
+{{infobox element/isotopes decay | mn=60 | sym=Fe | na=syn | hl=2.6&times;10<sup>6</sup>&nbsp;y | dm=β<sup>−</sup> | de=3.978 | link1=cobalt-60 | pn=60 | ps=Co }}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|discovery date=before [[5000 BC]]
+}}
 '''Thiet''' he yit-tsúng [[Fa-ho̍k]] [[ngièn-su]], fù-ho '''Fe''' lòi-tshṳ [[lâ-tên-vùn]] "ferrum". Thiet he tsui-sòng yung ke [[kîm-su̍k]], he ko-thu kîm-su̍k ke yit-tsúng.
 {{Template:Ngièn-su Tsû-khì-péu}}
 
