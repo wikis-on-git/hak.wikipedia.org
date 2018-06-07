@@ -1,5 +1,101 @@
-[[File:Co-TableImage.png|right|thumb|Cobalt]]
-'''Cobalt''', Hon-ngî ham-cho '''Kû''' (鈷), he yit-tsúng [[Fa-ho̍k]] [[Ngièn-su]], fa-ho̍k fù-ho vì '''Co''', ngièn-tsṳ́ su-muk he '''27''', tshai [[Ngièn-su Tsû-khì péu]] chûng thi ngi-sṳ̍p-chhit vi. 
+{{Infobox element
+|name=cobalt
+|number=27
+|symbol=Co
+|left=[[thiet]]
+|right=[[nikel]]
+|above=–
+|below=[[rhodium|Rh]]
+|series=ko-thu kîm-su̍k
+|series comment=
+|group=9
+|period=4
+|block=d
+|series color=
+|appearance=hard lustrous gray metal
+|image name=Kobalt_electrolytic_and_1cm3_cube.jpg
+|image size=
+|image name comment=electrolytically refined cobalt chips
+|image name 2=
+|image name 2 comment=
+|atomic mass=58.933194
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=4
+|atomic mass comment=
+|electron configuration=&#91;[[argon|Ar]]&#93; 3d<sup>7</sup> 4s<sup>2</sup>
+|electrons per shell=2, 8, 15, 2
+|color=metallic gray
+|phase=ku-thí
+|phase comment=
+|density gplstp=
+|density gpcm3nrt=8.90
+|density gpcm3nrt 2=
+|density gpcm3mp=8.86
+|melting point K=1768
+|melting point C=1495
+|melting point F=2723
+|boiling point K=3200
+|boiling point C=2927
+|boiling point F=5301
+|triple point K=
+|triple point kPa=
+|critical point K=
+|critical point MPa=
+|heat fusion=16.06
+|heat fusion 2=
+|heat vaporization=377
+|heat capacity=24.81
+|vapor pressure 1=1790
+|vapor pressure 10=1960
+|vapor pressure 100=2165
+|vapor pressure 1 k=2423
+|vapor pressure 10 k=2755
+|vapor pressure 100 k=3198
+|vapor pressure comment=
+|crystal structure=hexagonal close packed
+|oxidation states= −3, −1, +1, '''+2''', '''+3''', +4, +5
+|oxidation states ref=<ref name=greenwood>{{Greenwood&Earnshaw2nd|pages=1117–1119}}</ref>
+|oxidation states comment=(an [[amphoterism|amphoteric]] oxide)
+|electronegativity=1.88
+|number of ionization energies=4
+|ionization energy 1=760.4
+|ionization energy 2=1648
+|ionization energy 3=3232
+|atomic radius=125
+|atomic radius calculated=
+|covalent radius=Low spin: 126±3 pm<br/>High spin: 150±7
+|Van der Waals radius=
+|magnetic ordering=[[ferromagnetism|ferromagnetic]]
+|electrical resistivity unit prefix=n
+|electrical resistivity at 0=
+|electrical resistivity at 20=62.4
+|thermal conductivity=100
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=13.0
+|speed of sound=
+|speed of sound rod at 20=4720
+|speed of sound rod at r.t.=
+|Young's modulus=209
+|Shear modulus=75
+|Bulk modulus=180
+|Poisson ratio=0.31
+|Mohs hardness=5.0
+|Vickers hardness=1043
+|Brinell hardness=470–3000
+|CAS number=7440-48-4
+|isotopes=
+{{infobox element/isotopes decay | mn=56 | sym=Co | na=[[synthetic radioisotope|syn]] | hl=77.27&nbsp;d | dm=[[electron capture|ε]] | de=4.566 | link1=iron-56 | pn=56 | ps=Fe }}
+{{infobox element/isotopes decay | mn=57 | sym=Co | na=syn | hl=271.79&nbsp;d | dm=ε | de=0.836 | link1=iron-57 | pn=57 | ps=Fe}}
+{{infobox element/isotopes decay | mn=58 | sym=Co | na=syn | hl=70.86&nbsp;d | dm=ε | de=2.307 | link1=iron-58 | pn=58 | ps=Fe}}
+{{Infobox element/isotopes stable | mn=59 | sym=Co | na=100% | n=32 |firstlinks=yes}}
+{{infobox element/isotopes decay | mn=60 | sym=Co | na=syn | hl=5.2714&nbsp;y | dm=[[beta decay|β<sup>−</sup>]], [[gamma decay|γ]] | de=2.824 | link1=nickel-60 | pn=60 | ps=Ni}}
+|isotopes comment=
+|discovered by=[[Georg Brandt]]
+|discovery date=1732
+}}
+'''Cobalt''' he yit-tsúng [[Fa-ho̍k]] [[Ngièn-su]], fa-ho̍k fù-ho vì '''Co''', ngièn-tsṳ́ su-muk he '''27''', tshai [[Ngièn-su Tsû-khì péu]] chûng thi ngi-sṳ̍p-chhit vi. 
 
 {{Template:Ngièn-su Tsû-khì-péu}}
 
