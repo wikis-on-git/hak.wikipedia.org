@@ -1,4 +1,103 @@
-[[File:As-TableImage.png|right|thumb|phî]]
+{{Infobox element
+|name=Phî
+|enname=arsenic
+|allotropes=grey (most common), yellow, black 
+|number=33
+|symbol=As
+|left=[[germanium]]
+|right=[[selenium]]
+|above=[[Lìn|P]]
+|below=[[antimony|Sb]]
+|series=lui-kîm-su̍k
+|series comment=
+|group=15
+|period=4
+|block=p
+|series color=
+|appearance=metallic grey
+|image name=Arsen 1a.jpg
+|image name comment=
+|image name 2=
+|image name 2 comment=
+|atomic mass=74.921595
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=6
+|atomic mass comment=
+|electron configuration=&#91;[[argon|Ar]]&#93; 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>3</sup>
+|electrons per shell=2, 8, 18, 5
+|color=
+|phase=ku-thí
+|phase comment=
+|density gplstp=
+|density gpcm3nrt=5.727
+|density gpcm3mp=5.22
+|sublimation point K=887
+|sublimation point C=615
+|sublimation point F=1137
+|triple point K=1090
+|triple point kPa=3628
+|triple point ref=<ref name="Gokcen1989">{{cite journal|author=Gokcen, N. A|title=The As (arsenic) system|journal=Bull. Alloy Phase Diagrams|year=1989|volume=10|pages=11–22|doi=10.1007/BF02882166}}</ref>
+|critical point K=1673
+|critical point MPa=?
+|heat fusion=grey: 24.44
+|heat vaporization=34.76
+|heat vaporization comment=(?)
+|heat capacity=24.64
+|vapor pressure 1=553
+|vapor pressure 10=596
+|vapor pressure 100=646
+|vapor pressure 1 k=706
+|vapor pressure 10 k=781
+|vapor pressure 100 k=874
+|vapor pressure comment=
+|crystal structure=rhombohedral
+|crystal structure ref=
+|oxidation states='''5''', 4, '''3''', 2, 1,<ref>{{cite journal|doi=10.1021/ic049281s|pmid=15360247|title=Stabilized Arsenic(I) Iodide: A Ready Source of Arsenic Iodide Fragments and a Useful Reagent for the Generation of Clusters|year=2004|last1=Ellis|first1=Bobby D.|last2=MacDonald|first2=Charles L. B.|journal=Inorganic Chemistry|volume=43|issue=19|pages=5981–6}}</ref> −1, −2, '''−3'''
+|oxidation states comment=(a mildly [[acid]]ic oxide)
+|electronegativity=2.18
+|number of ionization energies=4
+|ionization energy 1=947.0
+|ionization energy 2=1798
+|ionization energy 3=2735
+|atomic radius=119
+|covalent radius=119±4
+|Van der Waals radius=185
+|magnetic ordering=[[diamagnetic]]
+|magnetic ordering ref=<ref>{{cite book|url=http://web.archive.org/web/20110303222309/http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf|chapter=Magnetic susceptibility of the elements and inorganic compounds|title=Handbook of Chemistry and Physics|edition=81|publisher=CRC press|isbn=0849304814|year=2000|editor= Lide, David R. }}</ref>
+|electrical resistivity unit prefix=n
+|electrical resistivity at 0=
+|electrical resistivity at 20=333
+|thermal conductivity=50.2
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=5.6
+|thermal expansion ref=<ref>{{cite book|author=Cverna, Fran |title=ASM Ready Reference: Thermal properties of metals|url=http://books.google.com/books?id=qvrq96gJFxIC&pg=PA8|date= 2002|publisher=ASM International|isbn=978-0-87170-768-0|pages=8–}} [http://www.owlnet.rice.edu/~msci301/ThermalExpansion.pdf pdf].</ref>
+|thermal expansion comment=(at&nbsp;{{abbr|r.t.|room temperature}})
+|thermal expansion at 25=
+|speed of sound=
+|speed of sound rod at 20=
+|speed of sound rod at r.t.=
+|Young's modulus=8
+|Shear modulus=
+|Bulk modulus=22
+|Poisson ratio=
+|Mohs hardness=3.5
+|Vickers hardness=
+|Brinell hardness=1440
+|CAS number=7440-38-2
+|isotopes=
+{{infobox element/isotopes_decay2 | mn=73 | sym=As | na=[[synthetic radioisotope|syn]] | hl=[[1 E6 s|80.3&nbsp;d]] | dm1=[[electron capture|ε]] | de1=– | link1=germanium-73 | pn1=73 | ps1=Ge
+| dm2=[[gamma radiation|γ]] | de2=0.05[[Delayed nuclear radiation|D]], 0.01D, [[Conversion electron|e]] | pn2= | ps2=– }}
+{{infobox element/isotopes_decay4 | mn=74 | sym=As | na=syn | hl=[[1 E6 s|17.78&nbsp;d]] | dm1=ε | de1=– | link1=germanium-74 | pn1=74 | ps1=Ge
+| dm2=[[positron emission|β<sup>+</sup>]] | de2=0.941 | pn2=74 | ps2=Ge
+| dm3=γ | de3=0.595, 0.634 | pn3= | ps3=–
+| dm4=[[beta decay|β<sup>−</sup>]] | de4=1.35, 0.717 | link4=selenium-74 | pn4=74 | ps4=Se}}
+{{infobox element/isotopes_stable | mn=75 | sym=As | na=100% | n=42 }}
+|isotopes comment=
+|discovery date=Early [[Bronze Age]] ([[2500 BC]])
+|first isolation by=[[Albertus Magnus]]
+|first isolation date=1250
+}}
 '''Phî''' (砒) fe̍t-chá ham-cho '''phî-su''', '''sṳ̂n''' (砷), he yit-chúng [[fa-ho̍k]] [[ngièn-su]], fa-ho̍k fù-ho vì '''As''', ngièn-chṳ́ su-muk he '''33''', chhai [[ngièn-su chû-khì-péu]] lî-tú phài thi 33 vi.
 
 {{Ngièn-su chû-khì-péu}}
