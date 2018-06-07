@@ -1,6 +1,87 @@
-[[File:Electron shell 078 Platinum.svg|right|thumb||Pha̍k]]
-[[File:One litre of Platinum.jpg|right|thumb|350px|Pha̍k]]
-[[File:Aufgeschnittener Metall Katalysator für ein Auto.jpg|right|thumb|350px|Pha̍k]]
+{{Infobox element
+|name=Pha̍k-kîm
+|number=78
+|symbol=Pt
+|enname=platinum
+|left=[[iridium]]
+|right=[[kîm]]
+|above=[[palladium|Pd]]
+|below=[[darmstadtium|Ds]]
+|series=ko-thu kîm-su̍k
+|group=10
+|period=6
+|block=d
+|image name=Platinum crystals.jpg
+|appearance=silvery white
+|atomic mass=195.084
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=9
+|atomic mass comment=
+|electron configuration=&#91;[[xenon|Xe]]&#93; 4f<sup>14</sup> 5d<sup>9</sup> 6s<sup>1</sup>
+|electrons per shell=2, 8, 18, 32, 17, 1
+|phase=ku-thí
+|density gpcm3nrt=21.45
+|density gpcm3mp=19.77
+|melting point K=2041.4
+|melting point C=1768.3
+|melting point F=3214.9
+|boiling point K=4098
+|boiling point C=3825
+|boiling point F=6917
+|heat fusion=22.17
+|heat vaporization=510
+|heat capacity=25.86
+|vapor pressure 1=2330
+|vapor pressure 10=(2550)
+|vapor pressure 100=2815
+|vapor pressure 1 k=3143
+|vapor pressure 10 k=3556
+|vapor pressure 100 k=4094
+|vapor pressure comment=
+|crystal structure=face-centered cubic
+|oxidation states=6, 5, '''4''', 3, '''2''', 1, −1, −2, −3
+|oxidation states comment=(a&nbsp;mildly [[base (chemistry)|basic]] oxide)
+|electronegativity=2.28
+|number of ionization energies=2
+|ionization energy 1=870
+|ionization energy 2=1791
+|atomic radius=139
+|covalent radius=136±5
+|Van der Waals radius=175
+|magnetic ordering=[[paramagnetism|paramagnetic]]
+|electrical resistivity unit prefix=n
+|electrical resistivity at 20=105
+|thermal conductivity=71.6
+|thermal expansion at 25=8.8
+|speed of sound rod at r.t.=2800
+|tensile strength=125&ndash;240
+|Young's modulus=168
+|Shear modulus=61
+|Bulk modulus=230
+|Poisson ratio=0.38
+|Mohs hardness=3.5
+|Vickers hardness=400–550
+|Brinell hardness= 300–500
+|CAS number=7440-06-4
+|isotopes=
+{{infobox element/isotopes decay | mn=190 | sym=Pt
+ | na=0.014% | hl=6.5&times;10<sup>11</sup>&nbsp;y
+ | dm=[[alpha decay|α]] | de=3.252 | link1=osmium-186 | pn=186 | ps=Os}}
+{{infobox element/isotopes decay | mn=192 | sym=Pt | na=0.782% | hl=>4.7×10<sup>16</sup>&nbsp;y
+ | dm=(α) |de=2.4181 | link1=osmium-188 | pn=188 | ps=Os}}
+{{infobox element/isotopes decay | mn=193 | sym=Pt
+ | na=[[synthetic radioisotope|syn]] | hl=50&nbsp;y
+ | dm=[[electron capture|ε]] | de=– | link1=iridium-193 | pn=193 | ps=Ir}}
+{{infobox element/isotopes decay | mn=194 | sym=Pt | na=32.967% | hl=– | dm=(α) | de=1.5045 | link1=osmium-190 | pn=190 | ps=Os }}
+{{infobox element/isotopes decay | mn=195 | sym=Pt | na=33.832% | hl=– | dm=(α) | de=1.1581 | link1=osmium-191 | pn=191 | ps=Os }}
+{{infobox element/isotopes decay | mn=196 | sym=Pt | na=25.242% | hl=– | dm=(α) | de=0.7942 | link1=osmium-192 | pn=192 | ps=Os }}
+{{infobox element/isotopes decay2 | mn=198 | sym=Pt | na=7.163% | hl=>3.2×10<sup>14</sup>&nbsp;y
+ | dm1=(α) |de1=0.0870 | link1=osmium-194 | pn1=194 | ps1=Os
+ | dm2=([[double beta decay|β<sup>−</sup>β<sup>−</sup>]]) | de2=1.0472 | link2=mercury-198 | pn2=198 | ps2=Hg}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|discovery and first isolation by=[[Antonio de Ulloa]]
+|discovery date=1735
+}}
 '''Pha̍k-kîm''' (白金) fe̍t-chá ham-cho '''Pha̍k''' (鉑) he yit-tsúng [[Fa-ho̍k]] [[Ngièn-su]], fa-ho̍k fù-ho vì '''Pt''', ngièn-tsṳ́ su-muk he '''78'''.
 
 {{Ngièn-su Tsû-khì-péu}}
