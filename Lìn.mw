@@ -1,8 +1,117 @@
-[[File:P-TableImage.svg|right|thumb|Lìn]]
-[[File:PhosphComby.jpg|right|thumb|350px|Lìn]]
-[[File:Match striking surface.jpg|right|thumb|350px|Lìn]]
-[[File:Phosphorus-pentoxide-3D-balls.png|right|thumb|350px|Lìn]]
-
+{{infobox element
+|name=Lìn
+|enname=phosphorus
+|number=15
+|symbol=P
+|left=[[Si̍t]]
+|right=[[Liù-vòng]]
+|above=[[Tham|N]]
+|below=[[Phî|As]]
+|series=tô-ngièn-chṳ́ fî-kîm-su̍k
+|series comment=ū-sî hong hun chò [[lūi-kim-sio̍k]]
+|group=15
+|period=3
+|block=p
+|series color=
+|appearance=bû-sek, la̍h-pe̍h, n̂g-sek, chu-âng, âng-sek, sam-kong-chhiⁿ, o͘-sek
+|image name=PhosphComby.jpg
+|image name comment=la̍h-pe̍h (tòa n̂g kak), âng-sek, kap sam-kong-chhiⁿ ê lîn
+|image name 2=
+|image name 2 comment=
+|atomic mass=30.973761998
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=5
+|atomic mass comment=
+|electron configuration=&#91;[[neon|Ne]]&#93; 3s<sup>2</sup> 3p<sup>3</sup>
+|electrons per shell=2, 8, 5
+|color=
+|phase=ku-thí
+|phase comment=
+|density gplstp=
+|density gpcm3nrt=white:&nbsp;1.823 g·cm<sup>−3</sup><br>red:&nbsp;≈&nbsp;2.2–2.34 g·cm<sup>−3</sup><br>violet:&nbsp;2.36 g·cm<sup>−3</sup><br>black:&nbsp;2.69
+|density gpcm3nrt 2=
+|density gpcm3nrt 3=
+|density gpcm3mp=
+|melting point K=<!-- (white) 317.4&nbsp;K, (red) ≈ 852&nbsp;K, (black) 883&nbsp;K -->
+|melting point C=white:&nbsp;44.2&nbsp;°C<br>black:&nbsp;610
+|melting point F=<!-- (white) 112&nbsp;°F, (red) ≈ 1075&nbsp;°F, (black) 1130&nbsp;°F -->
+|sublimation point K=<!-- (red) ≈ 689.2–863 &nbsp;K, (violet) 893&nbsp;K -->
+|sublimation point C=red: ≈&nbsp;416–590&nbsp;°C<br>violet: 620
+|sublimation point F=<!-- (red) ≈ 780.8–1094&nbsp;°F, (violet) 1148&nbsp;°F -->
+|boiling point K=<!-- (white) 553.7&nbsp;K -->
+|boiling point C=white:&nbsp;280.5
+|boiling point F=<!-- (white) 536.9&nbsp;°F -->
+|triple point K=
+|triple point kPa=
+<!--|triple point K 2=862.6 -?no pressure -->
+|critical point K=
+|critical point MPa=
+|heat fusion=white: 0.66
+|heat fusion 2=
+|heat vaporization=white: 51.9
+|heat capacity=white: 23.824
+|vapor pressure 1=279
+|vapor pressure 10=307
+|vapor pressure 100=342
+|vapor pressure 1 k=388
+|vapor pressure 10 k=453
+|vapor pressure 100 k=549
+|vapor pressure comment=(white)
+|vapor pressure 1 2=455
+|vapor pressure 10 2=489
+|vapor pressure 100 2=529
+|vapor pressure 1 k 2=576
+|vapor pressure 10 k 2=635
+|vapor pressure 100 k 2=704
+|vapor pressure 2 comment=(red, b.p.&nbsp;431&nbsp;°C)
+|crystal structure=body-centered cubic
+|oxidation states='''5''', 4, '''3''', 2,<ref>[http://www.webelements.com/webelements/compounds/text/P/H4P2-13445506.html webelements]</ref> 1,<ref>{{cite journal|doi=10.1021/ic060186o|pmid=16903744|title=Phosphorus(I) Iodide: A Versatile Metathesis Reagent for the Synthesis of Low Oxidation State Phosphorus Compounds|year=2006|last1=Ellis|first1=Bobby D.|last2=MacDonald|first2=Charles L. B.|journal=Inorganic Chemistry|volume=45|issue=17|pages=6864–74}}</ref> −1, −2, '''−3'''
+|oxidation states comment=(a mildly [[acid]]ic oxide)
+|electronegativity=2.19
+|number of ionization energies=4
+|ionization energy 1=1011.8
+|ionization energy 2=1907
+|ionization energy 3=2914.1
+|atomic radius=
+|atomic radius calculated=
+|covalent radius=107±3
+|Van der Waals radius=180
+|magnetic ordering=white, red, violet, black: [[diamagnetic]]<ref>[http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf Magnetic susceptibility of the elements and inorganic compounds], in {{RubberBible86th}}</ref>
+|electrical resistivity=
+|electrical resistivity at 0=
+|electrical resistivity at 20=
+|thermal conductivity=white: 0.236
+|thermal conductivity 2=black: 12.1
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=
+|speed of sound=
+|speed of sound rod at 20=
+|speed of sound rod at r.t.=
+|Young's modulus=
+|Shear modulus=
+|Bulk modulus=white: 5 GPa<br/>red: 11
+|Poisson ratio=
+|Mohs hardness=
+|Vickers hardness=
+|Brinell hardness=
+|CAS number=white:&nbsp;12185-10-3<br>red:&nbsp;7723-14-0
+|isotopes=
+{{Infobox element/isotopes stable | mn=31 | sym=P | na=100% | n=16 |firstlinks=yes}}
+{{infobox element/isotopes decay | mn=32 | sym=P | na=[[synthetic radioisotope|syn]] | hl=14.28&nbsp;d | dm=[[beta emission|β<sup>−</sup>]] | de=1.709 | link1=sulfur-32 | pn=32|ps=S}}
+{{infobox element/isotopes decay | mn=33 | sym=P | na=syn | hl=25.3&nbsp;d | dm=β<sup>−</sup> | de=0.249 | link1=sulfur-33 | pn=33|ps=S}}
+|isotopes comment=
+|predicted by=
+|prediction date=
+|discovered by=[[Hennig Brand]]
+|discovery date=1669
+|first isolation by=
+|first isolation date=
+|named by=
+|named date=
+|history comment label=Recognized as an element by
+|history comment= [[Antoine Lavoisier]]<ref>cf. "[http://web.lemoyne.edu/~giunta/Lavoisier1.html Memoir on Combustion in General]" ''Mémoires de l'Académie Royale des Sciences'' 1777, 592–600. from Henry Marshall Leicester and Herbert S. Klickstein, ''A Source Book in Chemistry 1400–1900'' (New York: McGraw Hill, 1952)</ref> (1777)
+}}
 '''Lìn''' (燐, 磷) he yit-tsúng [[Fa-ho̍k]] [[Ngièn-su]], fa-ho̍k fù-ho vì '''P''', ngièn-tsṳ́ su-muk he '''15''', tshai [[Ngièn-su Tsû-khì péu]] chûng thi-sṳ̍p-ńg vi. 
 
 {{Ngièn-su Tsû-khì-péu}}
