@@ -1,7 +1,119 @@
 {{Hakka-TW|0|金}}
-[[File:Toi 250kg gold bar.jpg|right|thumb|350px|Kîm]]
-[[File:Goldkey logo removed.jpg|right|thumb|350px|Kîm]]
-[[File:Native gold nuggets.jpg|right|thumb|350px|Kîm]]
+{{infobox element
+|name=Kîm
+|number=79
+|symbol=Au
+|left=[[Pha̍k-kîm]]
+|right=[[Súi-ngiùn]]
+|above=[[Ngiùn|Ag]]
+|below=[[Roentgenium|Rg]]
+|series=ko-thu kîm-su̍k
+|series comment=
+|group=11
+|period=6
+|block=d
+|series color=
+|appearance=kim-sio̍k-khoán n̂g-sek
+|image name=Gold-crystals.jpg
+|image name comment=
+|image name 2=
+|image size 2=
+|image name 2 comment=
+|atomic mass=196.966569
+|atomic mass ref=<ref name="IUPAC">{{cite web|url = http://www.ciaaw.org/atomic-weights.htm|title = Standard Atomic Weights 2013|publisher = [[Commission on Isotopic Abundances and Atomic Weights]]}}</ref>
+|atomic mass 2=5
+|atomic mass comment=
+|electron configuration=&#91;[[xenon|Xe]]&#93; 4f<sup>14</sup> 5d<sup>10</sup> 6s<sup>1</sup>
+|electrons per shell=2, 8, 18, 32, 18, 1
+|color=
+|phase=ku-thí
+|phase comment=
+|density gplstp=
+|density gpcm3nrt=19.30
+|density gpcm3nrt 2=
+|density gpcm3nrt 3=
+|density gpcm3mp=17.31
+|melting point K=1337.33
+|melting point C=1064.18
+|melting point F=1947.52
+|sublimation point K=
+|sublimation point C=
+|sublimation point F=
+|boiling point K=3243
+|boiling point C=2970
+|boiling point F=5378
+|triple point K=
+|triple point kPa=
+|critical point K=
+|critical point MPa=
+|heat fusion=12.55
+|heat fusion 2=
+|heat vaporization=342
+|heat capacity=25.418
+|vapor pressure 1=1646
+|vapor pressure 10=1814
+|vapor pressure 100=2021
+|vapor pressure 1 k=2281
+|vapor pressure 10 k=2620
+|vapor pressure 100 k=3078
+|vapor pressure comment=
+|crystal structure=face centered cubic
+|oxidation states=[[Gold pentafluoride|5]], '''3''', 2, 1, [[Caesium auride|−1]], −2, −3
+|oxidation states comment=(an [[Amphoterism|amphoteric]] oxide)
+|electronegativity=2.54
+|number of ionization energies=2
+|ionization energy 1=890.1
+|ionization energy 2=1980
+|ionization energy 3=
+|atomic radius=144
+|atomic radius calculated=
+|covalent radius=136±6
+|Van der Waals radius=166
+|magnetic ordering=[[Diamagnetism|diamagnetic]]
+|magnetic ordering ref=<ref>{{cite book |url=http://web.archive.org/web/20110303222309/http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf|chapter=Magnetic susceptibility of the elements and inorganic compounds| editor = Lide, D. R. | title = CRC Handbook of Chemistry and Physics | edition = 86th | location = Boca Raton (FL) | publisher = CRC Press | year = 2005 | isbn = 0-8493-0486-5 }}
+</ref>
+|electrical resistivity=
+|electrical resistivity unit prefix=n
+|electrical resistivity at 0=
+|electrical resistivity at 20=22.14
+|thermal conductivity=318
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=14.2
+|speed of sound=
+|speed of sound rod at 20=
+|speed of sound rod at r.t.=2030
+|tensile strength=120
+|Young's modulus=79
+|Shear modulus=27
+|Bulk modulus=180
+|Bulk modulus ref=<ref>{{cite book|author=Kelly, P.F. |title=Properties of Materials|url=http://books.google.com/books?id=gSncBQAAQBAJ&pg=PT355|date=2015|publisher=CRC Press|isbn=978-1-4822-0624-1|page=355}}</ref>
+|Poisson ratio=0.4
+|Mohs hardness=2.5
+|Vickers hardness=188–216
+|Brinell hardness=188–245
+|Brinell hardness comment=
+|CAS number=7440-57-5
+|isotopes={{infobox element/isotopes decay | mn=195 | sym=Au
+ | na=[[synthetic radioisotope|syn]] | hl=186.10&nbsp;d
+ | dm=[[electron capture|ε]] | de=0.227 | link1=platinum-195 | pn=195 | ps=Pt}}
+{{infobox element/isotopes decay2 | mn=196 | sym=Au
+ | na=syn | hl=6.183&nbsp;d
+ | dm1=ε | de1=1.506 | link1=platinum-196 | pn1=196 | ps1=Pt
+ | dm2=[[beta emission|β<sup>−</sup>]] | de2=0.686 | link2=mercury-196 | pn2=196 | ps2=Hg }}
+{{infobox element/isotopes decay | mn=197 | sym=Au | na=100% | hl=– | dm=([[alpha decay|α]]) | de=0.9545 | link1=iridium-193 | pn=193 | ps=Ir }}
+{{infobox element/isotopes decay | mn=198 | sym=Au
+ | na=syn | hl=2.69517&nbsp;d
+ | dm=β<sup>−</sup> | de=1.372 | link1=mercury-198 | pn=198 | ps=Hg}}
+{{infobox element/isotopes decay | mn=199 | sym=Au
+ | na=syn | hl=3.169&nbsp;d
+ | dm=β<sup>−</sup> | de=0.453 | link1=mercury-199 | pn=199 | ps=Hg}}
+|isotopes comment=Koat-hô͘ lāi ê pang-hoāi bô͘-sek (decay mode) lí-lūn-siōng ū khó-lêng m̄-koh si̍t-chè iá bô hoat-hiān
+|naming=latin hō-miâ {{lang|lat|''aurum''}}, ì-sù sī chhut-ji̍t ê kng
+|discovered by=[[Tiong-tang]]
+|discovery date=[[chêng 6000 nî]] chìn-chêng
+}}
 '''Kîm''' he yit-chúng [[Fa-ho̍k]] ngièn-su，kí ke fa-ho̍k fù-ho he Au，kí ke ngièn-chṳ́ si-sṳ he chhit-sṳ̍p-kiú. Kîm he ku-thí [[Kîm-su̍k]], kîm-vòng-set, nèn tí-su fú-sṳ̍t. Mò-hàm chha̍p-chṳt sṳ̀ thai-chṳ sông he ngiôn-sin ke.
 
 Kîm he [[Ngìn-lui]] [[Li̍t-sṳ́]] sông chui-chó mìn-tî ke kîm-su̍k chṳ̂-yit, chó chhai kú [[Âi-khi̍p]] tén song-kú sṳ́-ki, chhiu-hó yîn-vi chṳt-thi kha-ngiôn, yùng-yi fûn-kot、yùng-yi tú-chhùn tén-tén thi̍t-tiám yì-yèn pûn-ngìn-lui kóng-fat chok-vì fo-pi sṳ́-yung, he chhòi-fu lâu khièn-li̍t ke siong-chṳ̂n. Kîm-ngit Kîm yìn-yèn yû pó-chhùn ka-chhṳ̍t ke kûng-yung.
