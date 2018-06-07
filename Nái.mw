@@ -1,5 +1,103 @@
-[[File:Ne-TableImage.svg|right|thumb|Nái]]
-[[File:NeTube.jpg|right|thumb|350px|Nái]]
+{{infobox element
+|name=Nái
+|enname=neon
+|number=10
+|symbol=Ne
+|left=[[Fuk]]
+|right=[[Na̍p]]
+|above=[[Hoi|He]]
+|below=[[argon|Ar]]
+|series=hî-yù hi-thí
+|series comment=
+|group=18
+|period=2
+|block=p
+|series color=
+|appearance=colorless gas exhibiting an orange-red glow when placed in a high voltage electric field
+|image name=Neon discharge tube.jpg
+|image size=
+|image name comment=
+|image name 2=Neon spectra.jpg
+|image name 2 comment=Spectral lines of neon in the visible region
+|atomic mass=20.1797
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=6
+|atomic mass comment=
+|electron configuration=&#91;[[Helium|He]]&#93; 2s<sup>2</sup> 2p<sup>6</sup>
+|electrons per shell=2, 8
+|phase=hi-thí
+|phase comment=
+|density gplstp=0.9002
+|density gpcm3nrt=
+|density gpcm3nrt 2=
+|density gpcm3mp=
+|density gpcm3bp=1.207
+|density gpcm3bp ref=<ref name=CRC>{{cite book
+ | last1=Hammond|first1=C.R.|title=The Elements, in Handbook of Chemistry and Physics 81st edition| publisher=CRC press | year=2000| page=19 |isbn=0849304814 | url=http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elements.pdf}}</ref>
+|melting point K=24.56
+|melting point C=−248.59
+|melting point F=−415.46
+|boiling point K=27.104
+|boiling point C=−246.046
+|boiling point F=−410.883
+|triple point K=24.556
+|triple point kPa=43.37
+|triple point ref=<ref name="ITS90">{{cite journal | first=H. | last=Preston-Thomas | title=The International Temperature Scale of 1990 (ITS-90) | journal=Metrologia | volume=27 | pages=3–10 | year=1990 | url=http://www.bipm.org/en/publications/its-90.html | doi=10.1088/0026-1394/27/1/002|bibcode=1990Metro..27....3P }}</ref><ref name=b92>{{RubberBible92nd|page=4.122}}</ref>
+|critical point K=44.4918
+|critical point MPa=2.7686
+|critical point ref=<ref name=b92/>
+|heat fusion=0.335
+|heat vaporization=1.71
+|heat capacity=20.79<ref>Shuen-Chen Hwang, Robert D. Lein, Daniel A. Morgan (2005). "Noble Gases". Kirk Othmer Encyclopedia of Chemical Technology. Wiley. pp. 343–383. doi:10.1002/0471238961.0701190508230114.a01.</ref>
+|vapor pressure 1=12
+|vapor pressure 10=13
+|vapor pressure 100=15
+|vapor pressure 1 k=18
+|vapor pressure 10 k=21
+|vapor pressure 100 k=27
+|vapor pressure comment=
+|crystal structure=face-centered cubic
+|oxidation states= '''0'''
+|number of ionization energies=4
+|ionization energy 1=2080.7
+|ionization energy 2=3952.3
+|ionization energy 3=6122
+|atomic radius=
+|atomic radius calculated=
+|covalent radius=58
+|Van der Waals radius=154
+|magnetic ordering=[[diamagnetic]]
+|magnetic ordering ref=<ref>[http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf Magnetic susceptibility of the elements and inorganic compounds], in {{RubberBible86th}}</ref>
+|electrical resistivity=
+|electrical resistivity at 0=
+|electrical resistivity at 20=
+|thermal conductivity=49.1&times;10<sup>&minus;3</sup>
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=
+|speed of sound=435
+|speed of sound comment=(gas, at&nbsp;0&nbsp;°C)
+|speed of sound rod at 20=
+|speed of sound rod at r.t.=
+|Young's modulus=
+|Shear modulus=
+|Bulk modulus=654
+|Poisson ratio=
+|Mohs hardness=
+|Vickers hardness=
+|Brinell hardness=
+|CAS number=7440-01-9
+|isotopes=
+{{Infobox element/isotopes stable | mn=20 | sym=Ne | na=90.48% | n=10 |firstlinks=yes}}
+{{Infobox element/isotopes stable | mn=21 | sym=Ne | na=0.27% | n=11 |firstlinks=no}}
+{{Infobox element/isotopes stable | mn=22 | sym=Ne | na=9.25% | n=12 |firstlinks=no}}
+|isotopes comment=
+|predicted by=[[William Ramsay]]
+|prediction date=1897
+|discovery and first isolation by=William Ramsay & [[Morris Travers]]<ref>{{cite journal|title=On the Companions of Argon|author= [[William Ramsay|Ramsay, William]], Travers, Morris W.|journal=Proceedings of the Royal Society of London|volume=63|issue=1|pages=437–440|year=1898|doi=10.1098/rspl.1898.0057}}</ref><ref>{{cite web |url=http://nautilus.fis.uc.pt/st2.5/scenes-e/elem/e01000.html |title=Neon: History |accessdate=2007-02-27|publisher=Softciências}}</ref>
+|discovery date=1898
+}}
 '''Nái''' (氖), fe̍t-chá ham-cho '''nui''' (氝), he yit-tsúng [[Fa-ho̍k]] [[Ngièn-su]], fa-ho̍k fù-ho vì '''Ne''', ngièn-tsṳ́ su-muk he '''10''', tshai [[Ngièn-su Tsû-khì péu]] chûng thi-sṳ̍p vi. 
 {{Ngièn-su Tsû-khì-péu}}
 
