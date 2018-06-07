@@ -1,8 +1,105 @@
-[[File:B-TableImage.svg|right|thumb|Phìn]]
-[[File:Boron.jpg|right|thumb|350px|Phìn]]
-[[File:FlammenfärbungB.png|right|thumb|300px|Phìn]]
-[[File:Boratflamme.jpg|right|thumb|300px|Phìn]]
-[[File:B,5.jpg|right|thumb|300px|Phìn]]
+{{infobox element
+|name=Phìn
+|enname=boron
+|alt name=
+|number=5
+|symbol=B
+|allotropes=α-, β-rhombohedral, β-tetragonal (and [[Allotropes of boron|more]])
+|left=[[beryllium]]
+|right=[[Than]]
+|above=–
+|below=[[Lî|Al]]
+|series=lui-kîm-su̍k
+|series comment=
+|group=13
+|period=2
+|block=p
+|series color=
+|appearance=black-brown
+|image name=Boron R105.jpg
+|image size=
+|image name comment=boron (β-rhombohedral)<ref>[[#VanSetten2007|Van Setten]] et al. 2007, pp.&nbsp;2460–1</ref>
+|image name 2=
+|image name 2 comment=
+|atomic mass=10.81 
+|atomic mass ref=<ref name="CIAAW">[http://www.ciaaw.org/pubs/TSAW2013_xls.xls Conventional Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=
+|atomic mass comment=(10.806–10.821)<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|electron configuration=&#91;[[Helium|He]]&#93; 2s<sup>2</sup> 2p<sup>1</sup>
+|electrons per shell=2, 3
+|color=
+|phase=ku-thí
+|phase comment=
+|density gplstp=
+|density gpcm3nrt=
+|density gpcm3mp=2.08
+|melting point K=2349
+|melting point C=2076
+|melting point F=3769
+|boiling point K=4200
+|boiling point C=3927
+|boiling point F=7101
+|triple point K=
+|triple point kPa=
+|critical point K=
+|critical point MPa=
+|heat fusion=50.2
+|heat vaporization=508
+|heat capacity=11.087
+|vapor pressure 1=2348
+|vapor pressure 10=2562
+|vapor pressure 100=2822
+|vapor pressure 1 k=3141
+|vapor pressure 10 k=3545
+|vapor pressure 100 k=4072
+|vapor pressure comment=
+|crystal structure=rhombohedral
+|oxidation states='''3''', 2, 1, −1, −5
+|oxidation states ref=<ref name=v1>{{cite journal|url=http://bernath.uwaterloo.ca/media/125.pdf|title=Infrared Emission Spectroscopy of BF and AIF|author=Zhang, K.Q.; Guo, B.; Braun, V.; Dulick, M.; Bernath, P.F. |journal=J. Molecular Spectroscopy |volume=170|year=1995| page=82|doi=10.1006/jmsp.1995.1058|bibcode=1995JMoSp.170...82Z }}</ref><ref>{{cite article|url=https://www.deutsche-digitale-bibliothek.de/binary/KKUKEQ5AXZBNJVU7NJCHZB4UXT2HAGJE/full/1.pdf|author=Melanie Schroeder|title=Eigenschaften von borreichen Boriden und Scandium-Aluminium-Oxid-Carbiden|page=139|language=de}}</ref>
+|oxidation states comment=(a mildly [[acid]]ic oxide)
+|electronegativity=2.04
+|number of ionization energies=4
+|ionization energy 1=800.6
+|ionization energy 2=2427.1
+|ionization energy 3=3659.7
+|atomic radius=90
+|atomic radius calculated=
+|covalent radius=84±3
+|Van der Waals radius=192
+|magnetic ordering=[[diamagnetic]]
+|magnetic ordering ref=<ref name=magnet>{{cite book| url=http://web.archive.org/web/20120112012253/http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf | title=Magnetic susceptibility of the elements and inorganic compounds, in Handbook of Chemistry and Physics| publisher=CRC press| isbn=0849304814| year=2000| author=Lide, David R. (ed.)}}</ref>
+|electrical resistivity=
+|electrical resistivity at 0=
+|electrical resistivity at 20=~10<sup>6</sup>
+|thermal conductivity=27.4
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=β form: 5&ndash;7
+|thermal expansion at 25 ref=<ref>{{cite journal |author=Holcombe Jr., C. E.; Smith, D. D.; Lorc, J. D.; Duerlesen, W. K.; Carpenter; D. A.|title=Physical-Chemical Properties of beta-Rhombohedral Boron |journal=High Temp. Sci. |volume=5 |issue=5 |pages=349–57 |date=October 1973}}</ref>
+|speed of sound=
+|speed of sound rod at 20=16,200
+|speed of sound rod at r.t.=
+|Young's modulus=
+|Shear modulus=
+|Bulk modulus=
+|Poisson ratio=
+|Mohs hardness= ~9.5
+|Vickers hardness=
+|Brinell hardness=
+|CAS number=7440-42-8
+|isotopes=
+{{Infobox element/isotopes stable | mn=10 | sym=B | na=19.9(7)% | n=5 |firstlinks=yes}}<ref name="NISTic">{{cite web|url=http://physics.nist.gov/cgi-bin/Compositions/stand_alone.pl| title=Atomic Weights and Isotopic Compositions for All Elements |author= |publisher=National Institute of Standards and Technology |accessdate=2008-09-21}}</ref>
+{{Infobox element/isotopes stable | mn=11 | sym=B | na=80.1(7)% | n=6 |firstlinks=no}}<ref name="NISTic"/> |isotopes comment=<sup>10</sup>B content may be as low as 19.1% and as high as 20.3% in natural samples. <sup>11</sup>B is the remainder in such cases.<ref>{{cite journal|doi=10.1007/BF02165219|title=Determination of boron in glass by neutron transmission method|year=1990|author=Szegedi, S.|journal=Journal of Radioanalytical and Nuclear Chemistry Letters|volume=146|pages=177|last2=Váradi|first2=M.|last3=Buczkó|first3=Cs. M.|last4=Várnagy|first4=M.|last5=Sztaricskai|first5=T.|issue=3}}</ref>
+|predicted by=
+|prediction date=
+|discovered by=[[Joseph Louis Gay-Lussac]] and [[Louis Jacques Thénard]]<ref name="Lussac">{{cite journal|author=Gay Lussac, J.L. and Thenard, L.J. |year=1808|url=http://books.google.com/books?id=e6Aw616K5ysC&pg=PA169|title=Sur la décomposition et la recomposition de l'acide boracique|journal=Annales de chimie|volume=68|pages=169–174}}</ref>
+|discovery date=30 June 1808
+|first isolation by=[[Humphry Davy]]<ref name="Davy">{{cite journal|author=Davy H|year=1809|title=An account of some new analytical researches on the nature of certain bodies, particularly the alkalies, phosphorus, sulphur, carbonaceous matter, and the acids hitherto undecomposed: with some general observations on chemical theory|url=http://books.google.com/books?id=gpwEAAAAYAAJ&pg=PA140|journal=Philosophical Transactions of the Royal Society of London|volume=99|pages=39–104|doi=10.1098/rstl.1809.0005 }}</ref>
+|first isolation date=9 July 1808
+|history comment label=
+|history comment=
+}}
 '''Phìn''' (硼) he yit-tsúng [[Fa-ho̍k]] [[Ngièn-su]], fa-ho̍k fù-ho vì '''B''', ngièn-tsṳ́ su-muk he '''5''', tshai [[Ngièn-su Tsû-khì péu]] chûng thi-ńg vi. 
 {{Ngièn-su Tsû-khì-péu}}
 
