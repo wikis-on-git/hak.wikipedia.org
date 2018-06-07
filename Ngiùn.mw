@@ -1,4 +1,95 @@
-[[File:SilverUSGOV.jpg|right|thumb|Ngiùn]]
+{{infobox element
+|number=47
+|symbol=Ag
+|name=Ngiùn
+|enname=silver
+|left=[[palladium]]
+|right=[[cadmium]]
+|above=[[Thùng|Cu]]
+|below=[[Kîm|Au]]
+|series=ko-thu kîm-su̍k
+|group=11
+|period=5
+|block=d
+|image name=Silver crystal.jpg
+|image name comment=[[Electrolysis|Electrolytically]] refined silver
+|appearance=lustrous white metal
+|atomic mass=107.8682
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=2
+|atomic mass comment=
+|electron configuration= &#91;[[krypton|Kr]]&#93; 4d<sup>10</sup> 5s<sup>1</sup>
+|electrons per shell=2, 8, 18, 18, 1
+|phase=ku-thí
+|density gpcm3nrt=10.49
+|density gpcm3mp=9.320
+|melting point K=1234.93
+|melting point C=961.78
+|melting point F=1763.2
+|boiling point K=2435
+|boiling point C=2162
+|boiling point F=3924
+|heat fusion=11.28
+|heat vaporization=254
+|heat capacity=25.350
+|vapor pressure 1=1283
+|vapor pressure 10=1413
+|vapor pressure 100=1575
+|vapor pressure 1 k=1782
+|vapor pressure 10 k=2055
+|vapor pressure 100 k=2433
+|vapor pressure comment=
+|crystal structure=face-centered cubic
+|oxidation states=−2, −1, '''1''', 2, 3, 4
+|oxidation states comment=(an [[amphoterism|amphoteric]] oxide)
+|electronegativity=1.93
+|number of ionization energies=3
+|ionization energy 1=731.0
+|ionization energy 2=2070
+|ionization energy 3=3361
+|atomic radius=144
+|covalent radius=145±5
+|Van der Waals radius=172
+|magnetic ordering=[[diamagnetism|diamagnetic]]
+|magnetic ordering ref=<ref>{{cite book |url=http://web.archive.org/web/20110303222309/http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf|chapter=Magnetic susceptibility of the elements and inorganic compounds| editor = Lide, D. R. | title = CRC Handbook of Chemistry and Physics | edition = 86th | location = Boca Raton (FL) | publisher = CRC Press | year = 2005 | isbn = 0-8493-0486-5 }}
+</ref>
+|electrical resistivity unit prefix=n
+|electrical resistivity at 20=15.87
+|thermal conductivity=429
+|thermal diffusivity=174
+|thermal expansion at 25=18.9
+|speed of sound rod at r.t.=2680
+|Young's modulus=83
+|Shear modulus=30
+|Bulk modulus=100
+|Poisson ratio=0.37
+|Mohs hardness=2.5
+|Vickers hardness=251
+|Brinell hardness=206–250
+|CAS number=7440-22-4
+|isotopes=
+{{infobox element/isotopes decay2 | mn=105 | sym=Ag
+ | na=[[synthetic radioisotope|syn]] | hl=41.2&nbsp;d
+ | dm1=[[electron capture|ε]] | de1=– | link1=palladium-105 | pn1=105 | ps1=Pd
+ | dm2=[[gamma radiation|γ]] | de2=0.344, 0.280,<br/>0.644, 0.443 | pn2=| ps2=–}}
+{{infobox element/isotopes decay2 | mn=106[[nuclear isomer|m]] | sym=Ag
+ | na=syn | hl=8.28&nbsp;d
+ | dm1=ε | de1=– | link1=palladium-106 | pn1=106 | ps1=Pd
+ | dm2=γ | de2=0.511, 0.717,<br/>1.045, 0.450 | pn2=| ps2=–}}
+{{infobox element/isotopes decay | mn=107 | sym=Ag | na=51.839% | hl=– | dm=([[spontaneous fission|SF]]) | de=<20.512 | pn= | ps= }}
+{{infobox element/isotopes decay3 | mn=108m | sym=Ag
+ | na=syn | hl=418&nbsp;y
+ | dm1=ε | de1=– | link1=palladium-108 | pn1=108 | ps1=Pd
+ | dm2=[[isomeric transition|IT]] | de2=0.109 | link2=silver-108 | pn2=108 | ps2=Ag
+ | dm3=γ | de3=0.433, 0.614,<br/>0.722 | pn3=| ps3=–}}
+{{infobox element/isotopes decay | mn=109 | sym=Ag | na=48.161% | hl=– | dm=(SF) | de=<19.241 | pn= | ps= }}
+{{infobox element/isotopes decay2 | mn=111 | sym=Ag
+ | na=syn | hl=7.45&nbsp;d
+ | dm1=[[beta decay|β<sup>−</sup>]] | de1=1.036, 0.694 | link1=cadmium-111 | pn1=111 | ps1=Cd
+ | dm2=γ | de2=0.342 | pn2=| ps2=–}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|discovery date=before [[5000 BC]]
+}}
 '''Ngiùn''' he yit-tsúng [[ngièn-su]], fù-ho '''Ag''' lòi-tshṳ [[lâ-tên-vùn]] "argentum". Ngiùn he ko-thu [[kîm-su̍k]], tshòn-thô sin-nèn fî-sòng hau. Tshṳ-yèn ko yû-sṳ̀ vun-tó kí-ke sùn kîm-su̍k. Nè-thu kîm-su̍k khó-yî tso-sṳ̀n [[ngiùn-è]] lâu [[tsû-pó]] tén-tén yung-tshu. 
 
 {{Template:Ngièn-su Tsû-khì-péu}}
