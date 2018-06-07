@@ -1,4 +1,115 @@
-[[File:Ar-TableImage.svg|right|thumb|Argon]]
+{{Infobox element
+|name=argon
+|number=18
+|symbol=Ar
+|left=[[Liu̍k]]
+|right=[[Kap]]
+|above=[[Nái|Ne]]
+|below=[[krypton|Kr]]
+|series=hî-yù hi-thí
+|series comment=
+|group=18
+|period=3
+|block=p
+|series color=
+|appearance=colorless gas exhibiting a lilac/violet glow when placed in a high voltage electric field
+|image name=Argon discharge tube.jpg
+|image size=
+|image alt=Vial containing a violet glowing gas
+|image name 2=Argon Spectrum.png
+|image name 2 comment=Spectral lines of argon
+|atomic mass=39.948
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=1
+|atomic mass comment=
+|electron configuration=&#91;[[neon|Ne]]&#93; 3s<sup>2</sup> 3p<sup>6</sup>
+|electrons per shell=2, 8, 8
+|color=
+|phase=hi-thí
+|density gplstp=1.784
+|density gpcm3nrt=
+|density gpcm3nrt 2=
+|density gpcm3mp=
+|density gpcm3bp=1.3954
+|melting point K=83.81
+|melting point C=−189.34
+|melting point F=−308.81
+|boiling point K=87.302
+|boiling point C=−185.848
+|boiling point F=−302.526
+|triple point K=83.8058
+|triple point kPa=68.89
+|triple point ref=<ref name=b92/>
+|critical point K=150.687
+|critical point MPa=4.863
+|critical point ref=<ref name=b92>{{RubberBible92nd|page=4.121}}</ref>
+|heat fusion=1.18
+|heat fusion 2=
+|heat vaporization=6.53
+|heat capacity=20.85<ref>Shuen-Chen Hwang, Robert D. Lein, Daniel A. Morgan (2005). "Noble Gases". Kirk Othmer Encyclopedia of Chemical Technology. Wiley. pp. 343–383. doi:10.1002/0471238961.0701190508230114.a01.</ref>
+|vapor pressure 1=&nbsp;
+|vapor pressure 10=47
+|vapor pressure 100=53
+|vapor pressure 1 k=61
+|vapor pressure 10 k=71
+|vapor pressure 100 k=87
+|vapor pressure comment=
+|crystal structure=face-centered cubic
+| oxidation states='''0'''
+|oxidation states comment=
+|electronegativity=no data
+|number of ionization energies=4
+|ionization energy 1=1520.6
+|ionization energy 2=2665.8
+|ionization energy 3=3931
+|atomic radius=
+|atomic radius calculated=
+|covalent radius=106±10
+|Van der Waals radius=188
+|magnetic ordering=[[diamagnetic]]
+|magnetic ordering ref=<ref>[http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf Magnetic susceptibility of the elements and inorganic compounds], in {{RubberBible86th}}</ref>
+|electrical resistivity=
+|electrical resistivity at 0=
+|electrical resistivity at 20=
+|thermal conductivity=17.72{{e|-3}}</sup>&nbsp;
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=
+|speed of sound=323
+|speed of sound comment=(gas, at&nbsp;27&nbsp;°C)
+|speed of sound rod at 20=
+|speed of sound rod at r.t.=
+|Young's modulus=
+|Shear modulus=
+|Bulk modulus=
+|Poisson ratio=
+|Mohs hardness=
+|Vickers hardness=
+|Brinell hardness=
+|CAS number=7440-37-1
+|isotopes=
+{{infobox element/isotopes decay | mn=36 | sym=Ar
+ | na=0.337% | hl=–
+ | dm= ([[double beta decay|β<sup>+</sup>β<sup>+</sup>]]) | de=0.4335 | link1=sulfur-36 | pn=36 | ps=S}}
+{{infobox element/isotopes decay | mn=37 | sym=Ar
+ | na=[[synthetic radioisotope|syn]] | hl=35&nbsp;d
+ | dm=[[electron capture|ε]] | de=0.813 | link1=chlorine-37 | pn=37 | ps=Cl}}
+{{Infobox element/isotopes stable | mn=38 | sym=Ar | na=0.063% | n=20 |firstlinks=yes}}
+{{infobox element/isotopes decay | mn=39 | sym=Ar
+ | na=[[trace radioisotope|trace]] | hl=[[1 E9 s|269&nbsp;y]]
+ | dm=[[beta emission|β<sup>−</sup>]] | de=0.565 |link1=potassium-39 | pn=39 | ps=K}}
+{{Infobox element/isotopes stable | mn=40 | sym=Ar | na=99.600% | n=22 |firstlinks=no}}
+{{infobox element/isotopes decay | mn=41 | sym=Ar
+ | na=syn | hl=109.34&nbsp;min
+ | dm=β<sup>−</sup> | de=2.49 | link1=potassium-41 | pn=41 | ps=K}}
+{{infobox element/isotopes decay | mn=42 | sym=Ar
+ | na=syn | hl=32.9&nbsp;y
+ | dm=β<sup>−</sup> | de=0.600 | link1=potassium-42 | pn=42 | ps=K}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|discovery and first isolation by=[[Lord Rayleigh]] and [[William Ramsay]]
+|discovery date=1894
+}}
 '''Argon''' he yit-chúng [[fa-ho̍k]] [[ngièn-su]], fa-ho̍k fù-ho vì '''Ar''', ngièn-chṳ́ su-muk he '''18''', chhai [[ngièn-su chû-khì-péu]] lî-tú phài thi 18 vi. 
 
 {{Template:Ngièn-su Tsû-khì-péu}}
