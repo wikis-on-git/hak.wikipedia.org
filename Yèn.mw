@@ -1,5 +1,90 @@
-[[File:Yb-TableImage.png|right|thumb|Yèn]]
-[[File:Lead brick.jpg|right|thumb|Yèn]]
+{{infobox element
+|name=Yèn
+|number=82
+|symbol=Pb
+|enname=lead
+|alt name=
+|left=[[thallium]]
+|right=[[bismuth]]
+|above=[[siak|Sn]]
+|below=[[flerovium|Fl]]
+|series=heu-ko-thu kîm-su̍k
+|series comment=
+|group=14
+|period=6
+|block=p
+|image name=Metal cube lead.jpg
+|image name comment=
+|appearance=metallic gray
+|atomic mass=207.2
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=1
+|atomic mass comment=
+|electron configuration=&#91;[[xenon|Xe]]&#93; 4f<sup>14</sup> 5d<sup>10</sup> 6s<sup>2</sup> 6p<sup>2</sup>
+|electrons per shell=2, 8, 18, 32, 18, 4
+|phase=ku-thí
+|density gpcm3nrt=11.34
+|density gpcm3mp=10.66
+|melting point K=600.61
+|melting point C=327.46
+|melting point F=621.43
+|boiling point K=2022
+|boiling point C=1749
+|boiling point F=3180
+|heat fusion=4.77
+|heat vaporization=179.5
+|heat capacity=26.650
+|vapor pressure 1=978
+|vapor pressure 10=1088
+|vapor pressure 100=1229
+|vapor pressure 1 k=1412
+|vapor pressure 10 k=1660
+|vapor pressure 100 k=2027
+|vapor pressure comment=
+|crystal structure=face-centered cubic
+|oxidation states='''4''', 3, '''2''', 1, −1, −2, −4
+|oxidation states comment=(an [[Amphoterism|amphoteric]] oxide)
+|electronegativity=1.87
+|number of ionization energies=3
+|ionization energy 1=715.6
+|ionization energy 2=1450.5
+|ionization energy 3=3081.5
+|atomic radius=175
+|covalent radius=146±5
+|Van der Waals radius=202
+|magnetic ordering=[[diamagnetism|diamagnetic]]
+|electrical resistivity unit prefix=n
+|electrical resistivity at 20=208
+|thermal conductivity=35.3
+|thermal expansion at 25=28.9
+|speed of sound rod at r.t.=1190
+|speed of sound rod at r.t. comment=(annealed)
+|Young's modulus=16
+|Shear modulus=5.6
+|Bulk modulus=46
+|Poisson ratio=0.44
+|Mohs hardness=1.5
+|Brinell hardness=38–50
+|Brinell hardness comment=
+|CAS number=7439-92-1
+|isotopes=
+{{infobox element/isotopes decay | mn=204 | sym=Pb
+ | na=1.4% | hl=>1.4×10<sup>17</sup>&nbsp;y
+ | dm=([[alpha emission|α]]) | de=1.972 | link1=mercury-200 | pn=200 | ps=Hg}}
+{{infobox element/isotopes decay | mn=205 | sym=Pb
+ | na=[[synthetic radioisotope|syn]] | hl=1.53×10<sup>7</sup>&nbsp;y
+ | dm=[[electron capture|ε]] | de=0.051 | link1=thallium-205 | pn=205 | ps=Tl}}
+{{infobox element/isotopes decay | mn=206 | sym=Pb | na=24.1% | hl=– | dm=(α) | de=1.1366 | link1=mercury-202 | pn=202 | ps=Hg }}
+{{infobox element/isotopes decay | mn=207 | sym=Pb | na=22.1% | hl=– | dm=(α) | de=0.3915 | link1=mercury-203 | pn=203 | ps=Hg }}
+{{infobox element/isotopes decay | mn=208 | sym=Pb | na=52.4% | hl=>2×10<sup>19</sup>&nbsp;y | dm=(α) | de=0.5188 | link1=mercury-204 | pn=204 | ps=Hg}}
+{{infobox element/isotopes decay2 | mn=210 | sym=Pb
+ | na=[[trace radioisotope|trace]] | hl=22.3&nbsp;y
+ | dm1=α | de1=3.792 | link1=mercury-206 | pn1=206 | ps1=Hg
+ | dm2=[[Beta decay|β<sup>−</sup>]] | de2=0.064 | link2=bismuth-210 | pn2=210 | ps2=Bi}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|discovered by=[[Middle East]]erns
+|discovery date=[[7000 BCE]]
+}}
 '''Yèn''' (鉛) he yit-tsúng ngièn-su，Fa-ho̍k fù-ho he '''Pb''' [[Lâ-tên-ngî]]: "Plumbum" ke sok-siá. Yèn he yit-tsúng ngiôn-ngiôn ke tshûng [[Kîm-su̍k]], yû thu̍k-sin. Yèn he yit-tsúng yû yèn-tshûn-sin ke ngio̍k kîm-su̍k, Yèn ke pún-set he tshiâng-tshiâng pha̍k-set ke, tì [[khûng-hi]] chûng yèn ke péu-mien tsṳ̂n-khuai phî yit-tshèn am fôi-set vu̍t-tsṳt fu̍k-koi. Yèn pûn-ngìn yung-tsok kien-tsuk tshòi-liau, yung-tshai yèn-sôn thien-tshṳ̀ chûng, hon-[[siak]] tén-tén.
 
 
