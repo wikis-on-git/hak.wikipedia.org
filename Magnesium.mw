@@ -1,9 +1,110 @@
-[[File:Mg-TableImage.svg|right|thumb|Magnesium]]
-[[File:Magnesium crystals.jpg|right|thumb|350px|Magnesium]]
-[[File:MagnesiumMetalUSGOV.jpg|right|thumb|200px|Magnesium]]
-[[File:Mg,12.jpg|right|thumb|200px|Magnesium]]
-
-
+{{Infobox element
+|name=magnesium
+|alt name=
+|number=12
+|symbol=Mg
+|left=[[Na̍p]]
+|right=[[Lî]]
+|above=[[beryllium|Be]]
+|below=[[Koi|Ca]]
+|series=kán-thú kîm-su̍k
+|series comment=
+|group=2
+|period=3
+|block=s
+|series color=
+|appearance=shiny grey solid
+|image name=Magnesium.jpg
+|image size=
+|image name comment=
+|image name 2=Magnesium Spectra.jpg
+|image name 2 comment=Spectral lines of magnesium
+|atomic mass=24.305 
+|atomic mass ref=<ref name="CIAAW">[http://www.ciaaw.org/pubs/TSAW2013_xls.xls Conventional Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=
+|atomic mass comment=(24.304–24.307)<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|electron configuration=&#91;[[neon|Ne]]&#93; 3s<sup>2</sup>
+|electrons per shell=2, 8, 2
+|color=
+|phase=ku-thí
+|phase comment=
+|density gplstp=
+|density gpcm3nrt=1.738
+|density gpcm3nrt 2=
+|density gpcm3mp=1.584
+|melting point K=923
+|melting point C=650
+|melting point F=1202
+|boiling point K=1363
+|boiling point C=1091
+|boiling point F=1994
+|triple point K=
+|triple point kPa=
+|critical point K=
+|critical point MPa=
+|heat fusion=8.48
+|heat fusion 2=
+|heat vaporization=128
+|heat capacity=24.869
+|vapor pressure 1=701
+|vapor pressure 10=773
+|vapor pressure 100=861
+|vapor pressure 1 k=971
+|vapor pressure 10 k=1132
+|vapor pressure 100 k=1361
+|vapor pressure comment=
+|crystal structure=hexagonal close packed
+|oxidation states='''+2''', +1
+|oxidation states ref=<ref>{{cite journal|url=http://bernath.uwaterloo.ca/media/24.pdf| title=The spectrum of magnesium hydride| author=Bernath, P. F., Black, J. H., & Brault, J. W.| bibcode=1985ApJ...298..375B | doi=10.1086/163620
+|journal=Astrophysical Journal|volume=298| year=1985| page=375}}</ref>
+|oxidation states comment=(a strongly [[base (chemistry)|basic]] oxide)
+|electronegativity=1.31
+|number of ionization energies=4
+|ionization energy 1=737.7
+|ionization energy 2=1450.7
+|ionization energy 3=7732.7
+|atomic radius=160
+|covalent radius=141±7
+|Van der Waals radius=173
+|magnetic ordering=[[paramagnetism|paramagnetic]]
+|electrical resistivity=
+|electrical resistivity unit prefix=n
+|electrical resistivity at 0=
+|electrical resistivity at 20=43.9
+|thermal conductivity=156
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=24.8
+|speed of sound=
+|speed of sound rod at 20=
+|speed of sound rod at r.t.=4940
+|speed of sound rod at r.t. comment=(annealed)
+|Young's modulus=45
+|Shear modulus=17
+|Bulk modulus=45
+|Poisson ratio=0.290
+|Mohs hardness=1–2.5
+|Vickers hardness=
+|Brinell hardness=44–260
+|CAS number=7439-95-4
+|isotopes=
+ {{Infobox element/isotopes stable | mn=24 | sym=Mg | na=78.99% | n=12 |firstlinks=yes}}
+ {{Infobox element/isotopes stable | mn=25 | sym=Mg | na=10.00% | n=13 |firstlinks=no}}
+ {{Infobox element/isotopes stable | mn=26 | sym=Mg | na=11.01% | n=14 |firstlinks=no}}
+|isotopes comment=
+|naming=after [[Magnesia (regional unit)|Magnesia]], Greece
+|predicted by=
+|prediction date=
+|discovered by=[[Joseph Black]]
+|discovery date=1755
+|first isolation by=[[Humphry Davy]]
+|first isolation date=1808
+|named by=
+|named date=
+|history comment label=
+|history comment=
+}}
 '''Magnesium''' he yit-chúng [[fa-ho̍k]] [[ngièn-su]], fa-ho̍k fù-ho vì '''Mg''', ngièn-chṳ́ su-muk he '''12''', chhai [[ngièn-su chû-khì-péu]] lî-tú phài thi 12 vi. 
 
 {{Ngièn-su Tsû-khì-péu}}
