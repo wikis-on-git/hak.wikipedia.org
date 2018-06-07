@@ -1,8 +1,118 @@
-[[File:Na-TableImage.svg|right|thumb|Na̍p]]
-[[File:Na_(Sodium).jpg|right|thumb|350px|Na̍p]]
-[[File:Sodium.jpg|right|thumb|350px|Na̍p]]
-[[File:Starfire_Optical_Range_-_sodium_laser.jpg|right|thumb|350px|Na̍p]]
-
+{{Infobox element
+|name=Na̍p
+|enname=sodium
+|alt name=
+|number=11
+|symbol=Na
+|left=[[Nái]]
+|right=[[magnesium]]
+|above=[[Lithium|Li]]
+|below=[[Kap|K]]
+|series=kán-kîm-su̍k
+|series comment=
+|group=1
+|period=3
+|block=s
+|series color=
+|appearance=silvery white metallic
+|image name=Nametal.JPG.jpg
+|image size=
+|image name comment=
+|image name 2=Sodium Spectra.jpg
+|image name 2 comment=Spectral lines of sodium
+|atomic mass=22.98976928
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=2
+|atomic mass comment=
+|electron configuration=&#91;[[neon|Ne]]&#93; 3s<sup>1</sup>
+|electrons per shell=2, 8, 1
+|color=
+|phase=ku-thí
+|phase comment=
+|density gplstp=
+|density gpcm3nrt=0.968
+|density gpcm3nrt 2=
+|density gpcm3mp=0.927
+|melting point K=370.944
+|melting point C=97.794
+|melting point F=208.029
+|boiling point K=1156.090
+|boiling point C=882.940
+|boiling point F=1621.292
+|triple point K=
+|triple point kPa=
+|critical point K=2573
+|critical point MPa=35
+|critical point comment=''(extrapolated)''
+|heat fusion=2.60
+|heat fusion 2=
+|heat vaporization=97.42
+|heat capacity=28.230
+|vapor pressure 1=554
+|vapor pressure 10=617
+|vapor pressure 100=697
+|vapor pressure 1 k=802
+|vapor pressure 10 k=946
+|vapor pressure 100 k=1153
+|vapor pressure comment=
+|crystal structure=body-centered cubic
+|oxidation states='''+1''', −1
+|oxidation states comment=(a&nbsp;strongly [[base (chemistry)|basic]] oxide)
+|electronegativity=0.93
+|number of ionization energies=4
+|ionization energy 1=495.8
+|ionization energy 2=4562
+|ionization energy 3=6910.3
+|atomic radius=186
+|atomic radius calculated=
+|covalent radius=166±9
+|Van der Waals radius=227
+|magnetic ordering=[[paramagnetism|paramagnetic]]
+|magnetic ordering ref=<ref>[http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf Magnetic susceptibility of the elements and inorganic compounds], in {{RubberBible86th}}</ref>
+|electrical resistivity unit prefix=n
+|electrical resistivity at 0=
+|electrical resistivity at 20=47.7
+|thermal conductivity=142
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=71
+|speed of sound=
+|speed of sound rod at 20=3200
+|speed of sound rod at r.t.=
+|Young's modulus=10
+|Shear modulus=3.3
+|Bulk modulus=6.3
+|Poisson ratio=
+|Mohs hardness=0.5
+|Vickers hardness=
+|Brinell hardness=0.69
+|CAS number=7440-23-5
+|isotopes=
+{{infobox element/isotopes decay3 (2 2 1) | mn=22 | sym=Na | na=[[trace radioisotope|trace]] | hl=[[1 E7 s|2.602&nbsp;y]] | dm1=[[beta decay|β<sup>+</sup>]]→[[Gamma decay|γ]]
+ | de1a=0.5454 | link1a=neon-22 | pn1a=22 | ps1a=Ne*
+ | de1b=1.27453(2)<ref name=npa521_1>{{cite journal
+ | last=Endt | first=P. M.
+ | title=Energy levels of A = 21–44 nuclei (VII)
+ | journal=Nuclear Physics A | volume=521 | pages=1–400
+ | date=1990 | doi=10.1016/0375-9474(90)90598-G
+ | bibcode=1990NuPhA.521....1E
+}}</ref> | pn1b=22 | ps1b=Ne
+ | dm2=[[electron capture|ε]]→γ | de2a=– | pn2a=22 | ps2a=Ne*
+ | de2b=1.27453(2)
+ | pn2b=22 | ps2b=Ne
+ | dm3=β<sup>+</sup> | de3=1.8200 | pn3=22 | ps3=Ne}}
+{{infobox element/isotopes stable | mn=23 | sym=Na | na=100% | n=12 |firstlinks=yes}}
+|isotopes comment=<nowiki>*</nowiki> = [[excited state]]
+|predicted by=
+|prediction date=
+|discovery and first isolation by=[[Humphry Davy]]
+|discovery date=1807
+|named by=
+|named date=
+|history comment label=
+|history comment=
+}}
 '''Na̍p ''' (鈉) he yit-tsúng [[Fa-ho̍k]] [[Ngièn-su]], fa-ho̍k fù-ho vì '''Na''', ngièn-tsṳ́ su-muk he '''11''', tshai [[Ngièn-su Tsû-khì péu]] chûng thi sṳ̍p-yit vi.
 
 {{Ngièn-su Tsû-khì-péu}}
