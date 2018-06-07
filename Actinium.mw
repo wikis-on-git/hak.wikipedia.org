@@ -1,3 +1,93 @@
+{{Infobox element
+|name=actinium
+|number=89
+|symbol=Ac
+|left=[[radium]]
+|right=[[thorium]]
+|above=[[lanthanum|La]]
+|below=(Uqu)
+|series=actinium-hi
+|series comment=sometimes considered a [[transition metal]]
+|group=n/a
+|period=7
+|block=f
+|series color=
+|appearance=silvery-white, glowing with an eerie blue light;<ref>{{cite web |url=http://pubs.acs.org/cen/80th/actinium.html |title=C&EN: It's Elemental: The Periodic Table - Actinium |author=Wall, Greg |date=8 September 2003 |work=C&EN: It's Elemental: The Periodic Table |publisher=Chemical and Engineering News |accessdate=2 June 2011}}</ref> sometimes with a golden cast<ref name="Kirby">{{cite book |last1=Kirby |first1=Harold W. |last2=Morss |first2=Lester R. |title=The Chemistry of the Actinide and Transactinide Elements |pages=18 |year=2006 |doi=10.1007/1-4020-3598-5_2 |chapter=Actinium |isbn=978-1-4020-3555-5}}</ref>
+|image name=
+|image name comment=
+|image name 2=
+|image name 2 comment=
+|atomic mass=(227)
+|atomic mass 2=
+|atomic mass comment=
+|electron configuration=&#91;[[radon|Rn]]&#93; 6d<sup>1</sup> 7s<sup>2</sup>
+|electrons per shell=2, 8, 18, 32, 18, 9, 2
+|color=
+|phase=ku-thí
+|phase comment=
+|density gplstp=
+|density gpcm3nrt=10
+|melting point K=1500
+|melting point C=1227
+|melting point F=2240
+|melting point comment=''(estimated)''<ref name=Kirby/>
+|boiling point K=3500±300
+|boiling point C=3200±300
+|boiling point F=5800±500
+|boiling point comment=''(extrapolated)''<ref name=Kirby/>
+|triple point K=
+|triple point kPa=
+|critical point K=
+|critical point MPa=
+|heat fusion=14
+|heat vaporization=400
+|heat capacity=27.2
+|crystal structure=face-centered cubic
+|oxidation states='''3''', 2
+|oxidation states comment=(a neutral oxide)
+|electronegativity=1.1
+|number of ionization energies=2
+|ionization energy 1=499
+|ionization energy 2=1170
+|atomic radius=
+|covalent radius=215
+|Van der Waals radius=
+|electrical resistivity=
+|electrical resistivity at 0=
+|electrical resistivity at 20=
+|thermal conductivity=12
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=
+|speed of sound=
+|speed of sound rod at 20=
+|speed of sound rod at r.t.=
+|Young's modulus=
+|Shear modulus=
+|Bulk modulus=
+|Poisson ratio=
+|Mohs hardness=
+|Vickers hardness=
+|Brinell hardness=
+|CAS number=7440-34-8
+|isotopes=
+{{infobox element/isotopes decay | mn=225 | sym=Ac
+ | na=[[trace radioisotope|trace]] | hl=[[1 E s|10&nbsp;d]]
+ | dm=[[alpha decay|α]] | de=5.935 | link1=francium-221 | pn=221 | ps=Fr}}
+{{infobox element/isotopes decay3| mn=226 | sym=Ac
+ | na=[[synthetic radioisotope|syn]] | hl=[[1 E s|29.37&nbsp;h]]
+ | dm1=[[beta emission|β<sup>−</sup>]] | de1=1.117 | link1=thorium-226 | pn1=226 | ps1=Th
+ | dm2=[[electron capture|ε]] | de2=0.640 | link2=radium-226 | pn2=226 | ps2=Ra
+ | dm3=α | de3=5.536 | link3=francium-222 | pn3=222 | ps3=Fr}}
+{{infobox element/isotopes decay2 | mn=227 | sym=Ac
+ | na=trace | hl=[[1 E s|21.772&nbsp;y]]
+ | dm1=β<sup>−</sup> | de1=0.045 | link1=thorium-227 | pn1=227 | ps1=Th
+ | dm2=α | de2=5.042 | link2=francium-223 | pn2=223 | ps2=Fr}}
+|isotopes comment=
+|discovery and first isolation by=[[Friedrich Oskar Giesel]]
+|discovery date=1902
+}}
 '''Actinium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Ac''', ngièn-chṳ́ su-muk he '''89'''.
 
 {{Ngièn-su chû-khì-péu}}
