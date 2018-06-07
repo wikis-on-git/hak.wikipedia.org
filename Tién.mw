@@ -1,5 +1,89 @@
-[[File:I-TableImage.png|right|thumb|Tién]]
-[[File:Iod kristall.jpg|thumb|Tién]]
+{{Infobox element
+|name=Tién
+|number=53
+|symbol=I
+|enname=iodine
+|alt name=
+|left=[[telurium]]
+|right=[[xenon]]
+|above=[[Chhiu|Br]]
+|below=[[astatine|At]]
+|series=sûng-ngièn-chṳ́ fî-kîm-su̍k
+|series comment=
+|group=17
+|period=5
+|block=p
+|image name=Sample of iodine.jpg
+|appearance=lustrous metallic gray, violet as a gas
+|atomic mass=126.90447
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=3
+|atomic mass comment=
+|electron configuration=&#91;[[krypton|Kr]]&#93; 4d<sup>10</sup> 5s<sup>2</sup> 5p<sup>5</sup>
+|electrons per shell=2, 8, 18, 18, 7
+|phase=ku-thí
+|density gpcm3nrt=4.933
+|melting point K=386.85
+|melting point C=113.7
+|melting point F=236.66
+|boiling point K=457.4
+|boiling point C=184.3
+|boiling point F=363.7
+|triple point K=386.65
+|triple point kPa=12.1
+|critical point K=819
+|critical point MPa=11.7
+|heat fusion= (I<sub>2</sub>) 15.52
+|heat vaporization=(I<sub>2</sub>) 41.57
+|heat capacity= (I<sub>2</sub>) 54.44
+|vapor pressure 1=260
+|vapor pressure 10=282
+|vapor pressure 100=309
+|vapor pressure 1 k=342
+|vapor pressure 10 k=381
+|vapor pressure 100 k=457
+|vapor pressure comment=(rhombic)
+|crystal structure=orthorhombic
+|oxidation states='''7''', 6, '''5''', 4, '''3''', '''1''', '''−1'''
+|oxidation states comment=(a&nbsp;strongly [[acid]]ic oxide)
+|electronegativity=2.66
+|number of ionization energies=3
+|ionization energy 1=1008.4
+|ionization energy 2=1845.9
+|ionization energy 3=3180
+|atomic radius=140
+|covalent radius=139±3
+|Van der Waals radius=198
+|magnetic ordering=[[diamagnetic]]
+|magnetic ordering ref=<ref>[http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf Magnetic susceptibility of the elements and inorganic compounds], in Handbook of Chemistry and Physics 81st edition, CRC press. </ref>
+|electrical resistivity at 0=1.3×10<sup>7</sup>
+|thermal conductivity=0.449
+|Bulk modulus=7.7
+|CAS number=7553-56-2
+|isotopes=
+{{infobox element/isotopes decay | link=iodine-123| mn=123 | sym=I
+ | na=[[synthetic radioisotope|syn]] | hl=13&nbsp;h
+ | dm=[[electron capture|ε]], [[gamma decay|γ]] | de=0.16 | link1=tellurium-123 | pn=123 | ps=Te}}
+{{infobox element/isotopes decay | mn=124 | sym=I
+ | na=syn | hl=4.176&nbsp;d
+ | dm=ε | de=– | link1=tellurium-124 | pn=124 | ps=Te}}
+{{infobox element/isotopes decay | link=iodine-125 | mn=125 | sym=I
+ | na=syn | hl=59.40&nbsp;d
+ | dm=ε | de=– | link1=tellurium-125 | pn=125 | ps=Te}}
+{{infobox element/isotopes decay | mn=127 | sym=I | na=100% | hl=– | dm=([[spontaneous fission|SF]]) | de=<29.961 | pn= | ps= }}
+{{infobox element/isotopes decay | link=iodine-129 | mn=129 | sym=I
+ | na=[[trace radioisotope|trace]] | hl=1.57×10<sup>7</sup>&nbsp;y
+ | dm=[[beta emission|β<sup>−</sup>]] | de=0.194 | link1=xenon-129 | pn=129 | ps=Xe}}
+{{infobox element/isotopes decay | link=iodine-131 | mn=131 | sym=I
+ | na=syn | hl=8.02070&nbsp;d
+ | dm=β<sup>−</sup>, γ | de=0.971 | link1=xenon-131 | pn=131 | ps=Xe}}
+{{infobox element/isotopes decay | mn=135 | sym=I
+ | na=syn | hl=6.57&nbsp;h
+ | dm=β<sup>−</sup> | de=– | link1=xenon-135 | pn=135 | ps=Xe}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|discovery and first isolation by=[[Bernard Courtois]]
+|discovery date=1811
+}}
 '''Tién''' (碘) he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''I''', ngièn-chṳ́ su-muk he '''53'''.
 
 {{Ngièn-su chû-khì-péu}}
