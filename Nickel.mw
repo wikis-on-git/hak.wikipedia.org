@@ -1,4 +1,104 @@
-[[File:Ni-TableImage.svg|right|thumb|Nickel]]
+{{Infobox element
+|name=nickel
+|number=28
+|symbol=Ni
+|left=[[cobalt]]
+|right=[[thùng]]
+|above=–
+|below=[[palladium|Pd]]
+|series=ko-thu kîm-su̍k
+|series comment=
+|group=10
+|period=4
+|block=d
+|series color=
+|appearance=lustrous, metallic, and silver with a gold tinge
+|image name=Nickel chunk.jpg
+|image size=
+|image name comment=
+|image alt=A pitted and lumpy piece of silvery metal, with the top surface cut flat
+|image name 2=
+|image name 2 comment=
+|atomic mass=58.6934
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=4
+|atomic mass comment=
+|electron configuration=&#91;[[argon|Ar]]&#93; 3d<sup>8</sup> 4s<sup>2</sup> ''or''<br/> &#91;Ar&#93; 3d<sup>9</sup> 4s<sup>1</sup>
+|electron configuration comment=
+|electrons per shell=2, 8, 16, 2 ''or'' 2, 8, 17, 1
+|color=
+|phase=ku-thí
+|phase comment=
+|density gplstp=
+|density gpcm3nrt=8.908
+|density gpcm3nrt 2=
+|density gpcm3mp=7.81
+|melting point K=1728
+|melting point C=1455
+|melting point F=2651
+|boiling point K=3003
+|boiling point C=2730
+|boiling point F=4946
+|triple point K=
+|triple point kPa=
+|critical point K=
+|critical point MPa=
+|heat fusion=17.48
+|heat fusion 2=
+|heat vaporization=379
+|heat capacity=26.07
+|vapor pressure 1=1783
+|vapor pressure 10=1950
+|vapor pressure 100=2154
+|vapor pressure 1 k=2410
+|vapor pressure 10 k=2741
+|vapor pressure 100 k=3184
+|vapor pressure comment=
+|crystal structure=face-centered cubic
+|oxidation states=4,<ref>{{cite journal| title=A Stable Tetraalkyl Complex of Nickel(IV)| journal=Angewandte Chemie International Edition| year=2009| volume=48 | issue=2| page=3384| doi=10.1002/anie.200804435| last1=Carnes| first1=Matthew| last2=Buccella| first2=Daniela| last3=Chen| first3=Judy Y.-C.| last4=Ramirez| first4=Arthur P.| last5=Turro| first5=Nicholas J.| last6=Nuckolls| first6=Colin| last7=Steigerwald| first7=Michael}}</ref> 3, '''2''', 1,<ref>{{cite journal| title=A Dinuclear Nickel(I) Dinitrogen Complex and its Reduction in Single-Electron Steps| journal=Angewandte Chemie International Edition| year=2009| volume=48 | issue=18| page=3357| doi=10.1002/anie.200805862| last1=Pfirrmann| first1=Stefan| last2=Limberg| first2=Christian| last3=Herwig| first3=Christian| last4=Stößer| first4=Reinhard| last5=Ziemer| first5=Burkhard}}</ref> −1, −2
+|oxidation states comment=(a mildly [[base (chemistry)|basic]] oxide)
+|electronegativity=1.91
+|number of ionization energies=4
+|ionization energy 1=737.1
+|ionization energy 2=1753.0
+|ionization energy 3=3395
+|atomic radius=124
+|atomic radius calculated=
+|covalent radius=124±4
+|Van der Waals radius=163
+|magnetic ordering=[[ferromagnetism|ferromagnetic]]
+|electrical resistivity=
+|electrical resistivity unit prefix=n
+|electrical resistivity at 0=
+|electrical resistivity at 20=69.3
+|thermal conductivity=90.9
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=13.4
+|speed of sound=
+|speed of sound rod at 20=
+|speed of sound rod at r.t.=4900
+|Young's modulus=200
+|Shear modulus=76
+|Bulk modulus=180
+|Poisson ratio=0.31
+|Mohs hardness=4.0
+|Vickers hardness=638
+|Brinell hardness=667–1600
+|CAS number=7440-02-0
+|isotopes=
+{{infobox element/isotopes decay | mn=58 | sym=Ni | na=68.077% |hl=[[1 E19 s and more|>7×10<sup>20</sup>&nbsp;y]] |dm=([[double beta decay|β<sup>+</sup>β<sup>+</sup>]]) | de=1.9258 | link1=iron-58 | pn=58 | ps=Fe}}
+{{infobox element/isotopes decay | mn=59 | sym=Ni | na=[[trace radioisotope|trace]] | hl=[[1 E12 s|7.6×10<sup>4</sup>&nbsp;y]] | dm=[[electron capture|ε]] | de=– | link1=cobalt-59 | pn=59 | ps=Co}}
+{{Infobox element/isotopes stable | mn=60 | sym=Ni | na=26.223% | n=32 |firstlinks=yes}}
+{{Infobox element/isotopes stable | mn=61 | sym=Ni | na=1.14% | n=33 |firstlinks=no}}
+{{Infobox element/isotopes stable | mn=62 | sym=Ni | na=3.634% | n=34 |firstlinks=no}}
+{{infobox element/isotopes decay | mn=63 | sym=Ni | na=[[synthetic radioisotope|syn]] | hl=[[1 E9 s|100.1&nbsp;y]] | dm=[[Beta decay|β<sup>−</sup>]] | de=0.0669 | link1=copper-63 | pn=63 | ps=Cu}}
+{{Infobox element/isotopes stable | mn=64 | sym=Ni | na=0.926% | n=36 |firstlinks=no}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|discovery and first isolation by=[[Axel Fredrik Cronstedt]]
+|discovery date=1751
+}}
 '''Nickel''' he yit-chúng [[fa-ho̍k]] [[ngièn-su]], fa-ho̍k fù-ho vì '''Ni''', ngièn-chṳ́ su-muk he '''28'''.
 
 {{Template:Ngièn-su Tsû-khì-péu}}
