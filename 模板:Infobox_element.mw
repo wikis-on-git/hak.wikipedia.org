@@ -26,7 +26,7 @@
 | label18 = ngoi-hìn
 |  data18 = {{{appearance|}}}
 <!-- IN THE PERIODIC TABLE (items 20-29) ------------------>
-| header20 = {{ucfirst:{{{name}}}}} chhai [[chû-khì-péu]] ke vi-tsì
+| header20 = {{ucfirst:{{{name}}}}} chhai [[chû-khì-péu]] ke vi-chi
 |  data21 = {{Infobox element/periodic table |name={{{name|{{PAGENAME}}}}} |number={{{number|0}}} |symbol={{{symbol}}} |mark={{{symbol|}}} |above={{{above}}} |below={{{below}}} |left={{{left}}} |right={{{right}}} }}
 | label22 = [[ngièn-chṳ́ sì-sú]]
 |  data22 = {{{number}}}
