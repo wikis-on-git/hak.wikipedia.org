@@ -1,7 +1,109 @@
-[[File:Ca-TableImage.svg|right|thumb|Koi]]
-[[File:Calcium unter Argon Schutzgasatmosphäre.jpg|right|thumb|350px|Koi]]
-[[File:Calcium 1.jpg|right|thumb|300px|Koi]]
-[[File:Calcium.jpg|right|thumb|300px|Koi]]
+{{Infobox element
+|name=Koi
+|enname=calcium
+|number=20
+|symbol=Ca
+|left=[[Kap]]
+|right=[[scandium]]
+|above=[[magnesium|Mg]]
+|below=[[strontium|Sr]]
+|series=kán-thú kîm-su̍k
+|series comment=
+|group=2
+|period=4
+|block=s
+|series color=
+|appearance=dull gray, silver; with a pale yellow tint<ref>{{Greenwood&Earnshaw|page=112}}</ref>
+|image name=Calcium unter Argon Schutzgasatmosphäre.jpg
+|image size=
+|image name comment=
+|image name 2=Calcium Spectrum.png
+|image name 2 comment=[[Spectral line]]s of calcium
+|atomic mass=40.078
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=4
+|atomic mass comment=
+|electron configuration=&#91;[[argon|Ar]]&#93; 4s<sup>2</sup>
+|electrons per shell=2, 8, 8, 2
+|color=
+|phase=ku-thí
+|phase comment=
+|density gplstp=
+|density gpcm3nrt=1.55
+|density gpcm3nrt 2=
+|density gpcm3mp=1.378
+|melting point K=1115
+|melting point C=842
+|melting point F=1548
+|boiling point K=1757
+|boiling point C=1484
+|boiling point F=2703
+|triple point K=
+|triple point kPa=
+|critical point K=
+|critical point MPa=
+|heat fusion=8.54
+|heat fusion 2=
+|heat vaporization=154.7
+|heat capacity=25.929
+|vapor pressure 1=864
+|vapor pressure 10=956
+|vapor pressure 100=1071
+|vapor pressure 1 k=1227
+|vapor pressure 10 k=1443
+|vapor pressure 100 k=1755
+|vapor pressure comment=
+|crystal structure=face-centered cubic
+|oxidation states='''+2''', +1, −1
+|oxidation states ref=<ref name="West">{{cite journal|last1=Krieck|first1=Sven|last2=Görls|first2=Helmar|last3=Westerhausen|first3=Matthias|title=Mechanistic Elucidation of the Formation of the Inverse Ca(I) Sandwich Complex [(thf)3Ca(μ-C6H3-1,3,5-Ph3)Ca(thf)3] and Stability of Aryl-Substituted Phenylcalcium Complexes|journal=Journal of the American Chemical Society|volume=132|issue=35|pages=12492–12501|year=2010|pmid=20718434|doi=10.1021/ja105534w}}</ref>
+|oxidation states comment=(a strongly [[base (chemistry)|basic]] oxide)
+|electronegativity=1.00
+|number of ionization energies=4
+|ionization energy 1=589.8
+|ionization energy 2=1145.4
+|ionization energy 3=4912.4
+|atomic radius=197
+|atomic radius calculated=
+|covalent radius=176±10
+|Van der Waals radius=231
+|magnetic ordering=[[diamagnetism|diamagnetic]]
+|electrical resistivity unit prefix=n
+|electrical resistivity at 0=
+|electrical resistivity at 20=33.6
+|thermal conductivity=201
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=22.3
+|speed of sound=
+|speed of sound rod at 20=3810
+|speed of sound rod at r.t.=
+|Young's modulus=20
+|Shear modulus=7.4
+|Bulk modulus=17
+|Poisson ratio=0.31
+|Mohs hardness=1.75
+|Vickers hardness=
+|Brinell hardness=170–416
+|CAS number=7440-70-2
+|isotopes=
+{{infobox element/isotopes decay | mn=40 | sym=Ca | na=96.941% | hl=[[1 E19 s and more|>5.9×10<sup>21</sup>&nbsp;y]] | dm=([[double beta decay|β<sup>+</sup>β<sup>+</sup>]]) | de=0.194 | link1=argon-40 | pn=40 | ps=Ar}}
+{{infobox element/isotopes decay | mn=41 | sym=Ca | na=[[trace radioisotope|trace]] | hl=[[1 E12 s |1.03×10<sup>5</sup>&nbsp;y]] | dm=[[electron capture|ε]] | de=– | link1=potassium-41 | pn=41 | ps=K}}
+{{Infobox element/isotopes stable | mn=42 | sym=Ca | na=0.647% | n=22 |firstlinks=yes}}
+{{Infobox element/isotopes stable | mn=43 | sym=Ca | na=0.135% | n=23 |firstlinks=no}}
+{{Infobox element/isotopes stable | mn=44 | sym=Ca | na=2.086% | n=24 |firstlinks=no}}
+{{infobox element/isotopes decay | mn=45 | sym=Ca | na=[[synthetic radioisotope|syn]] | hl=[[1 E7 s|162.7&nbsp;d]] | dm=[[beta decay|β<sup>−</sup>]] | de=0.258 | link1=scandium-45 | pn=45 | ps=Sc}}
+{{infobox element/isotopes decay | mn=46 | sym=Ca | na=0.004% | hl=[[1 E19 s and more|>8.8×10<sup>22</sup>&nbsp;y]] | dm=([[double beta decay|β<sup>−</sup>β<sup>−</sup>]]) | de=0.988 | link1=titanium-46 | pn=46 | ps=Ti}}
+{{infobox element/isotopes decay2 | mn=47 | sym=Ca | na=syn | hl=[[1 E5 s|4.536&nbsp;d]]
+ | dm1=β<sup>−</sup> | de1=0.694, 1.99 | link1=scandium-47 | pn1=47 | ps1=Sc |
+dm2=[[gamma ray|γ]] | de2=1.297 | pn2= | ps2=– }}
+{{infobox element/isotopes decay2 | mn=48 | sym=Ca | na=0.187% | hl=[[1 E19 s and more|4.3×10<sup>19</sup>&nbsp;y]]
+ | dm1=β<sup>−</sup>β<sup>−</sup> | de1=4.274 | link1=titanium-48 | pn1=48 | ps1=Ti
+ | dm2=(β<sup>−</sup>) | de2=0.0058 | link2=scandium-48 | pn2=48 | ps2=Sc}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|discovery and first isolation by=[[Humphry Davy]]
+|discovery date=1808
+}}
 '''Koi''' (鈣) he yit-tsúng [[Fa-ho̍k]] [[Ngièn-su]], fa-ho̍k fù-ho vì '''Ca''', ngièn-tsṳ́ su-muk he '''20''', tshai [[Ngièn-su Tsû-khì péu]] chûng thi-ngi-sṳ̍p vi. 
 {{Ngièn-su Tsû-khì-péu}}
 
