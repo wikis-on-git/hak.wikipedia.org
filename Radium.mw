@@ -1,4 +1,74 @@
-[[File:Ra-TableImage.png|right|thumb|Radium]]
+{{Infobox element
+|number=88
+|symbol=Ra
+|name=radium
+|left= [[francium]]
+|right=[[actinium]]
+|above=[[barium|Ba]]
+|below=([[Unbinilium|Ubn]])
+|series=kán-thú kîm-su̍k
+|group=2
+|period=7
+|block=s
+|image name=Radium226.jpg
+|appearance=silvery white metallic
+|atomic mass=(226)
+|electron configuration=&#91;[[radon|Rn]]&#93; 7s<sup>2</sup>
+|electrons per shell=2, 8, 18, 32, 18, 8, 2
+|phase=ku-thí
+|density gpcm3nrt=5.5
+|melting point K=973
+|melting point C=700
+|melting point F=1292
+|melting point comment=''(disputed)''
+|boiling point K=2010
+|boiling point C=1737
+|boiling point F=3159
+|heat fusion=8.5
+|heat vaporization=113
+|vapor pressure 1=819
+|vapor pressure 10=906
+|vapor pressure 100=1037
+|vapor pressure 1 k=1209
+|vapor pressure 10 k=1446
+|vapor pressure 100 k=1799
+|vapor pressure comment=
+|crystal structure=body-centered cubic
+|oxidation states='''2'''
+|oxidation states comment=(expected to have a strongly [[base (chemistry)|basic]] oxide)
+|electronegativity=0.9
+|number of ionization energies=2
+|ionization energy 1=509.3
+|ionization energy 2=979.0
+|covalent radius=221±2
+|Van der Waals radius=283
+|magnetic ordering=nonmagnetic
+|electrical resistivity unit prefix=µ
+|electrical resistivity at 20=1
+|thermal conductivity=18.6
+|CAS number=7440-14-4
+|isotopes=
+{{infobox element/isotopes decay | mn=223 | sym=Ra
+ | na=[[trace radioisotope|trace]] | hl=11.43&nbsp;d
+ | dm=[[alpha emission|α]] | de=5.99 | link1=radon-219 | pn=219 | ps=Rn}}
+{{infobox element/isotopes decay | mn=224 | sym=Ra
+ | na=trace | hl=3.6319&nbsp;d
+ | dm=α | de=5.789 | link1=radon-220 | pn=220 | ps=Rn}}
+{{infobox element/isotopes decay | mn=225 | sym=Ra
+ | na=trace | hl=14.9&nbsp;d
+ | dm=[[beta emission|β<sup>−</sup>]] | de=0.356 | link1=actinium-225 | pn=225 | ps=Ac}}
+{{infobox element/isotopes decay | mn=226 | sym=Ra
+ | na=trace | hl=1600&nbsp;y
+ | dm=α | de=4.871 | link1=radon-222 | pn=222 | ps=Rn}}
+{{infobox element/isotopes decay | mn=228 | sym=Ra
+ | na=trace | hl=5.75&nbsp;y
+ | dm=β<sup>−</sup> | de=0.046 | link1=actinium-228 | pn=228 | ps=Ac}}
+|isotopes comment=
+|discovered by=[[Pierre Curie]] and [[Marie Curie]]
+|discovery date=1898
+|first isolation by=Marie Curie
+|first isolation date=1910
+}}
 '''Radium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Ra''', ngièn-chṳ́ su-muk he '''88'''.
 
 {{Ngièn-su chû-khì-péu}}
