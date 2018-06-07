@@ -1,10 +1,116 @@
-[[File:S-TableImage.svg|right|thumb|Liù]]
-[[File:Soufresicile2.jpg|right|thumb|250px|Liù-vòng]]
-[[File:Burning-sulfur.png|right|thumb|250px|Liù-vòng]]
-[[File:Sulfur.jpg|right|thumb|250px|Liù-vòng]]
-[[File:Cyclooctasulfur-above-3D-balls.png|right|thumb|200px|Liù-vòng]]
-
-'''Liù-vòng'''（硫磺） he yit-tsúng ngièn-su, tì ngièn-su tsû-khì péu chûng ke [[Fa-ho̍k]] fù-ho he '''S''' Lâ-tên-ngî: "Sulfur" ke sok-siá. Liù-vòng he yit-tsúng fî-sòng sòng-kien ke mò-mi ke [[Fî-kîm-su̍k]], sùn-tsṳn ke liù-vòng he [[vòng-set]] tsṳ̂ thí-kiet. Liù-vòng yû tô-lui ke fa-ha̍p-ka, sòng-kien ke yû -2, 0, +4, +6 tén-tén. Tshṳ-yèn-kie kîn-sòng yû Liù-fa-vu̍t fe̍t-tsá Liù-sôn-yàm ke hìn-sṳt tshut-hien, ya-voi tshai [[fó-sân]] thi-khî sùn-tsṳ̂n ke liù-vòng tì tshṳ-yèn-kie tshut-hien。
+{{Infobox element
+|name=Liù-vòng
+|enname=sulfur
+|alt name = 
+|alt names =
+|number=16
+|symbol=S
+|left=[[Lìn]]
+|right=[[Liu̍k]]
+|above=[[Yông|O]]
+|below=[[selenium|Se]]
+|series=tô-ngièn-chṳ́ fî-kîm-su̍k
+|series comment=
+|group=16
+|period=3
+|block=p
+|series color=
+|appearance=lemon yellow sintered microcrystals
+|image name=Sulfur-sample.jpg
+|image size=
+|image name comment=
+|image name 2=Sulfur Spectrum.jpg
+|image name 2 comment=Spectral lines of sulfur
+|atomic mass=32.06 
+|atomic mass ref=<ref name="CIAAW">[http://www.ciaaw.org/pubs/TSAW2013_xls.xls Conventional Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=
+|atomic mass comment=(32.059–32.076)<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|electron configuration=&#91;[[neon|Ne]]&#93; 3s<sup>2</sup> 3p<sup>4</sup>
+|electrons per shell=2, 8, 6
+|color=
+|phase=ku-thí
+|phase comment=
+|density gplstp=
+|density gpcm3nrt=alpha: 2.07
+|density gpcm3nrt 2=beta: 1.96
+|density gpcm3nrt 3=gamma: 1.92
+|density gpcm3mp=1.819
+|melting point K=388.36
+|melting point C=115.21
+|melting point F=239.38
+|boiling point K=717.8
+|boiling point C=444.6
+|boiling point F=832.3
+|triple point K=
+|triple point kPa=
+|critical point K=1314
+|critical point MPa=20.7
+|heat fusion=mono: 1.727
+|heat fusion 2=
+|heat vaporization=mono: 45
+|heat capacity=22.75
+|vapor pressure 1=375
+|vapor pressure 10=408
+|vapor pressure 100=449
+|vapor pressure 1 k=508
+|vapor pressure 10 k=591
+|vapor pressure 100 k=717
+|vapor pressure comment=
+|crystal structure=orthorhombic
+|oxidation states='''6''', 5, '''4''', 3, '''2''', [[Disulfur dichloride|1]], −1, '''−2'''
+|oxidation states comment=(a&nbsp;strongly [[acid]]ic oxide)
+|electronegativity=2.58
+|number of ionization energies=4
+|ionization energy 1=999.6
+|ionization energy 2=2252
+|ionization energy 3=3357
+|atomic radius=
+|atomic radius calculated=
+|covalent radius=105±3
+|Van der Waals radius=180
+|magnetic ordering=[[diamagnetic]]
+|magnetic ordering ref=<ref name=magnet>{{cite book| url=http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf | title=Magnetic susceptibility of the elements and inorganic compounds, in Handbook of Chemistry and Physics| publisher=CRC press| isbn=0849304814| year=2000}}</ref>
+|electrical resistivity=
+|electrical resistivity at 0=
+|electrical resistivity at 20=2&times;10<sup>15</sup>&nbsp;
+|electrical resistivity at 20 comment=(amorphous)
+|thermal conductivity=0.205
+|thermal conductivity comment=(amorphous)
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=
+|speed of sound=
+|speed of sound rod at 20=
+|speed of sound rod at r.t.=
+|Young's modulus=
+|Shear modulus=
+|Bulk modulus=7.7
+|Poisson ratio=
+|Mohs hardness=2.0
+|Vickers hardness=
+|Brinell hardness=
+|CAS number=7704-34-9
+|isotopes=
+{{Infobox element/isotopes stable | mn=32 | sym=S | na=95.02% | n=16 |firstlinks=yes}}
+{{Infobox element/isotopes stable | mn=33 | sym=S | na=0.75% | n=17 |firstlinks=no}}
+{{Infobox element/isotopes stable | mn=34 | sym=S | na=4.21% | n=18 |firstlinks=no}}
+{{infobox element/isotopes decay | mn=35 | sym=S | na=[[synthetic radioisotope|syn]] | hl=[[1 E6 s|87.32&nbsp;d]] | dm=[[beta emission|β<sup>−</sup>]] | de=0.167 | link1=chlorine-35 | pn=35 | ps=Cl}}
+{{Infobox element/isotopes stable | mn=36 | sym=S | na=0.02% | n=20 |firstlinks=no}}
+|isotopes comment=
+<!-- HISTORY -->
+|predicted by=
+|prediction date=
+|discovered by=[[Ancient_china#Ancient_era|Chinese]]<ref>{{cite web|url=http://www.georgiagulfsulfur.com/sulfur/history |title=Sulfur History |publisher=Georgiagulfsulfur.com |date= |accessdate=2008-09-12}}</ref>
+|discovery date=before 2000 BCE
+|first isolation by=
+|first isolation date=
+|named by=
+|named date=
+|history comment label=Recognized as an [[chemical element|element]] by
+|history comment=[[Antoine Lavoisier]] (1777)
+}}
+'''Liù-vòng''' (硫磺) he yit-tsúng ngièn-su, tì ngièn-su tsû-khì péu chûng ke [[Fa-ho̍k]] fù-ho he '''S''' Lâ-tên-ngî: "Sulfur" ke sok-siá. Liù-vòng he yit-tsúng fî-sòng sòng-kien ke mò-mi ke [[Fî-kîm-su̍k]], sùn-tsṳn ke liù-vòng he [[vòng-set]] tsṳ̂ thí-kiet. Liù-vòng yû tô-lui ke fa-ha̍p-ka, sòng-kien ke yû -2, 0, +4, +6 tén-tén. Tshṳ-yèn-kie kîn-sòng yû Liù-fa-vu̍t fe̍t-tsá Liù-sôn-yàm ke hìn-sṳt tshut-hien, ya-voi tshai [[fó-sân]] thi-khî sùn-tsṳ̂n ke liù-vòng tì tshṳ-yèn-kie tshut-hien.
 {{Ngièn-su Tsû-khì-péu}}
 
 [[Category:Fî-kîm-su̍k]]
