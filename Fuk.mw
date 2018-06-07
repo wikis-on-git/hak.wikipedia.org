@@ -1,4 +1,134 @@
-[[File:F-TableImage.svg|right|thumb|Fuk]]
+{{infobox element
+|name=Fuk
+|enname=fluorine
+|number=9
+|symbol=F
+|allotropes=alpha, beta
+|left=[[Yông]]
+|right=[[Nái]]
+|above=–
+|below=[[Liu̍k|Cl]]
+|series=sûng-ngièn-chṳ́ fî-kîm-su̍k
+|series comment=
+|group=17
+|period=2
+|block=p
+|series color=
+|appearance=gas: very pale yellow<br>liquid: bright yellow<br>solid: alpha is opaque, beta is transparent
+|image name=Liquid fluorine tighter crop.jpg
+|image name comment=Liquid fluorine at [[Cryogenics|cryogenic]] temperatures
+|image alt=Small sample of pale yellow liquid fluorine condensed in liquid nitrogen
+|image name 2=
+|image name 2 comment=
+|image alt 2=
+|atomic mass=18.998403163
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm 2013 Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=6
+|atomic mass comment=
+|electron configuration=&#91;[[Helium|He]]&#93; 2s<sup>2</sup> 2p<sup>5</sup>
+|electron configuration ref={{sfn|Jaccaud et al.|2000|p=381}}
+|electrons per shell=2, 7
+|color=
+|phase=hi-thí
+|phase comment=
+|density gplstp=1.696
+|density gplstp ref={{sfn|Jaccaud et al.|2000| p=382}}
+|density gpcm3nrt=
+|density gpcm3nrt 2=
+|density gpcm3mp=
+|density gpcm3bp=1.505
+|density gpcm3bp ref={{sfn|Compressed Gas Association|1999|p=365}}
+|melting point K=53.48
+|melting point C=&minus;219.67
+|melting point F=&minus;363.41
+|melting point ref={{sfn|Haynes|2011|p=4.121}}
+|boiling point K=85.03
+|boiling point C=&minus;188.11
+|boiling point F=&minus;306.60
+|boiling point ref={{sfn|Haynes|2011|p=4.121}}
+|triple point K=53.48
+|triple point kPa=90
+|triple point ref={{sfn|Haynes|2011|p=4.121}}
+|critical point K=144.41
+|critical point MPa=5.1724
+|critical point ref={{sfn|Haynes|2011|p=4.121}}
+|heat fusion 2=
+|heat vaporization=6.51
+|heat vaporization ref={{sfn|Jaccaud et al.|2000|p=382}}
+|heat capacity=C<sub>p</sub>: 31
+|heat capacity comment=(at&nbsp;21.1&nbsp;°C)
+|heat capacity ref={{sfn|Compressed Gas Association|1999|p=365}}
+|heat capacity 2=C<sub>v</sub>: 23
+|heat capacity 2 comment=(at&nbsp;21.1&nbsp;°C)
+|heat capacity 2 ref={{sfn|Compressed Gas Association|1999|p=365}}
+|vapor pressure 1=38
+|vapor pressure 10=44
+|vapor pressure 100=50
+|vapor pressure 1 k=58
+|vapor pressure 10 k=69
+|vapor pressure 100 k=85
+|vapor pressure comment=
+|crystal structure prefix=
+|crystal structure=cubic
+|crystal structure ref=
+|crystal structure comment=
+|oxidation states='''−1'''
+|oxidation states comment=(oxidizes oxygen)
+|electronegativity=3.98
+|electronegativity ref={{sfn|Jaccaud et al.|2000|p=381}}
+|number of ionization energies=4
+|ionization energy 1=1681
+|ionization energy 2=3374
+|ionization energy 3=6147
+|ionization energy ref={{sfn|Dean|1999|p=4.6}}
+|atomic radius=
+|atomic radius calculated=
+|covalent radius=64
+|covalent radius ref={{sfn|Dean|1999|p=4.35}}
+|Van der Waals radius=135
+|Van der Waals radius ref={{sfn|Matsui|2006|p=257}}
+|covalent radius comment=
+|magnetic ordering=[[diamagnetic]] (−1.2×10<sup>−4</sup>)
+|magnetic ordering ref={{sfn|Mackay|Mackay|Henderson|2002|p=72}}{{sfn|Cheng et al.|1999}}
+|electrical resistivity=
+|electrical resistivity at 0=
+|electrical resistivity at 20=
+|thermal conductivity=0.02591
+|thermal conductivity ref={{sfn|Yaws|Braker|2001|p=385}}
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=
+|speed of sound=
+|speed of sound rod at 20=
+|speed of sound rod at r.t.=
+|Young's modulus=
+|Shear modulus=
+|Bulk modulus=
+|Poisson ratio=
+|Mohs hardness=
+|Vickers hardness=
+|Brinell hardness=
+|CAS number=7782-41-4
+|CAS number ref={{sfn|Jaccaud et al.|2000|p=381}}
+|isotopes=
+{{infobox element/isotopes decay2 | link=Fluorine-18 | mn=18 | sym=F | na=[[trace radioisotope|trace]] | hl=109.77&nbsp;min
+ | dm1=[[positron emission|β<sup>+</sup>]] (96.9%) | de1=0.634 | link1=oxygen-18 | pn1=18 | ps1=O
+ | dm2=[[electron capture|ε]] (3.1%) | de2=1.656 | pn2=18 | ps2=O }}
+{{Infobox element/isotopes stable | link=Fluorine-19 | mn=19 | sym=F | na=100% | n=10 |firstlinks=yes}}
+|isotopes ref={{sfn|Chisté|Bé|2011}}
+|naming=after the mineral [[fluorite]], itself named after Latin ''{{lang|la|fluo}}'' (to flow, in smelting)
+|predicted by=
+|prediction date=
+|discovered by=[[André-Marie Ampère]]
+|discovery date=1810
+|first isolation by=[[Henri Moissan]]{{sfn|Jaccaud et al.|2000| p=381}}
+|first isolation date=June 26, 1886
+|named by=[[Humphry Davy]]
+|named date=
+|history comment label=
+|history comment=
+}}
 '''Fuk''' (氟) he yit-tsúng [[Fa-ho̍k]] [[Ngièn-su]], fa-ho̍k fù-ho vì '''F''', ngièn-tsṳ́ su-muk he '''9''', tshai [[Ngièn-su Tsû-khì péu]] chûng thi-kiú vi.
 {{Ngièn-su Tsû-khì-péu}}
 
