@@ -1,4 +1,129 @@
-[[File:Pu-TableImage.png|right|thumb|Plutonium]]
+{{infobox element
+|name=plutonium
+|number=94
+|symbol=Pu
+|left=[[neptunium]]
+|right=[[americium]]
+|above=[[samarium|Sm]]
+|below=(Uqh)
+|series=actinium-hi
+|series comment=
+|group=n/a
+|period=7
+|block=f
+|series color=
+|appearance=silvery white, tarnishing to dark gray in air
+|image name=Plutonium3.jpg
+|image alt=Two shiny pellets of Pu about 3 cm in diameter.
+|image size=
+|image name comment=
+|image name 2=
+|image size 2=
+|image name 2 comment=
+|atomic mass=(244)
+|atomic mass 2=
+|atomic mass comment=
+|electron configuration=&#91;[[radon|Rn]]&#93; 5f<sup>6</sup> 7s<sup>2</sup>
+|electrons per shell=2, 8, 18, 32, 24, 8, 2
+|color=
+|phase=ku-thí
+|phase comment=
+|density gplstp=
+|density gpcm3nrt=19.816
+|density gpcm3nrt 2=
+|density gpcm3nrt 3=
+|density gpcm3mp=16.63
+|melting point K=912.5
+|melting point C=639.4
+|melting point F=1182.9
+|sublimation point K=
+|sublimation point C=
+|sublimation point F=
+|boiling point K=3505
+|boiling point C=3228
+|boiling point F=5842
+|triple point K=
+|triple point kPa=
+|critical point K=
+|critical point MPa=
+|heat fusion=2.82
+|heat fusion 2=
+|heat vaporization=333.5
+|heat capacity=35.5
+|vapor pressure 1=1756
+|vapor pressure 10=1953
+|vapor pressure 100=2198
+|vapor pressure 1 k=2511
+|vapor pressure 10 k=2926
+|vapor pressure 100 k=3499
+|vapor pressure comment=
+|crystal structure=monoclinic
+|oxidation states=8, 7, 6, 5, '''4''', 3, 2, 1
+|oxidation states comment=(an [[amphoterism|amphoteric]] oxide)
+|electronegativity=1.28
+|number of ionization energies=1
+|ionization energy 1=584.7
+|ionization energy 2=
+|ionization energy 3=
+|atomic radius=159
+|atomic radius calculated=
+|covalent radius=187±1
+|Van der Waals radius=
+|magnetic ordering=[[paramagnetic]]
+|magnetic ordering ref=
+|electrical resistivity=
+|electrical resistivity unit prefix=µ
+|electrical resistivity at 0=1.460
+|electrical resistivity at 20=
+|thermal conductivity=6.74
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=46.7
+|speed of sound=2260
+|speed of sound rod at 20=
+|speed of sound rod at r.t.=
+|tensile strength=
+|Young's modulus=96
+|Shear modulus=43
+|Bulk modulus=
+|Poisson ratio=0.21
+|Mohs hardness=
+|Vickers hardness=
+|Brinell hardness=
+|CAS number=7440-07-5
+|isotopes=
+{{infobox element/isotopes decay2 | link=Plutonium-238 | mn=238 | sym=Pu
+ | na=[[trace radioisotope|trace]] | hl=[[1 E9 s|87.74&nbsp;y]]
+ | dm1=[[spontaneous fission|SF]] | de1=204.66{{sfn|Magurno|Pearlstein|1981|pp=835 ff}}
+| pn1= | ps1=–
+ | dm2=[[alpha emission|α]] | de2=5.5 | link2=uranium-234 | pn2=234 | ps2=U}}
+{{infobox element/isotopes decay2 | link=Plutonium-239 | mn=239 | sym=Pu
+ | na=trace | hl=[[1 E12 s|2.41×10<sup>4</sup>&nbsp;y]]
+ | dm1=SF | de1=207.06 | pn1= | ps1=–
+ | dm2=α | de2=5.157 | link2=uranium-235 | pn2=235 | ps2=U}}
+{{infobox element/isotopes decay2 | link=Plutonium-240 | mn=240 | sym=Pu
+ | na=trace | hl=[[1 E12 s|6.5×10<sup>3</sup>&nbsp;y]]
+ | dm1=SF | de1=205.66 | pn1= | ps1=–
+ | dm2=α | de2=5.256 | link2=uranium-236 | pn2=236 | ps2=U}}
+{{infobox element/isotopes decay2 | link=plutonium-241 | mn=241 | sym=Pu
+ | na=[[synthetic radioisotope|syn]] | hl=[[1 E6 s|14&nbsp;y]]
+ | dm1=[[beta emission|β<sup>−</sup>]] | de1=0.02078 | link1=americium-241 | pn1=241 | ps1=Am
+ | dm2=SF | de2=210.83 | pn2= | ps2=–
+ | dm3=[[beta emission|β]] | de3=– | link3=americium-241 | pn3=241 | ps3=Am}}
+{{infobox element/isotopes decay2 | link=Plutonium-242 | mn=242 | sym=Pu
+ | na=syn | hl=[[1 E13 s|3.73×10<sup>5</sup>&nbsp;y]]
+ | dm1=SF | de1=209.47 | pn1= | ps1=–
+ | dm2=α | de2=4.984 | link2=uranium-238 | pn2=238 | ps2=U}}
+{{infobox element/isotopes decay2 | link=Plutonium-244 | mn=244 | sym=Pu
+ | na=trace | hl=[[1 E15 s|8.08×10<sup>7</sup>&nbsp;y]]
+ | dm1=α | de1=4.666 | link1=uranium-240 | pn1=240 | ps1=U
+ | dm2=SF | de2= | pn2= | ps2=– }}
+|isotopes comment=
+|naming=after [[dwarf planet]] [[Pluto]], itself named after [[classical mythology|classical]] god of the underworld [[Pluto (mythology)|Pluto]]
+|discovered by=[[Glenn T. Seaborg]], [[Arthur Wahl]], [[Joseph W. Kennedy]], [[Edwin McMillan]]
+|discovery date=1940–1
+}}
 '''Plutonium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Pu''', ngièn-chṳ́ su-muk he '''94'''.
 
 {{Ngièn-su chû-khì-péu}}
