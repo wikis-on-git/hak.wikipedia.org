@@ -1,8 +1,104 @@
-[[File:Be-TableImage.svg|right|thumb|Beryllium]]
-[[File:Beryllium OreUSGOV.jpg|right|thumb|350px|Beryllium]]
-[[File:Be foils.jpg|right|thumb|300px|Beryllium]]
-[[File:Be-140g.jpg|right|thumb|300px|Beryllium]]
-[[File:Beryllium.jpg|right|thumb|300px|Beryllium]]
+{{Infobox element
+|name=beryllium
+|number=4
+|symbol=Be
+|left=[[Lithium]]
+|right=[[Phìn]]
+|above=–
+|below=[[magnesium|Mg]]
+|series=Kán-thú kîm-su̍k
+|series comment=
+|group=2
+|period=2
+|block=s
+|series color=
+|appearance=white-gray metallic
+|image name=Be-140g.jpg
+|image name comment=
+|image size=150px
+|image name 2=
+|image name 2 comment=
+|atomic mass=9.0121831
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=5
+|atomic mass comment=
+|electron configuration=&#91;[[Helium|He]]&#93; 2s<sup>2</sup>
+|electrons per shell=2, 2
+|color=
+|phase=ku-thí
+|phase comment=
+|density gplstp=
+|density gpcm3nrt=1.85
+|density gpcm3mp=1.690
+|melting point K=1560
+|melting point C=1287
+|melting point F=2349
+|boiling point K=2742
+|boiling point C=2469
+|boiling point F=4476
+|triple point K=
+|triple point kPa=
+|critical point K=5205
+|critical point MPa=
+|critical point comment=''(extrapolated)''
+|heat fusion=12.2
+|heat vaporization=292
+|heat capacity=16.443
+|vapor pressure 1=1462
+|vapor pressure 10=1608
+|vapor pressure 100=1791
+|vapor pressure 1 k=2023
+|vapor pressure 10 k=2327
+|vapor pressure 100 k=2742
+|vapor pressure comment=
+|crystal structure=hexagonal close packed
+|space group = P6_{3}/mmc
+|lattice constants = 228.58pm 228.58pm 358.43pm <ref>{{cite web|url=http://www.periodictable.com/Elements/004/data.html}}</ref>
+|oxidation states='''+2''', +1<ref>{{cite web|url=http://bernath.uwaterloo.ca/media/252.pdf|title=Beryllium: Beryllium(I) Hydride compound data|accessdate=2007-12-10|publisher=bernath.uwaterloo.ca}}</ref>
+|oxidation states comment=(an [[amphoterism|amphoteric]] oxide)
+|electronegativity=1.57
+|number of ionization energies=4
+|ionization energy 1=899.5
+|ionization energy 2=1757.1
+|ionization energy 3=14,848.7
+|atomic radius=112
+|atomic radius calculated=
+|covalent radius=96±3
+|Van der Waals radius=153
+|magnetic ordering=[[diamagnetism|diamagnetic]]
+|electrical resistivity unit prefix=n
+|electrical resistivity at 0=
+|electrical resistivity at 20=36
+|thermal conductivity=200
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=11.3
+|speed of sound=
+|speed of sound rod at r.t.=12,890
+|speed of sound rod at r.t. ref=<ref>{{RubberBible92nd|page=14.48}}</ref>
+|Young's modulus=287
+|Shear modulus=132
+|Bulk modulus=130
+|Poisson ratio=0.032
+|Mohs hardness=5.5
+|Vickers hardness=1670
+|Brinell hardness=590–1320
+|CAS number=7440-41-7
+|isotopes=
+{{infobox element/isotopes decay2 | mn=7 | sym=Be | na=[[trace radioisotope|trace]] | hl=53.12&nbsp;d | dm1=[[electron capture|ε]] | de1=0.862 | link1=lithium-7 | pn1=7 | ps1=Li
+ | dm2=[[gamma radiation|γ]] | de2=0.477 | pn2= | ps2=– }}
+{{Infobox element/isotopes stable | mn=9 | sym=Be | na=100% | n=5 |firstlinks=yes}}
+{{infobox element/isotopes decay | mn=10 | sym=Be | na=trace | link=Beryllium-10 | hl=1.36&times;10<sup>6</sup>&nbsp;y | dm=[[beta emission|β<sup>−</sup>]] | de=0.556 | link1=boron-10 | pn=10 | ps=B}}
+|predicted by=
+|prediction date=
+|discovered by=[[Louis Nicolas Vauquelin]]
+|discovery date=1797
+|first isolation by=[[Friedrich Wöhler]] & [[Antoine Bussy]]
+|first isolation date=1828
+|history comment label=
+|history comment=
+}}
 '''Beryllium''' he yit-chúng [[fa-ho̍k]] [[ngièn-su]], fa-ho̍k fù-ho vì '''Be''', ngièn-chṳ́ su-muk he '''4''', chhai [[ngièn-su chû-khì-péu]] lî-tú phài thi 4 vi.
 {{ngièn-su chû-khì-péu}}
 
