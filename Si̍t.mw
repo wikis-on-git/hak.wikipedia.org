@@ -1,8 +1,119 @@
-[[File:Si-TableImage.svg|right|thumb|Si̍t]]
-[[File:SiliconCroda.jpg|right|thumb|Si̍t]]
-[[File:Monokristalines Silizium für die Waferherstellung.jpg|right|thumb|Si̍t]]
-[[File:Silicon wafer with mirror finish.jpg|right|thumb|Si̍t]]
-
+{{Infobox element
+|name=Si̍t
+|enname=silicon
+|alt name=
+|number=14
+|symbol=Si
+|appearance=crystalline, reflective with bluish-tinged faces
+|image name=SiliconCroda.jpg
+|image size=
+|image name comment=
+|image name 2=Silicon Spectra.jpg
+|image name 2 comment=Spectral lines of silicon
+|left=[[Lî]]
+|right=[[Lìn]]
+|above=[[Than|C]]
+|below=[[germanium|Ge]]
+|series=lui-kîm-su̍k
+|series comment=
+|group=14
+|period=3
+|block=p
+|series color=
+|atomic mass=28.085
+|atomic mass ref=<ref name="CIAAW">[http://www.ciaaw.org/pubs/TSAW2013_xls.xls Conventional Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=
+|atomic mass comment=(28.084–28.086)<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|electron configuration=&#91;[[neon|Ne]]&#93; 3s<sup>2</sup> 3p<sup>2</sup>
+|electrons per shell=2, 8, 4
+|color=
+|phase=ku-thí
+|phase comment=
+|density gplstp=
+|density gpcm3nrt=2.3290
+|density gpcm3nrt 2=
+|density gpcm3mp=2.57
+|melting point K=1687
+|melting point C=1414
+|melting point F=2577
+|boiling point K=3538
+|boiling point C=3265
+|boiling point F=5909
+|triple point K=
+|triple point kPa=
+|critical point K=
+|critical point MPa=
+|heat fusion=50.21
+|heat fusion 2=
+|heat vaporization=383
+|heat capacity=19.789
+|vapor pressure 1=1908
+|vapor pressure 10=2102
+|vapor pressure 100=2339
+|vapor pressure 1 k=2636
+|vapor pressure 10 k=3021
+|vapor pressure 100 k=3537
+|vapor pressure comment=
+|crystal structure=diamond cubic
+|oxidation states='''4''', 3, 2, 1<ref>{{cite journal|author=Ram, R. S.|title=Fourier Transform Emission Spectroscopy of the A2D–X2P Transition of SiH and SiD|url=http://bernath.uwaterloo.ca/media/184.pdf |journal=J. Mol. Spectr. |volume=190|pages=341–352|year=1998|pmid=9668026|display-authors=etal}}</ref> −1, −2, −3, '''−4'''
+|oxidation states comment=(an [[amphoterism|amphoteric]] oxide)
+|electronegativity=1.90
+|number of ionization energies=4
+|ionization energy 1=786.5
+|ionization energy 2=1577.1
+|ionization energy 3=3231.6
+|atomic radius=111
+|atomic radius calculated=
+|covalent radius=111
+|Van der Waals radius=210
+|magnetic ordering=[[Diamagnetism|diamagnetic]]
+|magnetic ordering ref=<ref>[http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf Magnetic susceptibility of the elements and inorganic compounds], in {{RubberBible86th}}</ref>
+|electrical resistivity=
+|electrical resistivity at 0=
+|electrical resistivity at 20=2.3{{e|3}}
+|electrical resistivity at 20 ref=<ref name="Eranna2014">{{cite book|author=Eranna, Golla |title=Crystal Growth and Evaluation of Silicon for VLSI and ULSI|url=http://books.google.com/books?id=bo6ZBQAAQBAJ&pg=PA7|date=2014|publisher=CRC Press|isbn=978-1-4822-3281-3|page=7}}</ref>
+|thermal conductivity=149
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=2.6
+|speed of sound=
+|speed of sound rod at 20=8433<!-- Source : Elastic Waves in Solids, by E. Dieulesaint and D. Royer -->
+|speed of sound rod at r.t.=
+|Young's modulus=130–188
+|Young's modulus ref=<ref name=hopcroft>{{cite journal
+ |doi=10.1109/JMEMS.2009.2039697|title=What is the Young's Modulus of Silicon?
+ |year=2010
+ |last1=Hopcroft|first1=Matthew A.|last2=Nix|first2=William D.|last3=Kenny|first3=Thomas W.
+ |journal=Journal of Microelectromechanical Systems|volume=19|issue=2|pages=229
+ |url=http://silicon.reddogresearch.com/}}</ref>
+|Shear modulus=51–80
+|Shear modulus ref=<ref name=hopcroft/>
+|Bulk modulus=97.6
+|Bulk modulus ref=<ref name=hopcroft/>
+|Poisson ratio=0.064–0.28
+|Poisson ratio ref=<ref name=hopcroft/>
+|Mohs hardness=7
+|Vickers hardness=
+|Brinell hardness=
+|CAS number=7440-21-3
+|band gap=1.12
+|isotopes=
+{{Infobox element/isotopes stable | mn=28 | sym=Si | na=92.23% | n=14 |firstlinks=yes}}
+{{Infobox element/isotopes stable | mn=29 | sym=Si | na=4.67% | n=15 |firstlinks=no}}
+{{Infobox element/isotopes stable | mn=30 | sym=Si | na=3.1% | n=16 |firstlinks=no}}
+{{infobox element/isotopes decay | mn=32 | sym=Si | na=[[trace radioisotope|trace]] | hl=[[1 E9 s|153&nbsp;y]] | dm=[[beta emission|β<sup>−</sup>]] | de=13.020 | link1=phosphorus-32 | pn=32 | ps=P }}
+|isotopes comment=
+|predicted by=[[Antoine Lavoisier]]
+|prediction date=1787
+|discovery and first isolation by=[[Jöns Jacob Berzelius]]<ref>{{cite journal|title=The discovery of the elements: XII. Other elements isolated with the aid of potassium and sodium: beryllium, boron, silicon, and aluminum|last=Weeks|first=Mary Elvira|authorlink=Mary Elvira Weeks|year=1932|journal=Journal of Chemical Education|volume=9|issue=8|pages=1386–1412|bibcode=1932JChEd...9.1386W |doi=10.1021/ed009p1386 }}</ref><ref>{{cite journal| year=2007| journal=Russian Journal of Applied Chemistry| doi=10.1134/S1070427207120397|title=Silicon era|last1=Voronkov|first1=M. G.|volume=80|page=2190| issue=12}}</ref>
+|discovery date=1823
+|naming=after Latin 'silex' or 'silicis', meaning [[flint]]
+|named by= [[Thomas Thomson (chemist)|Thomas Thomson]]
+|named date=1817
+|history comment label=
+|history comment=
+}}
 '''Si̍t ''' (矽) he yit-tsúng [[Fa-ho̍k]] [[Ngièn-su]], fa-ho̍k fù-ho vì '''Si''', ngièn-tsṳ́ su-muk he '''14''', tshai [[Ngièn-su Tsû-khì péu]] chûng thi sṳ̍p-si vi. 
 
 ==Chhâm-kháu ==
