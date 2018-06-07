@@ -1,4 +1,84 @@
-[[File:La-TableImage.png|right|thumb|Lanthanum]]
+{{Infobox element
+|number=57
+|symbol=La
+|name=lanthanum
+|left=[[barium]]
+|right=[[cerium]]
+|above=–
+|below=[[actinium|Ac]]
+|series=lanthanum-hi
+|series comment=sometimes considered a [[transition metal]]
+|period=6
+|group=n/a
+|block=f
+|image name=Lanthanum-2.jpg
+|appearance=silvery white
+|atomic mass=138.90547
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=7
+|atomic mass comment=
+|electron configuration=&#91;[[xenon|Xe]]&#93; 5d<sup>1</sup> 6s<sup>2</sup>
+|electrons per shell=2, 8, 18, 18, 9, 2
+|phase=ku-thí
+|density gpcm3nrt=6.162
+|density gpcm3mp=5.94
+|melting point K=1193
+|melting point C=920
+|melting point F=1688
+|boiling point K=3737
+|boiling point C=3464
+|boiling point F=6267
+|heat fusion=6.20
+|heat vaporization=400
+|heat capacity=27.11
+|vapor pressure 1=2005
+|vapor pressure 10=2208
+|vapor pressure 100=2458
+|vapor pressure 1 k=2772
+|vapor pressure 10 k=3178
+|vapor pressure 100 k=3726
+|vapor pressure comment=(extrapolated)
+|crystal structure=double hexagonal close packed
+|oxidation states='''3''', 2, 1
+|oxidation states comment=(a strongly [[base (chemistry)|basic]] oxide)
+|electronegativity=1.10
+|number of ionization energies=3
+|ionization energy 1=538.1
+|ionization energy 2=1067
+|ionization energy 3=1850.3
+|atomic radius=187
+|covalent radius=207±8
+|magnetic ordering=[[paramagnetic]]
+|magnetic ordering ref=<ref name=magnet>{{cite book |url=http://web.archive.org/web/20110303222309/http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf|chapter=Magnetic susceptibility of the elements and inorganic compounds| editor = Lide, D. R. | title = CRC Handbook of Chemistry and Physics | edition = 86th | location = Boca Raton (FL) | publisher = CRC Press | year = 2005 | isbn = 0-8493-0486-5 }}
+</ref>
+|electrical resistivity unit prefix=n
+|electrical resistivity=α, poly: 615
+|electrical resistivity comment=(at&nbsp;{{abbr|r.t.|room temperature}})
+|thermal conductivity=13.4
+|thermal expansion=α, poly: 12.1
+|thermal expansion comment=(at&nbsp;{{abbr|r.t.|room temperature}})
+|speed of sound rod at 20=2475
+|Young's modulus=α form: 36.6
+|Shear modulus=α form: 14.3
+|Bulk modulus=α form: 27.9
+|Poisson ratio=α form: 0.280
+|Mohs hardness=2.5
+|Vickers hardness=360–1750
+|Brinell hardness=350–400
+|CAS number=7439-91-0
+|isotopes=
+{{infobox element/isotopes decay | mn=137 | sym=La
+ | na=[[synthetic radioisotope|syn]] | hl=[[1 E8 s|6×10<sup>4</sup>&nbsp;y]]
+ | dm=[[electron capture|ε]] | de=0.600 | link1=barium-137 | pn=137 | ps=Ba}}
+{{infobox element/isotopes decay2 | mn=138 | sym=La
+ | na=0.090% | hl=[[1 E16 s|1.05&times;10<sup>11</sup>&nbsp;y]]
+ | dm1=ε | de1=1.737 | link1=barium-138 | pn1=138 | ps1=Ba
+ | dm2=[[beta emission|β<sup>−</sup>]] | de2=1.044 | link2=cerium-138 | pn2=138 | ps2=Ce}}
+{{infobox element/isotopes decay | mn=139 | sym=La | na=99.910% | hl=– | dm=([[spontaneous fission|SF]]) | de=<38.944 | pn= | ps= }}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|discovered by=[[Carl Gustaf Mosander]]
+|discovery date=1838
+}}
 '''Lanthanum''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''La''', ngièn-chṳ́ su-muk he '''57'''.
 
 {{Ngièn-su chû-khì-péu}}
