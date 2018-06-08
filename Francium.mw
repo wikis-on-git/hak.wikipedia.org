@@ -1,4 +1,72 @@
-[[File:Fr-TableImage.png|right|thumb|Francium]]
+{{infobox element
+|number=87
+|symbol=Fr
+|name=francium
+|left=[[radon]]
+|right=[[radium]]
+|above=[[caesium|Cs]]
+|below=([[Ununennium|Uue]])
+|series=kán-kîm-su̍k
+|group=1
+|period=7
+|block=s
+|appearance=
+|atomic mass=(223)
+|electron configuration=&#91;[[radon|Rn]]&#93; 7s<sup>1</sup>
+|electrons per shell=2, 8, 18, 32, 18, 8, 1
+|phase=ku-thí
+|phase comment=presumably
+|density gpcm3nrt=1.87
+|density gpcm3nrt comment=''(extrapolated)''
+|melting point K=? 300
+|melting point C=27
+|melting point F=80
+|boiling point K=? 950
+|boiling point C=677
+|boiling point F=1250
+|heat fusion=ca. 2
+|heat vaporization=ca. 65
+|vapor pressure 1=404
+|vapor pressure 10=454
+|vapor pressure 100=519
+|vapor pressure 1 k=608
+|vapor pressure 10 k=738
+|vapor pressure 100 k=946
+|vapor pressure comment=''(extrapolated)''
+|crystal structure=body-centered cubic
+|crystal structure comment=''(extrapolated)''
+|oxidation states='''+1'''
+|oxidation states comment=(a&nbsp;strongly [[base (chemistry)|basic]] oxide)
+|electronegativity=0.7
+|number of ionization energies=1
+|ionization energy 1=393<ref>ISOLDE Collaboration, J. Phys. B 23, 3511 (1990) ([http://iopscience.iop.org/0953-4075/23/20/014/pdf/0953-4075_23_20_014.pdf PDF online])</ref>
+|covalent radius=260
+|covalent radius comment=''(extrapolated)''
+|Van der Waals radius=348
+|Van der Waals radius comment=''(extrapolated)''
+|magnetic ordering=Paramagnetic
+|electrical resistivity=3
+|electrical resistivity unit prefix=µ
+|electrical resistivity comment=''(calculated)''
+|thermal conductivity=15
+|thermal conductivity comment=''(extrapolated)''
+|CAS number=7440-73-5
+|isotopes=
+{{infobox element/isotopes decay | mn=221 | sym=Fr
+ | na=[[trace radioisotope|trace]] | hl=4.8&nbsp;min
+ | dm=[[alpha emission|α]] | de=6.457 | link1=astatine-217 | pn=217 | ps=At}}
+{{infobox element/isotopes decay | mn=222 | sym=Fr
+ | na=[[synthetic radioisotope|syn]] | hl=14.2&nbsp;min
+ | dm=[[beta emission|β<sup>−</sup>]] | de=2.033 | link1=radium-222 | pn=222 | ps=Ra}}
+{{infobox element/isotopes decay2 | mn=223 | sym=Fr
+ | na=trace | hl=22.00&nbsp;min
+ | dm1=β<sup>−</sup> | de1=1.149 | link1=radium-223 | pn1=223 | ps1=Ra
+ | dm2=α | de2=5.430 | link2=astatine-219 | pn2=219 | ps2=At}}
+|isotopes comment=
+|naming=after [[France]], homeland of the discoverer
+|discovery and first isolation by=[[Marguerite Perey]]
+|discovery date=1939
+}}
 '''Francium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Fr''', ngièn-chṳ́ su-muk he '''87'''.
 
 {{Ngièn-su chû-khì-péu}}
