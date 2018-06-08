@@ -1,4 +1,103 @@
-[[File:Ba-TableImage.png|right|thumb|Barium]]
+{{Infobox element
+|name=barium
+|number=56
+|symbol=Ba
+|left=[[caesium]]
+|right=[[lanthanum]]
+|above=[[Strontium|Sr]]
+|below=[[Radium|Ra]]
+|series=kán-thú kîm-su̍k
+|series comment=
+|group=2
+|period=6
+|block=s
+|series color=
+|appearance=silvery gray; with a pale yellow tint<ref>{{Greenwood&Earnshaw|page=112}}</ref>
+|image name=Barium unter Argon Schutzgas Atmosphäre.jpg
+|image name comment=
+|image name 2=
+|image name 2 comment=
+|atomic mass=137.327
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=7
+|atomic mass comment=
+|electron configuration=&#91;[[xenon|Xe]]&#93; 6s<sup>2</sup>
+|electrons per shell=2, 8, 18, 18, 8, 2
+|color=
+|phase=ku-thí
+|phase comment=
+|density gplstp=
+|density gpcm3nrt=3.51
+|density gpcm3mp=3.338
+|melting point K=1000
+|melting point C=727
+|melting point F=1341
+|boiling point K=2118
+|boiling point C=1845
+|boiling point F=3353
+|triple point K=
+|triple point kPa=
+|critical point K=
+|critical point MPa=
+|heat fusion=7.12
+|heat vaporization=142
+|heat capacity=28.07
+|vapor pressure 1=911
+|vapor pressure 10=1038
+|vapor pressure 100=1185
+|vapor pressure 1 k=1388
+|vapor pressure 10 k=1686
+|vapor pressure 100 k=2170
+|vapor pressure comment=
+|crystal structure=body-centered cubic
+|oxidation states='''+2''', +1
+|oxidation states comment=(a strongly [[base (chemistry)|basic]] oxide)
+|electronegativity=0.89
+|number of ionization energies=3
+|ionization energy 1=502.9
+|ionization energy 2=965.2
+|ionization energy 3=3600
+|atomic radius=222
+|covalent radius=215±11
+|Van der Waals radius=268
+|magnetic ordering=[[paramagnetism|paramagnetic]]
+|magnetic ordering ref=<ref>[http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf Magnetic susceptibility of the elements and inorganic compounds], in {{RubberBible86th}}</ref>
+|electrical resistivity unit prefix=n
+|electrical resistivity at 0=
+|electrical resistivity at 20=332
+|thermal conductivity=18.4
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=20.6
+|speed of sound=
+|speed of sound rod at 20=1620
+|speed of sound rod at r.t.=
+|Young's modulus=13
+|Shear modulus=4.9
+|Bulk modulus=9.6
+|Poisson ratio=
+|Mohs hardness=1.25
+|Vickers hardness=
+|Brinell hardness=
+|CAS number=7440-39-3
+|isotopes=
+{{infobox element/isotopes decay | mn=130 | sym=Ba | na=0.106% | hl=(0.5–2.7)×10<sup>21</sup>&nbsp;y | dm=[[double electron capture|εε]] | de=2.620 | link1=xenon-130 | pn=130 | ps=Xe}}
+{{infobox element/isotopes decay | mn=132 | sym=Ba | na=0.101% | hl=>3×10<sup>20</sup>&nbsp;y | dm=([[double beta decay|β<sup>+</sup>β<sup>+</sup>]]) | de=0.846 | link1=xenon-132 | pn=132 | ps=Xe}}
+{{infobox element/isotopes decay | mn=133 | sym=Ba
+ | na=[[synthetic radioisotope|syn]] | hl=10.51&nbsp;y
+ | dm=[[electron capture|ε]] | de=0.517 | link1=caesium-133 | pn=133 | ps=Cs}}
+{{infobox element/isotopes decay | mn=134 | sym=Ba | na=2.417% | hl=– | dm=([[spontaneous fission|SF]]) | de=<40.520 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=135 | sym=Ba | na=6.592% | hl=– | dm=(SF) | de=<39.357 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=136 | sym=Ba | na=7.854% | hl=– | dm=(SF) | de=<38.041 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=137 | sym=Ba | na=11.23% | hl=– | dm=(SF) | de=<35.722 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=138 | sym=Ba | na=71.7% | hl=– | dm=(SF) | de=<34.302 | pn= | ps= }}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|discovered by=[[Carl Wilhelm Scheele]]
+|discovery date=1772
+|first isolation by=[[Humphry Davy]]
+|first isolation date=1808
+}}
 '''Barium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Ba''', ngièn-chṳ́ su-muk he '''56'''.
 
 {{Ngièn-su chû-khì-péu}}
