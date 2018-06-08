@@ -1,20 +1,19 @@
-<!-- 待譯為客家語 -->
 <span class="nowrap">{{#switch:{{{number|}}}
-|1=[[Alkali kim-sio̍k|group&nbsp;1]]
-|71=[[Chiu-kî-piáu lāi-té bô hō-bé ê cho̍k|n/a&nbsp;cho̍k]]<!-- for now, same as other lanthanides -->
-|103=[[Chiu-kî-piáu lāi-té bô hō-bé ê cho̍k|n/a&nbsp;cho̍k]]<!-- for now, same as other actinides -->
-|117=[[Halogen|17&nbsp;cho̍k]]<!-- may turn out not to be a halogen -->
-|118=[[Noble gas|18&nbsp;cho̍k]]<!-- may turn out not to be a noble gas -->
+|1=[[Kán-kîm-su̍k|group&nbsp;1]]
+|71=[[chû-khì-péu tú mò ho-mâ ke chhu̍k|n/a&nbsp;chhu̍k]]<!-- for now, same as other lanthanides -->
+|103=[[chû-khì-péu tú mò ho-mâ ke chhu̍k|n/a&nbsp;chhu̍k]]<!-- for now, same as other actinides -->
+|117=[[Lû-su|17&nbsp;chhu̍k]]<!-- may turn out not to be a halogen -->
+|118=[[Hî-yù hi-thí|18&nbsp;chhu̍k]]<!-- may turn out not to be a noble gas -->
 |#default=<!--
 -->{{#switch:{{lc:{{{series|}}}}}
-| lanthanides |lanthanide =[[Chiu-kî-piáu lāi-té bô hō-bé ê cho̍k|n/a&nbsp;cho̍k]]]
-| actinides | actinide =[[Chiu-kî-piáu lāi-té bô hō-bé ê cho̍k|n/a&nbsp;cho̍k]]]
-| superactinides | superactinide =[[Extended periodic table#Superactinides|bī-ti&nbsp;ê&nbsp;bī-ti]]
+| lanthanides |lanthanide =[[chû-khì-péu tú mò ho-mâ ke chhu̍k|n/a&nbsp;cho̍k]]]
+| actinides | actinide =[[chû-khì-péu tú mò ho-mâ ke chhu̍k|n/a&nbsp;cho̍k]]]
+| superactinides | superactinide =[[Extended periodic table#Superactinides|vi-tî&nbsp;ke&nbsp;vi-tî]]
 | #default=<!--
 -->{{#switch:{{lc:{{{group|}}}}}
-|1=[[Alkali kim-sio̍k|1&nbsp;cho̍k]]
-|2=[[Alkali-thó͘ kim-sio̍k|2&nbsp;cho̍k]]
-|3=[[Tē-3-cho̍k goân-sò͘|3&nbsp;cho̍k]]
+|1=[[Kán-kîm-su̍k|1&nbsp;chhu̍k]]
+|2=[[Kán-thú kîm-su̍k|2&nbsp;chhu̍k]]
+|3=[[Thi-3-chhu̍k ngièn-su|3&nbsp;chhu̍k]]
 |4
 |5
 |6
@@ -24,13 +23,13 @@
 |10
 |11
 |12
-|13=[[Tē-{{{group|}}}-cho̍k goân-sò͘|{{{group|}}}&nbsp;cho̍k]]
-|14=[[Thòaⁿ-sò͘ cho̍k|14&nbsp;cho̍k]]
-|15=[[Pnictogen|15&nbsp;cho̍k]]
-|16=[[Chalcogen|16&nbsp;cho̍k]]
-|17=[[Halogen|17&nbsp;cho̍k]]
-|18=[[Noble gas|18&nbsp;cho̍k]]
-|=[[Unnumbered groups in the periodic table|n/a&nbsp;cho̍k]]<!-- blank input -->
+|13=[[Thi-{{{group|}}}-chhu̍k ngièn-su|{{{group|}}}&nbsp;chhu̍k]]
+|14=[[Than chhu̍k|14&nbsp;chhu̍k]]
+|15=[[Tham chhu̍k|15&nbsp;chhu̍k]]
+|16=[[Yông chhu̍k|16&nbsp;chhu̍k]]
+|17=[[Lû-su|17&nbsp;chhu̍k]]
+|18=[[Hî-yù hi-thí|18&nbsp;chhu̍k]]
+|=[[chû-khì-péu tú mò ho-mâ ke chhu̍k|n/a&nbsp;chhu̍k]]<!-- blank input -->
 |#default={{{group|}}}<!--
 -->}}}}}}</span>{{yesno|{{{predicted|no}}}|yes=&#x20;''(predicted)''|no=}}<noinclude>
 {{documentation}}
