@@ -1,4 +1,97 @@
-[[File:Sr-TableImage.png|right|thumb|Strontium]]
+{{Infobox element
+|number=38
+|symbol=Sr
+|name=strontium
+|left=[[rubidium]]
+|right=[[yttrium]]
+|above=[[Koi|Ca]]
+|below=[[barium|Ba]]
+|series=kán-thú kîm-su̍k
+|group=2
+|period=5
+|block=s
+|image name=Strontium_destilled_crystals.jpg
+|appearance=silvery white metallic; with a pale yellow tint<ref>{{Greenwood&Earnshaw|page=112}}</ref>
+|atomic mass=87.62
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=1
+|atomic mass comment=
+|electron configuration=&#91;[[krypton|Kr]]&#93; 5s<sup>2</sup>
+|electrons per shell=2, 8, 18, 8, 2
+|phase=ku-thí
+|density gpcm3nrt=2.64
+|density gpcm3mp=2.375
+|melting point K=1050
+|melting point C=777
+|melting point F=1431
+|boiling point K=1650
+|boiling point C=1377
+|boiling point F=2511
+|heat fusion=7.43
+|heat vaporization=141
+|heat capacity=26.4
+|vapor pressure 1=796
+|vapor pressure 10=882
+|vapor pressure 100=990
+|vapor pressure 1 k=1139
+|vapor pressure 10 k=1345
+|vapor pressure 100 k=1646
+|vapor pressure comment=
+|crystal structure=face-centered cubic
+|oxidation states='''2''', 1
+|oxidation states ref=<ref>{{cite journal|url=http://bernath.uwaterloo.ca/media/149.pdf|title=High-Resolution Infrared Emission Spectrum of Strontium Monofluoride|journal=J. Molecular Spectroscopy| volume=175|page=158|year=1996|doi=10.1006/jmsp.1996.0019|bibcode=1996JMoSp.175..158C|last1=Colarusso|first1=P.|last2=Guo|first2=B.|last3=Zhang|first3=K.-Q.|last4=Bernath|first4=P.F. }}</ref>
+|oxidation states comment=(a&nbsp;strongly [[base (chemistry)|basic]] oxide)
+|electronegativity=0.95
+|number of ionization energies=3
+|ionization energy 1=549.5
+|ionization energy 2=1064.2
+|ionization energy 3=4138
+|atomic radius=215
+|covalent radius=195±10
+|Van der Waals radius=249
+|magnetic ordering=[[paramagnetism|paramagnetic]]
+|electrical resistivity unit prefix=n
+|electrical resistivity at 20=132
+|thermal conductivity=35.4
+|thermal expansion at 25=22.5
+|Young's modulus=15.7
+|Shear modulus=6.03
+|Poisson ratio=0.28
+|Mohs hardness=1.5
+|CAS number=7440-24-6
+|isotopes=
+{{infobox element/isotopes decay | mn=82 | sym=Sr
+ | na=[[synthetic radioisotope|syn]] | hl=25.36&nbsp;d
+ | dm=[[electron capture|ε]] | de=– | link1=rubidium-82 | pn=82 | ps=Rb}}
+{{infobox element/isotopes decay3 | mn=83 | sym=Sr
+ | na=syn | hl=1.35&nbsp;d
+ | dm1=ε | de1=– | link1=rubidium-83 | pn1=83 | ps1=Rb
+ | dm2=[[positron emission|β<sup>+</sup>]] | de2=1.23 | pn2=83 | ps2=Rb
+ | dm3=[[gamma radiation|γ]] | de3=0.76, 0.36 | pn3= | ps3=–}}
+{{infobox element/isotopes decay | mn=84 | sym=Sr
+ | na=0.56% | hl=–
+ | dm=([[double beta decay|β<sup>+</sup>β<sup>+</sup>]]) | de=1.7867 | link1=krypton-84 | pn=84 | ps=Kr }}
+{{infobox element/isotopes decay2 | mn=85 | sym=Sr
+ | na=syn | hl=64.84&nbsp;d
+ | dm1=ε | de1=– | link1=rubidium-85 | pn1=85 | ps1=Rb
+ | dm2=γ | de2=0.514[[delayed nuclear radiation|D]] | pn2= | ps2=–}}
+{{Infobox element/isotopes stable | mn=86 | sym=Sr | na=9.86% | n=48 |firstlinks=yes}}
+{{Infobox element/isotopes stable | mn=87 | sym=Sr | na=7.0% | n=49 |firstlinks=no}}
+{{Infobox element/isotopes stable | mn=88 | sym=Sr | na=82.58% | n=50 |firstlinks=no}}
+{{infobox element/isotopes decay2 | mn=89 | sym=Sr
+ | na=syn | hl=50.52&nbsp;d
+ | dm1=ε | de1=1.49 | link1=rubidium-89 | pn1=89 | ps1=Rb
+ | dm2=[[beta decay|β<sup>−</sup>]] | de2=0.909D | link2=yttrium-89 | pn2=89 | ps2=Y}}
+{{infobox element/isotopes decay | mn=90 | sym=Sr
+ | na=[[trace radioisotope|trace]] | hl=28.90&nbsp;y
+ | dm=β<sup>−</sup> | de=0.546 | link1=yttrium-90 | pn=90 | ps=Y}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|naming=after the mineral [[strontianite]], itself named after [[Strontian]], Scotland
+|discovered by=[[William Cruickshank (chemist)|William Cruickshank]]
+|discovery date=1787
+|first isolation by=[[Humphry Davy]]
+|first isolation date=1808
+}}
 '''Strontium''' he yit-chúng [[fa-ho̍k]] [[ngièn-su]], fa-ho̍k fù-ho vì '''Sr''', ngièn-chṳ́ su-muk he '''38'''.
 
 {{Template:Ngièn-su Tsû-khì-péu}}
