@@ -1,4 +1,95 @@
-[[File:Rn-TableImage.png|right|thumb|Radon]]
+{{Infobox element
+|name=radon
+|number=86
+|symbol=Rn
+|left=[[astatine]]
+|right=[[francium]]
+|above=[[xenon|Xe]]
+|below= [[Oganesson|Og]]
+|series=hî-yù hi-thí
+|series comment=
+|group=18
+|period=6
+|block=p
+|appearance=colorless gas, occasionally glows green or red in discharge tubes
+|image name=
+|image name comment=
+|image size=
+|image name 2=File:Radon spectrum visible.png
+|image name 2 comment=Spectral lines of radon
+|atomic mass= (222)
+|atomic mass 2=
+|atomic mass comment=
+|electron configuration= &#91;[[xenon|Xe]]&#93; 4f<sup>14</sup> 5d<sup>10</sup> 6s<sup>2</sup> 6p<sup>6</sup>
+|electrons per shell=2, 8, 18, 32, 18, 8
+|color=
+|phase=hi-thí
+|phase comment=
+|density gplstp=9.73
+|density gpcm3bp=4.4
+|melting point K=202
+|melting point C=−71
+|melting point F=−96
+|boiling point K=211.5
+|boiling point C=−61.7
+|boiling point F=−79.1
+|triple point K=
+|triple point kPa=
+|critical point K=377
+|critical point MPa=6.28
+|critical point ref=<ref name=b92>{{RubberBible92nd|page=4.122}}</ref>
+|heat fusion=3.247
+|heat vaporization=18.10
+|heat capacity=5[[Gas constant|R]]/2 = 20.786
+|vapor pressure 1=110
+|vapor pressure 10=121
+|vapor pressure 100=134
+|vapor pressure 1 k=152
+|vapor pressure 10 k=176
+|vapor pressure 100 k=211
+|vapor pressure comment=
+|crystal structure=face-centered cubic
+|oxidation states=6, 2, '''0'''
+|oxidation states comment=
+|electronegativity=2.2
+|number of ionization energies=1
+|ionization energy 1=1037
+|ionization energy 2=
+|ionization energy 3=
+|atomic radius=
+|covalent radius=150
+|Van der Waals radius=220
+|magnetic ordering=non-magnetic
+|electrical resistivity=
+|electrical resistivity at 0=
+|electrical resistivity at 20=
+|thermal conductivity=3.61{{e|-3}}</sup>&nbsp;
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=
+|speed of sound=
+|speed of sound rod at 20=
+|speed of sound rod at r.t.=
+|Young's modulus=
+|Shear modulus=
+|Bulk modulus=
+|Poisson ratio=
+|Mohs hardness=
+|Vickers hardness=
+|Brinell hardness=
+|CAS number=10043-92-2
+|isotopes=
+{{infobox element/isotopes decay | mn=210 | sym=Rn | na=[[synthetic radioisotope|syn]] | hl=2.4&nbsp;h | dm=[[alpha emission|α]] | de=6.404 | link1=polonium-206 | pn=206 | ps=Po}}
+{{infobox element/isotopes decay2 | mn=211 | sym=Rn | na=syn | hl=14.6&nbsp;h | dm1=[[electron capture|ε]] | de1=2.892 | link1=astatine-211 | pn1=211 | ps1=At | dm2=α | de2=5.965 | link2=polonium-207 | pn2=207 | ps2=Po}}
+{{infobox element/isotopes decay | mn=222 | sym=Rn | na=[[Trace element|trace]] | hl=3.8235&nbsp;d | dm=α | de=5.590 | link1=polonium-218 | pn=218 | ps=Po}}
+{{infobox element/isotopes decay | mn=224 | sym=Rn | na=syn | hl=1.8&nbsp;h | dm=[[electron emission|β<sup>−</sup>]] | de=0.8| link1=francium-224 | pn=224| ps=Fr}}
+|isotopes comment=
+|discovered by=[[Friedrich Ernst Dorn]]
+|discovery date=1898
+|first isolation by=[[William Ramsay]] and [[Robert Whytlaw-Gray]]
+|first isolation date=1910
+}}
 '''Radon''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Rn''', ngièn-chṳ́ su-muk he '''86'''.
 
 {{Ngièn-su chû-khì-péu}}
