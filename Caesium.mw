@@ -1,4 +1,118 @@
-[[File:Cs-TableImage.png|right|thumb|Caesium]]
+{{infobox element
+|number=55
+|symbol=Cs
+|name=caesium
+|alt name=cesium
+|left=[[xenon]]
+|right=[[barium]]
+|above=[[rubidium|Rb]]
+|below=[[francium|Fr]]
+|series=kán-kîm-su̍k
+|series comment=
+|group=1
+|period=6
+|block=s
+|series color=
+|appearance=silvery gold
+|image name=Cesium.jpg
+|image size=
+|image alt=Some silvery-gold metal, with a liquid-like texture and lustre, sealed in a glass ampoule
+|image name comment=
+|image name 2=Caesium spectrum visible.png
+|image name alt 2=A colour spectrum
+|image name 2 comment=Spectral lines of caesium
+|atomic mass=132.90545196
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=6
+|atomic mass comment=
+|electron configuration=&#91;[[xenon|Xe]]&#93; 6s<sup>1</sup>
+|electrons per shell=2, 8, 18, 18, 8, 1
+|color=
+|phase=ku-thí
+|phase comment=
+|density gplstp=
+|density gpcm3nrt=1.93
+|density gpcm3nrt 2=
+|density gpcm3nrt 3=
+|density gpcm3mp=1.843
+|melting point K=301.7
+|melting point C=28.5
+|melting point F=83.3
+|sublimation point K=
+|sublimation point C=
+|sublimation point F=
+|boiling point K=944
+|boiling point C=671
+|boiling point F=1240
+|triple point K=
+|triple point kPa=
+|critical point K=1938
+|critical point MPa=9.4
+|critical point ref=<ref name=b92>{{RubberBible92nd|page=4.121}}</ref>
+|heat fusion=2.09
+|heat fusion 2=
+|heat vaporization=63.9
+|heat capacity=32.210
+|vapor pressure 1=418
+|vapor pressure 10=469
+|vapor pressure 100=534
+|vapor pressure 1 k=623
+|vapor pressure 10 k=750
+|vapor pressure 100 k=940
+|vapor pressure comment=
+|crystal structure=body-centered cubic
+|oxidation states='''+1''', −1<ref name=caeside>{{cite journal|journal = [[Angewandte Chemie|Angewandte Chemie International Edition]]|year = 1979|first = J. L.|last = Dye|title = Compounds of Alkali Metal Anions|volume = 18|issue = 8|pages = 587–598|doi = 10.1002/anie.197905871}}</ref>
+|oxidation states comment=(a strongly [[base (chemistry)|basic]] oxide)
+|electronegativity=0.79
+|number of ionization energies=3
+|ionization energy 1=375.7
+|ionization energy 2=2234.3
+|ionization energy 3=3400
+|atomic radius=265
+|atomic radius calculated=
+|covalent radius=244±11
+|Van der Waals radius=343
+|magnetic ordering=[[paramagnetic]]
+|magnetic ordering ref=<ref name=magnet>{{cite book|url=http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf|format=PDF|chapter=Magnetic susceptibility of the elements and inorganic compounds|title=Handbook of Chemistry and Physics|edition=87th|publisher=CRC press|accessdate=2010-09-26|isbn=0-8493-0487-3}}</ref>
+|electrical resistivity=
+|electrical resistivity unit prefix=n
+|electrical resistivity at 0=
+|electrical resistivity at 20=205
+|thermal conductivity=35.9
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=97
+|speed of sound=
+|speed of sound rod at 20=
+|speed of sound rod at r.t.=
+|tensile strength=
+|Young's modulus=1.7
+|Shear modulus=
+|Bulk modulus=1.6
+|Poisson ratio=
+|Mohs hardness=0.2
+|Vickers hardness=
+|Brinell hardness=0.14
+|CAS number=7440-46-2
+|isotopes={{infobox element/isotopes decay | mn=133 | sym=Cs | na=100% | hl=– | dm=([[spontaneous fission|SF]]) | de=<34.753 | pn= | ps= }}
+{{infobox element/isotopes decay2 | mn=134 | sym=Cs
+ | na=[[synthetic radioisotope|syn]] | hl=2.0648&nbsp;y
+ | dm1=[[electron capture|ε]] | de1=1.229 | link1=xenon-134 | pn1=134 | ps1=Xe
+ | dm2=[[beta emission|β<sup>−</sup>]] | de2=2.059 | link2=barium-124 | pn2=134 | ps2=Ba}}
+{{infobox element/isotopes decay | mn=135 | sym=Cs
+ | na=[[trace radioisotope|trace]] | hl=2.3×10<sup>6</sup>&nbsp;y
+ | dm=β<sup>−</sup> | de=0.269 | link1=barium-135 | pn=135 | ps=Ba}}
+{{infobox element/isotopes decay |link=Caesium-137 | mn=137 | sym=Cs
+ | na=trace | hl=30.17&nbsp;y<ref name=isotope>{{cite web|title=NIST Radionuclide Half-Life Measurements|url=http://www.nist.gov/pml/data/halflife.cfm| work=[[NIST]]|accessdate=2011-03-13}}</ref>
+ | dm=β<sup>−</sup> | de=1.174 |link1=barium-137 | pn=137 | ps=Ba}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|naming=from Latin {{lang|la|''caesius''}}, sky blue, for its spectral colours
+|discovered by=[[Robert Bunsen]] and [[Gustav Kirchhoff]]
+|discovery date=1860
+|first isolation by=[[Carl Setterberg]]
+|first isolation date=1882
+}}
 '''Caesium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Cs''', ngièn-chṳ́ su-muk he '''55'''.
 
 {{Ngièn-su chû-khì-péu}}
