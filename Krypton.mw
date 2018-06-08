@@ -1,4 +1,83 @@
-[[File:Kr-TableImage.png|right|thumb|Krypton]]
+{{Infobox element
+|number=36
+|symbol=Kr
+|name=krypton
+|left=[[chhiu]]
+|right=[[rubidium]]
+|above=[[argon|Ar]]
+|below=[[xenon|Xe]]
+|series=hî-yù hi-thí
+|group=18
+|period=4
+|block=p
+|appearance=colorless gas, exhibiting a whitish glow in a high electric field
+|image name=Krypton discharge tube.jpg
+|image name comment=A krypton-filled [[Gas-filled tube|discharge]] tube glowing white
+|image name 2=Krypton Spectrum.jpg
+|image name 2 comment=Spectral lines of krypton
+|atomic mass=83.798
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=2
+|atomic mass comment=
+|electron configuration= &#91;[[argon|Ar]]&#93; 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>6</sup>
+|electrons per shell=2, 8, 18, 8
+|phase=hi-thí
+|density gplstp=3.749
+|density gpcm3bp=2.413
+|density gpcm3bp ref=<ref>[http://encyclopedia.airliquide.com/Encyclopedia.asp?LanguageID=11&CountryID=19&Formula=&GasID=40&UNNumber=&EquivGasID=46&VolLiquideBox=&MasseLiquideBox=&VolGasBox=&MasseGasBox=&RD20=29&RD9=8&RD6=64&RD4=2&RD3=22&RD8=27&RD2=20&RD18=41&RD7=18&RD13=71&RD16=35&RD12=31&RD19=34&RD24=62&RD25=77&RD26=78&RD28=81&RD29=82 Krypton]. encyclopedia.airliquide.com</ref>
+|melting point K=115.78
+|melting point C=−157.37
+|melting point F=−251.27
+|boiling point K=119.93
+|boiling point C=−153.415
+|boiling point F=−244.147
+|triple point K=115.775
+|triple point kPa=73.53
+|triple point ref=<ref>{{cite book | title=CRC Handbook of Chemistry and Physics | edition=85th | publisher=CRC Press | date=2005 | location=Boca Raton, Florida | chapter=Section 4, Properties of the Elements and Inorganic Compounds; Melting, boiling, triple, and critical temperatures of the elements}}</ref><ref name=b92/>
+|critical point K=209.48
+|critical point MPa=5.525
+|critical point ref=<ref name=b92>{{RubberBible92nd|page=4.121}}</ref>
+|heat fusion=1.64
+|heat vaporization=9.08
+|heat capacity=20.95<ref>Shuen-Chen Hwang, Robert D. Lein, Daniel A. Morgan (2005). "Noble Gases". Kirk Othmer Encyclopedia of Chemical Technology. Wiley. pp. 343–383. doi:10.1002/0471238961.0701190508230114.a01.</ref>
+|vapor pressure 1=59
+|vapor pressure 10=65
+|vapor pressure 100=74
+|vapor pressure 1 k=84
+|vapor pressure 10 k=99
+|vapor pressure 100 k=120
+|vapor pressure comment=
+|crystal structure=face-centered cubic
+|oxidation states=2, 1, '''0'''
+|oxidation states comment=(rarely more than 0; unknown [[oxide]])
+|electronegativity=3.00
+|number of ionization energies=3
+|ionization energy 1=1350.8
+|ionization energy 2=2350.4
+|ionization energy 3=3565
+|covalent radius=116±4
+|Van der Waals radius=202
+|magnetic ordering= [[diamagnetic]]<ref>[http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf Magnetic susceptibility of the elements and inorganic compounds], in {{cite book | editor=Lide, D. R. | title=CRC Handbook of Chemistry and Physics | edition=86th | location=Boca Raton (FL) | publisher=CRC Press | year=2005 | isbn=0-8493-0486-5 }}</ref>
+|thermal conductivity=9.43×10<sup>−3</sup>&nbsp;
+|speed of sound=(gas, 23&nbsp;°C) 220 m·s<sup>−1</sup><br/>(liquid) 1120
+|CAS number=7439-90-9
+|isotopes=
+{{infobox element/isotopes decay| mn=78 | sym=Kr | na=0.35% | hl=>1.1×10<sup>20</sup>&nbsp;y | dm=([[double beta decay|β<sup>+</sup>β<sup>+</sup>]]) | de=2.846 |link1=selenium-78 | pn=78 | ps=Se}}
+{{infobox element/isotopes decay3 | mn=79 | sym=Kr | na=[[synthetic radioisotope|syn]] | hl=35.04&nbsp;h
+ | dm1=[[electron capture|ε]] | de1=– |link1=bromine-79 | pn1=79 | ps1=Br
+ | dm2=[[positron emission|β<sup>+</sup>]] | de2=0.604 | pn2=79 | ps2=Br
+ | dm3=[[gamma radiation|γ]] | de3=0.26, 0.39, 0.60 | pn3= | ps3=–}}
+{{Infobox element/isotopes stable | mn=80 | sym=Kr | na=2.25% | n=44 |firstlinks=yes}}
+{{infobox element/isotopes decay2 | mn=81 | sym=Kr | na=[[trace radioisotope|trace]] | hl=2.29×10<sup>5</sup>&nbsp;y | dm1=ε | de1=– | link1=bromine-81 | pn1=81 | ps1=Br | dm2=γ | de2=0.281 | pn2= | ps2=–}}
+{{Infobox element/isotopes stable | mn=82 | sym=Kr | na=11.6% | n=46 |firstlinks=no}}
+{{Infobox element/isotopes stable | mn=83 | sym=Kr | na=11.5% | n=47 |firstlinks=no}}
+{{Infobox element/isotopes stable | mn=84 | sym=Kr | na=57.0% | n=48 |firstlinks=no}}
+{{infobox element/isotopes decay | link=krypton-85 | mn=85 | sym=Kr | na=syn | hl=10.756&nbsp;y | dm=[[beta emission|β<sup>−</sup>]] | de=0.687 | link1=rubidium-85 | pn=85 | ps=Rb}}
+{{infobox element/isotopes decay | mn=86 | sym=Kr | na=17.3% | hl=– | dm=([[double beta decay|β<sup>−</sup>β<sup>−</sup>]]) | de=1.2556 | link1=strontium-86 | pn=86 | ps=Sr }}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|discovery and first isolation by=[[William Ramsay]] and [[Morris Travers]]
+|discovery date=1898
+}}
 '''Krypton''' he yit-chúng [[fa-ho̍k]] [[ngièn-su]], fa-ho̍k fù-ho vì '''Kr''', ngièn-chṳ́ su-muk he '''36'''.
 
 {{Ngièn-su chû-khì-péu}}
