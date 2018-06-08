@@ -1,4 +1,124 @@
-[[File:Rb-TableImage.png|right|thumb|Rubidium]]
+{{Infobox element
+|name=rubidium
+|number=37
+|symbol=Rb
+|left=[[krypton]]
+|right=[[strontium]]
+|above=[[Kap|K]]
+|below=[[caesium|Cs]]
+|series=kán-kîm-su̍k
+|series comment=
+|group=1
+|period=5
+|block=s
+|series color=
+|appearance=grey white
+|image name=Rb5.JPG
+|image size=
+|image name comment=
+|image name 2=
+|image size 2=
+|image name 2 comment=
+|atomic mass=85.4678
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=3
+|atomic mass comment=
+|electron configuration=&#91;[[krypton|Kr]]&#93; 5s<sup>1</sup>
+|electrons per shell=2, 8, 18, 8, 1
+|color=
+|phase=ku-thí
+|phase comment=
+|density gplstp=
+|density gpcm3nrt=1.532
+|density gpcm3nrt 2=
+|density gpcm3nrt 3=
+|density gpcm3mp=1.46
+|melting point K=312.45
+|melting point C=39.30
+|melting point F=102.74
+|sublimation point K=
+|sublimation point C=
+|sublimation point F=
+|boiling point K=961
+|boiling point C=688
+|boiling point F=1270
+|triple point K=312.41
+|triple point kPa=?
+|triple point ref=<ref name=b92/>
+|critical point K=2093
+|critical point MPa=16
+|critical point comment=''(extrapolated)''<ref name=b92>{{RubberBible92nd|page=4.122}}</ref>
+|heat fusion=2.19
+|heat fusion 2=
+|heat vaporization=69
+|heat capacity=31.060
+|vapor pressure 1=434
+|vapor pressure 10=486
+|vapor pressure 100=552
+|vapor pressure 1 k=641
+|vapor pressure 10 k=769
+|vapor pressure 100 k=958
+|vapor pressure comment=
+|crystal structure=body-centered cubic
+|oxidation states='''+1''', −1
+|oxidation states comment=(a strongly [[base (chemistry)|basic]] oxide)
+|electronegativity=0.82
+|number of ionization energies=3
+|ionization energy 1=403
+|ionization energy 2=2632.1
+|ionization energy 3=3859.4
+|atomic radius=248
+|atomic radius calculated=
+|covalent radius=220±9
+|Van der Waals radius=303
+|magnetic ordering=[[paramagnetic]]
+|magnetic ordering ref=<ref name=magnet>[http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf Magnetic susceptibility of the elements and inorganic compounds], in {{RubberBible86th}}</ref>
+|electrical resistivity=
+|electrical resistivity unit prefix=n
+|electrical resistivity at 0=
+|electrical resistivity at 20=128
+|thermal conductivity=58.2
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=90
+|thermal expansion ref=<ref>http://www.owlnet.rice.edu/~msci301/ThermalExpansion.pdf</ref>
+|thermal expansion comment=(at&nbsp;{{abbr|r.t.|room temperature}})
+|thermal expansion at 25=
+|speed of sound=
+|speed of sound rod at 20=1300
+|speed of sound rod at r.t.=
+|tensile strength=
+|Young's modulus=2.4
+|Shear modulus=
+|Bulk modulus=2.5
+|Poisson ratio=
+|Mohs hardness=0.3
+|Vickers hardness=
+|Brinell hardness=0.216
+|CAS number=7440-17-7
+|isotopes={{infobox element/isotopes_decay2 | mn=83 | sym=Rb
+ | na=[[synthetic radioisotope|syn]] | hl=86.2&nbsp;d
+ | dm1=[[electron capture|ε]] | de1=– | link1=krypton-83 | pn1=83 | ps1=Kr
+ | dm2=[[gamma radiation|γ]] | de2=0.52, 0.53,<br/>0.55 | pn2= | ps2=– }}
+{{infobox element/isotopes_decay4 | mn=84 | sym=Rb
+ | na=syn | hl=32.9&nbsp;d
+ | dm1=ε | de1=– | link1=krypton-84 | pn1=84 | ps1=Kr
+ | dm2=[[positron emission|β<sup>+</sup>]] | de2=1.66, 0.78 | pn2=84 | ps2=Kr
+ | dm3=γ | de3=0.881 | pn3= | ps3=–
+ | dm4=[[beta decay|β<sup>−</sup>]] | de4=0.892 | link4=strontium-84 | pn4=84 | ps4=Sr}}
+{{infobox element/isotopes_stable | mn=85 | sym=Rb | na=72.17% | n=48 }}
+{{infobox element/isotopes_decay2 | mn=86 | sym=Rb
+ | na=syn | hl=18.65&nbsp;d
+ | dm1=β<sup>−</sup> | de1=1.775 | link1=strontium-86 | pn1=86 | ps1=Sr
+ | dm2=γ | de2=1.0767 | pn2= | ps2=– }}
+{{infobox element/isotopes_decay | mn=87 | sym=Rb
+ | na=27.83% | hl=4.9{{e|10}}&nbsp;y
+ | dm=β<sup>−</sup> | de=0.283 | link1=strontium-87 | pn=87 | ps=Sr}}
+|isotopes comment=
+|discovered by=[[Robert Bunsen]] and [[Gustav Kirchhoff]]
+|discovery date=1861
+|first isolation by=[[George de Hevesy]]
+}}
 '''Rubidium''' he yit-chúng [[fa-ho̍k]] [[ngièn-su]], fa-ho̍k fù-ho vì '''Rb''', ngièn-chṳ́ su-muk he '''37'''.
 
 {{Template:Ngièn-su Tsû-khì-péu}}
