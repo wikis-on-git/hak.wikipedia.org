@@ -1,3 +1,101 @@
+{{infobox element
+|number=54
+|symbol=Xe
+|name=xenon
+|left=[[tién]]
+|right=[[caesium]]
+|above=[[krypton|Kr]]
+|below=[[radon|Rn]]
+| series=hî-yù hi-thí
+| group=18
+| period=5
+| block=p
+| appearance=colorless gas, exhibiting a blue glow when placed in a high voltage electric field
+|image name=Xenon discharge tube.jpg
+|image name comment=A xenon-filled [[Gas-filled tube|discharge]] tube glowing light blue
+|image name 2=Xenon Spectrum.jpg
+|image name 2 comment=Spectral lines of xenon
+|atomic mass=131.293
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=6
+|atomic mass comment=
+|electron configuration=&#91;[[krypton|Kr]]&#93; 4d<sup>10</sup> 5s<sup>2</sup> 5p<sup>6</sup>
+|electrons per shell=2, 8, 18, 18, 8
+|phase=hi-thí
+|density gplstp=5.894
+|density gpcm3bp=2.942
+|density gpcm3bp ref=<ref>{{cite web
+ |url=http://encyclopedia.airliquide.com/Encyclopedia.asp?LanguageID=11&GasID=71
+ |title=Xenon
+ |work=Gas Encyclopedia
+ |publisher=[[Air Liquide]]
+ |year=2009
+}}</ref>
+|melting point K=161.40
+|melting point C=−111.75
+|melting point F=−169.15
+|boiling point K=165.051
+|boiling point C=−108.099
+|boiling point F=−162.578
+|triple point K=161.405
+|triple point kPa=81.77
+|triple point ref=<ref name=b92 />
+|critical point K=289.733
+|critical point MPa=5.842
+|critical point ref=<ref name=b92>{{RubberBible92nd|page=4.123}}</ref>
+|heat fusion=2.27
+|heat vaporization=12.64
+|heat capacity=21.01<ref>{{cite book  | pages=343–383|doi=10.1002/0471238961.0701190508230114.a01|chapter=Helium Group Gases|title=Kirk-Othmer Encyclopedia of Chemical Technology|year=2000|last1=Hwang|first1=Shuen-Cheng|last2=Weltmer|first2=William R.|isbn=0-471-23896-1|publisher=Wiley}}</ref>
+|vapor pressure 1=83
+|vapor pressure 10=92
+|vapor pressure 100=103
+|vapor pressure 1 k=117
+|vapor pressure 10 k=137
+|vapor pressure 100 k=165
+|vapor pressure comment=
+|crystal structure=face-centered cubic
+|oxidation states='''0''', +1, +2, +4, +6, +8
+|oxidation states comment=(rarely more than 0;&#x20;a weakly [[acid]]ic oxide)
+|electronegativity=2.6
+|number of ionization energies=3
+|ionization energy 1=1170.4
+|ionization energy 2=2046.4
+|ionization energy 3=3099.4
+|covalent radius=140±9
+|Van der Waals radius=216
+|magnetic ordering=[[diamagnetic]]
+|magnetic ordering ref=<ref>[http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf Magnetic susceptibility of the elements and inorganic compounds], in {{RubberBible86th}}</ref>
+|thermal conductivity=5.65×10<sup>−3</sup>
+|speed of sound=gas:&nbsp;169&nbsp;m·s<sup>−1</sup><br />liquid:&nbsp;1090
+|speed of sound comment=
+|CAS number=7440-63-3
+|isotopes=
+{{infobox element/isotopes decay | mn=124 | sym=Xe | na=0.095% | hl=>4.8×10<sup>16</sup>&nbsp;y | dm=([[double beta decay|β<sup>+</sup>β<sup>+</sup>]])
+ | de=0.825 | link1=tellurium-124 | pn=124 | ps=Te}}
+{{infobox element/isotopes decay | mn=125 | sym=Xe
+ | na=[[synthetic radioisotope|syn]] | hl=16.9&nbsp;h
+ | dm=[[electron capture|ε]] | de=1.652 | link1=iodine-125| pn=125 | ps=I }}
+{{infobox element/isotopes decay | mn=126 | sym=Xe | na=0.089% | hl=– | dm=(β<sup>+</sup>β<sup>+</sup>) | de=0.8973 | link1=tellurium-126 | pn=126 | ps=Te }}
+{{infobox element/isotopes decay | mn=127 | sym=Xe
+ | na=syn | hl=36.345&nbsp;d
+ | dm=ε | de=0.662 | link1=iodine-127 | pn=127 | ps=I }}
+{{infobox element/isotopes decay | mn=128 | sym=Xe | na=1.91% | hl=– | dm=([[spontaneous fission|SF]]) | de=<35.047 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=129 | sym=Xe | na=26.4% | hl=– | dm=(SF) | de=<33.947 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=130 | sym=Xe | na=4.07% | hl=– | dm=(SF) | de=<32.483 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=131 | sym=Xe | na=21.2% | hl=– | dm=(SF) | de=<31.140 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=132 | sym=Xe | na=26.9% | hl=– | dm=(SF) | de=<30.885 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=133 | sym=Xe
+ | na=syn | hl=5.247&nbsp;d
+ | dm=[[beta emission|β<sup>−</sup>]] | de=0.427 | link1=caesium-133 | pn=133 | ps=Cs}}
+{{infobox element/isotopes decay | mn=134 | sym=Xe | na=10.4% | hl=>1.1×10<sup>16</sup>&nbsp;y | dm=([[double beta decay|β<sup>−</sup>β<sup>−</sup>]]) | de=0.819 | link1=barium-134 | pn=134 | ps=Ba}}
+{{infobox element/isotopes decay | mn=135 | sym=Xe
+ | na=syn | hl=9.14&nbsp;h
+ | dm=β<sup>−</sup> | de=1.16 | link1=caesium-135 | pn=135 | ps=Cs}}
+{{infobox element/isotopes decay | mn=136 | sym=Xe | na=8.86% |hl=2.165×10<sup>21</sup>&nbsp;y<ref name="Albert2013">{{cite journal | doi = 10.1103/PhysRevC.89.015502| title = Improved measurement of the 2νββ half-life of <sup>136</sup>Xe with the EXO-200 detector| journal = Physical Review C| volume = 89| year = 2014| last1 = Albert | first1 = J. B.| last2 = Auger | first2 = M.| last3 = Auty | first3 = D. J.| last4 = Barbeau | first4 = P. S.| last5 = Beauchamp | first5 = E.| last6 = Beck | first6 = D.| last7 = Belov | first7 = V.| last8 = Benitez-Medina | first8 = C.| last9 = Bonatt | first9 = J.| last10 = Breidenbach | first10 = M.| last11 = Brunner | first11 = T.| last12 = Burenkov | first12 = A.| last13 = Cao | first13 = G. F.| last14 = Chambers | first14 = C.| last15 = Chaves | first15 = J.| last16 = Cleveland | first16 = B.| last17 = Cook | first17 = S.| last18 = Craycraft | first18 = A.| last19 = Daniels | first19 = T.| last20 = Danilov | first20 = M.| last21 = Daugherty | first21 = S. J.| last22 = Davis | first22 = C. G.| last23 = Davis | first23 = J.| last24 = Devoe | first24 = R.| last25 = Delaquis | first25 = S.| last26 = Dobi | first26 = A.| last27 = Dolgolenko | first27 = A.| last28 = Dolinski | first28 = M. J.| last29 = Dunford | first29 = M.| last30 = Fairbank | first30 = W.| display-authors = 29}}</ref> | dm=β<sup>−</sup>β<sup>−</sup>| de=2.45783<ref>{{cite journal | last1 = Redshaw | first1 = M. | last2 = Wingfield | first2 = E. | last3 = McDaniel | first3 = J. | last4 = Myers | first4 = E. | title = Mass and Double-Beta-Decay Q Value of <sup>136</sup>Xe| doi = 10.1103/PhysRevLett.98.053003 | journal = Physical Review Letters | volume = 98 | issue = 5 | pages = 53003 | year = 2007 | pmid =  | pmc = |bibcode = 2007PhRvL..98e3003R }}</ref> | link1=barium-136 | pn=136| ps=Ba}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|history comment label=[[Discoveries of the chemical elements|Discovery]] and first isolation
+|history comment=[[William Ramsay]] and [[Morris Travers]] (1898)
+}}
 '''Xenon''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Xe''', ngièn-chṳ́ su-muk he '''54'''.
 
 {{Ngièn-su chû-khì-péu}}
