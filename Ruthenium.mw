@@ -1,3 +1,89 @@
+{{Infobox element
+|number=44
+|symbol=Ru
+|name=ruthenium
+|left=[[technetium]]
+|right=[[rhodium]]
+|above=[[thiet|Fe]]
+|below=[[osmium|Os]]
+|series=ko-thu kîm-su̍k
+|group=8
+|period=5
+|block=d
+|image name=Ruthenium a half bar.jpg
+|appearance=silvery white metallic
+|atomic mass=101.07
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=2
+|atomic mass comment=
+|electron configuration=&#91;[[krypton|Kr]]&#93; 4d<sup>7</sup> 5s<sup>1</sup>
+|electrons per shell=2, 8, 18, 15, 1
+|density gpcm3nrt=12.45
+|density gpcm3mp=10.65
+|melting point K=2607
+|melting point C=2334
+|melting point F=4233
+|boiling point K=4423
+|boiling point C=4150
+|boiling point F=7502
+|heat fusion=38.59
+|heat vaporization=619
+|heat capacity=24.06
+|vapor pressure 1=2588
+|vapor pressure 10=2811
+|vapor pressure 100=3087
+|vapor pressure 1 k=3424
+|vapor pressure 10 k=3845
+|vapor pressure 100 k=4388
+|vapor pressure comment=
+|crystal structure=hexagonal close packed
+|oxidation states=-4, -2, 1,<ref>{{cite web|url=http://openmopac.net/data_normal/ruthenium(i)%20fluoride_jmol.html|title=Ruthenium: ruthenium(I) fluoride compound data|accessdate=2007-12-10|publisher=OpenMOPAC.net}}</ref> 2, '''3''', '''4''', 5, 6, 7, 8 
+|oxidation states comment=(a&nbsp;mildly [[acid]]ic oxide)
+|electronegativity=2.2
+|number of ionization energies=3
+|ionization energy 1=710.2
+|ionization energy 2=1620
+|ionization energy 3=2747
+|atomic radius=134
+|covalent radius=146±7
+|magnetic ordering=[[paramagnetic]]
+|magnetic ordering ref=<ref>[http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf Magnetic susceptibility of the elements and inorganic compounds], in Handbook of Chemistry and Physics 81st edition, CRC press.</ref>
+|electrical resistivity unit prefix=n
+|electrical resistivity at 0=71
+|thermal conductivity=117
+|thermal expansion at 25=6.4
+|speed of sound rod at 20=5970
+|Young's modulus=447
+|Shear modulus=173
+|Bulk modulus=220
+|Poisson ratio=0.30
+|Mohs hardness=6.5
+|Brinell hardness=2160
+|CAS number=7440-18-8
+|isotopes=
+{{infobox element/isotopes decay | mn=96 | sym=Ru | na=5.52% | hl=[[1 E19 s and more|>6.7×10<sup>16</sup>&nbsp;y]] | dm=([[double beta decay|β<sup>+</sup>β<sup>+</sup>]]) | de=2.7188 | link1=molybdenum-96 | pn=96 | ps=Mo}}
+{{infobox element/isotopes decay2 | mn=97 | sym=Ru
+ | na=[[synthetic radioisotope|syn]] | hl=[[1 E5 s|2.9&nbsp;d]]
+ | dm1=[[electron capture|ε]] | de1=– | link1=technetium-97 | pn1=97 | ps1=Tc
+ | dm2=[[gamma radiation|γ]] | de2=0.215, 0.324 | pn2= | ps2=–}}
+{{infobox element/isotopes decay | mn=98 | sym=Ru | na=1.88% | hl=– | dm=([[spontaneous fission|SF]]) | de=<11.690 | pn= | ps=– }}
+{{infobox element/isotopes decay | mn=99 | sym=Ru | na=12.7% | hl=– | dm=(SF) | de=<12.368 | pn= | ps=– }}
+{{infobox element/isotopes decay | mn=100 | sym=Ru | na=12.6% | hl=– | dm=(SF) | de=<13.634 | pn= | ps=– }}
+{{infobox element/isotopes decay | mn=101 | sym=Ru | na=17.0% | hl=– | dm=(SF) | de=<13.205 | pn= | ps=– }}
+{{infobox element/isotopes decay | mn=102 | sym=Ru | na=31.6% | hl=– | dm=(SF) | de=<12.049 | pn= | ps=– }}
+{{infobox element/isotopes decay2 | mn=103 | sym=Ru
+ | na=syn | hl=[[1 E6 s|39.26&nbsp;d]]
+ | dm1=[[beta decay|β<sup>−</sup>]] | de1=0.226 | link1=rhodium-103 | pn1=103 | ps1=Rh
+ | dm2=γ | de2=0.497 | pn2= | ps2=–}}
+{{infobox element/isotopes decay | mn=104 | sym=Ru | na=18.7% | hl=– | dm=([[double beta decay|β<sup>−</sup>β<sup>−</sup>]]) | de=1.2997 | link1=palladium-104 | pn=104 | ps=Pd }}
+{{infobox element/isotopes decay | mn=106 | sym=Ru
+ | na=syn | hl=[[1 E7 s|373.59&nbsp;d]]
+ | dm=β<sup>−</sup> | de=0.039 | link1=rhodium-106 | pn=106 | ps=Rh}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|naming=after ''{{lang|la|[[Ruthenia]]}}'' (Latin for: medieval [[Kievan Rus'|Kyivska Rus']] region)
+|discovery and first isolation by=[[Karl Ernst Claus]]
+|discovery date=1844
+}}
 '''Ruthenium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Ru''', ngièn-chṳ́ su-muk he '''44'''.
 
 {{Ngièn-su chû-khì-péu}}
