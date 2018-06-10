@@ -1,5 +1,81 @@
-[[File:Tb-TableImage.png|right|thumb|Terbium.]]
-[[File:Terbium-2.jpg|right|thumb|250px|Terbium.]]
+{{Infobox element
+|number=65
+|symbol=Tb
+|name=terbium
+|left=[[gadolinium]]
+|right=[[dysprosium]]
+|above=–
+|below=[[berkelium|Bk]]
+|series=lanthanum-hi
+|period=6
+|group=n/a
+|block=f
+|image name=Terbium-2.jpg
+|appearance=silvery white
+|atomic mass=158.92535
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=2
+|atomic mass comment=
+|electron configuration=&#91;[[xenon|Xe]]&#93; 4f<sup>9</sup> 6s<sup>2</sup>
+|electrons per shell=2, 8, 18, 27, 8, 2
+|phase=ku-thí
+|density gpcm3nrt=8.23
+|density gpcm3mp=7.65
+|melting point K=1629
+|melting point C=1356
+|melting point F=2473
+|boiling point K=3396
+|boiling point C=3123
+|boiling point F=5653
+|heat fusion=10.15
+|heat vaporization=391
+|heat capacity=28.91
+|vapor pressure 1=1789
+|vapor pressure 10=1979
+|vapor pressure 100=(2201)
+|vapor pressure 1 k=(2505)
+|vapor pressure 10 k=(2913)
+|vapor pressure 100 k=(3491)
+|vapor pressure comment=
+|crystal structure=hexagonal close packed
+|oxidation states=4, '''3''', 2, 1
+|oxidation states comment=(a weakly [[base (chemistry)|basic]] oxide)
+|electronegativity=1.2
+|electronegativity comment=(?)
+|number of ionization energies=3
+|ionization energy 1=565.8
+|ionization energy 2=1110
+|ionization energy 3=2114
+|atomic radius=177
+|covalent radius=194±5
+|magnetic ordering=[[paramagnetic]] at 300 K
+|electrical resistivity unit prefix=µ
+|electrical resistivity=α, poly: 1.150
+|electrical resistivity comment=(at [[room temperature|r.t.]])
+|thermal conductivity=11.1
+|thermal expansion=at&nbsp;{{abbr|r.t.|room temperature}} α,&nbsp;poly: 10.3
+|speed of sound rod at 20=2620
+|Young's modulus=α&nbsp;form: 55.7
+|Shear modulus=α&nbsp;form:&nbsp;22.1
+|Bulk modulus=α&nbsp;form:&nbsp;38.7
+|Poisson ratio=α&nbsp;form:&nbsp;0.261
+|Vickers hardness=450–865
+|Brinell hardness=675–1200
+|CAS number=7440-27-9
+|isotopes=
+{{infobox element/isotopes decay | mn=157 | sym=Tb
+ | na=[[synthetic radioisotope|syn]] | hl=[[1 E s|71&nbsp;y]]
+ | dm=[[electron capture|ε]] | de=0.060 | link1=gadolinium-157 | pn=157 | ps=Gd}}
+{{infobox element/isotopes decay2 | mn=158 | sym=Tb
+ | na=syn | hl=[[1 E s|180&nbsp;y]]
+ | dm1=ε | de1=1.220 | link1=gadolinium-158 | pn1=158 | ps1=Gd
+ | dm2=[[beta decay|β<sup>−</sup>]] | de2=0.937 | link2=dysprosium-158 | pn2=158 | ps2=Dy}}
+{{infobox element/isotopes decay | mn=159 | sym=Tb | na=100% | hl=– | dm=([[spontaneous fission|SF]]) | de=<74.878 | pn= | ps= }}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|naming=after [[Ytterby]] (Sweden), where it was mined
+|discovery and first isolation by=[[Carl Gustaf Mosander]]
+|discovery date=1842
+}}
 '''Terbium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Tb''', ngièn-chṳ́ su-muk he '''65'''.
 
 {{Ngièn-su chû-khì-péu}}
