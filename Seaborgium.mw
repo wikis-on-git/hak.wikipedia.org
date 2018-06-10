@@ -1,4 +1,54 @@
-[[File:Sg-TableImage.png|right|thumb|Seaborgium]]
+{{Infobox element
+|number=106
+|symbol=Sg
+|name=seaborgium
+|left=[[dubnium]]
+|right=[[bohrium]]
+|above=[[wolfram|W]]
+|below=(Upo)
+|series=ko-thu kîm-su̍k
+|group=6
+|period=7
+|block=d
+|appearance=
+|atomic mass=[269]
+|electron configuration=&#91;[[radon|Rn]]&#93; 5f<sup>14</sup> 6d<sup>4</sup> 7s<sup>2</sup>
+|electron configuration comment=''(predicted)''<ref name=Haire />
+|electrons per shell=2, 8, 18, 32, 32, 12, 2
+|electrons per shell comment=''(predicted)''
+|phase=ku-thí
+|phase comment=''(predicted)''<ref name=bcc />
+|density gpcm3nrt=35.0
+|density gpcm3nrt comment=''(predicted)''<ref name=Haire /><ref name=BFricke>{{cite journal |last1=Fricke |first1=Burkhard |year=1975 |title=Superheavy elements: a prediction of their chemical and physical properties |journal=Recent Impact of Physics on Inorganic Chemistry |volume=21 |pages=89–144 |doi=10.1007/BFb0116498 |url=http://www.researchgate.net/publication/225672062_Superheavy_elements_a_prediction_of_their_chemical_and_physical_properties |accessdate=4 October 2013}}</ref>
+|crystal structure=body-centered cubic
+|crystal structure comment=''(predicted)''<ref name=bcc>{{cite journal|doi=10.1103/PhysRevB.84.113104|title=First-principles calculation of the structural stability of 6d transition metals|year=2011|last1=Östlin|first1=A.|last2=Vitos|first2=L.|journal=Physical Review B|volume=84|issue=11|bibcode=2011PhRvB..84k3104O }}</ref>
+|oxidation states='''6''', (5), ('''4'''), (3), 0
+|oxidation states ref=<ref name=Haire /><ref name=BFricke />
+|oxidation states comment=(parenthesized oxidation states are predictions)
+|number of ionization energies=6
+|ionization energy 1=757.4
+|ionization energy comment=''(all estimated)''<ref name=Haire>{{cite book| title=The Chemistry of the Actinide and Transactinide Elements| editor1-last=Morss|editor2-first=Norman M.| editor2-last=Edelstein| editor3-last=Fuger|editor3-first=Jean| last1=Hoffman|first1=Darleane C. |last2=Lee |first2=Diana M. |last3=Pershina |first3=Valeria |chapter=Transactinides and the future elements| publisher= [[Springer Science+Business Media]]| year=2006| isbn=1-4020-3555-1| location=Dordrecht, The Netherlands| edition=3rd| ref=CITEREFHaire2006}}</ref>
+|ionization energy 2=1732.9
+|ionization energy 3=2483.5
+|atomic radius=132
+|atomic radius comment=''(predicted)''<ref name=Haire />
+|covalent radius=143
+|covalent radius comment=''(estimated)''<ref name=rsc>[http://www.rsc.org/chemsoc/visualelements/pages/data/seaborgium_data.html Chemical Data. Seaborgium – Sg], Royal Chemical Society</ref>
+|CAS number=54038-81-2
+|isotopes=
+{{infobox element/isotopes decay2 | mn=271 | sym=Sg | na=[[synthetic radioisotope|syn]] | hl=1.9&nbsp;min
+ | dm1=67% [[alpha decay|α]] | de1=8.54 | link1=rutherfordium-267 | pn1=267 | ps1=Rf
+ | dm2=33% [[spontaneous fission|SF]] | de2= | pn2= | ps2= }}
+{{infobox element/isotopes decay | mn=269 | sym=Sg | na=syn | hl={{nowrap|3.1{{su|p=+3.7|b=−1.1}}&nbsp;min}}| dm= α | de=8.50(6) | link1=rutherfordium-265 | pn=265 | ps=Rf}}
+{{infobox element/isotopes decay2 | mn=267 | sym=Sg | na=syn | hl=1.4&nbsp;min
+ | dm1=17% α | de1=8.20 | link1=rutherfordium-263 | pn1=263 | ps1=Rf
+ | dm2=83% SF | de2= | pn2= | ps2= }}
+{{infobox element/isotopes decay | mn=265m | sym=Sg | na=syn | hl=16.2&nbsp;s | dm= α | de=8.70 | link1=rutherfordium-261 | pn=261m | ps=Rf}}
+{{infobox element/isotopes decay | mn=265 | sym=Sg | na=syn | hl=8.9&nbsp;s | dm= α | de=8.90, 8.84, 8.76 | link1=rutherfordium-261 | pn=261 | ps=Rf}}
+|naming=after [[Glenn T. Seaborg]]
+|discovered by=[[Lawrence Berkeley National Laboratory]]
+|discovery date=1974
+}}
 '''Seaborgium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Sg''', ngièn-chṳ́ su-muk he '''106'''.
 
 {{Ngièn-su chû-khì-péu}}
