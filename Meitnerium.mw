@@ -1,4 +1,52 @@
-[[File:Mt-TableImage.png|right|thumb|Meitnerium]]
+{{Infobox element
+|number=109
+|symbol=Mt
+|name=meitnerium
+|left=[[hassium]]
+|right=[[darmstadtium]]
+|above=[[iridium|Ir]]
+|below=(Uhu)
+|series=hàn-màng khok-thin
+|series comment=but probably a [[transition metal]]<ref name=Haire/><ref name=bcc/>
+|group=9
+|period=7
+|block=d
+|appearance=
+|atomic mass=[278]
+|electron configuration=&#91;[[radon|Rn]]&#93; 5f<sup>14</sup> 6d<sup>7</sup> 7s<sup>2</sup>
+|electron configuration comment=''(calculated)''<ref name=Haire/><ref>{{Cite journal|doi=10.1140/epja/i2008-10584-7|title=Dirac-Hartree-Fock studies of X-ray transitions in meitnerium|year=2008|author=Thierfelder, C.|journal=The European Physical Journal A|volume=36|pages=227|last2=Schwerdtfeger|first2=P.|last3=Heßberger|first3=F. P.|last4=Hofmann|first4=S.|issue=2|bibcode=2008EPJA...36..227T }}</ref>
+|magnetic ordering=[[paramagnetic]]
+|magnetic ordering comment=''(predicted)''<ref name="paramagnetic">{{cite journal|doi=10.1016/j.adt.2009.06.001|title=Hartree–Fock–Roothaan energies and expectation values for the neutral atoms He to Uuo: The B-spline expansion method|year=2009|last1=Saito|first1=Shiro L.|journal=Atomic Data and Nuclear Data Tables|volume=95|issue=6|pages=836|bibcode=2009ADNDT..95..836S }}</ref>
+|electrons per shell=2, 8, 18, 32, 32, 15, 2
+|electrons per shell comment=''(predicted)''
+|phase=ku-thí
+|phase comment=''(predicted)''<ref name=bcc/>
+|crystal structure=face-centered cubic
+|crystal structure comment=''(predicted)''<ref name=bcc>{{cite journal|doi=10.1103/PhysRevB.84.113104|title=First-principles calculation of the structural stability of 6d transition metals|year=2011|last1=Östlin|first1=A.|last2=Vitos|first2=L.|journal=Physical Review B|volume=84|issue=11|bibcode=2011PhRvB..84k3104O }}</ref>
+|density gpcm3nrt=37.4
+|density gpcm3nrt ref=
+|density gpcm3nrt comment=''(predicted)''<ref name=Haire/>
+|oxidation states=9, 8, '''6''', 4, '''3''', '''1'''
+|oxidation states comment=''(predicted)''<ref name=Haire>{{cite book| title=The Chemistry of the Actinide and Transactinide Elements| editor1-last=Morss|editor2-first=Norman M.| editor2-last=Edelstein| editor3-last=Fuger|editor3-first=Jean| last1=Hoffman|first1=Darleane C. |last2=Lee |first2=Diana M. |last3=Pershina |first3=Valeria |chapter=Transactinides and the future elements| publisher= [[Springer Science+Business Media]]| year=2006| isbn=1-4020-3555-1| location=Dordrecht, The Netherlands| edition=3rd| ref=CITEREFHaire2006}}</ref><ref name="MtX4">{{cite journal|doi=10.1023/B:RUCO.0000026006.39497.82|title=Halides of Tetravalent Transactinides (Rf, Db, Sg, Bh, Hs, Mt, 110th Element): Physicochemical Properties|year=2004|last1=Ionova|first1=G. V.|last2=Ionova|first2=I. S.|last3=Mikhalko|first3=V. K.|last4=Gerasimova|first4=G. A.|last5=Kostrubov|first5=Yu. N.|last6=Suraeva|first6=N. I.|journal=Russian Journal of Coordination Chemistry|volume=30|issue=5|pages=352}}</ref><ref name="Mt(IX)">{{cite journal|doi=10.1002/cphc.200900910|title=How Far Can We Go? Quantum-Chemical Investigations of Oxidation State +IX|year=2010|last1=Himmel|first1=Daniel|last2=Knapp|first2=Carsten|last3=Patzschke|first3=Michael|last4=Riedel|first4=Sebastian|journal=ChemPhysChem|volume=11|issue=4|pages=865–9|pmid=20127784}}</ref><ref name=BFricke/>
+|number of ionization energies=5
+|ionization energy 1=800.8
+|ionization energy 2=1823.6
+|ionization energy 3=2904.2
+|ionization energy comment=''(all estimated)''<ref name=Haire/>
+|atomic radius=128
+|atomic radius comment=''(predicted)''<ref name=Haire/><ref name=BFricke>{{cite journal |last1=Fricke |first1=Burkhard |year=1975 |title=Superheavy elements: a prediction of their chemical and physical properties |journal=Recent Impact of Physics on Inorganic Chemistry |volume=21 |pages=89–144 |doi=10.1007/BFb0116498 |url=http://www.researchgate.net/publication/225672062_Superheavy_elements_a_prediction_of_their_chemical_and_physical_properties |accessdate=4 October 2013}}</ref>
+|covalent radius=129
+|covalent radius comment=''(estimated)''<ref name=rsc>[http://www.rsc.org/chemsoc/visualelements/pages/data/meitnerium_data.html Chemical Data. Meitnerium - Mt], Royal Chemical Society</ref>
+|CAS number=54038-01-6
+|isotopes=
+{{infobox element/isotopes decay | mn=278 | sym=Mt | na=[[synthetic radioisotope|syn]] | hl=7.6&nbsp;s | dm=[[alpha emission|α]] | de=9.6 | link1=bohrium-274 | pn=274 | ps=Bh}}
+{{infobox element/isotopes decay | mn=276 | sym=Mt | na=syn | hl=0.72&nbsp;s | dm=α | de=9.71 | link1=bohrium-272 | pn=272 | ps=Bh}}
+{{infobox element/isotopes decay | mn=274 | sym=Mt | na=syn | hl=0.44 s | dm=α | de=9.76 | link1=bohrium-270 | pn=270 | ps=Bh}}
+{{infobox element/isotopes decay | mn=270m | sym=Mt ? | na=syn | hl=1.1&nbsp;s | dm=α | de= | link1=bohrium-266 | pn=266 | ps=Bh}}
+|naming=after [[Lise Meitner]]
+|discovered by=[[Gesellschaft für Schwerionenforschung]]
+|discovery date=1982
+}}
 '''Meitnerium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Mt''', ngièn-chṳ́ su-muk he '''109'''.
 
 {{Ngièn-su chû-khì-péu}}
