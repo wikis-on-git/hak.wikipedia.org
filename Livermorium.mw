@@ -1,3 +1,63 @@
+{{Infobox element
+|number=116
+|symbol=Lv
+|name=livermorium
+|left=[[Moscovium]]
+|right=[[Tennessine]]
+|above=[[polonium|Po]]
+|below=(Usn)
+|series=hàn-màng khok-thin
+|series comment=but probably a [[post-transition metal]]
+|appearance=
+|group=16
+|period=7
+|block=p
+|atomic mass=[293]
+|electron configuration=&#91;[[radon|Rn]]&#93; 5f<sup>14</sup> 6d<sup>10</sup> 7s<sup>2</sup> 7p<sup>4</sup>
+|electron configuration comment=''(predicted)<ref name=Haire/>''
+|electrons per shell=2, 8, 18, 32, 32, 18, 6
+|electrons per shell comment=''(predicted)''
+|phase=ku-thí
+|phase comment=''(predicted)''<ref name=Haire/><ref name="B&K">{{cite journal 
+|last1=Bonchev |first1=Danail |last2=Kamenska |first2=Verginia |year=1981 |title=Predicting the Properties of the 113–120 Transactinide Elements |journal=Journal of Physical Chemistry |volume=85 |issue=9 |pages=1177–1186 |publisher=American Chemical Society |doi=10.1021/j150609a021 |url=http://www.researchgate.net/publication/239657207_Predicting_the_properties_of_the_113_to_120_transactinide_elements }}</ref>
+|density gpcm3nrt=12.9
+|density gpcm3nrt comment=''(predicted)''<ref name=Haire/>
+|melting point K=637–780
+|melting point C=364–507
+|melting point F=687–944
+|melting point comment=''(extrapolated)''<ref name="B&K"/>
+|boiling point K=1035–1135
+|boiling point C=762–862
+|boiling point F=1403–1583
+|boiling point comment=''(extrapolated)''<ref name="B&K"/>
+|heat fusion=7.61
+|heat fusion comment=''(extrapolated)''<ref name="B&K"/>
+|heat vaporization=42
+|heat vaporization comment=''(predicted)''<ref name=BFricke>{{cite journal |last1=Fricke |first1=Burkhard |year=1975 |title=Superheavy elements: a prediction of their chemical and physical properties |journal=Recent Impact of Physics on Inorganic Chemistry |volume=21 |pages=89–144 |doi=10.1007/BFb0116498 |url=http://www.researchgate.net/publication/225672062_Superheavy_elements_a_prediction_of_their_chemical_and_physical_properties |accessdate=4 October 2013}}</ref>
+|oxidation states=−2,<ref name=Thayer>{{cite journal |last1=Thayer |first1=John S. |title=Relativistic Effects and the Chemistry of the Heavier Main Group Elements |year=2010 |page=83 |doi=10.1007/978-1-4020-9975-5_2}}</ref> '''+2''', +4
+|oxidation states comment=''(predicted)''<ref name=Haire>{{cite book| title=The Chemistry of the Actinide and Transactinide Elements| editor1-last=Morss|editor2-first=Norman M.| editor2-last=Edelstein| editor3-last=Fuger|editor3-first=Jean| last1=Hoffman|first1=Darleane C. |last2=Lee |first2=Diana M. |last3=Pershina |first3=Valeria |chapter=Transactinides and the future elements| publisher= [[Springer Science+Business Media]]| year=2006| isbn=1-4020-3555-1| location=Dordrecht, The Netherlands| edition=3rd| ref=CITEREFHaire2006}}</ref>
+|atomic radius=183
+|atomic radius comment=''(predicted)''<ref name=BFricke/>
+|covalent radius=162–166
+|covalent radius comment=''(extrapolated)''<ref name="B&K"/>
+|number of ionization energies=5
+|ionization energy 1=723.6
+|ionization energy 1 comment=''(predicted)''<ref name=Haire/>
+|ionization energy 2=1331.5
+|ionization energy 2 comment=''(predicted)''<ref name=BFricke/>
+|ionization energy 3=2846.3
+|ionization energy 3 comment=''(predicted)''<ref name=BFricke/>
+|CAS number=54100-71-9
+|isotopes=
+{{infobox element/isotopes decay | mn=293 | sym=Lv | na=[[synthetic radioisotope|syn]] | hl=61&nbsp;ms | dm=[[alpha decay |α]] | de=10.54 | link1=flerovium-289 | pn=289 | ps=Fl}}
+{{infobox element/isotopes decay | mn=292 | sym=Lv | na=syn | hl=18&nbsp;ms | dm=α | de=10.66 | link1=flerovium-288 | pn=288 | ps=Fl}}
+{{infobox element/isotopes decay | mn=291 | sym=Lv | na=syn | hl=18&nbsp;ms | dm=α | de=10.74 | link1=flerovium-287 | pn=287 | ps=Fl}}
+{{infobox element/isotopes decay | mn=290 | sym=Lv | na=syn | hl=7.1&nbsp;ms | dm=α | de=10.84 | link1=flerovium-286 | pn=286 | ps=Fl}}
+|isotopes comment=
+|naming=after [[Lawrence Livermore National Laboratory]],<ref name="IUPAC-names-114-116">{{cite web | url=http://www.iupac.org/news/news-detail/article/element-114-is-named-flerovium-and-element-116-is-named-livermorium.html | title=Element 114 is Named Flerovium and Element 116 is Named Livermorium | publisher= [[International Union of Pure and Applied Chemistry|IUPAC]] | date=30 May 2012}}</ref> itself named partly after [[Livermore, California]]
+|discovered by=[[Joint Institute for Nuclear Research]] and [[Lawrence Livermore National Laboratory]]
+|discovery date=2000
+}}
 '''Livermorium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Lv''', ngièn-chṳ́ su-muk he '''116'''.
 
 {{Ngièn-su chû-khì-péu}}
