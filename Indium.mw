@@ -1,4 +1,79 @@
-[[File:In-TableImage.png|right|thumb|Indium]]
+{{Infobox element
+|number=49
+|symbol=In
+|name=indium
+|left=[[cadmium]]
+|right=[[siak]]
+|above=[[gallium|Ga]]
+|below=[[thallium|Tl]]
+|series=heu-ko-thu kîm-su̍k
+|group=13
+|period=5
+|block=p
+|image name=Indium.jpg
+|appearance=silvery lustrous gray
+|atomic mass=114.818
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=1
+|atomic mass comment=
+|electron configuration=&#91;[[krypton|Kr]]&#93; 4d<sup>10</sup> 5s<sup>2</sup> 5p<sup>1</sup>
+|electrons per shell=2, 8, 18, 18, 3
+|phase=ku-thí
+|density gpcm3nrt=7.31
+|density gpcm3mp=7.02
+|melting point K=429.7485
+|melting point C=156.5985
+|melting point F=313.8773
+|boiling point K=2345
+|boiling point C=2072
+|boiling point F=3762
+|triple point K=429.7445
+|triple point kPa=~1
+|triple point ref=<ref>{{cite journal|doi=10.1088/0026-1394/26/4/001|bibcode=1989Metro..26..211M|title=Determination of the Indium Freezing-point and Triple-point Temperatures|year=1989|last1=Mangum|first1=B W|journal=Metrologia|volume=26|issue=4|pages=211}}</ref>
+|heat fusion=3.281
+|heat vaporization=231.8
+|heat capacity=26.74
+|vapor pressure 1=1196
+|vapor pressure 10=1325
+|vapor pressure 100=1485
+|vapor pressure 1 k=1690
+|vapor pressure 10 k=1962
+|vapor pressure 100 k=2340
+|vapor pressure comment=
+|crystal structure=tetragonal
+|oxidation states='''3''', 2, 1, −1, −2, −5<ref>{{cite journal|doi=10.1021/ic951378e|title=Synthesis, Structure, and Bonding of Two Lanthanum Indium Germanides with Novel Structures and Properties|year=1996|last1=Guloy|first1=A. M.|last2=Corbett|first2=J. D.|journal=Inorganic Chemistry|volume=35|issue=9|pages=2616–22}}</ref>
+|oxidation states comment=(an [[amphoterism|amphoteric]] oxide)
+|electronegativity=1.78
+|number of ionization energies=3
+|ionization energy 1=558.3
+|ionization energy 2=1820.7
+|ionization energy 3=2704
+|atomic radius=167
+|covalent radius=142±5
+|Van der Waals radius=193
+|magnetic ordering=[[diamagnetic]]
+|magnetic ordering ref=<ref>{{cite book |url=http://web.archive.org/web/20110303222309/http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf|chapter=Magnetic susceptibility of the elements and inorganic compounds| editor = Lide, D. R. | title = CRC Handbook of Chemistry and Physics | edition = 86th | location = Boca Raton (FL) | publisher = CRC Press | year = 2005 | isbn = 0-8493-0486-5 }}
+</ref>
+|electrical resistivity unit prefix=n
+|electrical resistivity at 20=83.7
+|thermal conductivity=81.8
+|thermal expansion at 25=32.1
+|speed of sound rod at 20=1215
+|Young's modulus=11
+|Mohs hardness=1.2
+|Brinell hardness=8.8–10.0
+|CAS number=7440-74-6
+|isotopes=
+{{infobox element/isotopes decay | mn=113 | sym=In | na=4.29% | hl=– | dm=([[spontaneous fission|SF]]) | de=<24.281 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=115 | sym=In
+ | na=95.71% | hl=4.41&times;10<sup>14</sup>&nbsp;y
+ | dm=[[beta emission|β<sup>−</sup>]] | de=0.495 | link1=tin-115 | pn=115 | ps=Sn}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|discovered by=[[Ferdinand Reich]] and [[Hieronymous Theodor Richter]]
+|discovery date=1863
+|first isolation by=Hieronymous Theodor Richter
+|first isolation date=1867
+}}
 '''Indium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''In''', ngièn-chṳ́ su-muk he '''49'''.
 
 {{Ngièn-su chû-khì-péu}}
