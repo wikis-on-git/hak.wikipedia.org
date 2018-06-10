@@ -1,4 +1,82 @@
-[[File:Rg-TableImage.png|right|thumb|Roentgenium]]
+{{Infobox element
+|number=111
+|symbol=Rg
+|name=roentgenium
+|left=[[darmstadtium]]
+|right=[[copernicium]]
+|above=[[Kîm|Au]]
+|below=(Uht)
+|series=hàn-màng khok-thin
+|series comment=but probably a [[transition metal]]
+|group=11
+|period=7
+|block=d
+|appearance=silvery ''(predicted)''<ref name="e-conf"/>
+|atomic mass=[282]
+|electron configuration=&#91;[[radon|Rn]]&#93; 5f<sup>14</sup> 6d<sup>9</sup> 7s<sup>2</sup>
+|electron configuration comment=''(predicted)''<ref name="e-conf">{{Cite journal|url=http://wwwsoc.nii.ac.jp/jnrs/paper/JN52/j052Turler.pdf |title=Gas Phase Chemistry of Superheavy Elements|author=Turler, A.|journal=Journal of Nuclear and Radiochemical Sciences|volume=5|issue=2|pages=R19–R25|year=2004}}</ref><ref name=Haire/>
+|electrons per shell=2, 8, 18, 32, 32, 17, 2
+|electrons per shell comment=''(predicted)''
+|phase=ku-thí
+|phase comment=''(predicted)''<ref name=bcc/>
+|density gpcm3nrt=28.7
+|density gpcm3nrt comment=''(predicted)''<ref name=Haire/>
+|crystal structure=body-centered cubic
+|crystal structure comment=''(predicted)''<ref name=bcc>{{cite journal|doi=10.1103/PhysRevB.84.113104|title=First-principles calculation of the structural stability of 6d transition metals|year=2011|last1=Östlin|first1=A.|last2=Vitos|first2=L.|journal=Physical Review B|volume=84|issue=11|bibcode=2011PhRvB..84k3104O }}</ref>
+|oxidation states=5, '''3''', 1, −1
+|oxidation states comment=''(predicted)''<ref name=Haire>{{cite book| title=The Chemistry of the Actinide and Transactinide Elements| editor1-last=Morss|editor2-first=Norman M.| editor2-last=Edelstein| editor3-last=Fuger|editor3-first=Jean| last1=Hoffman|first1=Darleane C. |last2=Lee |first2=Diana M. |last3=Pershina |first3=Valeria |chapter=Transactinides and the future elements| publisher= [[Springer Science+Business Media]]| year=2006| isbn=1-4020-3555-1| location=Dordrecht, The Netherlands| edition=3rd| ref=CITEREFHaire2006}}</ref><ref name=BFricke/>
+|number of ionization energies=5
+|ionization energy 1=1022.7
+|ionization energy 2=2074.4
+|ionization energy 3=3077.9
+|ionization energy comment=''(all estimated)''<ref name=Haire/>
+|atomic radius=138
+|atomic radius comment=''(predicted)''<ref name=Haire/><ref name=BFricke>{{cite journal |last1=Fricke |first1=Burkhard |year=1975 |title=Superheavy elements: a prediction of their chemical and physical properties |journal=Recent Impact of Physics on Inorganic Chemistry |volume=21 |pages=89–144 |doi=10.1007/BFb0116498 |url=http://www.researchgate.net/publication/225672062_Superheavy_elements_a_prediction_of_their_chemical_and_physical_properties |accessdate=4 October 2013}}</ref>
+|covalent radius=121
+|covalent radius comment=''(estimated)''<ref name=rsc>[http://www.rsc.org/chemsoc/visualelements/pages/data/roentgenium_data.html Chemical Data. Roentgenium - Rg], Royal Chemical Society</ref>
+|CAS number=54386-24-2
+|isotopes=
+{{infobox element/isotopes decay | mn=282 | sym=Rg<ref>{{cite journal|last1=Khuyagbaatar|first1=J.|last2=Yakushev|first2=A.|last3=Düllmann|first3=Ch. E.|title=<sup>48</sup>Ca+<sup>249</sup>Bk Fusion Reaction Leading to Element Z=117: Long-Lived α-Decaying <sup>270</sup>Db and Discovery of <sup>266</sup>Lr|journal=Physical Review Letters|volume=112|issue=17|pages=172501|year=2014|doi=10.1103/PhysRevLett.112.172501|url=http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.112.172501|display-authors=etal}}</ref> | na=[[synthetic radioisotope|syn]] | hl=2.1{{su|p=+1.4|b=−0.6}}&nbsp;min | dm=[[alpha decay |α]] | de=9.00 | link1=meitnerium-278 | pn=278 | ps=Mt}}
+{{infobox element/isotopes decay2 | mn=281 | sym=Rg<ref name=2012e117>{{Cite journal | last1 = Oganessian | first1 = Yuri Ts. | last2 = Abdullin | first2 = F. Sh. | last3 = Alexander | first3 = C. | last4 = Binder | first4 = J. | last5 = Boll | first5 = R. A. | last6 = Dmitriev | first6 = S. N. | last7 = Ezold | first7 = J. | last8 = Felker | first8 = K. | last9 = Gostic | first9 = J. M. <!--
+R. K. Grzywacz
+J. H. Hamilton
+R. A. Henderson
+M. G. Itkis
+K. Miernik
+D. Miller
+K. J. Moody
+A. N. Polyakov
+A. V. Ramayya
+J. B. Roberto
+M. A. Ryabinin
+K. P. Rykaczewski
+R. N. Sagaidak
+D. A. Shaughnessy
+I. V. Shirokovsky
+M. V. Shumeiko
+M. A. Stoyer
+N. J. Stoyer
+V. G. Subbotin
+A. M. Sukhov
+Yu. S. Tsyganov
+Vladimir K. Utyonkov
+A. A. Voinov
+G. K. Vostokin
+-->| title = Experimental studies of the <sup>249</sup>Bk + <sup>48</sup>Ca reaction including decay properties and excitation function for isotopes of element 117, and discovery of the new isotope <sup>277</sup>Mt | doi = 10.1103/PhysRevC.87.054621 | journal = Physical Review C | publisher = American Physical Society | volume = 87 <!--| issue = 5 -->| number = 054621 | date = 2013-05-30 | bibcode = 2013PhRvC..87e4621O | displayauthors = 3}}</ref><ref name=Mt>{{cite journal
+ |last1=Oganessian |first1=Yu. Ts.
+ |year=2013
+ |title=Experimental studies of the <sup>249</sup>Bk + <sup>48</sup>Ca reaction including decay properties and excitation function for isotopes of element 117, and discovery of the new isotope <sup>277</sup>Mt
+ |journal=[[Physical Review C]]
+ |volume=87 |issue=5 |pages=054621
+ |bibcode=2013PhRvC..87e4621O
+ |doi=10.1103/PhysRevC.87.054621
+|display-authors=etal}}</ref> | na=syn | hl=17{{su|p=+6|b=−3}}&nbsp;s | dm1=[[spontaneous fission|SF]] (90%) | de1= | pn1= | ps1= | dm2=α (10%) | de2= | link2=meitnerium-277 | pn2=277 | ps2=Mt}}
+{{infobox element/isotopes decay | mn=280 | sym=Rg | na=syn | hl=3.6&nbsp;s | dm=α | de=9.75 | link1=meitnerium-276 | pn=276 | ps=Mt}}
+{{infobox element/isotopes decay | mn=279 | sym=Rg | na=syn | hl=0.17&nbsp;s | dm=α | de=10.37 | link1=meitnerium-275 | pn=275 | ps=Mt}}
+|naming=after [[Wilhelm Röntgen]]
+|discovered by=[[Gesellschaft für Schwerionenforschung]]
+|discovery date=1994
+}}
 '''Roentgenium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Rg''', ngièn-chṳ́ su-muk he '''111'''.
 
 {{Ngièn-su chû-khì-péu}}
