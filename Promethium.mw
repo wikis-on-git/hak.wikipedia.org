@@ -1,4 +1,81 @@
-[[File:Pm-TableImage.png|right|thumb|Promethium]]
+{{Infobox element
+|image name=
+|image alt=
+|image size=
+|image name comment=
+|image name 2=File:Promethium spectrum visible.png
+|image alt 2=Promethium spectrum visible.png
+|image size 2=
+|image name 2 comment=Spectral lines of promethium 
+|number=61
+|symbol=Pm
+|name=promethium
+|left=[[neodymium]]
+|right=[[samarium]]
+|above=–
+|below=[[neptunium|Np]]
+|series=lanthanum-hi
+|period=6
+|group=n/a
+|block=f
+|appearance=metallic
+|atomic mass= [145]
+|electron configuration=&#91;[[xenon|Xe]]&#93; 4f<sup>5</sup> 6s<sup>2</sup>
+|electrons per shell=2, 8, 18, 23, 8, 2
+|phase=ku-thí
+|density gpcm3nrt=7.26
+|melting point K=1315
+|melting point C=1042
+|melting point F=1908
+|boiling point K=3273
+|boiling point C=3000
+|boiling point F=5432
+|heat fusion=7.13
+|heat vaporization=289
+|crystal structure=double hexagonal close packed
+|oxidation states='''3''', 2
+|oxidation states comment=(a&nbsp;mildly [[base (chemistry)|basic]] oxide)
+|electronegativity=1.13
+|electronegativity comment=(?)
+|number of ionization energies=3
+|ionization energy 1=540
+|ionization energy 2=1050
+|ionization energy 3=2150
+|atomic radius=183
+|covalent radius=199
+|magnetic ordering=[[paramagnetic]]
+|magnetic ordering ref=<ref name=magnet>[http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf Magnetic susceptibility of the elements and inorganic compounds], in Handbook of Chemistry and Physics 81st edition, CRC press.</ref>
+|electrical resistivity unit prefix=µ
+|electrical resistivity=est. 0.75
+|electrical resistivity comment=(at&nbsp;{{abbr|r.t.|room temperature}})
+|thermal conductivity=17.9
+|thermal expansion=9.0
+|thermal expansion ref=<ref>http://www.owlnet.rice.edu/~msci301/ThermalExpansion.pdf</ref>
+|thermal expansion comment=(at&nbsp;{{abbr|r.t.|room temperature}})
+|Young's modulus=α form: est. 46
+|Shear modulus=α form: est. 18
+|Bulk modulus=α form: est. 33
+|Poisson ratio=α form: est. 0.28
+|CAS number=7440-12-2
+|isotopes=
+{{infobox element/isotopes decay | mn=145 | sym=Pm
+ | na=[[synthetic radioisotope|syn]] | hl=17.7&nbsp;y
+ | dm=[[electron capture|ε]] | de=0.163 | link1=neodymium-145 | pn=145 | ps=Nd}}
+{{infobox element/isotopes decay2 | mn=146 | sym=Pm
+ | na=syn | hl=5.53&nbsp;y
+ | dm1=ε | de1=1.472 | link1=neodymium-146 | pn1=146 | ps1=Nd
+ | dm2=[[beta emission|β<sup>−</sup>]] | de2=1.542 | link2=samarium-146 | pn2=146 | ps2=Sm}}
+{{infobox element/isotopes decay | mn=147 | sym=Pm
+ | na=[[trace radioisotope|trace]] | hl=2.6234&nbsp;y
+ | dm=β<sup>−</sup> | de=0.224 | link1=samarium-147 | pn=147 | ps=Sm}}
+|isotopes comment=
+|discovered by=[[Chien Shiung Wu]], [[Emilio Segrè]], [[Hans Bethe]]
+|discovery date=1942
+|first isolation by=[[Charles D. Coryell]], [[Jacob A. Marinsky]], [[Lawrence E. Glendenin]], [[Harold G. Richter]]
+|first isolation date=1945
+|named by=Grace Mary Coryell
+|named date=1945
+}}
 '''Promethium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Pm''', ngièn-chṳ́ su-muk he '''61'''.
 
 {{Ngièn-su chû-khì-péu}}
