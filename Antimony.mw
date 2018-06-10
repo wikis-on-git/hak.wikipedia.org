@@ -1,3 +1,99 @@
+{{Infobox element
+|name=antimony
+|alt name=
+|number=51
+|symbol=Sb
+|left=[[siak]]
+|right=[[tellurium]]
+|above=[[Phî|As]]
+|below=[[Bismuth|Bi]]
+|series=lui-kîm-su̍k
+|series comment=
+|group=15
+|period=5
+|block=p
+|series color=
+|appearance=silvery lustrous gray
+|image name=Antimon Barren von 16 kg.jpg
+|image name comment=
+|image name 2=
+|image name 2 comment=
+|atomic mass=121.760
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=1
+|atomic mass comment=
+|electron configuration=&#91;[[krypton|Kr]]&#93; 4d<sup>10</sup> 5s<sup>2</sup> 5p<sup>3</sup>
+|electrons per shell=2, 8, 18, 18, 5
+|color=
+|phase=ku-thí
+|phase comment=
+|density gplstp=
+|density gpcm3nrt=6.697
+|density gpcm3mp=6.53
+|melting point K=903.78
+|melting point C=630.63
+|melting point F=1167.13
+|boiling point K=1908
+|boiling point C=1635
+|boiling point F=2975
+|triple point K=
+|triple point kPa=
+|critical point K=
+|critical point MPa=
+|heat fusion=19.79
+|heat vaporization=193.43
+|heat capacity=25.23
+|vapor pressure 1=807
+|vapor pressure 10=876
+|vapor pressure 100=1011
+|vapor pressure 1 k=1219
+|vapor pressure 10 k=1491
+|vapor pressure 100 k=1858
+|vapor pressure comment=
+|crystal structure=rhombohedral
+|oxidation states='''5''', 4, '''3''', 2, 1, −1, −2, '''−3'''
+|oxidation states comment=(an [[Amphoterism|amphoteric]] oxide)
+|electronegativity=2.05
+|number of ionization energies=4
+|ionization energy 1=834
+|ionization energy 2=1594.9
+|ionization energy 3=2440
+|atomic radius=140
+|covalent radius=139±5
+|Van der Waals radius=206
+|magnetic ordering=[[diamagnetic]]
+|magnetic ordering ref=<ref>{{cite book |url=http://web.archive.org/web/20110303222309/http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf|chapter=Magnetic susceptibility of the elements and inorganic compounds| editor = Lide, D. R. | title = CRC Handbook of Chemistry and Physics | edition = 86th | location = Boca Raton (FL) | publisher = CRC Press | year = 2005 | isbn = 0-8493-0486-5 }}
+</ref>
+|electrical resistivity=
+|electrical resistivity unit prefix=n
+|electrical resistivity at 20=417
+|thermal conductivity=24.4
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=11
+|speed of sound=
+|speed of sound rod at 20=3420
+|speed of sound rod at r.t.=
+|Young's modulus=55
+|Shear modulus=20
+|Bulk modulus=42
+|Poisson ratio=
+|Mohs hardness=3.0
+|Vickers hardness=
+|Brinell hardness=294–384
+|CAS number=7440-36-0
+|isotopes=
+{{infobox element/isotopes decay | mn=121 | sym=Sb | na=57.36% | hl=– | dm=([[spontaneous fission|SF]]) | de=<25.718 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=123 | sym=Sb | na=42.64% | hl=– | dm=(SF) | de=<23.454 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=125 | sym=Sb
+ | na=[[synthetic radioisotope|syn]] | hl=2.7582&nbsp;y
+ | dm=[[beta emission|β<sup>−</sup>]] | de=0.767 | link1=tellurium-125 | pn=125 | ps=Te }}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|discovery date=[[3000 BC]]
+|first isolation by=[[Vannoccio Biringuccio]]
+|first isolation date=1540
+}}
 '''Antimony''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Sb''', ngièn-chṳ́ su-muk he '''51'''.
 
 {{Ngièn-su chû-khì-péu}}
