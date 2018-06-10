@@ -1,4 +1,106 @@
-[[File:Cd-TableImage.png|right|thumb|Cadmium]]
+{{Infobox element
+|number=48
+|symbol=Cd
+|name=cadmium
+|left=[[ngiùn]]
+|right=[[indium]]
+|above=[[Â-yèn|Zn]]
+|below=[[Súi-ngiùn|Hg]]
+|series=ko-thu kîm-su̍k
+|series comment=alternatively considered a [[post-transition metal]]
+|group=12
+|period=5
+|block=d
+|image name=Cadmium-crystal_bar.jpg
+|appearance=silvery bluish-gray metallic
+|atomic mass=112.414
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=4
+|atomic mass comment=
+|electron configuration=&#91;[[krypton|Kr]]&#93; 4d<sup>10</sup> 5s<sup>2</sup>
+|electrons per shell=2, 8, 18, 18, 2
+|phase=ku-thí
+|density gpcm3nrt=8.65
+|density gpcm3mp=7.996
+|melting point K=594.22
+|melting point C=321.07
+|melting point F=609.93
+|boiling point K=1040
+|boiling point C=767
+|boiling point F=1413
+|heat fusion=6.21
+|heat vaporization=99.87
+|heat capacity=26.020
+|vapor pressure 1=530
+|vapor pressure 10=583
+|vapor pressure 100=654
+|vapor pressure 1 k=745
+|vapor pressure 10 k=867
+|vapor pressure 100 k=1040
+|vapor pressure comment=
+|crystal structure=hexagonal close packed
+|oxidation states='''2''', 1, −2
+|oxidation states comment=(a&nbsp;mildly [[base (chemistry)|basic]] oxide)
+|electronegativity=1.69
+|number of ionization energies=3
+|ionization energy 1=867.8
+|ionization energy 2=1631.4
+|ionization energy 3=3616
+|atomic radius=151
+|covalent radius=144±9
+|Van der Waals radius=158
+|magnetic ordering=[[diamagnetic]]
+|magnetic ordering ref=<ref>{{cite book |url=http://web.archive.org/web/20110303222309/http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf|chapter=Magnetic susceptibility of the elements and inorganic compounds| editor = Lide, D. R. | title = CRC Handbook of Chemistry and Physics | edition = 86th | location = Boca Raton (FL) | publisher = CRC Press | year = 2005 | isbn = 0-8493-0486-5 }}
+</ref>
+|electrical resistivity unit prefix=n
+|electrical resistivity=72.7
+|electrical resistivity comment=(at&nbsp;22&nbsp;°C)
+|thermal conductivity=96.6
+|thermal expansion at 25=30.8
+|speed of sound rod at 20=2310
+|Young's modulus=50
+|Shear modulus=19
+|Bulk modulus=42
+|Poisson ratio=0.30
+|Mohs hardness=2.0
+|Brinell hardness=203–220
+|CAS number=7440-43-9
+|isotopes=
+{{infobox element/isotopes decay | mn=106 | sym=Cd
+ | na=1.25% | hl=[[1 E19 s and more|>4.1×10<sup>20</sup>&nbsp;y]]
+ | dm=([[double beta decay|β<sup>+</sup>β<sup>+</sup>]]) | de=2.770 | link1=palladium-106 | pn=106 | ps=Pd}}
+{{infobox element/isotopes decay | mn=107 | sym=Cd
+ | na=[[synthetic radioisotope|syn]] | hl=[[1 E5 s|6.5&nbsp;h]]
+ | dm=[[electron capture|ε]] | de=1.417 | link1=silver-107 | pn=107 | ps=Ag}}
+{{infobox element/isotopes decay | mn=108 | sym=Cd
+ | na=0.89% | hl=[[1 E19 s and more|>4.1&times;10<sup>17</sup>&nbsp;y]]
+ | dm=(β<sup>+</sup>β<sup>+</sup>) | de=0.272 | link1=palladium-108 | pn=108 | ps=Pd}}
+{{infobox element/isotopes decay | mn=109 | sym=Cd
+ | na=syn | hl=[[1 E7 s|462.6&nbsp;d]]
+ | dm=ε | de=0.214 | link1=silver-109 | pn=109 | ps=Ag}}
+{{infobox element/isotopes decay | mn=110 | sym=Cd | na=12.49% | hl=– | dm=([[spontaneous fission|SF]]) | de=<22.486 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=111 | sym=Cd | na=12.8% | hl=– | dm=(SF) | de=<21.883 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=112 | sym=Cd | na=24.13% | hl=– | dm=(SF) | de=<20.733 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=113 | sym=Cd
+ | na=12.22% | hl=[[1 E19 s and more|7.7&times;10<sup>15</sup>&nbsp;y]]
+ | dm=[[beta decay|β<sup>−</sup>]] | de=0.316 | link1=indium-113 | pn=113 | ps=In}}
+{{infobox element/isotopes decay2 | mn=113[[nuclear isomer|m]] | sym=Cd
+ | na=syn | hl=[[1 E8 s|14.1&nbsp;y]]
+ | dm1=β<sup>−</sup> | de1=0.580 | pn1=113 | ps1=In
+ | dm2=[[isomeric transition|IT]] | de2=0.264 | link2=cadmium-113 | pn2=113 | ps2=Cd}}
+{{infobox element/isotopes decay | mn=114 | sym=Cd
+ | na=28.73% | hl=[[1 E19 s and more|>6.4×10<sup>18</sup>&nbsp;y]]
+ | dm=([[double beta decay|β<sup>−</sup>β<sup>−</sup>]]) | de=0.540 | link1=tin-114 | pn=114 | ps=Sn}}
+{{infobox element/isotopes decay | mn=115 | sym=Cd
+ | na=syn | hl=[[1 E5 s|53.46&nbsp;h]]
+ | dm=β<sup>−</sup> | de=1.446 | link1=indium-115 | pn=115 | ps=In}}
+{{infobox element/isotopes decay | mn=116 | dm=β<sup>−</sup>β<sup>−</sup> | de=2.809 | sym=Cd | na=7.49% | hl=[[1 E19 s and more|3.1&times;10<sup>19</sup>&nbsp;y]] | link1=tin-116 | pn=116 | ps=Sn}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|discovery and first isolation by=[[Karl Samuel Leberecht Hermann]] and [[Friedrich Stromeyer]]
+|discovery date=1817
+|named by=Friedrich Stromeyer
+|named date=1817
+}}
 '''Cadmium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Cd''', ngièn-chṳ́ su-muk he '''48'''.
 
 {{Ngièn-su chû-khì-péu}}
