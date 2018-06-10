@@ -1,4 +1,92 @@
-[[File:Ge-TableImage.png|right|thumb|Germanium]]
+{{infobox element
+|number=32
+|symbol=Ge
+|name=germanium
+|left=[[gallium]]
+|right=[[phî]]
+|above=[[Si̍t|Si]]
+|below=[[Siak|Sn]]
+|series=lui-kîm-su̍k
+|group=14
+|period=4
+|block=p
+|appearance=grayish-white
+|image name=Polycrystalline-germanium.jpg
+|image alt=Grayish lustrous block with uneven cleaved surface
+|image size=
+|image name comment=A 12&nbsp;gram (2&times;3&nbsp;cm) polycrystalline block of germanium with uneven cleaved surfaces
+|atomic mass=72.630
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=8
+|atomic mass comment=
+|electron configuration=&#91;[[argon|Ar]]&#93; 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>2</sup>
+|electrons per shell=2, 8, 18, 4
+|phase=ku-thí
+|density gpcm3nrt=5.323
+|density gpcm3mp=5.60
+|melting point K=1211.40
+|melting point C=938.25
+|melting point F=1720.85
+|boiling point K=3106
+|boiling point C=2833
+|boiling point F=5131
+|heat fusion=36.94
+|heat vaporization=334
+|heat capacity=23.222
+|vapor pressure 1=1644
+|vapor pressure 10=1814
+|vapor pressure 100=2023
+|vapor pressure 1 k=2287
+|vapor pressure 10 k=2633
+|vapor pressure 100 k=3104
+|vapor pressure comment=
+|crystal structure=diamond cubic
+|oxidation states='''4''', 3, '''2''', 1, 0, −1, −2, −3, '''−4'''
+|oxidation states comment=(an [[amphoterism|amphoteric]] oxide)
+|electronegativity=2.01
+|number of ionization energies=3
+|ionization energy 1=762
+|ionization energy 2=1537.5
+|ionization energy 3=3302.1
+|atomic radius=122
+|covalent radius=122
+|Van der Waals radius=211
+|magnetic ordering=[[diamagnetic]]
+|magnetic ordering ref=<ref>[http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf Magnetic susceptibility of the elements and inorganic compounds], in Handbook of Chemistry and Physics 81st edition, CRC press.</ref>
+|electrical resistivity at 20=1
+|thermal conductivity=60.2
+|thermal expansion=6.0
+|speed of sound rod at 20=5400
+|Young's modulus=103
+|Young's modulus ref=<ref name=ioffe>{{cite news|url=http://www.ioffe.ru/SVA/NSM/Semicond/Ge|title=Properties of Germanium|publisher=[[Ioffe Institute]]}}</ref>
+|Shear modulus=41
+|Shear modulus ref=<ref name=ioffe/>
+|Bulk modulus=75
+|Bulk modulus ref=<ref name=ioffe/>
+|Poisson ratio=0.26
+|Poisson ratio ref=<ref name=ioffe/>
+|Mohs hardness=6.0
+|Vickers hardness=
+|Brinell hardness=
+|CAS number=7440-56-4
+|band gap=0.67
+|isotopes=
+{{infobox element/isotopes decay | mn=68 | sym=Ge | na=[[synthetic radioisotope|syn]] | hl=270.8&nbsp;d | dm=[[electron capture|ε]] | de=– | link1=gallium-68 | pn=68 | ps=Ga}}
+{{Infobox element/isotopes stable | mn=70 | sym=Ge | na=21.23% | n=38 |firstlinks=yes}}
+{{infobox element/isotopes decay | mn=71 | sym=Ge | na=syn | hl=11.26 d | dm=ε | de=– | link1=gallium-71 | pn=71 | ps=Ga}}
+{{Infobox element/isotopes stable | mn=72 | sym=Ge | na=27.66% | n=40 |firstlinks=no}}
+{{Infobox element/isotopes stable | mn=73 | sym=Ge | na=7.73% | n=41 |firstlinks=no}}
+{{Infobox element/isotopes stable | mn=74 | sym=Ge | na=35.94% | n=42 |firstlinks=no}}
+{{infobox element/isotopes decay | mn=76 | sym=Ge | na=7.44% |
+hl=1.78&times;10<sup>21</sup>&nbsp;y | dm=[[double beta decay|β<sup>−</sup>β<sup>−</sup>]] | de=2.039
+|link1=selenium-76 | pn=76 | ps=Se}}
+|isotopes comment=
+|naming=after [[Germany]], homeland of the discoverer
+|predicted by=[[Dmitri Mendeleev]]
+|prediction date=1871
+|discovered by=[[Clemens Winkler]]
+|discovery date=1886
+}}
 '''Germanium''' he yit-chúng [[fa-ho̍k]] [[ngièn-su]], fa-ho̍k fù-ho vì '''Ge''', ngièn-chṳ́ su-muk he '''32'''.
 
 {{Ngièn-su chû-khì-péu}}
