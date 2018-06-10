@@ -1,3 +1,79 @@
+{{infobox element
+|number=84
+|symbol=Po
+|name=polonium
+|allotropes = &alpha;, &beta;
+|left=[[bismuth]]
+|right=[[astatine]]
+|above=[[tellurium|Te]]
+|below=[[Livermorium|Lv]]
+|series=heu-ko-thu kîm-su̍k
+|series comment=ia̍h-sī [[lūi-kim-sio̍k]]
+|group=16
+|period=6
+|block=p
+|appearance=silvery
+|atomic mass=(209)
+|electron configuration=&#91;[[xenon|Xe]]&#93; 4f<sup>14</sup> 5d<sup>10</sup> 6s<sup>2</sup> 6p<sup>4</sup>
+|image name=
+|electrons per shell=2, 8, 18, 32, 18, 6
+|phase=ku-thí
+|density gpcm3nrt=alpha: 9.196
+|density gpcm3nrt 2=beta: 9.398
+|melting point K=527
+|melting point C=254
+|melting point F=489
+|boiling point K=1235
+|boiling point C=962
+|boiling point F=1764
+|heat fusion=ca. 13
+|heat vaporization=102.91
+|heat capacity=26.4
+|vapor pressure 1=
+|vapor pressure 10=
+|vapor pressure 100=
+|vapor pressure 1 k= (846)
+|vapor pressure 10 k=1003
+|vapor pressure 100 k=1236
+|vapor pressure comment=
+|crystal structure=cubic
+|crystal structure comment=&alpha;-Po
+|crystal structure 2=rhombohedral
+|crystal structure 2 comment=&beta;-Po
+|oxidation states=6, 5,<ref name="Thayer">{{cite journal |last1=Thayer |first1=John S. |title=Relativistic Effects and the Chemistry of the Heavier Main Group Elements |year=2010 |pages=78 |doi=10.1007/978-1-4020-9975-5_2}}</ref> '''4''', '''2''', '''[[Polonide|−2]]'''
+|oxidation states comment=(an [[amphoterism|amphoteric]] oxide)
+|electronegativity=2.0
+|number of ionization energies=1
+|ionization energy 1=812.1
+|atomic radius=168
+|covalent radius=140±4
+|Van der Waals radius=197
+|magnetic ordering=nonmagnetic
+|electrical resistivity unit prefix=µ
+|electrical resistivity at 0=α: 0.40
+|thermal conductivity=20
+|thermal conductivity comment=(?)
+|thermal expansion at 25=23.5
+|CAS number=7440-08-6
+|isotopes=
+{{infobox element/isotopes decay2 | mn=208 | sym=Po
+ | na=[[synthetic radioisotope|syn]] | hl=2.898&nbsp;y
+ | dm1=[[alpha emission|α]] | de1=5.215 | link1=lead-204 | pn1=204 | ps1=Pb
+ | dm2=[[positron decay|β<sup>+</sup>]] | de2=1.401 | link2=bismuth-208 | pn2=208 | ps2=Bi}}
+{{infobox element/isotopes decay2 | mn=209 | sym=Po
+ | na=syn | hl=(125.2±3.3)&nbsp;y<ref name=Po209>{{cite web|last1=Boutin|first1=Chad|title=Polonium's Most Stable Isotope Gets Revised Half-Life Measurement|url=http://www.nist.gov/pml/div682/po-090914.cfm|website=nist.gov|publisher=NIST Tech Beat|accessdate=9 September 2014}}</ref>
+ | dm1=α | de1=4.979 | link1=lead-205 | pn1=205 | ps1=Pb
+ | dm2=β<sup>+</sup> | de2=1.893 | link2=bismuth-209 | pn2=209 | ps2=Bi}}
+{{infobox element/isotopes decay | mn=210 | sym=Po
+ | na=[[trace radioisotope|trace]] | hl=138.376&nbsp;d
+ | dm=α | de=5.307 | link1=lead-206 | pn=206 | ps=Pb}}
+|isotopes comment=
+|naming=after ''{{lang|la|Polonia}}'', Latin for [[Poland]]. Homeland of Marie Curie
+|discovered by=[[Pierre Curie]] and [[Marie Curie]]
+|discovery date=1898
+|first isolation by=[[Willy Marckwald]]
+|first isolation date=1902
+}}
 '''Polonium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Po''', ngièn-chṳ́ su-muk he '''84'''.
 
 {{Ngièn-su chû-khì-péu}}
