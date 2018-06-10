@@ -1,4 +1,81 @@
-[[File:Tl-TableImage.png|right|thumb|Thallium]]
+{{Infobox element
+|number=81
+|symbol=Tl
+|name=thallium
+|left=[[súi-ngiùn]]
+|right=[[yèn]]
+|above=[[indium|In]]
+|below=[[Nihonium|Nh]]
+|series=heu-ko-thu kîm-su̍k
+|group=13
+|period=6
+|block=p
+|image name=Thallium pieces in ampoule.jpg
+|appearance=silvery white
+|atomic mass=204.38 
+|atomic mass ref=<ref name="CIAAW">[http://www.ciaaw.org/pubs/TSAW2013_xls.xls Conventional Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=
+|atomic mass comment=(204.382–204.385)<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|electron configuration=&#91;[[xenon|Xe]]&#93; 4f<sup>14</sup> 5d<sup>10</sup> 6s<sup>2</sup> 6p<sup>1</sup>
+|electrons per shell=2, 8, 18, 32, 18, 3
+|phase=ku-thí
+|density gpcm3nrt=11.85
+|density gpcm3mp=11.22
+|melting point K=577
+|melting point C=304
+|melting point F=579
+|boiling point K=1746
+|boiling point C=1473
+|boiling point F=2683
+|heat fusion=4.14
+|heat vaporization=165
+|heat capacity=26.32
+|vapor pressure 1=882
+|vapor pressure 10=977
+|vapor pressure 100=1097
+|vapor pressure 1 k=1252
+|vapor pressure 10 k=1461
+|vapor pressure 100 k=1758
+|vapor pressure comment=
+|crystal structure=hexagonal close packed
+|oxidation states='''3''', 2, '''1''', −1, −2, −5<ref>{{cite journal|doi=10.1021/ic960014z|title=Na<sub>23</sub>K<sub>9</sub>Tl<sub>15.3</sub>:  An Unusual Zintl Compound Containing Apparent Tl<sub>5</sub><sup>7-</sup>, Tl<sub>4</sub><sup>8−</sup>, Tl<sub>3</sub><sup>7−</sup>, and Tl<sup>5−</sup> Anions|year=1996|last1=Dong|first1=Z.-C.|last2=Corbett|first2=J. D.|journal=Inorganic Chemistry|volume=35|issue=11|pages=3107–12}}</ref>
+|oxidation states comment=(a&nbsp;mildly [[base (chemistry)|basic]] oxide)
+|electronegativity=1.62
+|number of ionization energies=3
+|ionization energy 1=589.4
+|ionization energy 2=1971
+|ionization energy 3=2878
+|atomic radius=170
+|covalent radius=145±7
+|Van der Waals radius=196
+|magnetic ordering=[[diamagnetic]]
+|magnetic ordering ref=<ref>{{cite book |url=http://web.archive.org/web/20110303222309/http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf|chapter=Magnetic susceptibility of the elements and inorganic compounds| editor = Lide, D. R. | title = CRC Handbook of Chemistry and Physics | edition = 86th | location = Boca Raton (FL) | publisher = CRC Press | year = 2005 | isbn = 0-8493-0486-5 }}
+</ref>
+|electrical resistivity unit prefix=µ
+|electrical resistivity at 20=0.18
+|thermal conductivity=46.1
+|thermal expansion at 25=29.9
+|speed of sound rod at 20=818
+|Young's modulus=8
+|Shear modulus=2.8
+|Bulk modulus=43
+|Poisson ratio=0.45
+|Mohs hardness=1.2
+|Brinell hardness=26.5–44.7
+|CAS number=7440-28-0
+|isotopes=
+{{infobox element/isotopes decay | mn=203 | sym=Tl | na=29.524% | hl=– | dm=([[alpha decay|α]]) | de=0.9108 | link1=gold-199 | pn=199 | ps=Au }}
+{{infobox element/isotopes decay2 | mn=204 | sym=Tl
+ | na=[[synthetic radioisotope|syn]] | hl=3.78&nbsp;y
+ | dm1=[[beta emission|β<sup>−</sup>]] | de1=0.764 | link1=lead-204 | pn1=204 | ps1=Pb
+ | dm2=[[electron capture|ε]] | de2=0.347 | link2=mercury-204 | pn2=204 | ps2=Hg}}
+{{infobox element/isotopes decay | mn=205 | sym=Tl | na=70.476% | hl=– | dm=(α) | de=0.1567 | link1=gold-201 | pn=201 | ps=Au }}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|discovered by=[[William Crookes]]
+|discovery date=1861
+|first isolation by=[[Claude-Auguste Lamy]]
+|first isolation date=1862
+}}
 '''Thallium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Tl''', ngièn-chṳ́ su-muk he '''81'''.
 
 {{Ngièn-su chû-khì-péu}}
