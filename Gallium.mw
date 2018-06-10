@@ -1,4 +1,99 @@
-[[File:Ga-TableImage.png|right|thumb|Gallium]]
+{{Infobox element
+|name=gallium
+|number=31
+|symbol=Ga
+|left=[[Â-yèn]]
+|right=[[Germanium]]
+|above=[[Lî|Al]]
+|below=[[Indium|In]]
+|series=heu-ko-thu kîm-su̍k
+|series comment=
+|group=13
+|period=4
+|block=p
+|series color=
+|appearance=silver-white
+|image name=Gallium1 640x480.jpg
+|image size=
+|image name comment=
+|image name 2=
+|image name 2 comment=
+|atomic mass=69.723
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=1
+|atomic mass comment=
+|electron configuration=&#91;[[argon|Ar]]&#93; 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>1</sup>
+|electrons per shell=2, 8, 18, 3
+|color=
+|phase=ku-thí
+|density gpcm3nrt=5.91
+|density gpcm3mp=6.095
+|melting point K=302.9146
+|melting point C=29.7646
+|melting point F=85.5763
+|boiling point K=2673
+|boiling point ref=<ref name=Zhang>{{cite journal|doi=10.1021/je1011086|title=Corrected Values for Boiling Points and Enthalpies of Vaporization of Elements in Handbooks|url=http://www.researchgate.net/publication/231538496_Corrected_Values_for_Boiling_Points_and_Enthalpies_of_Vaporization_of_Elements_in_Handbooks|author=Zhang Y|author2= Evans JRG |author3= Zhang S|journal=J. Chem. Eng. Data|year=2011|volume=56 |issue=2|pages=328–337}}</ref>
+|boiling point C=2400
+|boiling point F=4352
+|triple point K=
+|triple point kPa=
+|critical point K=
+|critical point MPa=
+|heat fusion=5.59
+|heat fusion 2=
+|heat vaporization=256
+|heat vaporization ref=<ref name=Zhang/>
+|heat capacity=25.86
+|vapor pressure 1=1310
+|vapor pressure 10=1448
+|vapor pressure 100=1620
+|vapor pressure 1 k=1838
+|vapor pressure 10 k=2125
+|vapor pressure 100 k=2518
+|vapor pressure comment=
+|crystal structure=orthorhombic
+|oxidation states='''3''', 2, 1, −1, −2, −4, −5<ref>{{cite book|url=http://www.uni-kassel.de/upress/online/frei/978-3-7281-2597-2.volltext.frei.pdf|author=Hofmann, Patrick |title=Colture. Ein Programm zur interaktiven Visualisierung von Festkörperstrukturen sowie Synthese, Struktur und Eigenschaften von binären und ternären Alkali- und Erdalkalimetallgalliden|page=72|language=de|date=1997|publisher=PhD Thesis, ETH Zurich|doi=10.3929/ethz-a-001859893|isbn=3728125970}}</ref>
+|oxidation states comment=(an [[amphoterism|amphoteric]] oxide)
+|electronegativity=1.81
+|number of ionization energies=4
+|ionization energy 1=578.8
+|ionization energy 2=1979.3
+|ionization energy 3=2963
+|atomic radius=135
+|atomic radius calculated=
+|covalent radius=122±3
+|Van der Waals radius=187
+|magnetic ordering=[[diamagnetism|diamagnetic]]
+|Curie point K=
+|electrical resistivity unit prefix=n
+|electrical resistivity at 0=
+|electrical resistivity at 20=270
+|thermal conductivity=40.6
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=18
+|speed of sound=
+|speed of sound rod at 20=2740
+|speed of sound rod at r.t.=
+|Young's modulus=9.8
+|Shear modulus=
+|Bulk modulus=
+|Poisson ratio=0.47
+|Mohs hardness=1.5
+|Vickers hardness=
+|Brinell hardness=56.8–68.7
+|CAS number=7440-55-3
+|isotopes=
+{{Infobox element/isotopes stable | mn=69 | sym=Ga | na=60.11% | n=38 |firstlinks=yes}}
+{{Infobox element/isotopes stable | mn=71 | sym=Ga | na=39.89% | n=40 |firstlinks=no}}
+|isotopes comment=
+|naming=after ''{{lang|la|Gallia}}'' (Latin for: France), homeland of the discoverer
+|predicted by=[[Dmitri Mendeleev]]
+|prediction date=1871
+|discovery and first isolation by=[[Lecoq de Boisbaudran]]
+|discovery date=1875
+}}
 '''Gallium''' he yit-chúng [[fa-ho̍k]] [[ngièn-su]], fa-ho̍k fù-ho vì '''Ga''', ngièn-chṳ́ su-muk he '''31'''.
 
 {{Ngièn-su chû-khì-péu}}
