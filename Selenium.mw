@@ -1,4 +1,85 @@
-[[File:Se-TableImage.png|right|thumb|Selenium]]
+{{Infobox element
+|number=34
+|symbol=Se
+|name=selenium
+|left=[[phî]]
+|right=[[chhiu]]
+|above=[[liù-vòng|S]]
+|below=[[tellurium|Te]]
+|series=tô-ngièn-chṳ́ fî-kîm-su̍k
+|series comment=sometimes considered a [[metalloid]]
+|group=16
+|period=4
+|block=p
+|image name=SeBlackRed.jpg
+|appearance=black, red, and gray (not pictured) allotropes
+|atomic mass=78.971
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=8
+|atomic mass comment=
+|electron configuration=&#91;[[argon|Ar]]&#93; 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>4</sup>
+|electrons per shell=2, 8, 18, 6
+|phase=ku-thí
+|density gpcm3nrt=gray: 4.81
+|density gpcm3nrt 2=alpha: 4.39
+|density gpcm3nrt 3=vitreous: 4.28
+|density gpcm3mp=3.99
+|melting point K=494
+|melting point C=221
+|melting point F=430
+|boiling point K=958
+|boiling point C=685
+|boiling point F=1265
+|critical point K=1766
+|critical point MPa=27.2
+|heat fusion=gray: 6.69
+|heat vaporization=95.48
+|heat capacity=25.363
+|vapor pressure 1=500
+|vapor pressure 10=552
+|vapor pressure 100=617
+|vapor pressure 1 k=704
+|vapor pressure 10 k=813
+|vapor pressure 100 k=958
+|vapor pressure comment=
+|crystal structure=hexagonal
+|oxidation states='''6''', 5, '''4''', 3, '''2''', 1,<ref>{{Greenwood&Earnshaw}}</ref> −1, '''−2'''
+|oxidation states comment=(a strongly [[acid]]ic oxide)
+|electronegativity=2.55
+|number of ionization energies=3
+|ionization energy 1=941.0
+|ionization energy 2=2045
+|ionization energy 3=2973.7
+|atomic radius=120
+|covalent radius=120±4
+|Van der Waals radius=190
+|magnetic ordering=[[diamagnetic]]
+|magnetic ordering ref=<ref>[http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf Magnetic susceptibility of the elements and inorganic compounds], in {{RubberBible86th}}</ref>
+|thermal conductivity=amorphous: 0.519
+|thermal expansion at 25=amorphous: 37
+|speed of sound rod at 20=3350
+|Young's modulus=10
+|Shear modulus=3.7
+|Bulk modulus=8.3
+|Poisson ratio=0.33
+|Mohs hardness=2.0
+|Brinell hardness=736
+|CAS number=7782-49-2
+|isotopes=
+{{infobox element/isotopes decay2 | mn=72 | sym=Se | na=[[synthetic radioisotope|syn]] | hl=8.4&nbsp;d | dm1=[[electron capture|ε]] | de1=– | link1=arsenic-72 | pn1=72 | ps1=As | dm2=[[gamma radiation|γ]] | de2=0.046 | pn2= | ps2=–}}
+{{infobox element/isotopes decay | mn=74 | sym=Se | na=0.87% | hl=– | dm=([[double beta decay|β<sup>+</sup>β<sup>+</sup>]]) | de=1.2094 | link1=germanium-74 | pn=74 | ps=Ge }}
+{{infobox element/isotopes decay2 | mn=75 | sym=Se | na=syn | hl=119.779&nbsp;d | dm1=ε | de1=– | link1=arsenic-75 | pn1=75 | ps1=As | dm2=γ | de2=0.264, 0.136,<br/>0.279 | pn2= | ps2=–}}
+{{Infobox element/isotopes stable | mn=76 | sym=Se | na=9.36% | n=42 |firstlinks=yes}}
+{{Infobox element/isotopes stable | mn=77 | sym=Se | na=7.63% | n=43 |firstlinks=no}}
+{{Infobox element/isotopes stable | mn=78 | sym=Se | na=23.78% | n=44 |firstlinks=no}}
+{{infobox element/isotopes decay | mn=79 | sym=Se | na=[[trace radioisotope|trace]] | hl=3.27&times;10<sup>5</sup>&nbsp;y | dm=[[beta decay|β<sup>−</sup>]] | de=0.151 |link1=bromine-79 | pn=79 | ps=Br}}
+{{infobox element/isotopes decay | mn=80 | sym=Se | na=49.61% | hl=– | dm=([[double beta decay|β<sup>−</sup>β<sup>−</sup>]]) | de=0.1339 | link1=krypton-80 | pn=80 | ps=Kr }}
+{{infobox element/isotopes decay | mn=82 | sym=Se | na=8.73% | hl=1.08&times;10<sup>20</sup>&nbsp;y | dm=β<sup>−</sup>β<sup>−</sup> | de=2.995 | link1=krypton-82 | pn=82 | ps=Kr}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|naming=after [[Selene]], Greek goddess of the moon
+|discovery and first isolation by=[[Jöns Jakob Berzelius]] and [[Johann Gottlieb Gahn]]
+|discovery date=1817
+}}
 '''Selenium''' he yit-chúng [[fa-ho̍k]] [[ngièn-su]], fa-ho̍k fù-ho vì '''Se''', ngièn-chṳ́ su-muk he '''34'''.
 
 {{Ngièn-su chû-khì-péu}}
