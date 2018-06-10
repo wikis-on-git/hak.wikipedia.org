@@ -1,5 +1,101 @@
-[[File:Sm-TableImage.png|right|thumb|Samarium]]
-[[File:Samarium-2.jpg|right|thumb|250px|Samarium]]
+{{Infobox element
+|number=62
+|symbol=Sm
+|name=samarium
+|allotropes=α&nbsp;form
+|left=[[promethium]]
+|right=[[europium]]
+|above=–
+|below=[[plutonium|Pu]]
+|series=lanthanum-hi
+|period=6
+|group=n/a
+|block=f
+|image name=Samarium-2.jpg
+|appearance=silvery white
+|atomic mass=150.36
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=2
+|atomic mass comment=
+|electron configuration=&#91;[[xenon|Xe]]&#93; 4f<sup>6</sup> 6s<sup>2</sup>
+|electrons per shell=2, 8, 18, 24, 8, 2
+|phase=ku-thí
+|density gpcm3nrt=7.52
+|density gpcm3mp=7.16
+|melting point K=1345
+|melting point C=1072
+|melting point F=1962
+|boiling point K=2173
+|boiling point C=1900
+|boiling point F=3452
+|heat fusion=8.62
+|heat vaporization=192
+|heat capacity=29.54
+|vapor pressure 1=1001
+|vapor pressure 10=1106
+|vapor pressure 100=1240
+|vapor pressure 1 k=(1421)
+|vapor pressure 10 k=(1675)
+|vapor pressure 100 k=(2061)
+|vapor pressure comment=
+|crystal structure=rhombohedral
+|oxidation states=4, '''3''', 2, 1
+|oxidation states comment=(a&nbsp;mildly [[base (chemistry)|basic]] oxide)
+|electronegativity=1.17
+|number of ionization energies=3
+|ionization energy 1=544.5
+|ionization energy 2=1070
+|ionization energy 3=2260
+|atomic radius=180
+|covalent radius=198±8
+|magnetic ordering=[[paramagnetic]]
+|magnetic ordering ref=<ref name=magnet>{{cite book |url=http://web.archive.org/web/20110303222309/http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf|chapter=Magnetic susceptibility of the elements and inorganic compounds| editor = Lide, D. R. | title = CRC Handbook of Chemistry and Physics | edition = 86th | location = Boca Raton (FL) | publisher = CRC Press | year = 2005 | isbn = 0-8493-0486-5 }}
+</ref>
+|electrical resistivity unit prefix=µ
+|electrical resistivity=([[room temperature|r.t.]]) (α, poly) 0.940
+|thermal conductivity=13.3
+|thermal expansion= ([[room temperature|r.t.]]) (α, poly) 12.7
+|speed of sound rod at 20=2130
+|Young's modulus=α form: 49.7
+|Shear modulus=α form: 19.5
+|Bulk modulus=α form: 37.8
+|Poisson ratio=α form: 0.274
+|Vickers hardness=410–440
+|Brinell hardness=440–600
+|CAS number=7440-19-9
+|isotopes=
+{{infobox element/isotopes decay2 | mn=144 | sym=Sm | na=3.07%| hl=– | dm1=([[double beta decay|β<sup>+</sup>β<sup>+</sup>]]) | de1=1.7811 | link1=neodymium-144 | pn1=144 | ps1=Nd | dm2=([[alpha decay|α]]) | de2=0.0761 | link2=neodymium-140 | pn2=140 | ps2=Nd }}
+{{infobox element/isotopes decay | mn=145 | sym=Sm
+ | na=[[synthetic radioisotope|syn]] | hl=340&nbsp;d
+ | dm=[[electron capture|ε]] | de=– | link1=promethium-145 | pn=145 | ps=Pm}}
+{{infobox element/isotopes decay | mn=146 | sym=Sm
+ | na=[[trace radioisotope|trace]] | hl=1.03&times;10<sup>8</sup>&nbsp;y
+ | dm=α | de=2.529 | link1=neodymium-142| pn=142 | ps=Nd}}
+{{infobox element/isotopes decay | mn=147 | sym=Sm
+ | na=14.99% | hl=1.06&times;10<sup>11</sup>&nbsp;y
+ | dm=α | de=2.310 | link1=neodymium-143 | pn=143 | ps=Nd}}
+{{infobox element/isotopes decay | mn=148 | sym=Sm
+ | na=11.24% | hl=7&times;10<sup>15</sup>&nbsp;y
+ | dm=α | de=1.986 | pn=144 | ps=Nd}}
+{{infobox element/isotopes decay | mn=149 | sym=Sm
+ | na=13.82% | hl=>2×10<sup>15</sup>&nbsp;y
+ | dm=(α) | de=1.870 | link1=neodymium-145 | pn=145 | ps=Nd}}
+{{infobox element/isotopes decay | mn=150 | sym=Sm | na=7.38% | hl=– | dm=(α) | de=1.4495 | link1=neodymium-146 | pn=146 | ps=Nd }}
+{{infobox element/isotopes decay | mn=151 | sym=Sm
+ | na=syn | hl=90&nbsp;y
+ | dm=[[beta decay|β<sup>−</sup>]] | de=– | link1=europium-151 | pn=151 | ps=Eu}}
+{{infobox element/isotopes decay | mn=152 | sym=Sm | na=26.75% | hl=– | dm=(α) | de=0.2203 | link1=neodymium-148 | pn=148 | ps=Nd }}
+{{infobox element/isotopes decay | mn=153 | sym=Sm
+ | na=syn | hl=46.284&nbsp;h
+ | dm=β<sup>−</sup> | de=– | link1=europium-153 | pn=153 | ps=Eu}}
+{{infobox element/isotopes decay | mn=154 | sym=Sm
+ | na=22.75% | hl=>2.3×10<sup>18</sup>&nbsp;y
+ | dm=([[double beta decay|β<sup>−</sup>β<sup>−</sup>]]) | de=1.2510 | link1=gadolinium-154 | pn=154 | ps=Gd}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|naming=after the mineral [[samarskite]] (itself named after [[Vasili Samarsky-Bykhovets]])
+|discovery and first isolation by=[[Lecoq de Boisbaudran]]
+|discovery date=1879
+}}
 '''Samarium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Sm''', ngièn-chṳ́ su-muk he '''62'''.
 
 {{Ngièn-su chû-khì-péu}}
