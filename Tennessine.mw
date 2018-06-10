@@ -1,4 +1,69 @@
-[[File:Ts-TableImage.png|right|thumb|Tennessine]]
+{{infobox element
+|number=117
+|symbol=Ts
+|name=tennessine
+|abundance=
+|abundance in earth's crust=
+|abundance in oceans=
+|abundance in solar system=
+|left=[[livermorium]]
+|right=[[oganesson]]
+|above=[[astatine|At]]
+|below=(Usu)
+|series=hàn-màng khok-thin
+|series comment=m̄-koh khó-lêng sī [[āu-kòe-tō͘ kim-sio̍k]]<ref>
+{{cite web |url=http://www.rsc.org/periodic-table/element/117/ununseptium |title=Ununseptium |author=[[Royal Society of Chemistry]] |date=2016 |website=rsc.org |publisher=Royal Society of Chemistry |access-date=9 November 2016 |quote=A highly radioactive metal, of which only a few atoms have ever been made.}}</ref><ref name=GSI>
+{{cite web |url=https://www.superheavies.de/english/research_program/highlights_element_117.htm |title=Research Program – Highlights |author=GSI |date=14 December 2015 |website=superheavies.de |publisher=GSI |access-date=9 November 2016 |quote=If this trend were followed, element 117 would likely be a rather volatile metal. Fully relativistic calculations agree with this expectation, however, they are in need of experimental confirmation.}}</ref>
+|group=17
+|period=7
+|block=p
+|appearance=poàn-kim-sio̍k ''(ū-chhek)''<ref name=BFricke>{{cite journal |last1=Fricke |first1=B. |year=1975 |title=Superheavy elements: a prediction of their chemical and physical properties |journal=Recent Impact of Physics on Inorganic Chemistry |volume=21 |pages=89–144 |doi=10.1007/BFb0116498 |url=http://www.researchgate.net/publication/225672062_Superheavy_elements_a_prediction_of_their_chemical_and_physical_properties |accessdate=4 October 2013}}</ref>
+|atomic mass=[294]
+|phase=ku-thí
+|phase comment=''(yi-chhet)''<ref name="Haire"/><ref name="B&K"/>
+|density gpcm3nrt=7.1–7.3
+|density gpcm3nrt comment=''(extrapolated)''<ref name="B&K">{{cite journal 
+|last1=Bonchev |first1=D. |last2=Kamenska |first2=V. |year=1981 |title=Predicting the Properties of the 113–120 Transactinide Elements |journal=Journal of Physical Chemistry |volume=85 |issue=9 |pages=1177–1186 |doi=10.1021/j150609a021 |url=http://www.researchgate.net/publication/239657207_Predicting_the_properties_of_the_113_to_120_transactinide_elements }}</ref>
+|melting point K=623–823
+|melting point C=350–550
+|melting point F=662–1022
+|melting point comment=''(ū-chhek)''<ref name=Haire/>
+|boiling point K=883
+|boiling point C=610
+|boiling point F=1130
+|boiling point comment=''(ū-chhek)''<ref name=Haire/>
+|electron configuration=&#91;[[radon|Rn]]&#93; 5f<sup>14</sup> 6d<sup>10</sup> 7s<sup>2</sup> 7p<sup>5</sup>
+|electron configuration comment=''(ū-chhek)''<ref name=Haire/>
+|electrons per shell=2, 8, 18, 32, 32, 18, 7
+|electrons per shell comment=''(ū-chhek)''
+|oxidation states=−1, '''+1''', '''+3''', +5
+|oxidation states comment=''(ū-chhek)''<ref name=BFricke/><ref name=Haire>{{cite book| title=The Chemistry of the Actinide and Transactinide Elements| editor1-last=Morss|editor2-first=N. M.| editor2-last=Edelstein| editor3-last=Fuger|editor3-first=J.| last1=Hoffman|first1=D. C. |last2=Lee |first2=D. M. |last3=Pershina |first3=V. |chapter=Transactinides and the future elements| pages=1652–1752|publisher= [[Springer Science+Business Media]]| year=2006| isbn=1-4020-3555-1| edition=3rd| ref=CITEREFHaire2006}}</ref>
+|number of ionization energies=2
+|ionization energy 1=742.9
+|ionization energy 1 comment=''(ū-chhek)''<ref name=Haire/>
+|ionization energy 2=1785.0–1920.1
+|ionization energy 2 comment=''(extrapolated)''<ref name="B&K"/>
+|atomic radius=138
+|atomic radius comment=''(ū-chhek)''<ref name="B&K"/>
+|covalent radius=156–157
+|covalent radius comment=''(extrapolated)''<ref name="B&K"/>
+|CAS number=54101-14-3
+|isotopes=
+{{infobox element/isotopes decay | mn=294 | sym=Ts<ref name=277Mt>{{cite journal
+ |last1=Oganessian|first1=Yu. Ts.|first2=F. Sh.|last2=Abdullin|first3=C.|last3=Alexander
+ |year=2013
+ |title=Experimental studies of the <sup>249</sup>Bk + <sup>48</sup>Ca reaction including decay properties and excitation function for isotopes of element 117, and discovery of the new isotope <sup>277</sup>Mt
+ |journal=[[Physical Review C]]
+ |volume=87 |issue=5 |pages=054621
+ |bibcode=2013PhRvC..87e4621O
+ |doi=10.1103/PhysRevC.87.054621
+ |display-authors=1}}</ref> | na=[[synthetic radioisotope|syn]] | hl={{nowrap|51{{su|p=+41|b=−16}}&nbsp;ms}} | dm=[[alpha decay |α]] | de=10.81 | link1=ununpentium-290 | pn=290 | ps=Mc}}
+{{infobox element/isotopes decay | mn=293 | sym=Ts<ref name=266Lr>{{cite journal|last1=Khuyagbaatar|first1=J.|last2=Yakushev|first2=A.|last3=Düllmann|first3=Ch. E.||last4=Ackermann|first4=D.|last5=Andersson|first5=L. L.|title=<sup>48</sup>Ca+<sup>249</sup>Bk Fusion Reaction Leading to Element Z=117: Long-Lived α-Decaying <sup>270</sup>Db and Discovery of <sup>266</sup>Lr|journal=Physical Review Letters|volume=112|issue=17|pages=172501|year=2014|doi=10.1103/PhysRevLett.112.172501|url=http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.112.172501|display-authors=3}}</ref> | na=syn | hl={{nowrap|22{{su|p=+8|b=−4}}&nbsp;ms}} | dm=α | de=11.11, 11.00, 10.91 | link1=ununpentium-289 | pn=289 | ps=Mc}}
+|discovered by=[[Joint Institute for Nuclear Research]] kap [[Lawrence Livermore National Laboratory]]
+|naming=[[Tennessee]]
+|discovery date=2010
+|wdQID=Q1306
+}}
 '''Tennessine''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Ts''', ngièn-chṳ́ su-muk he '''117'''.
 
 {{Ngièn-su chû-khì-péu}}
