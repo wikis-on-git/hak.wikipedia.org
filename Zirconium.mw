@@ -1,4 +1,98 @@
-[[File:Zr-TableImage.png|right|thumb|Zirconium]]
+{{Infobox element
+|number=40
+|symbol=Zr
+|name=zirconium
+|left=[[yttrium]]
+|right=[[niobium]]
+|above=[[titanium|Ti]]
+|below=[[hafnium|Hf]]
+|series=ko-thu kîm-su̍k
+|group=4
+|period=5
+|block=d
+|image name=Zirconium_crystal_bar_and_1cm3_cube.jpg
+|appearance=silvery white
+|atomic mass=91.224
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=2
+|atomic mass comment=
+|electron configuration=&#91;[[krypton|Kr]]&#93; 4d<sup>2</sup> 5s<sup>2</sup>
+|electrons per shell=2, 8, 18, 10, 2
+|phase=ku-thí
+|density gpcm3nrt=6.52
+|density gpcm3mp=5.8
+|melting point K=2128
+|melting point C=1855
+|melting point F=3371
+|boiling point K=4650
+|boiling point C=4377
+|boiling point F=7911
+|heat fusion=14
+|heat vaporization=591
+|heat capacity=25.36
+|vapor pressure 1=2639
+|vapor pressure 10=2891
+|vapor pressure 100=3197
+|vapor pressure 1 k=3575
+|vapor pressure 10 k=4053
+|vapor pressure 100 k=4678
+|vapor pressure comment=
+|crystal structure=hexagonal close-packed
+|oxidation states='''4''', 3, 2, 1, −2
+|oxidation states ref=<ref>{{cite web|url=http://openmopac.net/data_normal/zirconium(i)%20fluoride_jmol.html|title=Zirconium: zirconium(I) fluoride compound data|accessdate=2007-12-10|publisher=OpenMOPAC.net}}</ref>
+|oxidation states comment=(an [[amphoterism|amphoteric]] oxide)
+|electronegativity=1.33
+|number of ionization energies=3
+|ionization energy 1=640.1
+|ionization energy 2=1270
+|ionization energy 3=2218
+|atomic radius=160
+|covalent radius=175±7
+|magnetic ordering=[[paramagnetic]]
+|magnetic ordering ref=<ref name=magnet>{{cite book |url=http://web.archive.org/web/20110303222309/http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf|chapter=Magnetic susceptibility of the elements and inorganic compounds| editor = Lide, D. R. | title = CRC Handbook of Chemistry and Physics | edition = 86th | location = Boca Raton (FL) | publisher = CRC Press | year = 2005 | isbn = 0-8493-0486-5 }}
+</ref>
+|electrical resistivity unit prefix=n
+|electrical resistivity at 20=421
+|thermal conductivity=22.6
+|thermal expansion at 25=5.7
+|speed of sound rod at 20=3800
+|Young's modulus=88
+|Bulk modulus=91.1
+|Shear modulus=33
+|Poisson ratio=0.34
+|Mohs hardness=5.0
+|Vickers hardness=820–1800
+|Brinell hardness=638–1880
+|CAS number=7440-67-7
+|isotopes=
+{{infobox element/isotopes decay2 | mn=88 | sym=Zr
+ | na=[[synthetic radioisotope|syn]] | hl=[[1 E6 s|83.4&nbsp;d]]
+ | dm1=[[electron capture|ε]] | de1=– | link1=yttrium-88 | pn1=88 | ps1=Y
+ | dm2=[[gamma radiation|γ]] | de2=0.392[[Delayed nuclear radiation|D]] | pn2= | ps2=–}}
+{{infobox element/isotopes decay3 | mn=89 | sym=Zr
+ | na=syn | hl=[[1 E5 s|78.4&nbsp;h]]
+ | dm1=ε | de1=– | yttrium-89 | link1=yttrium-89 | pn1=89 | ps1=Y
+ | dm2=[[positron emission|β<sup>+</sup>]] | de2=0.902 | pn2=89 | ps2=Y
+ | dm3=γ | de3=0.909D | pn3= | ps3=–}}
+{{infobox element/isotopes stable | mn=90 | sym=Zr | na=51.45% | n=50 |firstlinks=yes}}
+{{infobox element/isotopes stable | mn=91 | sym=Zr | na=11.22% | n=51 |firstlinks=no}}
+{{infobox element/isotopes stable | mn=92 | sym=Zr | na=17.15% | n=52 |firstlinks=no}}
+{{infobox element/isotopes decay | mn=93 | sym=Zr
+ | na=[[trace radioisotope|trace]] | hl=[[1 E13 s|1.53&times;10<sup>6</sup>&nbsp;y]]
+ | dm=[[Beta emission|β<sup>−</sup>]] | de=0.060 | link1=niobium-93 | pn=93 | ps=Nb}}
+{{infobox element/isotopes decay | mn=94 | sym=Zr
+ | na=17.38% | hl=[[1 E24 s|&gt;1.1&times;10<sup>17</sup>&nbsp;y]] | dm=([[double beta decay|β<sup>−</sup>β<sup>−</sup>]]) | de=1.144 | link1=molybdenum-94 | pn=94 | ps=Mo}}
+{{infobox element/isotopes decay2 | mn=96 | sym=Zr
+ | na=2.8% | hl=[[1 E26 s|2.0&times;10<sup>19</sup>&nbsp;y]]<ref>{{cite web| last=Pritychenko| first=Boris| author2=Tretyak, V. | title=Adopted Double Beta Decay Data| publisher=National Nuclear Data Center| url=http://www.nndc.bnl.gov/bbdecay/list.html| accessdate=2008-02-11}}</ref>
+ | dm1=β<sup>−</sup>β<sup>−</sup> | de1=3.348 | link1=molybdenum-96 | pn1=96 | ps1=Mo
+ | dm2=(β<sup>−</sup>) | de2=– | link2=niobium-96 | pn2=96 | ps2=Nb}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|naming=after ''zircon'', ''zargun'' زرگون meaning "gold-colored".
+|discovered by=[[Martin Heinrich Klaproth]]
+|discovery date=1789
+|first isolation by=[[Jöns Jakob Berzelius]]
+|first isolation date=1824
+}}
 '''Zirconium''' he yit-chúng [[fa-ho̍k]] [[ngièn-su]], fa-ho̍k fù-ho vì '''Zr''', ngièn-chṳ́ su-muk he '''40'''.
 
 {{Ngièn-su chû-khì-péu}}
