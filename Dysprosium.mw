@@ -1,8 +1,86 @@
-[[File:Dy-TableImage.png|right|thumb|Dysprosium]]
-[[File:Dy,66.jpg|right|thumb|350px|Dysprosium ]]
-[[File:Dysprosium-2.jpg|right|thumb|300px|Dysprosium]]
-[[File:Dy chips.jpg|right|thumb|300px|Dysprosium]]
-[[File:Electron shell 066 Dysprosium.svg|right|thumb|Dysprosium ]]
+{{Infobox element
+|number=66
+|symbol=Dy
+|name=dysprosium
+|left=[[terbium]]
+|right=[[holmium]]
+|above=–
+|below=[[californium|Cf]]
+|series=lanthanum-hi
+|group=n/a
+|period=6
+|block=f
+|image name=Dy chips.jpg
+|appearance=silvery white
+|atomic mass=162.500
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=1
+|atomic mass comment=
+|electron configuration=&#91;[[xenon|Xe]]&#93; 4f<sup>10</sup> 6s<sup>2</sup>
+|electrons per shell=2, 8, 18, 28, 8, 2
+|phase=ku-thí
+|density gpcm3nrt=8.540
+|density gpcm3mp=8.37
+|melting point K=1680
+|melting point C=1407
+|melting point F=2565
+|boiling point K=2840
+|boiling point C=2562
+|boiling point F=4653
+|heat fusion=11.06
+|heat vaporization=280
+|heat capacity=27.7
+|vapor pressure 1=1378
+|vapor pressure 10=1523
+|vapor pressure 100=(1704)
+|vapor pressure 1 k=(1954)
+|vapor pressure 10 k=(2304)
+|vapor pressure 100 k=(2831)
+|vapor pressure comment=
+|crystal structure=hexagonal close packed
+|oxidation states= 4, '''3''', 2, 1
+|oxidation states comment=(a&nbsp;weakly [[base (chemistry)|basic]] oxide)
+|electronegativity=1.22
+|number of ionization energies=3
+|ionization energy 1=573.0
+|ionization energy 2=1130
+|ionization energy 3=2200
+|atomic radius=178
+|covalent radius=192±7
+|magnetic ordering=[[paramagnetic]] at 300 K
+|electrical resistivity unit prefix=n
+|electrical resistivity=α, poly: 926
+|electrical resistivity comment=({{abbr|r.t.|room temperature}})
+|thermal conductivity=10.7
+|thermal expansion=α, poly: 9.9
+|thermal expansion comment=({{abbr|r.t.|room temperature}})
+|speed of sound rod at 20=2710
+|Young's modulus=α form: 61.4
+|Shear modulus=α form: 24.7
+|Bulk modulus=α form: 40.5
+|Poisson ratio=α form: 0.247
+|Vickers hardness=410–550
+|Brinell hardness=500–1050
+|CAS number=7429-91-6
+|isotopes=
+{{infobox element/isotopes decay | mn=154 | sym=Dy
+ | na=[[synthetic radioisotope|syn]] | hl=3.0×10<sup>6</sup>&nbsp;y
+ | dm=[[alpha decay|α]] | de=2.947 | link1=gadolinium-150 | pn=150 | ps=Gd}}
+{{infobox element/isotopes decay2 | mn=156 | sym=Dy | na=0.06% | hl=>1&times;10<sup>18</sup>&nbsp;y
+ | dm1=(α) | de1=1.7579 | link1=gadolinium-152 | pn1=152 | ps1=Gd
+ | dm2=([[double beta decay|β<sup>+</sup>β<sup>+</sup>]]) | link2=gadolinium-156 | de2=2.0108 | pn2=156 | ps2=Gd}}
+{{infobox element/isotopes decay2 | mn=158 | sym=Dy | na=0.10% | hl=–
+ | dm1=(α) | de1=0.8748 | link1=gadolinium-154 | pn1=154 | ps1=Gd
+ | dm2=(β<sup>+</sup>β<sup>+</sup>) | link2=gadolinium-158 | de2=0.2833 | pn2=158 | ps2=Gd}}
+{{infobox element/isotopes decay | mn=160 | sym=Dy | na=2.34% | hl=– | dm=(α) | de=0.4387 | pn=156 | ps=Gd }}
+{{infobox element/isotopes decay | mn=161 | sym=Dy | na=18.91% | hl=– | dm=(α) | de=0.3443 | link1=gadolinium-157 | pn=157 | ps=Gd }}
+{{infobox element/isotopes decay | mn=162 | sym=Dy | na=25.51% | hl=– | dm=(α) | de=0.0847  | pn=158 | ps=Gd }}
+{{infobox element/isotopes decay | mn=163 | sym=Dy | na=24.90% | hl=– | dm=([[spontaneous fission|SF]]) | de=&lt;79.055 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=164 | sym=Dy | na=28.18% | hl=– | dm=(SF) | de=&lt;79.499 | pn= | ps= }}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|discovered by=[[Lecoq de Boisbaudran]]
+|discovery date=1886
+}}
 '''Dysprosium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Dy''', ngièn-chṳ́ su-muk he '''66'''.
 
 {{Ngièn-su chû-khì-péu}}
