@@ -1,0 +1,24 @@
+<includeonly><onlyinclude>{{ Infobox
+| bodyclass = bordered
+| bodystyle = width:auto; border:1px solid #aaa; margin:0.5em 0.5em 1em 1em;
+| titlestyle = white-space:nowrap
+| labelstyle = white-space:nowrap; vertical-align:middle; padding-left:0.5em; padding-right:0.5em
+| datastyle = white-space:nowrap; vertical-align:middle; padding-left:0.5em; padding-right:0.5em
+| title = <span style="font-size:75%">[[{{evalint | {{{1 | {{PAGENAME}} }}} - 1}}]] ←</span> {{{1 | {{PAGENAME}} }}} <span style="font-size:75%">→ [[{{evalint | {{{1 | {{PAGENAME}} }}} + 1}}]]</span>
+| label1 = [[chṳt-su fûn-kié]]
+| {{#ifexpr: {{{1 | {{PAGENAME}} }}} >= 2 | data1 }} = {{{Decomposition}}}
+| label2 = [[ngi-chin-chṳ]]
+| data2 = {{chin-vi | 2 | {{{1 | {{PAGENAME}} }}} }}
+| label3 = [[pat-chin-chṳ]]
+| data3 = {{chin-vi | 8 | {{{1 | {{PAGENAME}} }}} }}
+| label4 = [[sṳ̍p-ngi-chin-chṳ]]
+| data4 = {{chin-vi | 12 | {{{1 | {{PAGENAME}} }}} }}
+| label5 = [[sṳ̍p-liuk-chin-chṳ]]
+| data5 = {{chin-vi | 16 | {{{1 | {{PAGENAME}} }}} }}
+| label6 = [[ngi-sṳ̍p-chin-chṳ]]
+| data6 = {{chin-vi | 20 | {{{1 | {{PAGENAME}} }}} }}
+| label7 = [[Lò-mâ su-sṳ]]
+| data7 = {{Roman | {{{1 | {{PAGENAME}} }}} }}
+| label11 = [[位取り記数法]]
+}}
+{{#if: {{NAMESPACE}} | | [[Category:Chṳ́n-su]] }}</onlyinclude></includeonly>
