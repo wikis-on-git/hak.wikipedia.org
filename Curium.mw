@@ -1,4 +1,90 @@
-[[File:Cm-TableImage.png|right|thumb|Curium]]
+{{Infobox element
+|number=96
+|symbol=Cm
+|name=curium
+|left=[[americium]]
+|right=[[berkelium]]
+|above=[[gadolinium|Gd]]
+|below=(Uqo)
+|series=actinium-hi
+|period=7
+|block=f
+|group=n/a
+|image name=
+|appearance=silvery metallic, glows purple in the dark
+|atomic mass=(247)
+|electron configuration=&#91;[[radon|Rn]]&#93; 5f<sup>7</sup> 6d<sup>1</sup> 7s<sup>2</sup>
+|electrons per shell=2, 8, 18, 32, 25, 9, 2
+|phase=ku-thí
+|density gpcm3nrt=13.51
+|melting point K=1613
+|melting point C=1340
+|melting point F=2444
+|boiling point K=3383
+|boiling point C=3110
+|boiling point F=5630
+|heat fusion=13.85
+|heat fusion comment=
+|vapor pressure 1=1788
+|vapor pressure 10=1982
+|vapor pressure 100=
+|vapor pressure 1 k=
+|vapor pressure 10 k=
+|vapor pressure 100 k=
+|vapor pressure comment=
+|crystal structure=double hexagonal close packed
+|oxidation states=6,<ref name="CmO3">{{cite journal |last1=Domanov |first1=V. P. |last2=Lobanov |first2=Yu. V. |date=October 2011 |title=Formation of volatile curium(VI) trioxide CmO<sub>3</sub> |journal=Radiochemistry |volume=53 |issue=5 |pages=453–6 |publisher=SP MAIK Nauka/Interperiodica |doi=10.1134/S1066362211050018}}</ref> 4, '''3''', 2
+|oxidation states comment=(an [[amphoterism|amphoteric]] oxide)
+|electronegativity=1.3
+|number of ionization energies=1
+|ionization energy 1=581
+|atomic radius=174
+|covalent radius=169±3
+|magnetic ordering=antiferromagnetic-paramagnetic transition at 52 K
+|magnetic ordering ref=<ref name=res>{{cite journal|last1=Schenkel|first1=R|title=The electrical resistivity of 244Cm metal|journal=Solid State Communications|volume=23|pages=389|year=1977|doi=10.1016/0038-1098(77)90239-3|issue=6 |bibcode=1977SSCom..23..389S }}</ref>
+|electrical resistivity=1.25
+|electrical resistivity unit prefix=µ
+|electrical resistivity ref=<ref name=res/>
+|CAS number=7440-51-9
+|isotopes=
+{{infobox element/isotopes decay2 | mn=242 | sym=Cm
+ | na=[[synthetic radioisotope|syn]] | hl=160&nbsp;d
+ | dm1=SF | de1=– | pn1= | ps1=–
+ | dm2=[[alpha emission|α]] | de2=6.1 | link2=plutonium-238 | pn2=238 | ps2=Pu}}
+{{infobox element/isotopes decay3 | mn=243 | sym=Cm
+ | na=syn | hl=[[1 E8 s|29.1&nbsp;y]]
+ | dm1=α | de1=6.169 | link1=plutonium-239 | pn1=239 | ps1=Pu
+ | dm2=[[electron capture|ε]] | de2=0.009 | link2=americium-243 | pn2=243 | ps2=Am
+ | dm3=[[spontaneous fission|SF]] | de3=– | pn3= | ps3=–}}
+{{infobox element/isotopes decay2 | mn=244 | sym=Cm
+ | na=syn | hl=18.1&nbsp;y
+ | dm1=SF | de1=– | pn1= | ps1=–
+ | dm2=α | de2=5.8048 | link2=plutonium-240 | pn2=240 | ps2=Pu}}
+{{infobox element/isotopes decay2 | mn=245 | sym=Cm
+ | na=syn | hl=[[1 E11 s|8500&nbsp;y]]
+ | dm1=SF | de1=– | pn1= | ps1=–
+ | dm2=α | de2=5.623 | link2=plutonium-241 | pn2=241 | ps2=Pu}}
+{{infobox element/isotopes decay2 | mn=246 | sym=Cm
+ | na=syn | hl=4730&nbsp;y
+ | dm1=α | de1=5.475 | link1=plutonium-242 | pn1=242 | ps1=Pu
+ | dm2=SF | de2=– | pn2= | ps2=–}}
+{{infobox element/isotopes decay | mn=247 | sym=Cm
+ | na=syn | hl=[[1 E14 s|1.56&times;10<sup>7</sup>&nbsp;y]]
+ | dm=α | de=5.353 | link1=plutonium-243 | pn=243 | ps=Pu}}
+{{infobox element/isotopes decay2 | mn=248 | sym=Cm
+ | na=syn | hl=[[1 E13 s|3.40&times;10<sup>5</sup>&nbsp;y]]
+ | dm1=α | de1=5.162 | link1=plutonium-244 | pn1=244 | ps1=Pu
+ | dm2=SF | de2=– | pn2= | ps2=–}}
+{{infobox element/isotopes decay3 | mn=250 | sym=Cm
+ | na=syn | hl=9000&nbsp;y
+ | dm1=SF | de1=– | pn1= | ps1=–
+ | dm2=α | de2=5.169 | link2=plutonium-246 | pn2=246 | ps2=Pu
+ | dm3=[[beta emission|β<sup>−</sup>]] | de3=0.037 | link3=berkelium-250 | pn3=250 | ps3=Bk}}
+|isotopes comment=
+|naming=named after [[Marie Curie|Marie Skłodowska-Curie]] and [[Pierre Curie]]
+|discovered by=[[Glenn T. Seaborg]], [[Ralph A. James]], [[Albert Ghiorso]]
+|discovery date=1944
+}}
 '''Curium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Cm''', ngièn-chṳ́ su-muk he '''96'''.
 
 {{Ngièn-su chû-khì-péu}}
