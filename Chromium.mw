@@ -1,7 +1,103 @@
-[[File:Cr-TableImage.png|right|thumb|Chromium]]
-[[File:Chrom.PNG|right|thumb|350px|Chromium]]
-[[File:Chromium.jpg|right|thumb|300px|Chromium]]
-[[File:Cr,24.jpg|right|thumb|300px|Chromium]]
+{{Infobox element
+|name=chromium
+|number=24
+|symbol=Cr
+|left=[[vanadium]]
+|right=[[manganese]]
+|above=–
+|below=[[molybdenum|Mo]]
+|series=ko-thu kîm-su̍k
+|series comment=
+|group=6
+|period=4
+|block=d
+|series color=
+|appearance=gîn-á khoán kim-sio̍k
+|image name=Chromium_crystals_and_1cm3_cube.jpg
+|image size=
+|image name comment=kiat-chiⁿ
+|image name 2=
+|image name 2 comment=
+|atomic mass=51.9961
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=6
+|atomic mass comment=
+|electron configuration=&#91;[[argon|Ar]]&#93; 3d<sup>5</sup> 4s<sup>1</sup>
+|electrons per shell=2, 8, 13, 1
+|color=
+|phase=ku-thí
+|phase comment=
+|density gplstp=
+|density gpcm3nrt=7.19
+|density gpcm3nrt 2=
+|density gpcm3mp=6.3
+|melting point K=2180
+|melting point C=1907
+|melting point F=3465
+|boiling point K=2944
+|boiling point C=2671
+|boiling point F=4840
+|triple point K=
+|triple point kPa=
+|critical point K=
+|critical point MPa=
+|heat fusion=21.0
+|heat fusion 2=
+|heat vaporization=347
+|heat capacity=23.35
+|vapor pressure 1=1656
+|vapor pressure 10=1807
+|vapor pressure 100=1991
+|vapor pressure 1 k=2223
+|vapor pressure 10 k=2530
+|vapor pressure 100 k=2942
+|vapor pressure comment=
+|crystal structure=body-centered cubic
+|oxidation states='''6''', 5, 4, '''3''', 2, 1, −1, −2, −4
+|oxidation states comment=(depending on the oxidation state, an acidic, basic, or [[amphoterism|amphoteric]] oxide)
+|electronegativity=1.66
+|number of ionization energies=4
+|ionization energy 1=652.9
+|ionization energy 2=1590.6
+|ionization energy 3=2987
+|atomic radius=128
+|atomic radius calculated=
+|covalent radius=139±5
+|Van der Waals radius=
+|magnetic ordering=[[antiferromagnetism|antiferromagnetic]]
+|magnetic ordering comment=(rather: [[spin density wave|SDW]])<ref name=fawcett>{{cite journal|doi=10.1103/RevModPhys.60.209|title=Spin-density-wave antiferromagnetism in chromium|year=1988|author=Fawcett, Eric|journal=Reviews of Modern Physics|volume=60|pages=209|bibcode=1988RvMP...60..209F}}</ref>
+|electrical resistivity unit prefix=n
+|electrical resistivity=
+|electrical resistivity at 0=
+|electrical resistivity at 20=125
+|thermal conductivity=93.9
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=4.9
+|speed of sound=
+|speed of sound rod at 20=5940
+|speed of sound rod at r.t.=
+|Young's modulus=279
+|Shear modulus=115
+|Bulk modulus=160
+|Poisson ratio=0.21
+|Vickers hardness=1060
+|Brinell hardness=687–6500
+|CAS number=7440-47-3
+|isotopes=
+{{infobox element/isotopes decay | mn=50 | sym=Cr | na=4.345% | hl=[[1 E19 s and more|>1.3&times;10<sup>18</sup>&nbsp;y]] | dm=([[double beta decay|β<sup>+</sup>β<sup>+</sup>]]) | de=1.167 | link1=titanium-50 | pn=50 | ps=Ti}}
+{{infobox element/isotopes decay2 | mn=51 | sym=Cr | na=[[synthetic radioisotope|syn]] | hl=[[1 E6 s|27.7025&nbsp;d]]
+ | dm1=[[electron capture|ε]] | de1=– | link1=vanadium-51 | pn1=51 | ps1=V
+ | dm2=[[gamma ray|γ]] | de2=0.320 | pn2= | ps2=– }}
+{{Infobox element/isotopes stable | mn=52 | sym=Cr | na=83.789% | n=28 |firstlinks=yes}}
+{{Infobox element/isotopes stable | mn=53 | sym=Cr | na=9.501% | n=29 |firstlinks=no}}
+{{Infobox element/isotopes stable | mn=54 | sym=Cr | na=2.365% | n=30 |firstlinks=no}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|discovery and first isolation by=[[Louis Nicolas Vauquelin]]
+|discovery date=1797
+|first isolation date=1798 
+}}
 '''Chromium''' he yit-chúng [[fa-ho̍k]] [[ngièn-su]], fa-ho̍k fù-ho vì '''Cr''', ngièn-chṳ́ su-muk he '''24'''.
 
 {{Ngièn-su Tsû-khì-péu}}
