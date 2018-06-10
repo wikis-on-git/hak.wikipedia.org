@@ -1,4 +1,71 @@
-[[File:Mc-TableImage.png|right|thumb|Moscovium]]
+{{Infobox element
+|number=115
+|symbol=Mc
+|name=moscovium
+|proposed name=
+|abundance=
+|abundance in earth's crust=
+|abundance in oceans=
+|abundance in solar system=
+|left=[[flerovium]]
+|right=[[livermorium]]
+|above=[[bismuth|Bi]]
+|below=(Uhe)
+|series=hàn-màng khok-thin
+|series comment=but probably a [[post-transition metal]]
+|appearance=
+|group=15
+|period=7
+|block=p
+|electron configuration=&#91;[[radon|Rn]]&#93; 5f<sup>14</sup> 6d<sup>10</sup> 7s<sup>2</sup> 7p<sup>3</sup>
+|electron configuration comment=''(yi-chhet)''
+|electron configuration ref=<ref name=Haire/>
+|electrons per shell=2, 8, 18, 32, 32, 18, 5
+|electrons per shell comment=''(yi-chhet)''
+|density gpcm3nrt=13.5
+|density gpcm3nrt comment=''(yi-chhet)''<ref name=BFricke>{{cite journal |last1=Fricke |first1=Burkhard |year=1975 |title=Superheavy elements: a prediction of their chemical and physical properties |journal=Recent Impact of Physics on Inorganic Chemistry |volume=21 |pages=89–144 |doi=10.1007/BFb0116498 |url=https://www.researchgate.net/publication/225672062_Superheavy_elements_a_prediction_of_their_chemical_and_physical_properties |accessdate=4 October 2013}}</ref>
+|phase=ku-thí
+|phase comment=''(yi-chhet)''<ref name=Haire/>
+|melting point K=670
+|melting point C=400
+|melting point F=750
+|melting point comment=''(yi-chhet)''<ref name=Haire/><ref name=BFricke/>
+|boiling point K=~1400
+|boiling point C=~1100
+|boiling point F=~2000
+|boiling point comment=''(yi-chhet)''<ref name=Haire/>
+|heat fusion=5.90–5.98
+|heat fusion comment=''(extrapolated)''<ref name="B&K">{{cite journal 
+|last1=Bonchev |first1=Danail |last2=Kamenska |first2=Verginia |year=1981 |title=Predicting the Properties of the 113–120 Transactinide Elements |journal=Journal of Physical Chemistry |volume=85 |issue=9 |pages=1177–1186 |publisher=American Chemical Society |doi=10.1021/j150609a021 |url=https://www.researchgate.net/publication/239657207_Predicting_the_properties_of_the_113_to_120_transactinide_elements }}</ref>
+|heat vaporization=138
+|heat vaporization comment=''(yi-chhet)''<ref name=BFricke/>
+|oxidation states='''1''', '''3'''
+|oxidation states comment=''(prediction)''<ref name=Haire>{{cite book| title=The Chemistry of the Actinide and Transactinide Elements| editor1-last=Morss|editor2-first=Norman M.| editor2-last=Edelstein| editor3-last=Fuger|editor3-first=Jean| last1=Hoffman|first1=Darleane C. |last2=Lee |first2=Diana M. |last3=Pershina |first3=Valeria |chapter=Transactinides and the future elements| publisher= [[Springer Science+Business Media]]| year=2006| isbn=1-4020-3555-1| location=Dordrecht, The Netherlands| edition=3rd| ref=CITEREFHaire2006}}</ref><ref name=BFricke/>
+|atomic radius=187
+|atomic radius comment=''(predicted)''<ref name=Haire/><ref name=BFricke/>
+|covalent radius=156–158
+|covalent radius comment=''(extrapolated)''<ref name="B&K"/>
+|number of ionization energies=5
+|ionization energy 1=538.3
+|ionization energy 1 comment=''(predicted)''<ref name=VPershina>{{cite book |chapter=Theoretical Chemistry of the Heaviest Elements |last1=Pershina |first1=Valeria |editor1-first=Matthias |editor1-last=Schädel |editor2-first=Dawn |editor2-last=Shaughnessy |title=The Chemistry of Superheavy Elements |publisher=Springer Science & Business Media |edition=2nd |page=154 |isbn=9783642374661}}</ref>
+|ionization energy 2=1760
+|ionization energy 2 comment=''(predicted)''<ref name=BFricke/>
+|ionization energy 3=2650
+|ionization energy 3 comment=''(predicted)''<ref name=BFricke/>
+|CAS number=54085-64-2
+|magnetic susceptibility=
+|magnetic susceptibility ref=
+|isotopes=
+{{infobox element/isotopes decay | mn=290 | sym=Mc | na=[[synthetic radioisotope|syn]] | hl=650&nbsp;ms<ref name=e117/> | dm=[[alpha decay|α]] | de=9.95 | link1=ununtrium-286 | pn=286 | ps=Nh}}
+{{infobox element/isotopes decay | mn=289 | sym=Mc | na=syn | hl=330&nbsp;ms<ref name=e117>{{cite journal|last1=Oganessian |first1=Yuri Ts.|last2=Abdullin |first2=F. Sh.|last3=Bailey |first3=P. D.|last4=Benker |first4=D. E.|last5=Bennett |first5=M. E.|last6=Dmitriev |first6=S. N.|last7=Ezold |first7= J. G.|last8=Hamilton |first8= J. H.|last9=Henderson |first9= R. A. <!--| first10=M. G. |last10=Itkis | first11=Yuri V. |last11=Lobanov | first12=A. N. |last12=Mezentsev | first13=K. J. |last13=Moody | first14=S. L. |last14=Nelson | first15=A. N. |last15=Polyakov | first16=C. E. |last16=Porter | first17=A. V. |last17=Ramayya | first18=F. D. |last18=Riley | first19=J. B.|last19=Roberto | first20=M. A. |last20=Ryabinin | first21=K. P. |last21=Rykaczewski | first22=R. N. |last22=Sagaidak | first23=D. A. |last23=Shaughnessy | first24=I. V. |last24=Shirokovsky | first25=M. A. |last25=Stoyer | first26=V. G. |last26=Subbotin | first27=R. |last27=Sudowe | first28=A. M. |last28=Sukhov | first29=Yu. S. |last29=Tsyganov | first30=Vladimir K. |last30=Utyonkov | first31=A. A. |last31=Voinov | first32=G. K. |last32=Vostokin | first33=P. A. |last33=Wilk -->|title=Synthesis of a New Element with Atomic Number ''Z''=117 |date=2010-04-09 |journal=Physical Review Letters |publisher=American Physical Society |volume=104 <!--|issue=14 -->|number=142502 |doi=10.1103/PhysRevLett.104.142502 |pmid=20481935 |bibcode=2010PhRvL.104n2502O |url=https://www.researchgate.net/publication/44610795_Synthesis_of_a_new_element_with_atomic_number_Z__117 |displayauthors=3 }}</ref> | dm=α | de=10.31 | link1=ununtrium-285 | pn=285 | ps=Nh}}
+{{infobox element/isotopes decay | mn=288 | sym=Mc | na=syn | hl=164&nbsp;ms | dm=α | de=10.46 | link1=ununtrium-284 | pn=284 | ps=Nh}}
+{{infobox element/isotopes decay | mn=287 | sym=Mc | na=syn | hl=37&nbsp;ms | dm=α | de=10.59 | link1=ununtrium-283 | pn=283 | ps=Nh}}
+|isotopes comment=
+|discovered by=[[Joint Institute for Nuclear Research]] and [[Lawrence Livermore National Laboratory]]
+|naming=After [[Moscow]] region 
+|discovery date=2003
+|QID=Q1303
+}}
 '''Moscovium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Mc''', ngièn-chṳ́ su-muk he '''115'''.
 
 {{Ngièn-su chû-khì-péu}}
