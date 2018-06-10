@@ -1,4 +1,100 @@
-[[File:Te-TableImage.png|right|thumb|Tellurium]]
+{{Infobox element
+|number=52
+|symbol=Te
+|name=tellurium
+|left=[[antimony]]
+|right=[[tién]]
+|above=[[selenium|Se]]
+|below=[[polonium|Po]]
+|series=lui-kîm-su̍k
+|group=16
+|period=5
+|block=p
+|image name=Tellurium2.jpg
+|appearance=silvery lustrous gray (crystalline),<br>brown-black powder (amorphous)
+|atomic mass=127.60
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=3
+|atomic mass comment=
+|electron configuration=&#91;[[krypton|Kr]]&#93; 4d<sup>10</sup> 5s<sup>2</sup> 5p<sup>4</sup>
+|electrons per shell=2, 8, 18, 18, 6
+|phase=ku-thí
+|density gpcm3nrt=6.24
+|density gpcm3mp=5.70
+|melting point K=722.66
+|melting point C=449.51
+|melting point F=841.12
+|boiling point K=1261
+|boiling point C=988
+|boiling point F=1810
+|heat fusion=17.49
+|heat vaporization=114.1
+|heat capacity=25.73
+|vapor pressure 1=&nbsp;
+|vapor pressure 10=
+|vapor pressure 100=(775)
+|vapor pressure 1 k=(888)
+|vapor pressure 10 k=1042
+|vapor pressure 100 k=1266
+|vapor pressure comment=
+|crystal structure=hexagonal
+|crystal structure ref=
+|oxidation states='''6''', 5, '''4''', 3, '''2''', 1, −1, '''−2'''
+|oxidation states comment=(a&nbsp;mildly [[acid]]ic oxide)
+|electronegativity=2.1
+|number of ionization energies=3
+|ionization energy 1=869.3
+|ionization energy 2=1790
+|ionization energy 3=2698
+|atomic radius=140
+|covalent radius=138±4
+|Van der Waals radius=206
+|magnetic ordering=[[diamagnetic]]
+|magnetic ordering ref=<ref>{{cite book |url=http://web.archive.org/web/20110303222309/http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf|chapter=Magnetic susceptibility of the elements and inorganic compounds| editor = Lide, D. R. | title = CRC Handbook of Chemistry and Physics | edition = 86th | location = Boca Raton (FL) | publisher = CRC Press | year = 2005 | isbn = 0-8493-0486-5 }}
+</ref>
+|thermal conductivity=1.97&ndash;3.38
+|thermal expansion=18
+|thermal expansion ref=<ref>http://www.owlnet.rice.edu/~msci301/ThermalExpansion.pdf</ref>
+|thermal expansion comment=(at&nbsp;{{abbr|r.t.|room temperature}})
+|speed of sound rod at 20=2610
+|Young's modulus=43
+|Shear modulus=16
+|Bulk modulus=65
+|Mohs hardness=2.25
+|Brinell hardness=180–270
+|CAS number=13494-80-9
+|isotopes=
+{{infobox element/isotopes decay | mn=120 | sym=Te
+ | na=0.09% | hl=>2.2&times;10<sup>16</sup>&nbsp;y
+ | dm=([[double beta decay|β<sup>+</sup>β<sup>+</sup>]]) | de=1.701 | link1=tin-120 | pn=120 | ps=Sn}}
+{{infobox element/isotopes decay | mn=121 | sym=Te
+ | na=[[synthetic radioisotope|syn]] | hl=16.78&nbsp;d
+ | dm=[[electron capture|ε]] | de=1.040 | link1=antimony-121 | pn=121 | ps=Sb}}
+{{infobox element/isotopes decay | mn=122 | sym=Te | na=2.55% | hl=– | dm=([[spontaneous fission|SF]]) | de=<30.974 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=123 | sym=Te
+ | na=0.89% | hl=>9.2&times;10<sup>16</sup>&nbsp;y<ref>{{cite journal|doi=10.1103/PhysRevC.67.014323|title=New limits on naturally occurring electron capture of 123Te|journal=Physical Review C|volume=67|pages=014323|year=2003|last1=Alessandrello|first1=A.|last2=Arnaboldi|first2=C.|last3=Brofferio|first3=C.|last4=Capelli|first4=S.|last5=Cremonesi|first5=O.|last6=Fiorini|first6=E.|last7=Nucciotti|first7=A.|last8=Pavan|first8=M.|last9=Pessina|first9=G.|last10=Pirro|first10=S.|last11=Previtali|first11=E.|last12=Sisti|first12=M.|last13=Vanzini|first13=M.|last14=Zanotti|first14=L.|last15=Giuliani|first15=A.|last16=Pedretti|first16=M.|last17=Bucci|first17=C.|last18=Pobes|first18=C.|bibcode=2003PhRvC..67a4323A}}</ref>
+ | dm=(ε) | de=0.051 | link1=antimony-123 | pn=123 | ps=Sb}}
+{{infobox element/isotopes decay | mn=124 | sym=Te | na=4.74% | hl=– | dm=(SF) | de=<28.221 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=125 | sym=Te | na=7.07% | hl=– | dm=(SF) | de=<26.966 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=126 | sym=Te | na=18.84% | hl=– | dm=(SF) | de=<26.011 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=127 | sym=Te
+ | na=syn | hl=9.35&nbsp;h
+ | dm=[[beta emission|β<sup>−</sup>]] | de=0.698 | link1=iodine-127 | pn=127 | ps=I}}
+{{infobox element/isotopes decay | mn=128 | sym=Te
+ | na=31.74% | hl=2.2&times;10<sup>24</sup>&nbsp;y
+ | dm=[[double beta decay|β<sup>&minus;</sup>β<sup>&minus;</sup>]] | de=0.867 | link1=xenon-128 | pn=128 | ps=Xe}}
+{{infobox element/isotopes decay | mn=129 | sym=Te
+ | na=syn | hl=69.6&nbsp;min
+ | dm=β<sup>−</sup> | de=1.498 | link1=iodine-129 | pn=129 | ps=I}}
+{{infobox element/isotopes decay | mn=130 | sym=Te
+ | na=34.08% | hl=7.9&times;10<sup>20</sup>&nbsp;y
+ | dm=β<sup>&minus;</sup>β<sup>&minus;</sup> | de=2.528 | link1=xenon-130 | pn=130 | ps=Xe}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|naming=after Roman ''{{lang|la|[[Terra (mythology)|Tellus]]}}'', deity of the Earth
+|discovered by=[[Franz-Joseph Müller von Reichenstein]]
+|discovery date=1782
+|first isolation by=[[Martin Heinrich Klaproth]]
+}}
 '''Tellurium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Te''', ngièn-chṳ́ su-muk he '''52'''.
 
 {{Ngièn-su chû-khì-péu}}
