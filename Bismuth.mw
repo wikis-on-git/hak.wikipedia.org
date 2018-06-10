@@ -1,4 +1,109 @@
-[[File:Bi-TableImage.png|right|thumb|Bismuth]]
+{{Infobox element
+|name=bismuth
+|number=83
+|symbol=Bi
+|left=[[yèn]]
+|right=[[polonium]]
+|above=[[Antimony|Sb]]
+|below=[[Moscovium|Mc]]
+|series=heu-ko-thu kîm-su̍k
+|series comment=
+|group=15
+|period=6
+|block=p
+|series color=
+|appearance=lustrous silver
+|image name=Bismuth crystals and 1cm3 cube.jpg
+|image name comment=
+|image name 2=
+|image name 2 comment=
+|atomic mass=208.98040
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=1
+|atomic mass comment=
+|electron configuration=&#91;[[xenon|Xe]]&#93; 4f<sup>14</sup> 5d<sup>10</sup> 6s<sup>2</sup> 6p<sup>3</sup>
+|electrons per shell=2, 8, 18, 32, 18, 5
+|color=
+|phase=ku-thí
+|phase comment=
+|density gplstp=
+|density gpcm3nrt=9.78
+|density gpcm3mp=10.05
+|melting point K=544.7
+|melting point C=271.5
+|melting point F=520.7
+|boiling point K=1837
+|boiling point C=1564
+|boiling point F=2847
+|triple point K=
+|triple point kPa=
+|critical point K=
+|critical point MPa=
+|heat fusion=11.30
+|heat vaporization=179
+|heat capacity=25.52
+|vapor pressure 1=941
+|vapor pressure 10=1041
+|vapor pressure 100=1165
+|vapor pressure 1 k=1325
+|vapor pressure 10 k=1538
+|vapor pressure 100 k=1835
+|vapor pressure comment=
+|crystal structure=rhombohedral
+|crystal structure ref=<ref name=str>{{cite journal|doi=10.1107/S0365110X62002297|title=The crystal structure of Bi and of solid solutions of Pb, Sn, Sb and Te in Bi|year=1962|last1=Cucka|first1=P.|last2=Barrett|first2=C. S.|journal=Acta Crystallographica|volume=15|issue=9|pages=865}}</ref>
+| oxidation states=5, 4, '''3''', 2, 1, −1, −2, −3
+|oxidation states comment=(a&nbsp;mildly [[acid]]ic oxide)
+|electronegativity=2.02
+|number of ionization energies=4
+|ionization energy 1=703
+|ionization energy 2=1610
+|ionization energy 3=2466
+|atomic radius=156
+|covalent radius=148±4
+|Van der Waals radius=207
+|magnetic ordering=[[diamagnetism|diamagnetic]]
+|electrical resistivity unit prefix=µ
+|electrical resistivity=
+|electrical resistivity at 0=
+|electrical resistivity at 20=1.29
+|thermal conductivity=7.97
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=13.4
+|speed of sound=
+|speed of sound rod at 20=1790
+|speed of sound rod at r.t.=
+|Young's modulus=32
+|Shear modulus=12
+|Bulk modulus=31
+|Poisson ratio=0.33
+|Mohs hardness=2.25
+|Vickers hardness=
+|Brinell hardness=70–95
+|CAS number=7440-69-9
+|isotopes=
+{{infobox element/isotopes decay | mn=207 | sym=Bi
+ | na=[[synthetic radioisotope|syn]] | hl=31.55&nbsp;y
+ | dm=[[positron emission|β<sup>+</sup>]] | de=2.399 | link1=lead-207 | pn=207 | ps=Pb }}
+{{infobox element/isotopes decay | mn=208 | sym=Bi
+ | na=syn | hl=3.68×10<sup>5</sup>&nbsp;y
+ | dm=β<sup>+</sup> | de=2.880 | link1=lead-208 | pn=208 | ps=Pb}}
+{{infobox element/isotopes decay | mn=209 | sym=Bi
+ | na=100% | hl=1.9×10<sup>19</sup>&nbsp;y
+ | dm=[[alpha decay|α]] | de=3.137 | link1=thallium-205 | pn=205 | ps=Tl}}
+{{infobox element/isotopes decay2 | mn=210 | sym=Bi
+ | na=[[trace radioisotope|trace]] | hl=5.012&nbsp;d
+ | dm1=[[beta decay|β<sup>−</sup>]] | de1=1.426 | link1=polonium-210 | pn1=210 | ps1=Po
+ | dm2=α | de2=5.982 | link2=thallium-206 | pn2=206 | ps2=Tl}}
+{{infobox element/isotopes decay2 | mn=210m | sym=Bi
+ | na=syn | hl=3.04×10<sup>6</sup>&nbsp;y
+ | dm1=[[Isomeric transition|IT]] | de1=0.271 | pn1=210 | ps1=Bi
+ | dm2=α | de2=6.253 | link2=thallium-206 | pn2=206 | ps2=Tl}}
+|isotopes comment=
+|discovered by=[[Claude François Geoffroy]]
+|discovery date=1753
+}}
 '''Bismuth''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Bi''', ngièn-chṳ́ su-muk he '''83'''.
 
 {{Ngièn-su chû-khì-péu}}
