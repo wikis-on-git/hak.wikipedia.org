@@ -1,4 +1,85 @@
-[[File:Ho-TableImage.png|right|thumb|Holmium]]
+{{Infobox element
+|number=67
+|symbol=Ho
+|name=holmium
+|left=[[dysprosium]]
+|right=[[erbium]]
+|above=–
+|below=[[einsteinium|Es]]
+|series=lanthanum-hi
+|period=6
+|block=f
+|group=n/a
+|image name=Holmium2.jpg
+|appearance=silvery white
+|atomic mass=164.93033
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=2
+|atomic mass comment=
+|electron configuration=&#91;[[xenon|Xe]]&#93; 4f<sup>11</sup> 6s<sup>2</sup>
+|electrons per shell=2, 8, 18, 29, 8, 2
+|phase=ku-thí
+|density gpcm3nrt=8.79
+|density gpcm3mp=8.34
+|melting point K=1734
+|melting point C=1461
+|melting point F=2662
+|boiling point K=2873
+|boiling point C=2600
+|boiling point F=4712
+|heat fusion=17.0
+|heat vaporization=251
+|heat capacity=27.15
+|vapor pressure 1=1432
+|vapor pressure 10=1584
+|vapor pressure 100= (1775)
+|vapor pressure 1 k= (2040)
+|vapor pressure 10 k= (2410)
+|vapor pressure 100 k= (2964)
+|vapor pressure comment=
+|crystal structure=hexagonal close packed
+|oxidation states='''3''', 2, 1
+|oxidation states comment=(a&nbsp;[[base (chemistry)|basic]] oxide)
+|electronegativity=1.23
+|number of ionization energies=3
+|ionization energy 1=581.0
+|ionization energy 2=1140
+|ionization energy 3=2204
+|atomic radius=176
+|covalent radius=192±7
+|magnetic ordering=[[paramagnetic]]
+|electrical resistivity unit prefix=n
+|electrical resistivity=poly: 814
+|electrical resistivity comment=(at&nbsp;{{abbr|r.t.|room temperature}})
+|thermal conductivity=16.2
+|thermal expansion=poly: 11.2
+|thermal expansion comment=(at&nbsp;{{abbr|r.t.|room temperature}})
+|speed of sound rod at 20=2760
+|Young's modulus=64.8
+|Shear modulus=26.3
+|Bulk modulus=40.2
+|Poisson ratio=0.231
+|Vickers hardness=410–600
+|Brinell hardness= 500–1250
+|CAS number=7440-60-0
+|isotopes=
+{{infobox element/isotopes decay | mn=163 | sym=Ho
+ | na=[[synthetic radioisotope|syn]] | hl=4570&nbsp;y
+ | dm=[[electron capture|ε]] | de=0.003 | link1=dysprosium-163 | pn=163 | ps=Dy}}
+{{infobox element/isotopes decay | mn=164 | sym=Ho
+ | na=syn | hl=29&nbsp;min
+ | dm=ε | de=0.987 | link1=dysprosium-164 | pn=164 | ps=Dy}}
+{{infobox element/isotopes decay | mn=165 | sym=Ho | na=100% | hl=– | dm=([[alpha decay|α]]) | de=0.1394 | link1=terbium-161 | pn=161 | ps=Tb }}
+{{infobox element/isotopes decay | mn=166 | sym=Ho
+ | na=syn | hl=26.763&nbsp;h
+ | dm=[[beta emission|β<sup>−</sup>]] | de=1.855 | link1=erbium-166 | pn=166 | ps=Er}}
+{{infobox element/isotopes decay | mn=167 | sym=Ho
+ | na=syn | hl=3.1&nbsp;h
+ | dm=β<sup>−</sup> | de=1.007 | link1=erbium-167 | pn=167 | ps=Er}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|discovered by=[[Marc Delafontaine]]
+|discovery date=1878
+}}
 '''Holmium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Ho''', ngièn-chṳ́ su-muk he '''67'''.
 
 {{Ngièn-su chû-khì-péu}}
