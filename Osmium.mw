@@ -1,3 +1,96 @@
+{{Infobox element
+|number=76
+|symbol=Os
+|name=osmium
+|left=[[rhenium]]
+|right=[[iridium]]
+|above=[[ruthenium|Ru]]
+|below=[[hassium|Hs]]
+|series=ko-thu kîm-su̍k
+|group=8
+|period=6
+|block=d
+|image name=Osmium crystals.jpg
+|appearance=silvery, blue cast
+|atomic mass=190.23
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=3
+|atomic mass comment=
+|electron configuration=&#91;[[xenon|Xe]]&#93; 4f<sup>14</sup> 5d<sup>6</sup> 6s<sup>2</sup>
+|electrons per shell=2, 8, 18, 32, 14, 2
+|phase=ku-thí
+|density gpcm3nrt=22.59
+|density gpcm3mp=20
+|melting point K=3306
+|melting point C=3033
+|melting point F=5491
+|boiling point K=5285
+|boiling point C=5012
+|boiling point F=9054
+|heat fusion=31
+|heat vaporization=378
+|heat capacity=24.7
+|vapor pressure 1=3160
+|vapor pressure 10=3423
+|vapor pressure 100=3751
+|vapor pressure 1 k=4148
+|vapor pressure 10 k=4638
+|vapor pressure 100 k=5256
+|vapor pressure comment=
+|crystal structure=hexagonal close packed
+|oxidation states=8, 7, 6, 5, '''4''', 3, 2, 1, 0, −1, −2, −4
+|oxidation states comment=(a&nbsp;mildly [[acid]]ic oxide)
+|electronegativity=2.2
+|number of ionization energies=2
+|ionization energy 1=840
+|ionization energy 2=1600
+|atomic radius=135
+|covalent radius=144±4
+|magnetic ordering=[[paramagnetic]]
+|magnetic ordering ref=<ref>{{cite book |url=http://web.archive.org/web/20110303222309/http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf|chapter=Magnetic susceptibility of the elements and inorganic compounds| editor = Lide, D. R. | title = CRC Handbook of Chemistry and Physics | edition = 86th | location = Boca Raton (FL) | publisher = CRC Press | year = 2005 | isbn = 0-8493-0486-5 }}
+</ref>
+|electrical resistivity unit prefix=n
+|electrical resistivity at 0=81.2
+|thermal conductivity=87.6
+|thermal expansion at 25=5.1
+|speed of sound rod at 20=4940
+|Shear modulus=222
+|Poisson ratio=0.25
+|Bulk modulus=462
+|Mohs hardness=7.0
+|Brinell hardness=3490–4000
+|CAS number=7440-04-2
+|isotopes=
+{{infobox element/isotopes decay2 | mn=184 | sym=Os
+ | na=0.02% | hl=>5.6×10<sup>13</sup>&nbsp;y
+ | dm1=([[double beta decay|β<sup>+</sup>β<sup>+</sup>]]) | de1=1.451 | link1=tungsten-184 | pn1=184 | ps1=W
+ | dm2=([[alpha decay|α]]) | de2=2.963 | link2=tungsten-180 | pn2=180 | ps2=W}}
+{{infobox element/isotopes decay | mn=185 | sym=Os
+ | na=[[synthetic radioisotope|syn]] | hl=93.6&nbsp;d | dm=[[electron capture|ε]] | de=1.013 | link1=rhenium-185 | pn=185 | ps=Re}}
+{{infobox element/isotopes decay | mn=186 | sym=Os
+ | na=1.59% | hl=2.0×10<sup>15</sup>&nbsp;y
+ | dm=α | de=2.822 | link1=tungsten-182 | pn=182 | ps=W}}
+{{infobox element/isotopes decay | mn=187 | sym=Os | na=1.96% | hl=– | dm=(α) | de=2.7202 | link1=tungsten-183 | pn=183 | ps=W }}
+{{infobox element/isotopes decay | mn=188 | sym=Os | na=13.24% | hl=– | dm=(α) | de=2.1426 | pn=184 | ps=W }}
+{{infobox element/isotopes decay | mn=189 | sym=Os | na=16.15% | hl=– | dm=(α) | de=1.9757 | link1=tungsten-185 | pn=185 | ps=W }}
+{{infobox element/isotopes decay | mn=190 | sym=Os | na=26.26% | hl=– | dm=(α) | de=1.3784 | link1=tungsten-186 | pn=186 | ps=W }}
+{{infobox element/isotopes decay | mn=191 | sym=Os
+ | na=syn | hl=15.4&nbsp;d
+ | dm=[[beta emission|β<sup>−</sup>]] | de=0.314 | link1=iridium-191 | pn=191 | ps=Ir}}
+{{infobox element/isotopes decay2 | mn=192 | sym=Os
+ | na=40.78% | hl=>9.8×10<sup>12</sup>&nbsp;y
+ | dm1=([[double beta decay|β<sup>−</sup>β<sup>−</sup>]]) | de1=0.4135 | link1=platinum-192 | pn1=192 | ps1=Pt
+ | dm2=(α) | de2=0.3622 | link2=tungsten-188 | pn2=188 | ps2=W}}
+{{infobox element/isotopes decay | mn=193 | sym=Os
+ | na=syn | hl=30.11&nbsp;d
+ | dm=β<sup>−</sup> | de=1.141 | link1=iridium-193 | pn=193 | ps=Ir}}
+{{infobox element/isotopes decay | mn=194 | sym=Os
+ | na=syn | hl=6&nbsp;y
+ | dm=β<sup>−</sup> | de=0.097 | link1=iridium-194 | pn=194 | ps=Ir}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|discovery and first isolation by=[[Smithson Tennant]]
+|discovery date=1803
+}}
 '''Osmium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Os''', ngièn-chṳ́ su-muk he '''76'''.
 
 {{Ngièn-su chû-khì-péu}}
