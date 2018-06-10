@@ -1,4 +1,92 @@
-[[File:Pd-TableImage.png|right|thumb|Palladium]]
+{{Infobox element
+|number=46
+|symbol=Pd
+|name=palladium
+|left=[[rhodium]]
+|right=[[ngiùn]]
+|above=[[nickel|Ni]]
+|below=[[Pha̍k-kîm|Pt]]
+|series=ko-thu kîm-su̍k
+|group=10
+|period=5
+|block=d
+|image name=Palladium (46 Pd).jpg
+|appearance=silvery white
+|atomic mass=106.42
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=1
+|atomic mass comment=
+|electron configuration=&#91;[[krypton|Kr]]&#93; 4d<sup>10</sup>
+|electrons per shell=2, 8, 18, 18
+|phase=ku-thí
+|density gpcm3nrt=12.023
+|density gpcm3mp=10.38
+|melting point K=1828.05
+|melting point C=1554.9
+|melting point F=2830.82
+|boiling point K=3236
+|boiling point C=2963
+|boiling point F=5365
+|heat fusion=16.74
+|heat vaporization=358
+|heat capacity=25.98
+|vapor pressure 1=1721
+|vapor pressure 10=1897
+|vapor pressure 100=2117
+|vapor pressure 1 k=2395
+|vapor pressure 10 k=2753
+|vapor pressure 100 k=3234
+|vapor pressure comment=
+|crystal structure=face-centered cubic
+|oxidation states=0, +1, '''+2''', +3, '''+4''', +5, +6
+|oxidation states comment=(a&nbsp;mildly [[base (chemistry)|basic]] oxide)
+|electronegativity=2.20
+|number of ionization energies=3
+|ionization energy 1=804.4
+|ionization energy 2=1870
+|ionization energy 3=3177
+|atomic radius=137
+|covalent radius=139±6
+|Van der Waals radius=163
+|magnetic ordering=[[paramagnetic]]
+|magnetic ordering ref=<ref>{{cite book |url=http://web.archive.org/web/20110303222309/http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf|chapter=Magnetic susceptibility of the elements and inorganic compounds| editor = Lide, D. R. | title = CRC Handbook of Chemistry and Physics | edition = 86th | location = Boca Raton (FL) | publisher = CRC Press | year = 2005 | isbn = 0-8493-0486-5 }}
+</ref>
+|electrical resistivity unit prefix=n
+|electrical resistivity at 20=105.4
+|thermal conductivity=71.8
+|thermal expansion at 25=11.8
+|speed of sound rod at 20=3070
+|Young's modulus=121
+|Shear modulus=44
+|Bulk modulus=180
+|Poisson ratio=0.39
+|Mohs hardness=4.75
+|Vickers hardness=400–600
+|Brinell hardness=320–610
+|CAS number=7440-05-3
+|isotopes=
+{{infobox element/isotopes decay2 | mn=100 | sym=Pd
+ | na=[[synthetic radioisotope|syn]] | hl=[[1 E5 s|3.63&nbsp;d]]
+ | dm1=[[electron capture|ε]]
+ | de1=– | link1=rhodium-100 | pn1=100 | ps1=Rh
+ | dm2=[[gamma ray|γ]] | de2=0.084, 0.074,<br/>0.126 | pn2= | ps2=–}}
+{{infobox element/isotopes decay | mn=102 | sym=Pd | na=1.02% | hl=– | dm=([[double beta decay|β<sup>+</sup>β<sup>+</sup>]]) | de=1.1720 | link1=ruthenium-102 | pn=102 | ps=Ru }}
+{{infobox element/isotopes decay | mn=103 | sym=Pd
+ | na=syn | hl=[[1 E6 s|16.991&nbsp;d]]
+ | dm=ε | de=– | link1=rhodium-103 | pn=103 | ps=Rh}}
+{{infobox element/isotopes decay | mn=104 | sym=Pd | na=11.14% | hl=– | dm=([[spontaneous fission|SF]]) | de=<18.969 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=105 | sym=Pd | na=22.33% | hl=– | dm=(SF) | de=<18.247 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=106 | sym=Pd | na=27.33% | hl=– | dm=(SF) | de=<16.806 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=107 | sym=Pd
+ | na=[[trace radioisotope|trace]] | hl=[[1 E14 s|6.5&times;10<sup>6</sup>&nbsp;y]]
+ | dm=[[beta emission|β<sup>−</sup>]] | de=0.033 | link1=silver-107 | pn=107 | ps=Ag}}
+{{infobox element/isotopes decay | mn=108 | sym=Pd | na=26.46% | hl=– | dm=(SF) | de=<16.102 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=110 | sym=Pd | na=11.72% | hl=[[1 E19 s and more|>6×10<sup>17</sup> y]] | dm=[[double beta decay|β<sup>−</sup>β<sup>−</sup>]] | de=1.9997 | link1=cadmium-110 | pn=110 | ps=Cd}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|naming=after asteroid [[2 Pallas|Pallas]], itself named after [[Athena|Pallas Athena]]
+|discovery and first isolation by=[[William Hyde Wollaston]]
+|discovery date=1803
+}}
 '''Palladium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Pd''', ngièn-chṳ́ su-muk he '''46'''.
 
 {{Ngièn-su chû-khì-péu}}
