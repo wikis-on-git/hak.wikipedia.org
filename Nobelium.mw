@@ -1,4 +1,58 @@
-[[File:No-TableImage.png|right|thumb|Nobelium]]
+{{Infobox element
+|number=102
+|symbol=No
+|name=nobelium
+|left=[[mendelevium]]
+|right=[[lawrencium]]
+|above=[[ytterbium|Yb]]
+|below=(Upq)
+|series=actinium-hi
+|period=7
+|block=f
+|group=n/a
+|appearance=
+|atomic mass=[259]
+|electron configuration=&#91;[[radon|Rn]]&#93; 5f<sup>14</sup> 7s<sup>2</sup>
+|electrons per shell=2, 8, 18, 32, 32, 8, 2
+|phase=ku-thí
+|phase comment=''(predicted)''<ref name="CRC2003"/>
+|density gpcm3nrt=9.9(4)
+|density gpcm3nrt comment=''(predicted)''<ref name=density>{{cite journal |last=Fournier |first=Jean-Marc |date=1976 |title=Bonding and the electronic structure of the actinide metals |journal=Journal of Physics and Chemistry of Solids |volume=37 |issue=2 |pages=235–244 |doi=10.1016/0022-3697(76)90167-0}}</ref>
+|melting point K=1100
+|melting point C=827
+|melting point F=1521
+|melting point comment=''(predicted)''<ref name="CRC2003">{{cite book | editor=Lide, D. R. | title=CRC Handbook of Chemistry and Physics | edition=84th | location=Boca Raton (FL) | publisher=CRC Press | year=2003 | isbn=0-8493-0484-9}}</ref>
+|oxidation states= '''2''', 3
+|electronegativity=1.3
+|electronegativity comment=''(predicted)''<ref>{{cite book|editor1=J.A. Dean|title=Lange's Handbook of Chemistry|edition=15|publisher=McGraw-Hill|year=1999|at=Section 4; Table 4.5, Electronegativities of the Elements}}</ref>
+|number of ionization energies=3
+|ionization energy 1=641.6
+|ionization energy 2=1254.3
+|ionization energy 3=2605.1
+|ionization energy comment=(all estimated)
+|CAS number=10028-14-5
+|isotopes=
+{{infobox element/isotopes decay2 | mn=253 | sym=No| na=[[synthetic radioisotope|syn]]
+ | hl=1.62&nbsp;min
+ | dm1=80%&nbsp;[[alpha emission|α]] | de1=8.14, 8.06, 8.04, 8.01 | link1=fermium-249 | pn1=249 | ps1=Fm
+ | dm2=20% [[beta emission|β<sup>+</sup>]] | de2= | link2=mendelevium-253 | pn2=253 | ps2=Md}}
+{{infobox element/isotopes decay2 | mn=254 | sym=No | na=syn | hl=51&nbsp;s
+ | dm1=90%&nbsp;α | de1= | link1=fermium-250 | pn1=250 | ps1=Fm
+ | dm2=10% β<sup>+</sup> | de2= | link2=mendelevium-254 | pn2=254 | ps2=Md}}
+{{infobox element/isotopes decay2 | mn=255 | sym=No | na=syn | hl=3.1&nbsp;min
+ | dm1=61%&nbsp;α | de1=8.12, 8.08, 7.93 | link1=fermium-251 | pn1=251 | ps1=Fm
+ | dm2=39%&nbsp;β<sup>+</sup> | de2=2.012 | link2=mendelevium-255 | pn2=255 | ps2=Md}}
+{{infobox element/isotopes decay2 | mn=257 | sym=No| na=syn | hl=25&nbsp;s
+ |dm1=99%&nbsp;α | de1=8.32, 8.22 | link1=fermium-253 | pn1=253 | ps1=Fm
+ |dm2=1% β<sup>+</sup> |de2= | link2=mendelevium-257 | pn2=257 | ps2=Md}}
+{{infobox element/isotopes decay3 | mn=259 | sym=No | na=syn | hl=58&nbsp;min
+ | dm1=75%&nbsp;α | de1=7.69, 7.61, 7.53.... | link1=fermium-255 | pn1=255 | ps1=Fm
+ | dm2=25%&nbsp;[[electron capture|ε]] | de2= | link2=mendelevium-259 | pn2=259 | ps2=Md
+ | dm3=10%&nbsp;[[spontaneous fission|SF]] | de3= | pn3= | ps3=}}
+|naming=after [[Alfred Nobel]]
+|discovered by=[[Joint Institute for Nuclear Research]]
+|discovery date=1966
+}}
 '''Nobelium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''No''', ngièn-chṳ́ su-muk he '''102'''.
 
 {{Ngièn-su chû-khì-péu}}
