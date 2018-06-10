@@ -1,0 +1,11 @@
+<includeonly><onlyinclude>{{ {{{|safesubst:}}}#invoke: BaseConvert 
+ | convert
+ | n = {{ {{{|safesubst:}}}#expr: {{{2}}} }}
+ | base = {{{1}}}
+ | width = {{{3|1}}}
+ | prefix = {{ {{{|safesubst:}}}#ifeq: {{{sub|}}} | 2 | &#40; }}
+ | suffix = {{ {{{|safesubst:}}}#switch: {{{sub|}}}
+  | 1 = <sub>{{ {{{|safesubst:}}}#expr: {{{1}}} }}</sub>
+  | 2 = &#41;<sub>{{ {{{|safesubst:}}}#expr: {{{1}}} }}</sub> }}
+}}</onlyinclude></includeonly>
+{{documentation}}
