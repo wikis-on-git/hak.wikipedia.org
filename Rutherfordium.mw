@@ -1,4 +1,63 @@
-[[File:Rf-TableImage.png|right|thumb|Rutherfordium]]
+{{infobox element
+|number=104
+|symbol=Rf
+|name=rutherfordium
+|left=[[lawrencium]]
+|right=[[dubnium]]
+|above=[[hafnium|Hf]]
+|below=(Uph)
+|series=ko-thu kîm-su̍k
+|group=4
+|period=7
+|block=d
+|atomic mass=[267]
+|appearance=
+|electron configuration=&#91;[[radon|Rn]]&#93; 5f<sup>14</sup> 6d<sup>2</sup> 7s<sup>2</sup>
+|electron configuration ref=<ref name=rsc/><ref name=Haire/>
+|electrons per shell=2, 8, 18, 32, 32, 10, 2
+|phase=ku-thí
+|phase comment=''(predicted)''<ref name=rsc/><ref name=Haire/>
+|density gpcm3nrt=23.2
+|density gpcm3nrt comment=''(predicted)''<ref name=rsc>[http://www.rsc.org/chemsoc/visualelements/pages/data/rutherfordium_data.html Chemical Data. Rutherfordium - Rf], Royal Chemical Society</ref><ref name=Haire/><ref name=BFricke>{{cite journal |last1=Fricke |first1=Burkhard |year=1975 |title=Superheavy elements: a prediction of their chemical and physical properties |journal=Recent Impact of Physics on Inorganic Chemistry |volume=21 |pages=89–144 |doi=10.1007/BFb0116498 |url=http://www.researchgate.net/publication/225672062_Superheavy_elements_a_prediction_of_their_chemical_and_physical_properties |accessdate=4 October 2013}}</ref>
+|melting point K=2400
+|melting point C=2100
+|melting point F=3800
+|melting point comment=''(predicted)''<ref name=rsc/><ref name=Haire/>
+|boiling point K=5800
+|boiling point C=5500
+|boiling point F=9900
+|boiling point comment=''(predicted)''<ref name=rsc/><ref name=Haire/>
+|crystal structure=hexagonal close-packed
+|crystal structure comment=''(predicted)''<ref name=hcp>{{cite journal|doi=10.1103/PhysRevB.84.113104|title=First-principles calculation of the structural stability of 6d transition metals|year=2011|last1=Östlin|first1=A.|last2=Vitos|first2=L.|journal=Physical Review B|volume=84|issue=11|bibcode=2011PhRvB..84k3104O }}</ref>
+|number of ionization energies=4
+|ionization energy 1=579.9
+|ionization energy comment=''(all estimated)''<ref name=Haire>{{cite book| title=The Chemistry of the Actinide and Transactinide Elements| editor1-last=Morss|editor2-first=Norman M.| editor2-last=Edelstein| editor3-last=Fuger|editor3-first=Jean| last1=Hoffman|first1=Darleane C. |last2=Lee |first2=Diana M. |last3=Pershina |first3=Valeria |chapter=Transactinides and the future elements| publisher= [[Springer Science+Business Media]]| year=2006| isbn=1-4020-3555-1| location=Dordrecht, The Netherlands| edition=3rd| ref=CITEREFHaire2006}}</ref>
+|ionization energy 2=1389.4
+|ionization energy 3=2296.4
+|atomic radius=150
+|atomic radius comment=''(estimated)''<ref name=Haire/>
+|covalent radius=157
+|covalent radius comment=''(estimated)''<ref name=rsc/>
+|oxidation states= '''4''',<ref name=rsc/> ('''3'''), (2)<ref name=Haire/><ref name=BFricke/>
+|oxidation states comment=(parenthesized numbers are predictions)
+|CAS number=53850-36-5
+|isotopes=<!--only those above 5 sec -->
+{{infobox element/isotopes decay3 | mn=261 | sym=Rf | na=[[synthetic radioisotope|syn]] | hl=70&nbsp;s<ref name=nuclidetable>{{citeweb|url=http://www.nndc.bnl.gov/chart/reCenter.jsp?z=104&n=158|title=Interactive Chart of Nuclides|publisher=Brookhaven National Laboratory|author=Sonzogni, Alejandro|location=National Nuclear Data Center|accessdate=2008-06-06}}</ref>| dm1=>80% [[alpha decay|α]]
+ |de1=8.28 | link1=nobelium-257 | pn1=257 | ps1=No
+ |dm2=<15% [[electron capture|ε]] | de2= | link2=lawrencium-261 | pn2=261 | ps2=Lr
+ |dm3=<10% [[spontaneous fission|SF]] | de3= | pn3=| ps3=}}
+{{infobox element/isotopes decay2 | mn=263 | sym=Rf | na=syn | hl=15&nbsp;min<ref name=nuclidetable/> | dm1=<100% SF
+ | de1= | pn1= | ps1=
+ | dm2=~30% α | de2=7.90 ? | link2=nobelium-259 | pn2=259 | ps2=No }}
+{{infobox element/isotopes decay | mn=265 | sym=Rf | na=syn | hl={{nowrap|1.0{{su|p=+1.2|b=−0.3}}&nbsp;min}}{{zwsp}}<ref name=10El>{{cite journal|last1=Ellison|first1=P.|last2=Gregorich|first2=K.|last3=Berryman|first3=J.|last4=Bleuel|first4=D.|last5=Clark|first5=R.|last6=Dragojević|first6=I.|last7=Dvorak|first7=J.|last8=Fallon|first8=P.|last9=Fineman-Sotomayor|first9=C.|displayauthors=8|title=New Superheavy Element Isotopes: <sup>242</sup>Pu(<sup>48</sup>Ca,5n)<sup>285</sup>114|journal=Physical Review Letters|volume=105|year=2010|doi=10.1103/PhysRevLett.105.182701|bibcode=2010PhRvL.105r2701E|pmid=21231101|issue=18|pages=182701}}</ref><ref name=Utyonkov>http://cyclotron.tamu.edu/she2015/assets/pdfs/presentations/Utyonkov_SHE_2015_TAMU.pdf</ref><ref name=284Fl>{{cite journal|first1=V. K. |last1=Utyonkov|first2=N. T. |last2=Brewer|first3=Yu. Ts. |last3=Oganessian|first4=K. P. |last4=Rykaczewski|first5=F. Sh. |last5=Abdullin|first6=S. N. |last6=Dmitriev|first7=R. K. |last7=Grzywacz|first8=M. G. |last8=Itkis|first9=K. |last9=Miernik|first10=A. N. |last10=Polyakov|first11=J. B. |last11=Roberto|first12=R. N. |last12=Sagaidak|first13=I. V. |last13=Shirokovsky|first14=M. V. |last14=Shumeiko|first15=Yu. S. |last15=Tsyganov|first16=A. A. |last16=Voinov|first17=V. G. |last17=Subbotin|first18=A. M. |last18=Sukhov|first19=A. V. |last19=Sabel'nikov|first20=G. K. |last20=Vostokin|first21=J. H. |last21=Hamilton|first22=M. A. |last22=Stoyer|first23=S. Y. |last23=Strauss |date=15 September 2015 |title=Experiments on the synthesis of superheavy nuclei <sup>284</sup>Fl and <sup>285</sup>Fl in the <sup>239,240</sup>Pu + <sup>48</sup>Ca reactions |journal=Physical Review C |volume=92 |issue=3 |doi=10.1103/PhysRevC.92.034609}}</ref> | dm=SF | de= | pn= | ps=}}
+{{infobox element/isotopes decay | mn=266 | sym=Rf? | na=syn | hl=10?&nbsp;h | dm=SF?/α? | de= | pn= | ps=}}
+{{infobox element/isotopes decay | mn=267 | sym=Rf | na=syn | hl=1.3&nbsp;h<ref name=nuclidetable/> | dm=SF | de= | pn= | ps=}}
+{{infobox element/isotopes decay | mn=268 | sym=Rf? | na=syn | hl=6?&nbsp;h | dm=SF?/α? | de= | pn= | ps=}}
+|isotopes comment=
+|naming=after [[Ernest Rutherford]]
+|discovered by=[[Joint Institute for Nuclear Research]]
+|discovery date=1964
+}}
 '''Rutherfordium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Rf''', ngièn-chṳ́ su-muk he '''104'''.
 
 {{Ngièn-su chû-khì-péu}}
