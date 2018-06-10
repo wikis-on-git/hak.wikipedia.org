@@ -1,4 +1,82 @@
-[[File:Pa-TableImage.png|right|thumb|Protactinium]]
+{{Infobox element
+|number=91
+|symbol=Pa
+|name=protactinium
+|left=[[thorium]]
+|right=[[uranium]]
+|above=[[praseodymium|Pr]]
+|below=(Uqt)
+|series=actinium-hi
+|period=7
+|block=f
+|group=n/a
+|appearance=bright, silvery metallic luster
+|image name=
+|atomic mass=231.03588
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=2
+|atomic mass comment=
+|electron configuration=&#91;[[radon|Rn]]&#93; 5f<sup>2</sup> 6d<sup>1</sup> 7s<sup>2</sup>
+|electrons per shell=2, 8, 18, 32, 20, 9, 2
+|phase=ku-thí
+|density gpcm3nrt=15.37
+|melting point K=1841
+|melting point C=1568
+|melting point F=2854
+|boiling point K=4300
+|boiling point C=4027
+|boiling point F=7280
+|boiling point comment=(?)
+|heat fusion=12.34
+|heat vaporization=481
+|crystal structure=tetragonal
+|crystal structure ref=<ref name=str>{{cite journal|last1=Donohue|first1=J.|title=On the crystal structure of protactinium metal|journal=Acta Crystallographica|volume=12|pages=697|year=1959|doi=10.1107/S0365110X59002031|issue=9}}</ref>
+|oxidation states=2, 3, 4, '''5'''
+|oxidation states comment=(a weakly [[base (chemistry)|basic]] oxide)
+|electronegativity=1.5
+|number of ionization energies=1
+|ionization energy 1=568
+|atomic radius=163
+|covalent radius=200
+|magnetic ordering=[[paramagnetic]]
+|magnetic ordering ref=<ref name=magnet>{{cite book |url=http://web.archive.org/web/20110303222309/http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf|chapter=Magnetic susceptibility of the elements and inorganic compounds| editor = Lide, D. R. | title = CRC Handbook of Chemistry and Physics | edition = 86th | location = Boca Raton (FL) | publisher = CRC Press | year = 2005 | isbn = 0-8493-0486-5 }}</ref>
+|electrical resistivity unit prefix=n
+|electrical resistivity at 0=177
+|thermal conductivity=47
+|thermal expansion=~9.9
+|thermal expansion ref=<ref>{{cite book|chapter=Chapter 2. Thermal Expansion|url=http://www.owlnet.rice.edu/~msci301/ThermalExpansion.pdf|page=11|publisher=ASM International|title=ASM Ready Reference: Thermal Properties of Metals |editor=Cverna, Fran |year=2002|isbn=0871707683}}</ref>
+|thermal expansion comment=(at&nbsp;{{abbr|r.t.|room temperature}})
+|CAS number=7440-13-3
+|isotopes=
+{{infobox element/isotopes decay | mn=229 | sym=Pa
+ | na=[[synthetic radioisotope|syn]] | hl=1.5&nbsp;d
+ | dm=[[electron capture|ε]] | de=0.311 | link1=thorium-229 | pn=229 | ps=Th}}
+{{infobox element/isotopes decay | mn=230 | sym=Pa
+ | na=syn | hl=17.4&nbsp;d
+ | dm=ε | de=1.310 | | link1=thorium-230 | pn=230 | ps=Th}}
+{{infobox element/isotopes decay | mn=231 | sym=Pa
+ | na=100% | hl=3.276×10<sup>4</sup>&nbsp;y
+ | dm=[[alpha decay|α]] | de=5.150 | link1=actinium-227 | pn=227 | ps=Ac}}
+{{infobox element/isotopes decay | mn=232 | sym=Pa
+ | na=syn | hl=1.31&nbsp;d
+ | dm=[[beta emission|β<sup>−</sup>]] | de=1.337 | link1=uranium-232 | pn=232 | ps=U}}
+{{infobox element/isotopes decay | mn=233 | sym=Pa
+ | na=[[trace radioisotope|trace]] | hl=26.967&nbsp;d
+ | dm=β<sup>−</sup> | de=0.5701 | link1=uranium-233 | pn=233 | ps=U}}
+{{infobox element/isotopes decay | mn=234 | sym=Pa
+ | na=trace | hl=6.75&nbsp;h
+ | dm=β<sup>−</sup> | de=2.195 | pn=234 | ps=U}}
+{{infobox element/isotopes decay | mn=234[[Meta state|m]] | sym=Pa
+ | na=trace | hl=1.17&nbsp;min
+ | dm=β<sup>−</sup> | de=2.29 | link1=uranium-234 | pn=234 | ps=U}}
+|isotopes comment=
+|predicted by=[[Dmitri Mendeleev]]
+|prediction date=1869
+|discovery and first isolation by=[[William Crookes]]
+|discovery date=1900
+|named by=[[Otto Hahn]] and [[Lise Meitner]]
+|named date=1917–8
+}}
 '''Protactinium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Pa''', ngièn-chṳ́ su-muk he '''91'''.
 
 {{Ngièn-su chû-khì-péu}}
