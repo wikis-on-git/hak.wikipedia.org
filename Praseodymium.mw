@@ -1,4 +1,81 @@
-[[File:Pr-TableImage.png|right|thumb|Praseodymium]]
+{{Infobox element
+|number=59
+|symbol=Pr
+|name=praseodymium
+|left=[[cerium]]
+|right=[[neodymium]]
+|above=–
+|below=[[protactinium|Pa]]
+|series=lanthanum-hi
+|period=6
+|group=n/a
+|block=f
+|image name=Praseodymium.jpg
+|appearance=grayish white
+|atomic mass=140.90766
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=2
+|atomic mass comment=
+|electron configuration= &#91;[[xenon|Xe]]&#93; 4f<sup>3</sup> 6s<sup>2</sup>
+|electrons per shell=2, 8, 18, 21, 8, 2
+|phase=ku-thí
+|density gpcm3nrt=6.77
+|density gpcm3mp=6.50
+|melting point K=1208
+|melting point C=935
+|melting point F=1715
+|boiling point K=3403
+|boiling point C=3130
+|boiling point F=5666
+|heat fusion=6.89
+|heat vaporization=331
+|heat capacity=27.20
+|vapor pressure 1=1771
+|vapor pressure 10=1973
+|vapor pressure 100= (2227)
+|vapor pressure 1 k= (2571)
+|vapor pressure 10 k= (3054)
+|vapor pressure 100 k= (3779)
+|vapor pressure comment=
+|crystal structure=double hexagonal close packed
+|oxidation states=5, 4, '''3''', 2
+|oxidation states comment=(a mildly [[base (chemistry)|basic]] oxide)
+|electronegativity=1.13
+|number of ionization energies=3
+|ionization energy 1=527
+|ionization energy 2=1020
+|ionization energy 3=2086
+|atomic radius=182
+|covalent radius=203±7
+|magnetic ordering=[[paramagnetic]]
+|magnetic ordering ref=<ref name=jackson>{{cite journal|author=Jackson, M. |year=2000|title=Magnetism of Rare Earth|url=http://www.irm.umn.edu/quarterly/irmq10-3.pdf |journal=The IRM quarterly |volume=10|issue=3|page=1}}</ref>
+|electrical resistivity unit prefix=µ
+|electrical resistivity=α,&nbsp;poly: 0.700
+|electrical resistivity comment=(at&nbsp;{{abbr|r.t.|room temperature}})
+|thermal conductivity=12.5
+|thermal expansion=α, poly: 6.7
+|thermal expansion comment=(at&nbsp;{{abbr|r.t.|room temperature}})
+|speed of sound rod at 20=2280
+|Young's modulus=α&nbsp;form: 37.3
+|Shear modulus=α&nbsp;form: 14.8
+|Bulk modulus=α&nbsp;form: 28.8
+|Poisson ratio=α&nbsp;form: 0.281
+|Vickers hardness=250–745
+|Brinell hardness=250–640
+|CAS number=7440-10-0
+|isotopes=
+{{infobox element/isotopes decay | mn=141 | sym=Pr | na=100% | hl=– | dm=([[spontaneous fission|SF]]) | de=<48.450 | pn= | ps= }}
+{{infobox element/isotopes decay2 | mn=142 | sym=Pr
+ | na=[[synthetic radioisotope|syn]] | hl=19.12&nbsp;h
+ | dm1=[[beta minus decay|β<sup>−</sup>]] | de1=2.162 | link1=neodymium-142 | pn1=142 | ps1=Nd
+ | dm2=[[electron capture|ε]] | de2=0.745 | link2=cerium-142 | pn2=142 | ps2=Ce}}
+{{infobox element/isotopes decay | mn=143 | sym=Pr
+ | na=syn | hl=13.57&nbsp;d
+ | dm=[[beta emission|β<sup>−</sup>]] | de=0.934 | link1=neodymium-143 | pn=143 | ps=Nd}}
+|isotopes comment=Decay modes in parentheses have been predicted, but have not yet been observed
+|discovered by=[[Carl Auer von Welsbach]]
+|discovery date=1885
+}}
 '''Praseodymium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Pr''', ngièn-chṳ́ su-muk he '''59'''.
 
 {{Ngièn-su chû-khì-péu}}
