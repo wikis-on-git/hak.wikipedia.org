@@ -1,4 +1,60 @@
-[[File:Rf-TableImage.png|right|thumb|Dubnium]]
+{{Infobox element
+|number=105
+|symbol=Db
+|name=dubnium
+|left=[[rutherfordium]]
+|right=[[seaborgium]]
+|above=[[tantalum|Ta]]
+|below=(Ups)
+|series=ko-thu kîm-su̍k
+|group=5
+|period=7
+|block=d
+|appearance=
+|atomic mass=[268]
+|electron configuration=&#91;[[radon|Rn]]&#93; 5f<sup>14</sup> 6d<sup>3</sup> 7s<sup>2</sup>
+|electron configuration comment=''(predicted)''<ref name=Haire/>
+|electrons per shell=2, 8, 18, 32, 32, 11, 2
+|electrons per shell comment=''(predicted)''
+|phase=ku-thí
+|phase comment=''(predicted)''<ref name=bcc/>
+|density gpcm3nrt=29.3
+|density gpcm3nrt comment=''(predicted)''<ref name=Haire/><ref name=BFricke>{{cite journal |last1=Fricke |first1=Burkhard |year=1975 |title=Superheavy elements: a prediction of their chemical and physical properties |journal=Recent Impact of Physics on Inorganic Chemistry |volume=21 |pages=89–144 |doi=10.1007/BFb0116498 |url=http://www.researchgate.net/publication/225672062_Superheavy_elements_a_prediction_of_their_chemical_and_physical_properties |accessdate=4 October 2013}}</ref>
+|crystal structure=body-centered cubic
+|crystal structure ref=&#x20;''(predicted)''<ref name=bcc>{{cite journal|doi=10.1103/PhysRevB.84.113104|title=First-principles calculation of the structural stability of 6d transition metals|year=2011|last1=Östlin|first1=A.|last2=Vitos|first2=L.|journal=Physical Review B|volume=84|issue=11|bibcode=2011PhRvB..84k3104O }}</ref>
+|oxidation states='''5''', (4), (3)<ref name=Haire/><ref name=BFricke/>
+|oxidation states comment=(parenthesized oxidation states are predictions)
+|number of ionization energies=5
+|ionization energy 1=664.8
+|ionization energy comment=''(all estimated)''<ref name=Haire>{{cite book| title=The Chemistry of the Actinide and Transactinide Elements| editor1-last=Morss|editor2-first=Norman M.| editor2-last=Edelstein| editor3-last=Fuger|editor3-first=Jean| last1=Hoffman|first1=Darleane C. |last2=Lee |first2=Diana M. |last3=Pershina |first3=Valeria |chapter=Transactinides and the future elements| publisher= [[Springer Science+Business Media]]| year=2006| isbn=1-4020-3555-1| location=Dordrecht, The Netherlands| edition=3rd| ref=CITEREFHaire2006}}</ref>
+|ionization energy 2=1546.7
+|ionization energy 3=2378.4
+|atomic radius=139
+|atomic radius comment=''(estimated)''<ref name=Haire/>
+|covalent radius=149 
+|covalent radius comment=''(estimated)''<ref name=rsc>[http://www.rsc.org/chemsoc/visualelements/pages/data/dubnium_data.html Chemical Data. Dubnium - Db], Royal Chemical Society</ref>
+|CAS number=53850-35-4
+|isotopes=
+{{infobox element/isotopes decay2 | mn=262 | sym=Db | na=[[synthetic radioisotope|syn]] | hl=34&nbsp;s<ref>{{cite journal|last1=Münzenberg|first1=G.|last2=Gupta|first2=M.|title=Production and Identification of Transactinide Elements|page=877|year=2011|doi=10.1007/978-1-4419-0720-2_19}}</ref><ref name=lifetimes/>
+ |dm1=67% [[alpha decay|α]] | de1=8.66,<br>8.45 | link1=lawrencium-258 | pn1=258 | ps1=Lr
+ | dm2=33%&nbsp;[[spontaneous fission|SF]] |de2= |pn2= |ps2=}}
+{{infobox element/isotopes decay3 | mn=263 | sym=Db | na=syn | hl=27&nbsp;s<ref name=lifetimes/>
+ | dm1=56%&nbsp;SF | de1= | pn1= | ps1=
+ | dm2=41% α|de2=8.36 | link2=lawrencium-259 | pn2=259 | ps2=Lr
+ | dm3=3% [[electron capture|ε]] | de3= | pn3=263[[nuclear isomer|m]] | ps3=Rf}}
+{{infobox element/isotopes decay2 | mn=266 | sym=Db | na=syn | hl=22&nbsp;min<ref name=lifetimes/>
+ | dm1=SF | de1= | pn1=| ps1=
+ | dm2=ε | de2= | link2=rutherfordium-266 | pn2=266 | ps2=Rf}}
+{{infobox element/isotopes decay | mn=267 | sym=Db | na=syn | hl=1.2&nbsp;h<ref name=lifetimes/> | dm=SF | de= | pn= | ps=}}
+{{infobox element/isotopes decay2 | mn=268 | sym=Db | na=syn | hl=29&nbsp;h<ref name=lifetimes>[http://newscenter.lbl.gov/news-releases/2010/10/26/six-new-isotopes/ Six New Isotopes of the Superheavy Elements Discovered]. Berkeley Lab. News center. October 26, 2010</ref>
+ | dm1=SF | de1= | pn1= | ps1=
+ | dm2= ε | de2= | link2=rutherfordium-268 | pn2=268 | ps2=Rf}}
+{{infobox element/isotopes decay2 | mn=270 | sym=Db | na=syn | hl=23.15&nbsp;h<ref>{{cite journal|last1=Oganessian |first1=Yuri Ts.|last2=Abdullin |first2=F. Sh.|last3=Bailey |first3=P. D.|last4=Benker |first4=D. E.|last5=Bennett |first5=M. E.|last6=Dmitriev |first6=S. N.|last7=Ezold |first7= J. G.|last8=Hamilton |first8= J. H.|last9=Henderson |first9= R. A. <!--| first10=M. G. |last10=Itkis | first11=Yuri V. |last11=Lobanov | first12=A. N. |last12=Mezentsev | first13=K. J. |last13=Moody | first14=S. L. |last14=Nelson | first15=A. N. |last15=Polyakov | first16=C. E. |last16=Porter | first17=A. V. |last17=Ramayya | first18=F. D. |last18=Riley | first19=J. B.|last19=Roberto | first20=M. A. |last20=Ryabinin | first21=K. P. |last21=Rykaczewski | first22=R. N. |last22=Sagaidak | first23=D. A. |last23=Shaughnessy | first24=I. V. |last24=Shirokovsky | first25=M. A. |last25=Stoyer | first26=V. G. |last26=Subbotin | first27=R. |last27=Sudowe | first28=A. M. |last28=Sukhov | first29=Yu. S. |last29=Tsyganov | first30=Vladimir K. |last30=Utyonkov | first31=A. A. |last31=Voinov | first32=G. K. |last32=Vostokin | first33=P. A. |last33=Wilk -->|title=Synthesis of a New Element with Atomic Number ''Z''=117 |date=2010-04-09 |journal=Physical Review Letters |publisher=American Physical Society |volume=104 <!--|issue=14 -->|number=142502 |doi=10.1103/PhysRevLett.104.142502 |pmid=20481935 |bibcode=2010PhRvL.104n2502O |url=http://www.researchgate.net/publication/44610795_Synthesis_of_a_new_element_with_atomic_number_Z__117 |displayauthors=3 }}</ref> | dm1=17%&nbsp;SF | de1= | pn1= | ps1=
+ | dm2=83% α | de2= | link2=lawrencium-266 | pn2=266 | ps2=Lr}}
+|naming=after the town of [[Dubna]] in Russia
+|discovered by=[[Joint Institute for Nuclear Research]]
+|discovery date=1968
+}}
 '''Dubnium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Db''', ngièn-chṳ́ su-muk he '''105'''.
 
 {{Ngièn-su chû-khì-péu}}
