@@ -1,4 +1,86 @@
-[[File:Tm-TableImage.png|right|thumb|Thulium]]
+{{Infobox element
+|number=69
+|symbol=Tm
+|name=thulium
+|left=[[erbium]]
+|right=[[ytterbium]]
+|above=–
+|below=[[mendelevium|Md]]
+|series=lanthanum-hi
+|period=6
+|block=f
+|group=n/a
+|image name=Thulium_sublimed_dendritic_and_1cm3_cube.jpg
+|appearance=silvery gray
+|atomic mass=168.93422
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=2
+|atomic mass comment=
+|electron configuration=&#91;[[xenon|Xe]]&#93; 4f<sup>13</sup> 6s<sup>2</sup>
+|electrons per shell=2, 8, 18, 31, 8, 2
+|phase=ku-thí
+|density gpcm3nrt=9.32
+|density gpcm3mp=8.56
+|melting point K=1818
+|melting point C=1545
+|melting point F=2813
+|boiling point K=2223
+|boiling point C=1950
+|boiling point F=3542
+|heat fusion=16.84
+|heat vaporization=191
+|heat capacity=27.03
+|vapor pressure 1=1117
+|vapor pressure 10=1235
+|vapor pressure 100=1381
+|vapor pressure 1 k=1570
+|vapor pressure 10 k=(1821)
+|vapor pressure 100 k=(2217)
+|vapor pressure comment=
+|crystal structure=hexagonal close packed
+|oxidation states=2, '''3'''
+|oxidation states comment=(a [[base (chemistry)|basic]] oxide)
+|electronegativity=1.25
+|number of ionization energies=3
+|ionization energy 1=596.7
+|ionization energy 2=1160
+|ionization energy 3=2285
+|atomic radius=176
+|covalent radius=190±10
+|magnetic ordering=[[paramagnetic]]
+|magnetic ordering comment=(at&nbsp;300&nbsp;K)
+|electrical resistivity unit prefix=n
+|electrical resistivity=poly:&nbsp;676
+|electrical resistivity comment=(at&nbsp;{{abbr|r.t.|room temperature}})
+|thermal conductivity=16.9
+|thermal expansion=poly:&nbsp;13.3
+|thermal expansion comment=(at&nbsp;{{abbr|r.t.|room temperature}})
+|Young's modulus=74.0
+|Shear modulus=30.5
+|Bulk modulus=44.5
+|Poisson ratio=0.213
+|Vickers hardness=470–650
+|Brinell hardness=470–900
+|CAS number=7440-30-4
+|isotopes=
+{{infobox element/isotopes decay | mn=167 | sym=Tm
+ | na=[[synthetic radioisotope|syn]] | hl=[[1 E5 s|9.25&nbsp;d]]
+ | dm=[[electron capture|ε]] | de=0.748 | link1=erbium-167 | pn=167 | ps=Er}}
+{{infobox element/isotopes decay | mn=168 | sym=Tm
+ | na=syn | hl=[[1 E6 s|93.1&nbsp;d]]
+ | dm=ε | de=1.679 | link1=erbium-168 | pn=168 | ps=Er}}
+{{infobox element/isotopes decay | mn=169 | sym=Tm | na=100% | hl=– | dm=([[alpha decay|α]]) | de=1.2004 | link1=holmium-165 | pn=165 | ps=Ho }}
+{{infobox element/isotopes decay | mn=170 | sym=Tm
+ | na=syn | hl=[[1 E7 s|128.6&nbsp;d]]
+ | dm=[[beta decay|β<sup>−</sup>]] | de=0.968 | link1=ytterbium-170 | pn=170 | ps=Yb}}
+{{infobox element/isotopes decay | mn=171 | sym=Tm
+ | na=syn | hl=[[1 E s|1.92&nbsp;y]]
+ | dm=β<sup>−</sup> | de=0.096 | link1=ytterbium-171 | pn=171 | ps=Yb}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|naming=after [[Thule]], a mythical region in Scandinavia
+|discovery and first isolation by=[[Per Teodor Cleve]]
+|discovery date=1879
+}}
 '''Thulium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Tm''', ngièn-chṳ́ su-muk he '''69'''.
 
 {{Ngièn-su chû-khì-péu}}
