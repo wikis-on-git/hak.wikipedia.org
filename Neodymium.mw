@@ -1,4 +1,87 @@
-[[File:Nd-TableImage.png|right|thumb|Neodymium]]
+{{Infobox element
+|number=60
+|symbol=Nd
+|name=neodymium
+|left=[[praseodymium]]
+|right=[[promethium]]
+|above=–
+|below=[[uranium|U]]
+|series=lanthanum-hi
+|period=6
+|group=n/a
+|block=f
+|image name=Neodymium2.jpg
+|appearance=silvery white
+|atomic mass=144.242
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=3
+|atomic mass comment=
+|electron configuration=&#91;[[xenon|Xe]]&#93; 4f<sup>4</sup> 6s<sup>2</sup>
+|electrons per shell=2, 8, 18, 22, 8, 2
+|phase=ku-thí
+|density gpcm3nrt=7.01
+|density gpcm3mp=6.89
+|melting point K=1297
+|melting point C=1024
+|melting point F=1875
+|boiling point K=3347
+|boiling point C=3074
+|boiling point F=5565
+|heat fusion=7.14
+|heat vaporization=289
+|heat capacity=27.45
+|vapor pressure 1=1595
+|vapor pressure 10=1774
+|vapor pressure 100=1998
+|vapor pressure 1 k= (2296)
+|vapor pressure 10 k= (2715)
+|vapor pressure 100 k= (3336)
+|vapor pressure comment=
+|crystal structure=double hexagonal close packed
+|oxidation states=+4, '''+3''', +2
+|oxidation states comment=(a&nbsp;mildly [[base (chemistry)|basic]] oxide)
+|electronegativity=1.14
+|number of ionization energies=3
+|ionization energy 1=533.1
+|ionization energy 2=1040
+|ionization energy 3=2130
+|atomic radius=181
+|covalent radius=201±6
+|magnetic ordering=[[paramagnetic]], [[antiferromagnetic]] below 20&nbsp;K<ref>{{cite book |last=Gschneidner |first=K. A. |last2=Eyring |first2=L. |title=Handbook on the Physics and Chemistry of Rare Earths |publisher=North Holland |location=Amsterdam |year=1978 |isbn=0444850228 }}</ref>
+|electrical resistivity unit prefix=n
+|electrical resistivity=α, poly: 643
+|electrical resistivity comment=
+|thermal conductivity=16.5
+|thermal expansion=α, poly: 9.6
+|thermal expansion comment=(at&nbsp;{{abbr|r.t.|room temperature}})
+|speed of sound rod at 20=2330
+|Young's modulus=α form: 41.4
+|Shear modulus=α form: 16.3
+|Bulk modulus=α form: 31.8
+|Poisson ratio=α form: 0.281
+|Vickers hardness=345–745
+|Brinell hardness=265–700
+|CAS number=7440-00-8
+|isotopes=
+{{infobox element/isotopes decay | mn=142 | sym=Nd | na=27.2% | hl=– | dm=([[spontaneous fission|SF]]) | de=<53.264 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=143 | sym=Nd | na=12.2% | hl=– | dm=([[alpha decay|α]]) | de=0.5214 | link1=cerium-139 | pn=139 | ps=Ce }}
+{{infobox element/isotopes decay | mn=144 | sym=Nd
+ | na=23.8% | hl=2.29&times;10<sup>15</sup>&nbsp;y
+ | dm=α | de=1.905 | link1=cerium-140 | pn=140 | ps=Ce}}
+{{infobox element/isotopes decay | mn=145 | sym=Nd | na=8.3% | hl=>6×10<sup>16</sup>&nbsp;y | dm=(α) | de=1.5784 | link1=cerium-141 | pn=141 | ps=Ce}}
+{{infobox element/isotopes decay2 | mn=146 | sym=Nd | na=17.2% | hl=–
+ | dm1=(α) | de1=1.1822 | link1=cerium-142 | pn1=142 | ps1=Ce
+ | dm2=([[double beta decay|β<sup>−</sup>β<sup>−</sup>]]) | de2=0.0702 | link2=samarium-146 | pn2=146 | ps2=Sm}}
+{{infobox element/isotopes decay2 | mn=148 | sym=Nd | na=5.7% | hl=>3.0×10<sup>18</sup>&nbsp;y
+ | dm1=(α) | de1=0.5986 | link1=cerium-144 | pn1=144 | ps1=Ce
+ | dm2=(β<sup>−</sup>β<sup>−</sup>) | de2=1.9288 | link2=samarium-148 | pn2=148 | ps2=Sm}}
+{{infobox element/isotopes decay | mn=150 | sym=Nd
+ | na=5.6% | hl=6.7&times;10<sup>18</sup>&nbsp;y
+ | dm=β<sup>−</sup>β<sup>−</sup> | de=3.367 | link1=samarium-150| pn=150 | ps=Sm}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|discovered by=[[Carl Auer von Welsbach]]
+|discovery date=1885
+}}
 '''Neodymium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Nd''', ngièn-chṳ́ su-muk he '''60'''.
 
 {{Ngièn-su chû-khì-péu}}
