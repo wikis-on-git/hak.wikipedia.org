@@ -1,8 +1,104 @@
-[[File:Ti-TableImage.svg|right|thumb|Vanadium]]
-[[File:Vanadium 1.jpg|right|thumb|350px|Vanadium]]
-[[File:Vanadium-oxidiert.JPG|right|thumb|350px|Vanadium]]
-[[File:Vanadium-bar.jpg|right|thumb|300px|Vanadium]]
-[[File:Vanadium-pieces.jpg|right|thumb|300px|Vanadium]]
+{{Infobox element
+|name=vanadium
+|number=23
+|symbol=V
+|left=[[titanium]]
+|right=[[chromium]]
+|above=–
+|below=[[niobium|Nb]]
+|series=ko-thu kîm-su̍k
+|series comment=
+|group=5
+|period=4
+|block=d
+|series color=
+|appearance=blue-silver-grey metal
+|image name=Vanadium_etched.jpg
+|image size=
+|image name comment=
+|image name 2=
+|image name 2 comment=
+|atomic mass=50.9415
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=1
+|atomic mass comment=
+|electron configuration=&#91;[[argon|Ar]]&#93; 3d<sup>3</sup> 4s<sup>2</sup>
+|electrons per shell=2, 8, 11, 2
+|color=
+|phase=ku-thí
+|phase comment=
+|density gplstp=
+|density gpcm3nrt=6.0
+|density gpcm3nrt 2=
+|density gpcm3mp=5.5
+|melting point K=2183
+|melting point C=1910
+|melting point F=3470
+|boiling point K=3680
+|boiling point C=3407
+|boiling point F=6165
+|triple point K=
+|triple point kPa=
+|critical point K=
+|critical point MPa=
+|heat fusion=21.5
+|heat fusion 2=
+|heat vaporization=444
+|heat capacity=24.89
+|vapor pressure 1=2101
+|vapor pressure 10=2289
+|vapor pressure 100=2523
+|vapor pressure 1 k=2814
+|vapor pressure 10 k=3187
+|vapor pressure 100 k=3679
+|vapor pressure comment=
+|crystal structure=body-centered cubic
+|oxidation states='''5''', 4, 3, 2, 1, −1, −3
+|oxidation states comment=(an [[amphoterism|amphoteric]] oxide)
+|electronegativity=1.63
+|number of ionization energies=4
+|ionization energy 1=650.9
+|ionization energy 2=1414
+|ionization energy 3=2830
+|atomic radius=134
+|atomic radius calculated=
+|covalent radius=153±8
+|Van der Waals radius=
+|magnetic ordering=paramagnetic
+|electrical resistivity unit prefix=n
+|electrical resistivity at 0=
+|electrical resistivity at 20=197
+|thermal conductivity=30.7
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=8.4
+|speed of sound=
+|speed of sound rod at 20=4560
+|speed of sound rod at r.t.=
+|Young's modulus=128
+|Shear modulus=47
+|Bulk modulus=160
+|Poisson ratio=0.37
+|Mohs hardness=6.7
+|Vickers hardness=628–640
+|Brinell hardness=600–742
+|CAS number=7440-62-2
+|isotopes=
+{{infobox element/isotopes decay | mn=48 | sym=V | na=[[synthetic radioisotope|syn]] | hl=[[1 E6 s|15.9735&nbsp;d]] | dm=[[positron emission|β<sup>+</sup>]] | de=4.0123 | link1=titanium-48 | pn=48 | ps=Ti}}
+{{infobox element/isotopes decay | mn=49 | sym=V | na=syn | hl=[[1 E7 s|330&nbsp;d]] | dm=[[electron capture|ε]] | de=0.6019 | link1=titanium-49 | pn=49 | ps=Ti }}
+{{infobox element/isotopes decay2 | mn=50 | sym=V | na=0.25% | hl=1.5&times;10<sup>17</sup>&nbsp;y
+ | dm1=ε | de1=2.2083 | link1=titanium-50 | pn1=50 | ps1=Ti
+ | dm2=[[beta emission|β<sup>−</sup>]] | de2=1.0369 | link2=chromium-50 | pn2=50 | ps2=Cr}}
+{{Infobox element/isotopes stable | mn=51 | sym=V | na=99.75% | n=28 |firstlinks=yes}}
+|isotopes comment=
+|discovered by=[[Andrés Manuel del Río]]
+|discovery date=1801
+|first isolation by=[[Nils Gabriel Sefström]]
+|first isolation date=1830
+|named by=Nils Gabriel Sefström
+|named date=1830
+}}
 '''Vanadium''' he yit-chúng [[fa-ho̍k]] [[ngièn-su]], fa-ho̍k fù-ho vì '''V''', ngièn-chṳ́ su-muk he '''23'''.
 
 {{Ngièn-su Tsû-khì-péu}}
