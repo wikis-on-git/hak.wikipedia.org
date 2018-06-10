@@ -1,4 +1,90 @@
-[[File:Np-TableImage.png|right|thumb|Neptunium]]
+{{Infobox element
+|number=93
+|symbol=Np
+|name=neptunium
+|left=[[uranium]]
+|right=[[plutonium]]
+|above=[[promethium|Pm]]
+|below=(Uqp)
+|series=actinium-hi
+|period=7
+|block=f
+|group=n/a
+|image name=neptunium2.jpg
+|appearance=silvery metallic
+|atomic mass=(237)
+|electron configuration=&#91;[[radon|Rn]]&#93; 5f<sup>4</sup> 6d<sup>1</sup> 7s<sup>2</sup>
+|electrons per shell=2, 8, 18, 32, 22, 9, 2
+|phase=ku-thí
+|density gpcm3nrt=alpha: 20.45
+|density gpcm3nrt ref=<ref name="criticality">{{cite web|url=http://typhoon.jaea.go.jp/icnc2003/Proceeding/paper/2.14_107.pdf|title=Criticality of a <sup>237</sup>Np Sphere
+|first1=Rene G.|last1=Sanchez
+|first2=David J.|last2=Loaiza
+|first3=Robert H.|last3=Kimpland
+|first4=David K.|last4=Hayes
+|first5=Charlene C.|last5=Cappiello
+|first6=William L.|last6=Myers
+|first7=Peter J.|last7=Jaegers
+|first8=Steven D.|last8=Clement
+|first9=Kenneth B.|last9=Butterfield
+
+|publisher=Japanese Atomic Energy Agency
+|accessdate=2014-08-06
+}}</ref>
+|density gpcm3nrt 2=accepted standard value: 19.38
+|melting point K=912±3
+|melting point C=639±3
+|melting point F=1182±5
+|boiling point K=4447
+|boiling point C=4174
+|boiling point F=7545
+|boiling point comment=''(extrapolated)''
+|heat fusion=5.19
+|heat vaporization=336
+|heat capacity=29.46
+|vapor pressure 1=2194
+|vapor pressure 10=2437
+|vapor pressure 100=
+|vapor pressure 1 k=
+|vapor pressure 10 k=
+|vapor pressure 100 k=
+|vapor pressure comment=
+|crystal structure=orthorhombic
+|oxidation states=7, 6, '''5''', 4, 3, 2
+|oxidation states comment=(an [[amphoterism|amphoteric]] oxide)
+|electronegativity=1.36
+|number of ionization energies=1
+|ionization energy 1=604.5
+|atomic radius=155
+|covalent radius=190±1
+|magnetic ordering=[[paramagnetic]]
+|magnetic ordering ref=<ref>[http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf Magnetic susceptibility of the elements and inorganic compounds], in Handbook of Chemistry and Physics 81st edition, CRC press.</ref>
+|electrical resistivity unit prefix=µ
+|electrical resistivity=1.220
+|electrical resistivity comment=(at&nbsp;22&nbsp;°C)
+|thermal conductivity=6.3
+|CAS number=7439-99-8
+|isotopes=
+{{infobox element/isotopes decay2 | mn=235 | sym=Np
+ | na=[[synthetic radioisotope|syn]] | hl=[[1 E7 s|396.1&nbsp;d]]
+ | dm1=[[alpha emission|α]] | de1=5.192 | link1=protactinium-231 | pn1=231 | ps1=Pa
+ | dm2=[[electron capture|ε]] | de2=0.124 | link2=uranium-235 | pn2=235 | ps2=U}}
+{{infobox element/isotopes decay3 | mn=236 | sym=Np
+ | na=syn | hl=[[1 E12 s|1.54&times;10<sup>5</sup>&nbsp;y]]
+ | dm1=ε | de1=0.940 | link1=uranium-236 | pn1=236 | ps1=U
+ | dm2=[[beta emission|β<sup>−</sup>]] | de2=0.940 | link2=plutonium-236 | pn2=236 | ps2=Pu
+ | dm3=α | de3=5.020 | link3=protactinium-232 | pn3=232 | ps3=Pa}}
+{{infobox element/isotopes decay | mn=237 | sym=Np
+ | na=[[trace radioisotope|trace]] | hl=2.144&times;10<sup>6</sup>&nbsp;y
+ | dm=α | de=4.959 | link1=protactinium-233 | pn=233 | ps=Pa}}
+{{infobox element/isotopes decay | mn=239 | sym=Np
+ | na=trace | hl=2.356&nbsp;d
+ | dm=β<sup>−</sup> | de=0.218 | link1=plutonium-239 | pn=239 | ps=Pu}}
+|isotopes comment=
+|naming=after planet [[Neptune]], itself named after Roman god of the sea [[Neptune (mythology)|Neptune]]
+|discovered by=[[Edwin McMillan]] and [[Philip H. Abelson]]
+|discovery date=1940
+}}
 '''Neptunium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Np''', ngièn-chṳ́ su-muk he '''93'''.
 
 {{Ngièn-su chû-khì-péu}}
