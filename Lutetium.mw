@@ -1,4 +1,87 @@
-[[File:Lu-TableImage.png|right|thumb|Lutetium]]
+{{infobox element
+|number=71
+|symbol=Lu
+|name=lutetium
+|left=[[ytterbium]]
+|right=[[hafnium]]
+|above=[[yttrium|Y]]
+|below=[[lawrencium|Lr]]
+|series=lanthanum-hi
+|series comment=sometimes considered a [[transition metal]]
+|period=6
+|block=d
+|group=3
+|image name=Lutetium_sublimed_dendritic_and_1cm3_cube.jpg
+|appearance=silvery white
+|atomic mass=174.9668
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=1
+|atomic mass comment=
+|electron configuration=&#91;[[xenon|Xe]]&#93; 6s<sup>2</sup> 4f<sup>14</sup> 5d<sup>1</sup>
+|electrons per shell=2, 8, 18, 32, 9, 2
+|phase=ku-thí
+|density gpcm3nrt=9.841
+|density gpcm3mp=9.3
+|melting point K=1925
+|melting point C=1652
+|melting point F=3006
+|boiling point K=3675
+|boiling point C=3402
+|boiling point F=6156
+|heat fusion=ca. 22
+|heat vaporization=414
+|heat capacity=26.86
+|vapor pressure 1=1906
+|vapor pressure 10=2103
+|vapor pressure 100=2346
+|vapor pressure 1 k=(2653)
+|vapor pressure 10 k=(3072)
+|vapor pressure 100 k=(3663)
+|vapor pressure comment=
+|crystal structure=hexagonal close packed
+|oxidation states='''3''', 2, 1
+|oxidation states comment=(a weakly [[base (chemistry)|basic]] oxide)
+|electronegativity=1.27
+|number of ionization energies=3
+|ionization energy 1=523.5
+|ionization energy 2=1340
+|ionization energy 3=2022.3
+|atomic radius=174
+|covalent radius=187±8
+|magnetic ordering=[[paramagnetic]]
+|magnetic ordering ref=<ref name=magnet>{{cite book |url=http://web.archive.org/web/20110303222309/http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf|chapter=Magnetic susceptibility of the elements and inorganic compounds| editor = Lide, D. R. | title = CRC Handbook of Chemistry and Physics | edition = 86th | location = Boca Raton (FL) | publisher = CRC Press | year = 2005 | isbn = 0-8493-0486-5 }}
+</ref>
+|electrical resistivity unit prefix=n
+|electrical resistivity=poly: 582
+|electrical resistivity comment=(at {{abbr|r.t.|room temperature}})
+|thermal conductivity=16.4
+|thermal expansion=poly: 9.9
+|thermal expansion comment=(at {{abbr|r.t.|room temperature}})
+|Young's modulus=68.6
+|Shear modulus=27.2
+|Bulk modulus=47.6
+|Poisson ratio=0.261
+|Vickers hardness=755–1160
+|Brinell hardness=890–1300
+|CAS number=7439-94-3
+|isotopes=
+{{infobox element/isotopes decay | mn=173 | sym=Lu
+ | na=[[synthetic radioisotope|syn]] | hl=[[1 E s|1.37&nbsp;y]]
+ | dm=[[electron capture|ε]] | de=0.671 | link1=ytterbium-173 | pn=173 | ps=Yb}}
+{{infobox element/isotopes decay | mn=174 | sym=Lu
+ | na=syn | hl=3.31&nbsp;y
+ | dm=ε | de=1.374 | link1=ytterbium-174 | pn=174 | ps=Yb}}
+{{infobox element/isotopes decay | mn=175 | sym=Lu | na=97.41% | hl=– | dm=([[alpha decay|α]]) | de=1.6197 | link1=thulium-171 | pn=171 | ps=Tm }}
+{{infobox element/isotopes decay | mn=176 | sym=Lu
+ | na=2.59% | hl=3.78&times;10<sup>10</sup>&nbsp;y
+ | dm=[[beta emission|β<sup>−</sup>]] | de=1.193 | link1=hafnium-176 | pn=176 | ps=Hf}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|naming=after ''{{lang|la|[[Lutetia]]}}'', Latin for: Paris, in the Roman era
+|discovered by=[[Georges Urbain]] and [[Carl Auer von Welsbach]]
+|discovery date=1906
+|first isolation by=Carl Auer von Welsbach
+|first isolation date=1906
+}}
 '''Lutetium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Lu''', ngièn-chṳ́ su-muk he '''71'''.
 
 {{Ngièn-su chû-khì-péu}}
