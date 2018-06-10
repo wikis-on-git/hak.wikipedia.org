@@ -6,7 +6,7 @@
 | datastyle = white-space:nowrap; vertical-align:middle; padding-left:0.5em; padding-right:0.5em
 | title = <span style="font-size:75%">[[{{evalint | {{{1 | {{PAGENAME}} }}} - 1}}]] ←</span> {{{1 | {{PAGENAME}} }}} <span style="font-size:75%">→ [[{{evalint | {{{1 | {{PAGENAME}} }}} + 1}}]]</span>
 | label1 = [[chṳt-su fûn-kié]]
-| {{#ifexpr: {{{1 | {{PAGENAME}} }}} >= 2 | data1 }} = {{{Decomposition}}}
+| {{#ifexpr: {{{1 | {{PAGENAME}} }}} >= 2 | data1 | void1 }} = {{#ifeq: {{{Decomposition}}} | ([[su-su]]) | {{PAGENAME}} ([[su-su]]) | {{{Decomposition}}} }}
 | label2 = [[ngi-chin-chṳ]]
 | data2 = {{chin-vi | 2 | {{{1 | {{PAGENAME}} }}} }}
 | label3 = [[pat-chin-chṳ]]
