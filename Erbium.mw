@@ -1,4 +1,98 @@
-[[File:Er-TableImage.png|right|thumb|Erbium]]
+{{Infobox element
+|number=68
+|symbol=Er
+|name=erbium
+|left=[[holmium]]
+|right=[[thulium]]
+|above=–
+|below=[[fermium|Fm]]
+|series=lanthanum-hi
+|period=6
+|group=n/a
+|block=f
+|image name=Erbium-crop.jpg
+|appearance=silvery white
+|atomic mass=167.259
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=3
+|atomic mass comment=
+|electron configuration=&#91;[[xenon|Xe]]&#93; 4f<sup>12</sup> 6s<sup>2</sup>
+|electrons per shell=2, 8, 18, 30, 8, 2
+|phase=ku-thí
+|density gpcm3nrt=9.066
+|density gpcm3mp=8.86
+|melting point K=1802
+|melting point C=1529
+|melting point F=2784
+|boiling point K=3141
+|boiling point C=2868
+|boiling point F=5194
+|heat fusion=19.90
+|heat vaporization=280
+|heat capacity=28.12
+|vapor pressure 1=1504
+|vapor pressure 10=1663
+|vapor pressure 100=(1885)
+|vapor pressure 1 k=(2163)
+|vapor pressure 10 k=(2552)
+|vapor pressure 100 k=(3132)
+|vapor pressure comment=
+|crystal structure=hexagonal close packed
+|oxidation states='''3''', 2, 1
+|oxidation states comment=(a&nbsp;[[base (chemistry)|basic]] oxide)
+|electronegativity=1.24
+|number of ionization energies=3
+|ionization energy 1=589.3
+|ionization energy 2=1150
+|ionization energy 3=2194
+|atomic radius=176
+|covalent radius=189±6
+|magnetic ordering= [[paramagnetic]] at 300 K
+|electrical resistivity unit prefix=µ
+|electrical resistivity=poly: 0.860
+|electrical resistivity comment=({{abbr|r.t.|room temperature}})
+|thermal conductivity=14.5
+|thermal expansion=poly: 12.2
+|thermal expansion comment=({{abbr|r.t.|room temperature}})
+|speed of sound rod at 20=2830
+|Young's modulus=69.9
+|Shear modulus=28.3
+|Bulk modulus=44.4
+|Poisson ratio=0.237
+|Vickers hardness=430–700
+|Brinell hardness=600–1070
+|CAS number=7440-52-0
+|isotopes=
+{{infobox element/isotopes decay | mn=160 | sym=Er
+ | na=[[synthetic radioisotope|syn]] | hl=28.58&nbsp;h
+ | dm=[[electron capture|ε]] | de=0.330 | link1=holmium-160 | pn=160 | ps=Ho}}
+{{infobox element/isotopes decay2 | mn=162 | sym=Er | na=0.139% | hl=>1.4×10<sup>14</sup>&nbsp;y
+ | dm1=([[alpha decay|α]]) | de1=1.6460 | link1=dysprosium-158 | pn1=158 | ps1=Dy
+ | dm2= ([[double beta decay|β<sup>+</sup>β<sup>+</sup>]]) | de2=1.8445 | link2=dysprosium-162 | pn2=162 | ps2=Dy}}
+{{infobox element/isotopes decay2 | mn=164 | sym=Er | na=1.601% | hl=–
+ | dm1=(α) | de1=1.3041 | link1=dysprosium-160 | pn1=160 | ps1=Dy
+ | dm2= (β<sup>+</sup>β<sup>+</sup>) | de2=0.0241 | link2=dysprosium-164 | pn2=164 | ps2=Dy}}
+{{infobox element/isotopes decay | mn=165 | sym=Er
+ | na=syn | hl=10.36&nbsp;h
+ | dm=ε | de=0.376 | link1=holmium-165 | pn=165 | ps=Ho}}
+{{infobox element/isotopes decay | mn=166 | sym=Er | na=33.503% | hl=– | dm=(α) | de=0.8309 | pn=162 | ps=Dy }}
+{{infobox element/isotopes decay | mn=167 | sym=Er | na=22.869% | hl=– | dm=(α) | de=0.6657 | link1=dysprosium-163 | pn=163 | ps=Dy }}
+{{infobox element/isotopes decay| mn=168 | sym=Er | na=26.978% | hl=– | dm=(α) | de=0.5527 | pn=164 | ps=Dy }}
+{{infobox element/isotopes decay | mn=169 | sym=Er
+ | na=syn | hl=9.4&nbsp;d
+ | dm=[[beta emission|β<sup>−</sup>]] | de=0.351 | link1=thulium-169 | pn=169 | ps=Tm}}
+{{infobox element/isotopes decay2 | mn=170 | sym=Er | na=14.910% | hl=>3.2×10<sup>17</sup>&nbsp;y | dm1=(α) | de1=0.0502 | link1=dysprosium-166 | pn1=166 | ps1=Dy | dm2=([[double beta decay|β<sup>−</sup>β<sup>−</sup>]]) | de2=0.6536 | link2=ytterbium-170 | pn2=170 | ps2=Yb}}
+{{infobox element/isotopes decay | mn=171 | sym=Er
+ | na=syn | hl=7.516&nbsp;h
+ | dm=β<sup>−</sup> | de=1.490 | link1=thulium-171 | pn=171 | ps=Tm}}
+{{infobox element/isotopes decay | mn=172 | sym=Er
+ | na=syn | hl=49.3&nbsp;h
+ | dm=β<sup>−</sup> | de=0.891 | link1=thulium-172 | pn=172 | ps=Tm}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|naming=after [[Ytterby]] (Sweden), where it was mined
+|discovered by=[[Carl Gustaf Mosander]]
+|discovery date=1842
+}}
 '''Erbium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Er''', ngièn-chṳ́ su-muk he '''68'''.
 
 {{Ngièn-su chû-khì-péu}}
