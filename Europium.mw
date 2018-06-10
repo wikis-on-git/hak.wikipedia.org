@@ -1,5 +1,88 @@
-[[File:Eu-TableImage.png|right|thumb|Europium]]
-[[File:Hochreines oxidfreies Europiummetall.JPG|right|thumb|250px|Europium]]
+{{Infobox element
+|number=63
+|symbol=Eu
+|name=europium
+|left=[[samarium]]
+|right=[[gadolinium]]
+|above=–
+|below=[[americium|Am]]
+|series=lanthanum-hi
+|period=6
+|group=n/a
+|block=f
+|image name=Europium.jpg
+|appearance=silvery white, with a pale yellow tint;<ref>{{Greenwood&Earnshaw|page=112}}</ref> but rarely seen without oxide discoloration
+|atomic mass=151.964
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=1
+|atomic mass comment=
+|electron configuration=&#91;[[xenon|Xe]]&#93; 4f<sup>7</sup> 6s<sup>2</sup>
+|electrons per shell=2, 8, 18, 25, 8, 2
+|phase=ku-thí
+|density gpcm3nrt=5.264
+|density gpcm3mp=5.13
+|melting point K=1099
+|melting point C=826
+|melting point F=1519
+|boiling point K=1802
+|boiling point C=1529
+|boiling point F=2784
+|heat fusion=9.21
+|heat vaporization=176
+|heat capacity=27.66
+|vapor pressure 1=863
+|vapor pressure 10=957
+|vapor pressure 100=1072
+|vapor pressure 1 k=1234
+|vapor pressure 10 k=1452
+|vapor pressure 100 k=1796
+|vapor pressure comment=
+|crystal structure=body-centered cubic
+|oxidation states='''3''', '''2''', 1
+|oxidation states comment=(a&nbsp;mildly [[base (chemistry)|basic]] oxide)
+|electronegativity=1.2
+|electronegativity comment=
+|number of ionization energies=3
+|ionization energy 1=547.1
+|ionization energy 2=1085
+|ionization energy 3=2404
+|atomic radius=180
+|covalent radius=198±6
+|magnetic ordering=[[paramagnetic]]
+|magnetic ordering ref=<ref name=magnet>{{cite book |url=http://web.archive.org/web/20110303222309/http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf|chapter=Magnetic susceptibility of the elements and inorganic compounds| editor = Lide, D. R. | title = CRC Handbook of Chemistry and Physics | edition = 86th | location = Boca Raton (FL) | publisher = CRC Press | year = 2005 | isbn = 0-8493-0486-5 }}
+</ref>
+|electrical resistivity unit prefix=µ
+|electrical resistivity=poly: 0.900
+|electrical resistivity comment=(at {{abbr|r.t.|room temperature}})
+|thermal conductivity=est. 13.9
+|thermal expansion=poly: 35.0
+|thermal expansion comment=(at {{abbr|r.t.|room temperature}})
+|Young's modulus=18.2
+|Shear modulus=7.9
+|Bulk modulus=8.3
+|Poisson ratio=0.152
+|Vickers hardness=165–200
+|CAS number=7440-53-1
+|isotopes=
+{{infobox element/isotopes decay | mn=150 | sym=Eu
+ | na=[[synthetic radioisotope|syn]] | hl=[[1 E s|36.9&nbsp;y]]
+ | dm=[[electron capture|ε]] | de=2.261 | link1=samarium-150 | pn=150 | ps=Sm}}
+{{infobox element/isotopes decay | mn=151 | sym=Eu
+ | na=47.8% | hl=5×10<sup>18</sup>&nbsp;y
+ | dm=[[alpha emission|α]] | de=1.9644 | link1=promethium-147 | pn=147 | ps=Pm}}
+{{infobox element/isotopes decay2 | mn=152 | sym=Eu
+ | na=syn | hl=[[1 E s|13.54&nbsp;y]]
+ | dm1=ε | de1=1.874 | link1=samarium-152 | pn1=152 | ps1=Sm
+ | dm2=[[Beta minus decay|β<sup>−</sup>]] | de2=1.819 | link2=gadolinium-152 | pn2=152 | ps2=Gd}}
+{{infobox element/isotopes decay | mn=153 | sym=Eu | na=52.2% | hl=– | dm=(α) | de=0.2736 | link1=promethium-149 | pn=149 | ps=Pm }}
+{{infobox element/isotopes decay | mn=154 | sym=Eu | na=syn | hl=8.59&nbsp;y | dm=β<sup>−</sup> |de=1.969 |link1=gadolinium-154 | pn=154 | ps=Gd }}
+{{infobox element/isotopes decay | mn=155 | sym=Eu | na=syn | hl=4.76&nbsp;y | dm=β<sup>−</sup> |de=0.253 |link1=gadolinium-155 | pn=155 | ps=Gd }}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|naming=after [[Europe]]
+|discovery and first isolation by=[[Eugène-Anatole Demarçay]]
+|discovery date=1896
+|first isolation date=1901
+}}
 '''Europium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Eu''', ngièn-chṳ́ su-muk he '''63'''.
 
 {{Ngièn-su chû-khì-péu}}
