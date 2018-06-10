@@ -1,5 +1,91 @@
-[[File:Cf-TableImage.png|right|thumb|Californium.]]
-[[File:Californium.jpg|right|thumb|250px|Californium.]]
+{{infobox element
+|number=98
+|symbol=Cf
+|name=californium
+|left=[[berkelium]]
+|right=[[einsteinium]]
+|above=[[dysprosium|Dy]]
+|below=(Upn)
+|series=actinium-hi
+|period=7
+|block=f
+|group=n/a
+|appearance=silvery
+|image name=Californium.jpg
+|image alt=A very small disc of silvery metal, magnified to show its metallic texture
+|image size=
+|atomic mass=(251)
+|atomic mass ref={{sfn|CRC|2006|p=4.56}}
+|electron configuration=&#91;[[radon|Rn]]&#93; 5f<sup>10</sup> 7s<sup>2</sup>
+|electron configuration ref={{sfn|CRC|2006|p=1.14}}
+|electrons per shell=2, 8, 18, 32, 28, 8, 2
+|phase=ku-thí
+|Mohs hardness=3–4
+|Mohs hardness ref={{sfn|CRC|1991|p=254}}
+|density gpcm3nrt=15.1
+|density gpcm3nrt ref={{sfn|CRC|2006|p=4.56}}<!-- {{sfn|O'Neil|2006|p=276}} - why cmt out? 07-2014-->
+|melting point K=1173<!-- {{sfn|Greenwood|Earnshaw|1997|p=1263}} -->
+|melting point C=900
+|melting point ref={{sfn|CRC|2006|p=4.56}}
+|melting point F=1652
+|boiling point K=1743
+|boiling point comment=''(estimation)''<ref>{{cite book|author1=Joseph Jacob Katz|author2=Glenn Theodore Seaborg|author3=Lester R. Morss|title=The Chemistry of the actinide elements|url=http://books.google.com/books?id=UuPvAAAAMAAJ|accessdate=11 July 2011|year=1986|publisher=Chapman and Hall|isbn=9780412273704|page=1038}}</ref>
+|boiling point C=1470
+|boiling point F=2678
+|crystal structure=double hexagonal close packed
+|crystal structure ref=
+|crystal structure comment=
+|oxidation states=2, '''3''', 4
+|oxidation states ref={{sfn|Greenwood|Earnshaw|1997|p=1265}}
+|electronegativity=1.3
+|electronegativity ref={{sfn|Emsley|1998|p=50}}
+|number of ionization energies=1
+|ionization energy 1=608
+|ionization energy 1 ref={{sfn|CRC|2006|p=10.204}}
+|CAS number=7440-71-3
+|CAS number ref={{sfn|CRC|2006|p=4.56}}
+|isotopes=
+{{infobox element/isotopes decay2 | mn=248 | sym=Cf
+ | na=[[synthetic radioisotope|syn]] | hl=333.5&nbsp;d
+ | dm1=[[alpha emission|α]] (100%) | de1=6.369 | link1=curium-244 | pn1=244 | ps1=Cm
+ | dm2=[[spontaneous fission|SF]]&nbsp;(2.9×10<sup>−3</sup>%) | de2=0.0029 | pn2= | ps2=–}}
+{{infobox element/isotopes decay2 | mn=249 | sym=Cf
+ | na=syn | hl=351&nbsp;y
+ | dm1=α (100%)| de1=6.295 | link1=curium-245 | pn1=245 | ps1=Cm
+ | dm2=SF&nbsp;(5.0×10<sup>−7</sup>%)| de2=4.4×10<sup>−7</sup> | pn2= | ps2=–}}
+{{infobox element/isotopes decay2 | mn=250 | sym=Cf
+ | na=syn | hl=13.08&nbsp;y
+ | dm1=α (99.92%)| de1=6.129 | link1=curium-246 | pn1=246 | ps1=Cm
+ | dm2=SF (0.08%)| de2=0.077 | pn2= | ps2=–}}
+{{infobox element/isotopes decay | mn=251 | sym=Cf
+ | na=syn | hl=898&nbsp;y
+ | dm=α | de=6.172 | link1=curium-247 | pn=247 | ps=Cm}}
+{{infobox element/isotopes decay2 | mn=252 | sym=Cf
+ | na=syn | hl=2.645&nbsp;y
+ | dm1=α (96.91%)| de1=6.217 | link1=curium-248 | pn1=248 | ps1=Cm
+ | dm2=SF (3.09%)| de2=– | pn2= | ps2=–}}
+{{infobox element/isotopes decay2 | mn=253 | sym=Cf
+ | na=syn | hl=17.81&nbsp;d
+ | dm1=[[beta emission|β<sup>−</sup>]] (99.69%) | de1=0.29 | link1=einsteinium-253 | pn1=253 | ps1=Es
+ | dm2=α (0.31%)| de2=6.126 | link2=curium-249 | pn2=249 | ps2=Cm}}
+{{infobox element/isotopes decay2 | mn=254 | sym=Cf
+ | na=syn | hl=60.5&nbsp;d
+ | dm1=SF (99.69%) | de1=– | pn1= | ps1=–
+ | dm2=α (0.31%) | de2=5.930 | link2=curium-250 | pn2=250 | ps2=Cm}}
+
+|isotopes ref={{sfn|CRC|2006|p=11.196}}<ref name="NNDC2008">{{cite web
+| url = http://www.nndc.bnl.gov/chart/
+| author = NNDC contributors
+| editor = Sonzogni, Alejandro A. (Database Manager)
+| title = Chart of Nuclides
+| publisher = National Nuclear Data Center, Brookhaven National Laboratory
+| accessdate = 1 March 2010
+| date = 2008}}</ref>
+
+ |naming=after [[California]], where it was discovered
+ |discovered by=[[Lawrence Berkeley National Laboratory]]
+ |discovery date=1950
+}}
 '''Californium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Cf''', ngièn-chṳ́ su-muk he '''98'''.
 
 {{Ngièn-su chû-khì-péu}}
