@@ -1,4 +1,93 @@
-[[File:Mo-TableImage.png|right|thumb|Molybdenum]]
+{{Infobox element
+|number=42
+|symbol=Mo
+|name=molybdenum
+|left=[[niobium]]
+|right=[[technetium]]
+|above=[[chromium|Cr]]
+|below=[[wolfram|W]]
+|series=ko-thu kîm-su̍k
+|group=6
+|period=5
+|block=d
+|image name=Molybdenum_crystaline_fragment_and_1cm3_cube.jpg
+|appearance=gray metallic
+|atomic mass=95.95
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=1
+|atomic mass comment=
+|electron configuration=&#91;[[krypton|Kr]]&#93; 4d<sup>5</sup> 5s<sup>1</sup>
+|electrons per shell=2, 8, 18, 13, 1
+|phase=ku-thí
+|density gpcm3nrt=10.28
+|density gpcm3mp=9.33
+|melting point K=2896
+|melting point C=2623
+|melting point F=4753
+|boiling point K=4912
+|boiling point C=4639
+|boiling point F=8382
+|heat fusion=37.48
+|heat vaporization=598
+|heat capacity=24.06
+|vapor pressure 1=2742
+|vapor pressure 10=2994
+|vapor pressure 100=3312
+|vapor pressure 1 k=3707
+|vapor pressure 10 k=4212
+|vapor pressure 100 k=4879
+|vapor pressure comment=
+|crystal structure=body-centered cubic
+|oxidation states='''6''', 5, '''4''', 3, 2, 1,<ref>{{cite web|url=http://openmopac.net/data_normal/molybdenum(i)%20fluoride_jmol.html|title=Molybdenum: molybdenum(I) fluoride compound data|accessdate=2007-12-10|publisher=OpenMOPAC.net}}</ref> −1, −2, −4
+|oxidation states comment=(a&nbsp;strongly [[acid]]ic oxide)
+|electronegativity=2.16
+|number of ionization energies=3
+|ionization energy 1=684.3
+|ionization energy 2=1560
+|ionization energy 3=2618
+|atomic radius=139
+|covalent radius=154±5
+|magnetic ordering=[[paramagnetic]]
+|magnetic ordering ref=<ref>{{cite book |url=http://web.archive.org/web/20110303222309/http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf|chapter=Magnetic susceptibility of the elements and inorganic compounds| editor = Lide, D. R. | title = CRC Handbook of Chemistry and Physics | edition = 86th | location = Boca Raton (FL) | publisher = CRC Press | year = 2005 | isbn = 0-8493-0486-5 }}
+</ref>
+|electrical resistivity unit prefix=n
+|electrical resistivity at 20=53.4
+|thermal conductivity=138
+|thermal diffusivity=54.3
+|thermal diffusivity ref=<ref>{{cite book|publisher=17th [[PLANSEE|Plansee]] Seminar |title=Measurement of the Thermophysical Properties of Pure Molybdenum | author=Lindemann, A. |author2=Blumm, J. | year=2009 |volume=3 }}</ref>
+|thermal expansion at 25=4.8
+|speed of sound rod at r.t.=5400
+|Young's modulus=329
+|Shear modulus=126
+|Bulk modulus=230
+|Poisson ratio=0.31
+|Mohs hardness=5.5
+|Vickers hardness=1400–2740
+|Brinell hardness=1370–2500
+|CAS number=7439-98-7
+|isotopes=
+{{infobox element/isotopes decay | mn=92 | sym=Mo | na=14.84% | hl=>1.9×10<sup>20</sup>&nbsp;y | dm=([[double beta decay|β<sup>+</sup>β<sup>+</sup>]]) | de=1.6491 | link1=zirconium-92 | pn=92 | ps=Zr}}
+{{infobox element/isotopes decay | mn=93 | sym=Mo
+ | na=[[synthetic radioisotope|syn]] | hl=4&times;10<sup>3</sup>&nbsp;y
+ | dm=[[electron capture|ε]] | de=– | link1=niobium-93 | pn=93 | ps=Nb}}
+{{infobox element/isotopes decay | mn=94 | sym=Mo | na=9.25% | hl=– | dm=([[spontaneous fission|SF]]) | de=<4.485 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=95 | sym=Mo | na=15.92% | hl=– | dm=(SF) | de=<4.531 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=96 | sym=Mo | na=16.68% | hl=– | dm=(SF) | de=<5.771 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=97 | sym=Mo | na=9.55% | hl=– | dm=(SF) | de=<6.226 | pn= | ps= }}
+{{infobox element/isotopes decay | mn=98 | sym=Mo | na=24.13% | hl=>1×10<sup>14</sup>&nbsp;y | dm=([[double beta decay|β<sup>−</sup>β<sup>−</sup>]]) | de=0.1125 | link1=ruthenium-98 | pn=98 | ps=Ru}}
+{{infobox element/isotopes decay2 | mn=99 | sym=Mo
+ | na=syn | hl=65.94&nbsp;h
+ | dm1=[[beta emission|β<sup>−</sup>]] | de1=0.436, 1.214 | link1=technetium-99#technetium-99m | pn1=99m | ps1=Tc
+ | dm2=[[gamma ray|γ]] | de2=0.74, 0.36,<br/>0.14| pn2= | ps2=–}}
+{{infobox element/isotopes decay | mn=100 | sym=Mo
+ | na=9.63% | hl=7.8&times;10<sup>18</sup>&nbsp;y
+ | dm=β<sup>−</sup>β<sup>−</sup> | de=3.04 | link1=ruthenium-100 | pn=100 | ps=Ru}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|discovered by=[[Carl Wilhelm Scheele]]
+|discovery date=1778
+|first isolation by=[[Peter Jacob Hjelm]]
+|first isolation date=1781
+}}
 '''Molybdenum''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Mo''', ngièn-chṳ́ su-muk he '''42'''.
 
 {{Template:Ngièn-su Tsû-khì-péu}}
