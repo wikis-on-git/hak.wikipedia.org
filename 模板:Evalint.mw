@@ -1,0 +1,6 @@
+<includeonly>{{ {{{|safesubst:}}}#ifexpr: 1000000000000 <= ({{{1}}}) and ({{{1}}}) < 1000000000000000000000000
+|{{ {{{|safesubst:}}}#expr: ({{{1}}}) / 1000000000000 mod 1000000000000}}{{
+ {{{|safesubst:}}}padleft:{{ {{{|safesubst:}}}#expr: ({{{1}}}) mod 1000000000000}}|12|0}}
+|{{ {{{|safesubst:}}}#expr: {{{1}}} }} }}</includeonly><noinclude>
+{{Documentation}}
+</noinclude>
