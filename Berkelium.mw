@@ -1,5 +1,111 @@
-[[File:Bk-TableImage.png|right|thumb|Berkelium.]]
-[[File:Closest packing ABAC.png|right|thumb|250px|Berkelium.]]
+{{infobox element
+|name=berkelium
+|number=97
+|symbol=Bk
+|left=[[curium]]
+|right=[[californium]]
+|above=[[Terbium|Tb]]
+|below=(Uqe)
+|series=actinium-hi
+|series comment=
+|group=n/a
+|period=7
+|block=f
+|series color=
+|appearance=silvery
+|image name=Berkelium metal.jpg
+|image name comment=
+|image name 2=
+|image name 2 comment=
+|atomic mass=(247)
+|atomic mass 2=
+|atomic mass comment=
+|electron configuration=&#91;[[radon|Rn]]&#93; 5f<sup>9</sup> 7s<sup>2</sup>
+|electrons per shell=2, 8, 18, 32, 27, 8, 2
+|color=
+|phase=ku-thí
+|phase comment=
+|density gplstp=
+|density gpcm3nrt=alpha: 14.78
+|density gpcm3nrt 2=beta: 13.25
+|density gpcm3mp=
+|melting point K=beta:&nbsp;1259
+|melting point C=986
+|melting point F=1807
+|melting point comment=
+|boiling point K=beta:&nbsp;2900
+|boiling point C=2627
+|boiling point F=4760
+|boiling point comment=
+|triple point K=
+|triple point kPa=
+|critical point K=
+|critical point MPa=
+|heat fusion=7.92
+|heat fusion comment=(calculated)
+|heat vaporization=
+|heat capacity=
+|vapor pressure 1=
+|vapor pressure 10=
+|vapor pressure 100=
+|vapor pressure 1 k=
+|vapor pressure 10 k=
+|vapor pressure 100 k=
+|vapor pressure comment=
+|crystal structure=double hexagonal close packed
+|oxidation states=2, '''3''', 4
+|oxidation states comment=
+|electronegativity=1.3
+|number of ionization energies=1
+|ionization energy 1=601
+|atomic radius=170
+|covalent radius=
+|Van der Waals radius=
+|magnetic ordering=[[paramagnetic]]
+|electrical resistivity=
+|electrical resistivity at 0=
+|electrical resistivity at 20=
+|thermal conductivity=10
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=
+|speed of sound=
+|speed of sound rod at 20=
+|speed of sound rod at r.t.=
+|Young's modulus=
+|Shear modulus=
+|Bulk modulus=
+|Poisson ratio=
+|Mohs hardness=
+|Vickers hardness=
+|Brinell hardness=
+|CAS number=7440-40-6
+|isotopes=
+{{infobox element/isotopes decay2 | mn=245 | sym=Bk
+ | na=[[synthetic radioisotope|syn]] | hl=[[1 E5 s|4.94&nbsp;d]]
+ | dm1=[[electron capture|ε]] | de1=0.810 | link1=curium-245 | pn1=245 | ps1=Cm
+ | dm2=[[alpha emission|α]] | de2=6.455 | link2=americium-241 | pn2=241 | ps2=Am}}
+{{infobox element/isotopes decay2 | mn=246 | sym=Bk
+ | na=syn | hl=1.8&nbsp;d
+ | dm1=α | de1=6.070 | link1=americium-242 | pn1=242 | ps1=Am
+ | dm2=ε | de2=1.350 | link2=curium-246 | pn2=246 | ps2=Cm}}
+{{infobox element/isotopes decay | mn=247 | sym=Bk
+ | na=syn | hl=[[1 E10 s|1380&nbsp;y]]
+ | dm=α | de=5.889 | link1=americium-243 | pn=243 | ps=Am}}
+{{infobox element/isotopes decay | mn=248 | sym=Bk
+ | na=syn | hl=[[1 E9 s|>300&nbsp;y]]<ref>{{Cite journal | last1 = Milsted | first1 = J. | last2 = Friedman | first2 = A. M. | last3 = Stevens | first3 = C. M. | doi = 10.1016/0029-5582(65)90719-4 | title = The alpha half-life of berkelium-247; a new long-lived isomer of berkelium-248 | journal = Nuclear Physics | volume = 71 | issue = 2 | pages = 299 | year = 1965 | pmid =  | pmc = }}</ref>
+ | dm=α | de=5.803 | link1=americium-244 | pn=244 | ps=Am}}
+{{infobox element/isotopes decay3| mn=249 | sym=Bk
+ | na=syn | hl=[[1 E7 s|330&nbsp;d]]
+ | dm1=α | de1=5.526 | link1=americium-245 | pn1=245 | ps1=Am
+ | dm2=[[spontaneous fission|SF]] | de2=– | pn2= | ps2=–
+ | dm3=[[beta emission|β<sup>−</sup>]] | de3=0.125 | link3=californium-249 | pn3=249 | ps3=Cf}}
+|isotopes comment=
+|naming=after [[Berkeley, California]], where it was discovered
+|discovered by=[[Lawrence Berkeley National Laboratory]]
+|discovery date=1949
+}}
 '''Berkelium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Bk''', ngièn-chṳ́ su-muk he '''97'''.
 
 {{Ngièn-su chû-khì-péu}}
