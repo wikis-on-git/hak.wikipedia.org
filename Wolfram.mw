@@ -1,4 +1,96 @@
-[[File:W-TableImage.png|right|thumb|Wolfram]]
+{{Infobox element
+|number=74
+|symbol=W
+|name=wolfram
+|alt name=tungsten
+|left=[[tantalum]]
+|right=[[rhenium]]
+|above=[[molybdenum|Mo]]
+|below=[[seaborgium|Sg]]
+|series=ko-thu kîm-su̍k
+|group=6
+|period=6
+|block=d
+|image name=Wolfram_evaporated_crystals_and_1cm3_cube.jpg
+|appearance=grayish white, lustrous
+|atomic mass=183.84
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=1
+|atomic mass comment=
+|electron configuration=&#91;[[xenon|Xe]]&#93; 4f<sup>14</sup> 5d<sup>4</sup> 6s<sup>2</sup><ref>{{citeweb|url=http://www.madsci.org/posts/archives/2000-02/951518136.Ch.r.html|title=Why does Tungsten not 'Kick' up an electron from the s sublevel ?|author= Berger, Dan |publisher=Bluffton College, USA}}</ref>
+|electrons per shell=2, 8, 18, 32, 12, 2
+|phase=ku-thí
+|density gpcm3nrt=19.25
+|density gpcm3mp=17.6
+|melting point K=3695
+|melting point C=3422
+|melting point F=6192
+|boiling point K=6203
+|boiling point C=5930
+|boiling point F=10,706
+|critical point K=13,892
+|critical point MPa=
+|heat fusion=35.3
+|heat vaporization=774
+|heat capacity=24.27
+|vapor pressure 1=3477
+|vapor pressure 10=3773
+|vapor pressure 100=4137
+|vapor pressure 1 k=4579
+|vapor pressure 10 k=5127
+|vapor pressure 100 k=5823
+|vapor pressure comment=
+|crystal structure=body-centered cubic
+|oxidation states='''6''', 5, '''4''', 3, 2, 1, 0, −1, −2, −4
+|oxidation states comment=(a&nbsp;mildly [[acid]]ic oxide)
+|electronegativity=2.36
+|number of ionization energies=2
+|ionization energy 1=770
+|ionization energy 2=1700
+|atomic radius=139
+|covalent radius=162±7
+|magnetic ordering=[[paramagnetic]]
+|magnetic ordering ref=<ref>{{cite book |url=http://web.archive.org/web/20110303222309/http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf|chapter=Magnetic susceptibility of the elements and inorganic compounds| editor = Lide, D. R. | title = CRC Handbook of Chemistry and Physics | edition = 86th | location = Boca Raton (FL) | publisher = CRC Press | year = 2005 | isbn = 0-8493-0486-5 }}
+</ref>
+|electrical resistivity unit prefix=n
+|electrical resistivity at 20=52.8
+|thermal conductivity=173
+|thermal expansion at 25=4.5
+|speed of sound rod at r.t.=4620
+|speed of sound rod at r.t. comment=(annealed)
+|Young's modulus=411
+|Shear modulus=161
+|Bulk modulus=310
+|Poisson ratio=0.28
+|Mohs hardness=7.5
+|Vickers hardness=3430–4600
+|Brinell hardness=2000–4000
+|CAS number=7440-33-7
+|isotopes=
+{{infobox element/isotopes decay | mn=180 | sym=W
+ | na=0.12% | hl=[[1 E19 s and more|1.8&times;10<sup>18</sup>&nbsp;y]]
+ | dm=[[alpha decay|α]] | de=2.516 | link1=hafnium-176 | pn=176 | ps=Hf}}
+{{infobox element/isotopes decay | mn=181 | sym=W
+ | na=[[synthetic radioisotope|syn]] | hl=121.2&nbsp;d
+ | dm=[[electron capture|ε]] | de=0.188 | link1=tantalum-181 | pn=181 | ps=Ta}}
+{{infobox element/isotopes decay | mn=182 | sym=W | na=26.50% | hl=>1.7×10<sup>20</sup>&nbsp;y | dm=(α) | de=1.772 | link1=hafnium-178 | pn=178 | ps=Hf}}
+{{infobox element/isotopes decay | mn=183 | sym=W | na=14.31% | hl=>8×10<sup>19</sup>&nbsp;y
+ | dm=(α) | de=1.680 | link1=hafnium-179 | pn=179 | ps=Hf}}
+{{infobox element/isotopes decay | mn=184 | sym=W | na=30.64% | hl=>1.8×10<sup>20</sup>&nbsp;y
+ | dm=(α) | de=1.123 | link1=hafnium-180 | pn=180 | ps=Hf}}
+{{infobox element/isotopes decay | mn=185 | sym=W
+ | na=syn | hl=75.1&nbsp;d
+ | dm=[[beta emission|β<sup>−</sup>]] | de=0.433 | link1=rhenium-185 | pn=185 | ps=Re}}
+{{infobox element/isotopes decay2 | mn=186 | sym=W | na=28.43% | hl=>4.1×10<sup>18</sup>&nbsp;y
+ | dm1=(α) | de1=1.656 | link1=hafnium-182 | pn1=182 | ps1=Hf
+ | dm2=([[double beta decay|β<sup>−</sup>β<sup>−</sup>]]) | de2=– | link2=osmium-186 | pn2=186 | ps2=Os}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|naming=from German {{lang|ger|''wolfram''}}
+|discovered by=[[Carl Wilhelm Scheele]]
+|discovery date=1781
+|first isolation by=[[Juan José Elhuyar]] and [[Fausto Elhuyar]]
+|first isolation date=1783
+}}
 '''Wolfram''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''W''', ngièn-chṳ́ su-muk he '''74'''.
 
 {{Ngièn-su chû-khì-péu}}
