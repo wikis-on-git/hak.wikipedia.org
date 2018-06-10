@@ -1,4 +1,95 @@
-[[File:Y-TableImage.png|right|thumb|Yttrium]]
+{{infobox element
+|number=39
+|symbol=Y
+|name=yttrium
+|left=[[strontium]]
+|right=[[zirconium]]
+|above=[[scandium|Sc]]
+|below=[[lutetium|Lu]]
+|series=ko-thu kîm-su̍k
+|group=3
+|period=5
+|block=d
+|image name=Yttrium_sublimed_dendritic_and_1cm3_cube.jpg
+|image name comment=
+|appearance=silvery white
+|atomic mass=88.90584
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=2
+|atomic mass comment=
+|electron configuration=&#91;[[krypton|Kr]]&#93; 4d<sup>1</sup> 5s<sup>2</sup>
+|electrons per shell=2, 8, 18, 9, 2
+|phase=ku-thí
+|phase comment=
+|density gpcm3nrt=4.472
+|density gpcm3mp=4.24
+|melting point K=1799
+|melting point C=1526
+|melting point F=2779
+|boiling point K=3203
+|boiling point C=2930
+|boiling point F=5306
+|heat fusion=11.42
+|heat vaporization=363
+|heat capacity=26.53
+|vapor pressure 1=1883
+|vapor pressure 10=2075
+|vapor pressure 100= (2320)
+|vapor pressure 1 k= (2627)
+|vapor pressure 10 k= (3036)
+|vapor pressure 100 k= (3607)
+|vapor pressure comment=
+|crystal structure=hexagonal close packed
+|oxidation states='''3''', 2, 1
+|oxidation states comment=(a weakly basic oxide)
+|electronegativity=1.22
+|number of ionization energies=3
+|ionization energy 1=600
+|ionization energy 2=1180
+|ionization energy 3=1980
+|atomic radius=180
+|covalent radius=190±7
+|magnetic ordering=[[paramagnetic]]
+|magnetic ordering ref=<ref name=magnet>{{cite book |url=http://web.archive.org/web/20110303222309/http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf|chapter=Magnetic susceptibility of the elements and inorganic compounds| editor = Lide, D. R. | title = CRC Handbook of Chemistry and Physics | edition = 86th | location = Boca Raton (FL) | publisher = CRC Press | year = 2005 | isbn = 0-8493-0486-5 }}
+</ref>
+|electrical resistivity=α, poly: 596
+|electrical resistivity unit prefix=n
+|electrical resistivity comment=(at {{abbr|r.t.|room temperature}}) 
+|thermal conductivity=17.2
+|thermal expansion=α, poly: 10.6
+|thermal expansion comment=(at {{abbr|r.t.|room temperature}}) 
+|speed of sound rod at 20=3300
+|Young's modulus=63.5
+|Shear modulus=25.6
+|Bulk modulus=41.2
+|Poisson ratio=0.243
+|Brinell hardness=200–589
+|CAS number=7440-65-5
+|isotopes=
+{{infobox element/isotopes decay2 | mn=87 | sym=Y
+ | na=[[synthetic radioisotope|syn]] | hl=3.35&nbsp;d
+ | dm1=[[electron capture|ε]] | de1=– | link1=strontium-87 | pn1=87 | ps1=Sr
+ | dm2=[[gamma radiation|γ]] | de2=0.48, 0.38[[delayed nuclear radiation|D]] | pn2= | ps2=–}}
+{{infobox element/isotopes decay2 | mn=88 | sym=Y
+ | na=syn | hl=106.6&nbsp;d
+ | dm1=ε | de1=– | link1=strontium-88 | pn1=88 | ps1=Sr
+ | dm2=γ | de2=1.83, 0.89 | pn2= | ps2=–}}
+{{Infobox element/isotopes stable | mn=89 | sym=Y | na=100% | n=50 |firstlinks=yes}}
+{{infobox element/isotopes decay2 | mn=90 | sym=Y
+ | na=syn | hl=2.67&nbsp;d
+ | dm1=[[beta decay|β<sup>−</sup>]] | de1=2.28 | link1=zirconium-90 | pn1=90 | ps1=Zr
+ | dm2=γ | de2=2.18 | pn2= | ps2=–}}
+{{infobox element/isotopes decay2 | mn=91 | sym=Y
+ | na=syn | hl=58.5&nbsp;d
+ | dm1=β<sup>−</sup> | de1=1.54 | link1=zirconium-91 | pn1=91 | ps1=Zr
+ | dm2=γ | de2=1.20 | pn2= | ps2=–}}
+|isotopes comment=
+|naming=after [[Ytterby]], Sweden and its mineral [[ytterbite]]&nbsp;(gadolinite)
+|discovered by=[[Johan Gadolin]]
+|discovery date=1794
+|first isolation by=[[Carl Gustav Mosander]]
+|first isolation date=1840
+}}
 '''Yttrium''' he yit-chúng [[fa-ho̍k]] [[ngièn-su]], fa-ho̍k fù-ho vì '''Y''', ngièn-chṳ́ su-muk he '''39'''.
 
 {{Template:Ngièn-su Tsû-khì-péu}}
