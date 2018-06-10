@@ -1,4 +1,51 @@
-[[File:Ds-TableImage.png|right|thumb|Darmstadtium]]
+{{Infobox element
+|number=110
+|symbol=Ds
+|name=darmstadtium
+|left=[[meitnerium]]
+|right=[[roentgenium]]
+|above=[[platinum|Pt]]
+|below=(Uhb)
+|series=hàn-màng khok-thin
+|series comment=but probably a [[transition metal]]
+|group=10
+|period=7
+|block=d
+|appearance=
+|atomic mass=[281]
+|electron configuration=&#91;[[radon|Rn]]&#93; 5f<sup>14</sup> 6d<sup>8</sup> 7s<sup>2</sup><br/>''(predicted)''<ref name=Haire>{{cite book| title=The Chemistry of the Actinide and Transactinide Elements| editor1-last=Morss|editor2-first=Norman M.| editor2-last=Edelstein| editor3-last=Fuger|editor3-first=Jean| last1=Hoffman|first1=Darleane C.| last2=Lee|first2=Diana M. |last3=Pershina|first3=Valeria | chapter=Transactinides and the future elements| publisher= [[Springer Science+Business Media]]| year=2006| page= | isbn=1-4020-3555-1| location=Dordrecht, The Netherlands| edition=3rd| ref=CITEREFHaire2006}}</ref>
+|electrons per shell=2, 8, 18, 32, 32, 16, 2
+|electrons per shell comment=''(predicted)''<ref name=Haire/>
+|phase=ku-thí
+|phase comment=''(predicted)''<ref name=bcc/>
+|density gpcm3nrt=34.8
+|density gpcm3nrt comment=''(predicted)''<ref name=Haire/>
+|crystal structure=body-centered cubic
+|crystal structure comment=''(predicted)''<ref name=bcc>{{cite journal|doi=10.1103/PhysRevB.84.113104|title=First-principles calculation of the structural stability of 6d transition metals|year=2011|last1=Östlin|first1=A.|last2=Vitos|first2=L.|journal=Physical Review B|volume=84|issue=11|bibcode=2011PhRvB..84k3104O }}</ref>
+|oxidation states='''8''', 6, 4, '''2''', '''0'''
+|oxidation states comment=''(predicted)''<ref name=Haire/><ref name=BFricke/>
+|number of ionization energies=5
+|ionization energy 1=955.2
+|ionization energy 2=1891.1
+|ionization energy 3=3029.6
+|ionization energy comment=''(all estimated)''<ref name=Haire/>
+|atomic radius=132
+|atomic radius comment=''(predicted)''<ref name=Haire/><ref name=BFricke>{{cite journal |last1=Fricke |first1=Burkhard |year=1975 |title=Superheavy elements: a prediction of their chemical and physical properties |journal=Recent Impact of Physics on Inorganic Chemistry |volume=21 |pages=89–144 |doi=10.1007/BFb0116498 |url=http://www.researchgate.net/publication/225672062_Superheavy_elements_a_prediction_of_their_chemical_and_physical_properties |accessdate=4 October 2013}}</ref>
+|covalent radius=128
+|covalent radius comment=''(estimated)''<ref name=rsc>[http://www.rsc.org/chemsoc/visualelements/pages/data/darmstadtium_data.html Chemical Data. Darmstadtium - Ds], Royal Chemical Society</ref>
+|CAS number=54083-77-1
+|isotopes=
+{{infobox element/isotopes decay2 | mn=281 | sym=Ds | na=[[synthetic radioisotope|syn]] | hl=11&nbsp;s | dm1=94% [[spontaneous fission|SF]]
+ | de1= | pn1= | ps1= | dm2=6% [[alpha decay|α]]
+ | de2=8.67 | link2=hassium-277 | pn2=277 | ps2=Hs}}
+{{infobox element/isotopes decay | mn=281m | sym=Ds ?| na=syn | hl=3.7&nbsp;min | dm=α | de=8.77 | pn=277m | ps=Hs ?}}
+{{infobox element/isotopes decay2 | mn=279| sym=Ds | na=syn | hl=0.20&nbsp;s |
+ dm1=10% α | de1=9.70 | link1=hassium-275 | pn1=275 | ps1=Hs
+ | dm2=90% SF | de2= | pn2= | ps2=}}
+|naming=after [[Darmstadt]], Germany, where it was discovered
+|discovered by=[[Gesellschaft für Schwerionenforschung]]
+|discovery date=1994
+}}
 '''Darmstadtium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Ds''', ngièn-chṳ́ su-muk he '''110'''.
 
 {{Ngièn-su chû-khì-péu}}
