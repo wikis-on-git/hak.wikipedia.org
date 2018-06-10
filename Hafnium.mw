@@ -1,4 +1,95 @@
-[[File:Hf-TableImage.png|right|thumb|Hafnium]]
+{{Infobox element
+|number=72
+|symbol=Hf
+|name=hafnium
+|left=[[lutetium]]
+|right=[[tantalum]]
+|above=[[zirconium|Zr]]
+|below=[[rutherfordium|Rf]]
+|series=ko-thu kîm-su̍k
+|group=4
+|period=6
+|block=d
+|image name=Hf-crystal bar.jpg
+|image name 2=Hafnium_spectrum_visible.png
+|image name 2 comment=[[Spectral line]]s of hafnium (400&ndash;700&nbsp;nm)
+|appearance=steel gray
+|atomic mass=178.49
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=2
+|atomic mass comment=
+|electron configuration=&#91;[[Xenon|Xe]]&#93; 4f<sup>14</sup> 5d<sup>2</sup> 6s<sup>2</sup>
+|electrons per shell=2, 8, 18, 32, 10, 2
+|phase=ku-thí
+|density gpcm3nrt=13.31
+|density gpcm3mp=12
+|melting point K=2506
+|melting point C=2233
+|melting point F=4051
+|boiling point K=4876
+|boiling point C=4603
+|boiling point F=8317
+|heat fusion=27.2
+|heat vaporization=648
+|heat capacity=25.73
+|vapor pressure 1=2689
+|vapor pressure 10=2954
+|vapor pressure 100=3277
+|vapor pressure 1 k=3679
+|vapor pressure 10 k=4194
+|vapor pressure 100 k=4876
+|vapor pressure comment=
+|crystal structure=hexagonal close packed
+|oxidation states='''4''', 3, 2, 1, −2
+|oxidation states comment=(an [[amphoterism|amphoteric]] oxide)
+|electronegativity=1.3
+|number of ionization energies=3
+|ionization energy 1=658.5
+|ionization energy 2=1440
+|ionization energy 3=2250
+|atomic radius=159
+|covalent radius=175±10
+|magnetic ordering=[[paramagnetic]]
+|magnetic ordering ref=<ref name=magnet>{{cite book |url=http://web.archive.org/web/20110303222309/http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf|chapter=Magnetic susceptibility of the elements and inorganic compounds| editor = Lide, D. R. | title = CRC Handbook of Chemistry and Physics | edition = 86th | location = Boca Raton (FL) | publisher = CRC Press | year = 2005 | isbn = 0-8493-0486-5 }}
+</ref>
+|electrical resistivity unit prefix=n
+|electrical resistivity at 20=331
+|thermal conductivity=23.0
+|thermal expansion at 25=5.9
+|speed of sound rod at 20=3010
+|Young's modulus=78
+|Shear modulus=30
+|Bulk modulus=110
+|Poisson ratio=0.37
+|Mohs hardness=5.5
+|Vickers hardness=1520–2060
+|Brinell hardness=1450–2100
+|CAS number=7440-58-6
+|isotopes=
+{{infobox element/isotopes decay | mn=172 | sym=Hf
+ | na=[[synthetic radioisotope|syn]] | hl=1.87&nbsp;y
+ | dm=[[electron capture|ε]] | de=0.350 | link1=lutetium-172| pn=172 | ps=Lu}}
+{{infobox element/isotopes decay | mn=174 | sym=Hf
+ | na=0.162% | hl=2&times;10<sup>15</sup>&nbsp;y
+ | dm=[[alpha emission|α]] | de=2.495 | link1=ytterbium-170 | pn=170 | ps=Yb}}
+{{infobox element/isotopes decay | mn=176 | sym=Hf | na=5.206% | hl=– | dm=(α) | de=2.2550 | link1=ytterbium-172 | pn=172 | ps=Yb }}
+{{infobox element/isotopes decay | mn=177 | sym=Hf | na=18.606% | hl=– | dm=(α) | de=2.2449 | link1=ytterbium-173 | pn=173 | ps=Yb }}
+{{infobox element/isotopes decay | mn=178 | sym=Hf | na=27.297% | hl=– | dm=(α) | de=2.0832 | link1=ytterbium-174 | pn=174 | ps=Yb }}
+{{infobox element/isotopes decay | mn=178[[Nuclear isomer|m2]] | sym=Hf
+ | na=syn | hl=31&nbsp;y
+ | dm=[[Gamma ray|IT]] | de=2.446 | pn=178 | ps=Hf }}
+{{infobox element/isotopes decay | mn=179 | sym=Hf | na=13.629% | hl=– | dm=(α) | de=1.8065 | link1=ytterbium-175 | pn=175 | ps=Yb }}
+{{infobox element/isotopes decay | mn=180 | sym=Hf | na=35.1% | hl=– | dm=(α) | de=1.2828 | link1=ytterbium-176 | pn=176 | ps=Yb }}
+{{infobox element/isotopes decay | mn=182 | sym=Hf
+ | na=[[trace radioisotope|trace]] | hl=8.9&times;10<sup>6</sup>&nbsp;y
+ | dm=[[beta emission|β<sup>−</sup>]] | de=0.373 | link1=tantalum-182 | pn=182 | ps=Ta }}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|naming=after ''{{lang|la|[[Hafnia (Latin)|Hafnia]]}}''. Latin for: [[Copenhagen]], where it was discovered
+|predicted by=[[Dmitri Mendeleev]]
+|prediction date=1869
+|discovery and first isolation by=[[Dirk Coster]] and [[George de Hevesy]]
+|discovery date=1922
+}}
 '''Hafnium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Hf''', ngièn-chṳ́ su-muk he '''72'''.
 
 {{Ngièn-su chû-khì-péu}}
