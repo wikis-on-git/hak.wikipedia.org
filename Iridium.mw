@@ -1,4 +1,98 @@
-[[File:Ir-TableImage.png|right|thumb|Iridium]]
+{{infobox element
+|number=77
+|symbol=Ir
+|name=iridium
+|left=[[osmium]]
+|right=[[pha̍k-kîm]]
+|above=[[rhodium|Rh]]
+|below=[[meitnerium|Mt]]
+|series=ko-thu kîm-su̍k
+|group=9
+|period=6
+|block=d
+|image name=Iridium-2.jpg
+|image alt=Two square pieces of gray foil
+|appearance=silvery white
+|atomic mass=192.217
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=3
+|atomic mass comment=
+|electron configuration=&#91;[[xenon|Xe]]&#93; 4f<sup>14</sup> 5d<sup>7</sup> 6s<sup>2</sup>
+|electrons per shell=2, 8, 18, 32, 15, 2
+|phase=ku-thí
+|density gpcm3nrt=22.56
+|density gpcm3mp=19
+|melting point K=2719
+|melting point C=2446
+|melting point F=4435
+|boiling point K=4403
+|boiling point C=4130
+|boiling point F=7466
+|heat fusion=41.12
+|heat vaporization=564
+|heat capacity=25.10
+|vapor pressure 1=2713
+|vapor pressure 10=2957
+|vapor pressure 100=3252
+|vapor pressure 1 k=3614
+|vapor pressure 10 k=4069
+|vapor pressure 100 k=4659
+|vapor pressure comment=
+|crystal structure=face-centered cubic
+|oxidation states= −3, −1, 0, 1, 2, '''3''', '''4''', 5, 6, 7, 8, 9<ref name=IrIX>{{cite journal |last=Wang |first=Guanjun |last2=Zhou |first2=Mingfei |last3=Goettel |first3=James T. |last4=Schrobilgen |first4=Gary G. |last5=Su |first5=Jing |last6=Li |first6=Jun |last7=Schlöder |first7=Tobias |last8=Riedel |first8=Sebastian |date=2014 |title=Identification of an iridium-containing compound with a formal oxidation state of IX |journal=Nature |volume=514 |pages=475–477 |doi=10.1038/nature13795}}</ref>
+|electronegativity=2.20
+|number of ionization energies=2
+|ionization energy 1=880
+|ionization energy 2=1600
+|atomic radius=136
+|covalent radius=141±6
+|magnetic ordering= [[paramagnetic]]<ref>{{cite book |url=http://web.archive.org/web/20110303222309/http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf|chapter=Magnetic susceptibility of the elements and inorganic compounds| editor = Lide, D. R. | title = CRC Handbook of Chemistry and Physics | edition = 86th | location = Boca Raton (FL) | publisher = CRC Press | year = 2005 | isbn = 0-8493-0486-5 }}
+</ref>
+|electrical resistivity unit prefix=n
+|electrical resistivity at 20=47.1
+|thermal conductivity=147
+|thermal expansion=6.4
+|speed of sound rod at 20=4825
+|Young's modulus=528
+|Shear modulus=210
+|Bulk modulus=320
+|Poisson ratio=0.26
+|Mohs hardness=6.5
+|Vickers hardness=1760–2200
+|Brinell hardness=1670
+|CAS number=7439-88-5
+|isotopes=
+{{infobox element/isotopes decay | mn=188 | sym=Ir
+ | na=[[synthetic radioisotope|syn]] | hl=1.73&nbsp;d
+ | dm=[[electron capture|ε]] | de=1.64 | link1=osmium-188 | pn=188 | ps=Os}}
+{{infobox element/isotopes decay | mn=189 | sym=Ir
+ | na=syn | hl=13.2&nbsp;d
+ | dm=ε | de=0.532 | link1=osmium-189 | pn=189 | ps=Os}}
+{{infobox element/isotopes decay | mn=190 | sym=Ir
+ | na=syn | hl=11.8&nbsp;d
+ | dm=ε | de=2.000 | link1=osmium-190 | pn=190 | ps=Os}}
+{{infobox element/isotopes decay | mn=191 | sym=Ir | na=37.3% | hl=– | dm=([[alpha decay|α]]) | de=2.0839 | link1=rhenium-187 | pn=187 | ps=Re }}
+{{infobox element/isotopes decay2 | mn=192 | sym=Ir
+ | na=syn | hl=73.827&nbsp;d
+ | dm1=[[beta emission|β<sup>−</sup>]] | de1=1.460 | link1=platinum-192 | pn1=192 | ps1=Pt
+ | dm2=ε | de2=1.046 | link2=osmium-192 | pn2=192 | ps2=Os}}
+{{infobox element/isotopes decay | mn=192[[nuclear isomer|m2]] | sym=Ir
+ | na=syn | hl=241&nbsp;y
+ | dm=[[isomeric transition|IT]] | de=0.161 | pn=192 | ps=Ir}}
+{{infobox element/isotopes decay | mn=193 | sym=Ir | na=62.7% | hl=– | dm=(α) | de=1.0173 | link1=rhenium-189 | pn=189 | ps=Re }}
+{{infobox element/isotopes decay | mn=193m | sym=Ir
+ | na=syn | hl=10.5&nbsp;d
+ | dm=IT | de=0.080 | pn=193 | ps=Ir}}
+{{infobox element/isotopes decay | mn=194 | sym=Ir
+ | na=syn | hl=19.3&nbsp;h
+ | dm=β<sup>−</sup> | de=2.247 | link1=platinum-194 | pn=194 | ps=Pt}}
+{{infobox element/isotopes decay | mn=194m2 | sym=Ir
+ | na=syn | hl=171&nbsp;d
+ | dm=IT | de=– | pn=194 | ps=Ir}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|history comment label=[[Discovery of the chemical elements|Discovery]] and first&nbsp;isolation
+|history comment=[[Smithson Tennant]] (1803)
+}}
 '''Iridium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Ir''', ngièn-chṳ́ su-muk he '''77'''.
 
 {{Ngièn-su chû-khì-péu}}
