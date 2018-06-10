@@ -1,4 +1,101 @@
-[[File:Rh-TableImage.png|right|thumb|Rhodium]]
+{{Infobox element
+|number=45
+|symbol=Rh
+|name=rhodium
+|left=[[ruthenium]]
+|right=[[palladium]]
+|above=[[cobalt|Co]]
+|below=[[iridium|Ir]]
+|series=ko-thu kîm-su̍k
+|group=9
+|period=5
+|block=d
+|image name=Rhodium powder pressed melted.jpg
+|appearance=silvery white metallic
+|atomic mass=102.90550
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=2
+|atomic mass comment=
+|electron configuration=&#91;[[krypton|Kr]]&#93; 4d<sup>8</sup> 5s<sup>1</sup>
+|electrons per shell=2, 8, 18, 16, 1
+|phase=ku-thí
+|density gpcm3nrt=12.41
+|density gpcm3mp=10.7
+|melting point K=2237
+|melting point C=1964
+|melting point F=3567
+|boiling point K=3968
+|boiling point C=3695
+|boiling point F=6683
+|heat fusion=26.59
+|heat vaporization=493
+|heat capacity=24.98
+|vapor pressure 1=2288
+|vapor pressure 10=2496
+|vapor pressure 100=2749
+|vapor pressure 1 k=3063
+|vapor pressure 10 k=3405
+|vapor pressure 100 k=3997
+|vapor pressure comment=
+|crystal structure=face-centered cubic
+|oxidation states=6, 5, 4, '''3''', 2, 1,<ref>{{cite web|url=http://openmopac.net/data_normal/rhfr_jmol.html|title=Rhodium: rhodium(I) fluoride compound data|accessdate=2007-12-10|publisher=OpenMOPAC.net}}</ref> −1, −3
+|oxidation states comment=(an [[amphoterism|amphoteric]] oxide)
+|electronegativity=2.28
+|number of ionization energies=3
+|ionization energy 1=719.7
+|ionization energy 2=1740
+|ionization energy 3=2997
+|atomic radius=134
+|covalent radius=142±7
+|magnetic ordering=[[paramagnetic]]
+|magnetic ordering ref=<ref>{{cite book |url=http://web.archive.org/web/20110303222309/http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf|chapter=Magnetic susceptibility of the elements and inorganic compounds| editor = Lide, D. R. | title = CRC Handbook of Chemistry and Physics | edition = 86th | location = Boca Raton (FL) | publisher = CRC Press | year = 2005 | isbn = 0-8493-0486-5 }}
+</ref>
+|electrical resistivity unit prefix=n
+|electrical resistivity at 0=43.3
+|thermal conductivity=150
+|thermal expansion at 25=8.2
+|speed of sound rod at 20=4700
+|Young's modulus=380
+|Shear modulus=150
+|Bulk modulus=275
+|Poisson ratio=0.26
+|Mohs hardness=6.0
+|Vickers hardness=1100–8000
+|Brinell hardness=980–1350
+|CAS number=7440-16-6
+|isotopes=
+{{infobox element/isotopes_decay2 | mn=99 | sym=Rh
+ | na=[[synthetic radioisotope|syn]] | hl=16.1&nbsp;d
+ | dm1=[[electron capture|ε]] | de1=– | link1=ruthenium-99 | pn1=99 | ps1=Ru
+ | dm2=[[gamma ray|γ]] | de2=0.089, 0.353,<br/>0.528 | pn2= | ps2=–}}
+{{infobox element/isotopes_decay3 | mn=101[[nuclear isomer|m]] | sym=Rh
+ | na=syn | hl=[[1 E5 s|4.34&nbsp;d]]
+ | dm1=ε | de1=– | link1=ruthenium-101 | pn1=101 | ps1=Ru
+ | dm2=[[Internal conversion|IT]] | de2=0.157 | link2=rhodium-101 | pn2=101 | ps2=Rh
+ | dm3=γ | de3=0.306, 0.545 | pn3= | ps3=–}}
+{{infobox element/isotopes_decay2 | mn=101 | sym=Rh
+ | na=syn | hl=[[1 E8 s|3.3&nbsp;y]]
+ | dm1=ε | de1=– | pn1=101 | ps1=Ru
+ | dm2=γ | de2=0.127, 0.198,<br/>0.325 | pn2= | ps2=–}}
+{{infobox element/isotopes_decay2 | mn=102m | sym=Rh
+ | na=syn | hl=3.7&nbsp;y
+ | dm1=ε | de1=– | link1=ruthenium-102 | pn1=102 | ps1=Ru
+ | dm2=γ | de2=0.475, 0.631,<br/>0.697, 1.046 | pn2= | ps2=–}}
+{{infobox element/isotopes_decay4 | mn=102 | sym=Rh
+ | na=syn | hl=[[1 E7 s|207&nbsp;d]]
+ | dm1=ε | de1=– | pn1=102 | ps1=Ru
+ | dm2=[[positron emission|β<sup>+</sup>]] | de2=0.826, 1.301 | pn2=102 | ps2=Ru
+ | dm3=[[beta decay|β<sup>−</sup>]] | de3=1.151 | link3=palladium-102 | pn3=102 | ps3=Pd
+ | dm4=γ | de4=0.475, 0.628 | pn4= | ps4=–}}
+{{infobox element/isotopes_decay | mn=103 | sym=Rh | na=100% | hl=– | dm=([[spontaneous fission|SF]]) | de=<15.462 | pn= | ps= }}
+{{infobox element/isotopes_decay2 | mn=105 | sym=Rh
+ | na=syn | hl=35.36&nbsp;h
+ | dm1=β<sup>−</sup> | de1=0.247, 0.260,<br/>0.566 | link1=palladium-105 | pn1=105 | ps1=Pd
+ | dm2=γ | de2=0.306, 0.318 | pn2= | ps2=–}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|discovery and first isolation by=[[William Hyde Wollaston]]
+|discovery date=1804
+}}
 '''Rhodium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Rh''', ngièn-chṳ́ su-muk he '''45'''.
 
 {{Ngièn-su chû-khì-péu}}
