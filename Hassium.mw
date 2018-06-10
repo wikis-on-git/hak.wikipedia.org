@@ -1,4 +1,49 @@
-[[File:Hs-TableImage.png|right|thumb|Hassium]]
+{{Infobox element
+|number=108
+|symbol=Hs
+|name=hassium
+|left=[[bohrium]]
+|right=[[meitnerium]]
+|above=[[osmium|Os]]
+|below=(Uhn)
+|series=ko-thu kîm-su̍k
+|group=8
+|period=7
+|block=d
+|appearance=silvery ''(predicted)''<ref name="emsley">{{cite book|last=Emsley|first=John|title=Nature's Building Blocks: An A-Z Guide to the Elements|edition=New|year=2011|publisher=Oxford University Press|location=New York, NY|isbn=978-0-19-960563-7|page=215–7}}</ref>
+|atomic mass=[269]
+|electron configuration=&#91;[[radon|Rn]]&#93; 5f<sup>14</sup> 6d<sup>6</sup> 7s<sup>2</sup>
+|electron configuration comment=''(predicted)''<ref name=Haire/>
+|electrons per shell=2, 8, 18, 32, 32, 14, 2
+|electrons per shell comment=''(predicted)''
+|phase=ku-thí
+|phase comment=''(predicted)''<ref name=hcp/>
+|density gpcm3nrt=41
+|density gpcm3nrt comment=''(predicted)''<ref name=Haire/>
+|crystal structure=hexagonal close-packed
+|crystal structure comment=''(predicted)''<ref name=hcp>{{cite journal|doi=10.1103/PhysRevB.84.113104|title=First-principles calculation of the structural stability of 6d transition metals|year=2011|last1=Östlin|first1=A.|last2=Vitos|first2=L.|journal=Physical Review B|volume=84|issue=11|bibcode=2011PhRvB..84k3104O }}</ref>
+|oxidation states='''8''', ('''6'''), (5), (4), (3), ('''2''')
+|oxidation states ref=<ref name="emsley"/><ref name=Haire/><ref name=BFricke>{{cite journal |last1=Fricke |first1=Burkhard |year=1975 |title=Superheavy elements: a prediction of their chemical and physical properties |journal=Recent Impact of Physics on Inorganic Chemistry |volume=21 |pages=89–144 |doi=10.1007/BFb0116498 |url=http://www.researchgate.net/publication/225672062_Superheavy_elements_a_prediction_of_their_chemical_and_physical_properties |accessdate=4 October 2013}}</ref><ref name="hassocene">{{cite web |url=http://www-win.gsi.de/tasca08/contributions/TASCA08_Cont_Duellmann1.pdf |title=Investigation of group 8 metallocenes @ TASCA |last1=Düllmann |first1=Christoph E. |date=31 October 2008 |work=7th Workshop on Recoil Separator for Superheavy Element Chemistry TASCA 08 |publisher=[[Gesellschaft für Schwerionenforschung]] |accessdate=25 March 2013}}</ref>
+|oxidation states comment=(parenthesized oxidation states are predictions)
+|number of ionization energies=8
+|ionization energy comment=''(all estimated)''<ref name=Haire>{{cite book| title=The Chemistry of the Actinide and Transactinide Elements| editor1-last=Morss|editor2-first=Norman M.| editor2-last=Edelstein| editor3-last=Fuger|editor3-first=Jean| last1=Hoffman|first1=Darleane C. |last2=Lee |first2=Diana M. |last3=Pershina |first3=Valeria |chapter=Transactinides and the future elements| publisher= [[Springer Science+Business Media]]| year=2006| isbn=1-4020-3555-1| location=Dordrecht, The Netherlands| edition=3rd| ref=CITEREFHaire2006}}</ref>|ionization energy 1=733.3
+|ionization energy 2=1756.0
+|ionization energy 3=2827.0
+|atomic radius=126
+|atomic radius comment=''(estimated)''<ref name=Haire/>
+|covalent radius=134
+|covalent radius comment=''(estimated)''<ref name=rsc>{{cite web |url=http://www.rsc.org/periodic-table/element/108/hassium |title=Chemical Data: Hassium |last1=Robertson |first1=Murray |date=2011 |work=Visual Elements Periodic Table |publisher=[[Royal Society of Chemistry]] |accessdate=28 November 2012}}</ref>
+|CAS number=54037-57-9
+|isotopes=
+{{infobox element/isotopes decay | mn=277 | sym=Hs | na=[[synthetic radioisotope|syn]] | hl=2&nbsp;s | dm=[[spontaneous fission|SF]] | de= | pn= | ps=}}
+{{infobox element/isotopes decay | mn=277m | sym=Hs ? | na=syn | hl=~130&nbsp;s? | dm=SF | de= | pn= | ps=}}
+{{infobox element/isotopes decay | mn=271 | sym=Hs | na=syn | hl=~4&nbsp;s | dm=[[alpha decay|α]] | de=9.27, 9.13 | | link1=seaborgium-267 | pn=267 | ps=Sg}}
+{{infobox element/isotopes decay | mn=270 | sym=Hs | na=syn | hl=3.6&nbsp;s | dm=α | de=9.02, 8.88 | link1=seaborgium-266 | pn=266 | ps=Sg}}
+{{infobox element/isotopes decay | mn=269 | sym=Hs | na=syn | hl=9.7&nbsp;s | dm=α | de=9.21, 9.10, 8.97 | link1=seaborgium-265 | pn=265 | ps=Sg}}
+|naming=after ''{{lang|la|Hassia}}'', Latin for [[Hesse]], Germany, where it was discovered<ref name="emsley"/>
+|discovered by=[[Gesellschaft für Schwerionenforschung]]
+|discovery date=1984
+}}
 '''Hassium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Hs''', ngièn-chṳ́ su-muk he '''108'''.
 
 {{Ngièn-su chû-khì-péu}}
