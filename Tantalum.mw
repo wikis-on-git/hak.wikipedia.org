@@ -1,4 +1,107 @@
-[[File:Ta-TableImage.png|right|thumb|Tantalum]]
+{{Infobox element
+|number=73
+|symbol=Ta
+|name=tantalum
+|left=[[hafnium]]
+|right=[[wolfram]]
+|above=[[niobium|Nb]]
+|below=[[dubnium|Db]]
+|series=ko-thu kîm-su̍k
+|group=5
+|period=6
+|block=d
+|image name=Tantalum_single_crystal_and_1cm3_cube.jpg
+|appearance=gray blue
+|image name 2=Tantalum_spectrum_visible.png
+|image name 2 comment=[[Spectral line]]s of tantalum
+|atomic mass=180.94788
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=2
+|atomic mass comment=
+|electron configuration=&#91;[[xenon|Xe]]&#93; 4f<sup>14</sup> 5d<sup>3</sup> 6s<sup>2</sup>
+|electrons per shell=2, 8, 18, 32, 11, 2
+|phase=ku-thí
+|density gpcm3nrt=16.69
+|density gpcm3mp=15
+|melting point K=3290
+|melting point C=3017
+|melting point F=5463
+|boiling point K=5731
+|boiling point C=5458
+|boiling point F=9856
+|heat fusion=36.57
+|heat vaporization=753
+|heat capacity=25.36
+|vapor pressure 1=3297
+|vapor pressure 10=3597
+|vapor pressure 100=3957
+|vapor pressure 1 k=4395
+|vapor pressure 10 k=4939
+|vapor pressure 100 k=5634
+|vapor pressure comment=
+|crystal structure=body-centered cubic
+|crystal structure ref=<ref name="crystal structure">{{Cite journal | doi = 10.1107/S0567740873004140 | title = The crystal structure of β-tantalum | year = 1973 | last1 = Moseley | first1 = P. T. | last2 = Seabrook | first2 = C. J. | journal = Acta Crystallographica Section B Structural Crystallography and Crystal Chemistry | volume = 29 | issue = 5 | pages = 1170–1171}}</ref>
+|crystal structure comment=&alpha;-Ta
+|crystal structure 2=tetragonal
+|crystal structure 2 ref=<ref name="crystal structure"/>
+|crystal structure 2 comment=&beta;-Ta
+|oxidation states='''5''', 4, 3, 2, 1, −1, −3
+|oxidation states comment=(a&nbsp;mildly [[acid]]ic oxide)
+|electronegativity=1.5
+|number of ionization energies=2
+|ionization energy 1=761
+|ionization energy 2=1500
+|atomic radius=146
+|covalent radius=170±8
+|magnetic ordering=[[paramagnetic]]
+|magnetic ordering ref=<ref name=magnet>{{cite book |url=http://web.archive.org/web/20110303222309/http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf|chapter=Magnetic susceptibility of the elements and inorganic compounds| editor = Lide, D. R. | title = CRC Handbook of Chemistry and Physics | edition = 86th | location = Boca Raton (FL) | publisher = CRC Press | year = 2005 | isbn = 0-8493-0486-5 }}
+</ref>
+|electrical resistivity unit prefix=n
+|electrical resistivity at 20=131
+|thermal conductivity=57.5
+|thermal expansion at 25=6.3
+|speed of sound rod at 20=3400
+|Young's modulus=186
+|Shear modulus=69
+|Bulk modulus=200
+|Poisson ratio=0.34
+|Mohs hardness=6.5
+|Vickers hardness=870–1200
+|Brinell hardness=440–3430
+|CAS number=7440-25-7
+|isotopes=
+{{Infobox element/isotopes decay | mn=177 | sym=Ta
+ | na=[[synthetic radioisotope|syn]] | hl=56.56&nbsp;h
+ | dm=[[electron capture|ε]] | de=1.166 | link1=hafnium-177 | pn=177 | ps=Hf}}
+{{Infobox element/isotopes decay | mn=178 | sym=Ta
+ | na=syn | hl=2.36&nbsp;h
+ | dm=ε | de=1.910 | link1=hafnium-178 | pn=178 | ps=Hf}}
+{{Infobox element/isotopes decay | mn=179 | sym=Ta
+ | na=syn | hl=1.82&nbsp;y
+ | dm=ε | de=0.110 | link1=hafnium-179 | pn=179 | ps=Hf}}
+{{Infobox element/isotopes decay2 | mn=180 | sym=Ta
+ | na=syn | hl=8.125&nbsp;h
+ | dm1=ε | de1=0.854 | link1=hafnium-180 | pn1=180 | ps1=Hf
+ | dm2=[[beta emission|β<sup>−</sup>]] | de2=0.708 | link2=tungsten-180 | pn2=180 | ps2=W}}
+{{Infobox element/isotopes decay4 | mn=180[[Nuclear isomer|m]] | sym=Ta
+ | na=0.012% | hl=>2.0&times;10<sup>16</sup>&nbsp;y
+ | dm1=(ε) | de1=0.929 | pn1=180 | ps1=Hf
+ | dm2=(β<sup>−</sup>) | de2=0.783 | pn2=180 | ps2=W
+ | dm3=([[isomeric transition|IT]]) | de3=0.075 | pn3=180 | ps3=Ta
+ | dm4=([[alpha decay|α]]) | de4=2.103 | link4=lutetium-176 | pn4=176 | ps4=Lu}}
+{{infobox element/isotopes decay | mn=181 | sym=Ta | na=99.988% | hl=– | dm=(α) | de=1.5259 | link1=lutetium-177 | pn=177 | ps=Lu }}
+{{Infobox element/isotopes decay | mn=182 | sym=Ta
+ | na=syn | hl=114.43&nbsp;d
+ | dm=β<sup>−</sup> | de=1.814 | link1=tungsten-182 | pn=182 | ps=W}}
+{{Infobox element/isotopes decay | mn=183 | sym=Ta
+ | na=syn | hl=5.1&nbsp;d
+ | dm=β<sup>−</sup> | de=1.070 | link1=tungsten-183 | pn=183 | ps=W}}
+|isotopes comment=Decay modes in parentheses are predicted, but have not yet been observed
+|discovered by=[[Anders Gustaf Ekeberg]]
+|discovery date=1802
+|history comment label=Recognized as a distinct [[chemical element|element]] by
+|history comment=[[Heinrich Rose]] (1844)
+}}
 '''Tantalum''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Ta''', ngièn-chṳ́ su-muk he '''73'''.
 
 {{Ngièn-su chû-khì-péu}}
