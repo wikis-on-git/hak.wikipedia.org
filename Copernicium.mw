@@ -1,4 +1,53 @@
-[[File:Cn-TableImage.png|right|thumb|Copernicium]]
+{{infobox element
+|number=112
+|symbol=Cn
+|name=copernicium
+|left=[[roentgenium]]
+|right=[[ununtrium]]
+|above=[[Súi-ngiùn|Hg]]
+|below=(Uhq)
+|series=ko-thu kîm-su̍k
+|group=12
+|period=7
+|block=d
+|appearance=
+|atomic mass= [285]
+|electron configuration=&#91;[[radon|Rn]]&#93; 5f<sup>14</sup> 6d<sup>10</sup> 7s<sup>2</sup>
+|electron configuration comment=''(predicted)''<ref name=Haire/>
+|electrons per shell=2, 8, 18, 32, 32, 18, 2
+|electrons per shell comment=''(predicted)''
+|phase=unknown
+|density gpcm3nrt=23.7
+|density gpcm3nrt comment=''(predicted)''<ref name=Haire/>
+|boiling point K={{nowrap|357{{su|p=+112|b=−108}}}}
+|boiling point C={{nowrap|84{{su|p=+112|b=−108}}}}
+|boiling point F={{nowrap|183{{su|p=+202|b=−194}}}}
+|boiling point ref=<ref name=Eichler>{{cite journal |last1=Eichler |first1=R. |last2=Aksenov |first2=N. V. |last3=Belozerov |first3=A. V. |last4=Bozhikov |first4=G. A. |last5=Chepigin |first5=V. I. |last6=Dmitriev |first6=S. N. |last7=Dressler |first7=R. |last8=Gäggeler |first8=H. W. |last9=Gorshkov |first9=A. V. | displayauthors=8 |date=2008 |title=Thermochemical and physical properties of element 112 |url=http://onlinelibrary.wiley.com/doi/10.1002/anie.200705019/abstract |journal=[[Angewandte Chemie]] |volume=47 |issue=17 |pages=3262–6 |doi=10.1002/anie.200705019 |accessdate=5 November 2013}}</ref>
+|crystal structure=hexagonal close-packed
+|crystal structure comment=''(predicted)''<ref name=hcp>{{cite journal |last1=Gaston |first1=Nicola |last2=Opahle |first2=Ingo |last3=Gäggeler |first3=Heinz W. |last4=Schwerdtfeger |first4=Peter |date=2007 |title=Is eka-mercury (element 112) a group 12 metal? |url=http://www.researchgate.net/publication/51380328_Is_eka-mercury_(element_112)_a_group_12_metal |journal=[[Angewandte Chemie]] |volume=46 |issue=10 |pages=1663–6 |doi=10.1002/anie.200604262 |accessdate=5 November 2013}}</ref>
+|oxidation states='''4''', '''2''', '''1''', '''0'''
+|oxidation states comment=''(predicted)''<ref name=Haire>{{cite book| title=The Chemistry of the Actinide and Transactinide Elements| editor1-last=Morss|editor2-first=Norman M.| editor2-last=Edelstein| editor3-last=Fuger|editor3-first=Jean| last1=Hoffman|first1=Darleane C. |last2=Lee |first2=Diana M. |last3=Pershina |first3=Valeria |chapter=Transactinides and the future elements| publisher= [[Springer Science+Business Media]]| year=2006| isbn=1-4020-3555-1| location=Dordrecht, The Netherlands| edition=3rd| ref=CITEREFHaire2006}}</ref><ref name="superheavy chemistry">{{Cite web|author=H. W. Gäggeler| title=Gas Phase Chemistry of Superheavy Elements|year=2007|pages=26–28|publisher=[[Paul Scherrer Institute]]|url=http://lch.web.psi.ch/files/lectures/TexasA&M/TexasA&M.pdf}}</ref><ref name=BFricke/>
+|number of ionization energies=5
+|ionization energy 1=1154.9
+|ionization energy 2=2170.0
+|ionization energy 3=3164.7
+|ionization energy comment=''(all estimated)''<ref name=Haire/>
+|atomic radius=147
+|atomic radius comment=''(predicted)''<ref name=Haire/><ref name=BFricke>{{cite journal |last1=Fricke |first1=Burkhard |year=1975 |title=Superheavy elements: a prediction of their chemical and physical properties |journal=Recent Impact of Physics on Inorganic Chemistry |volume=21 |pages=89–144 |doi=10.1007/BFb0116498 |url=http://www.researchgate.net/publication/225672062_Superheavy_elements_a_prediction_of_their_chemical_and_physical_properties |accessdate=4 October 2013}}</ref>
+|covalent radius=122
+|covalent radius comment=''(predicted)''<ref name=rsc>[http://www.rsc.org/periodic-table/element/112/copernicium Chemical Data. Copernicium - Cn], Royal Chemical Society</ref>
+|CAS number=54084-26-3
+|isotopes=
+{{infobox element/isotopes decay | mn=285 | sym=Cn | na=[[synthetic radioisotope|syn]] | hl=29&nbsp;s | dm= [[alpha decay|α]] | de=9.15, 9.03? | link1=darmstadtium-281 | pn=281 | ps=Ds}}
+{{infobox element/isotopes decay | mn=285m | sym=Cn ? | na=syn | hl=8.9&nbsp;min | dm= α | de=8.63 | pn=281m | ps=Ds ?}}
+{{infobox element/isotopes decay2 | mn=283 | sym=Cn | na=syn | hl=4&nbsp;s<ref name=bnl>[http://www.nndc.bnl.gov/chart/reCenter.jsp?z=112&n=171 Chart of Nuclides]. Brookhaven National Laboratory</ref>
+ | dm1=90% α | de1=9.53, 9.32, 8.94 | link1=darmstadtium-279 | pn1=279 | ps1=Ds
+ | dm2=10% [[Spontaneous fission|SF]] | de2= |pn2= |ps2= }}
+{{infobox element/isotopes decay | mn=283m | sym=Cn ?? | na=syn | hl=~7.0&nbsp;min | dm=SF | de= | pn= | ps=}}
+|naming=after [[Nicolaus Copernicus]]
+|discovered by=[[Gesellschaft für Schwerionenforschung]]
+|discovery date=1996
+}}
 '''Copernicium''' he yit-chúng [[fa-ho̍k ngièn-su]], fa-ho̍k fù-ho vì '''Cn''', ngièn-chṳ́ su-muk he '''112'''.
 
 {{Ngièn-su chû-khì-péu}}
