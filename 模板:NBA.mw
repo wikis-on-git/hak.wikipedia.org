@@ -1,0 +1,75 @@
+{{Navbox
+| name = NBA
+| state = autocollapse
+| title = [[NBA]]
+| bodyclass = hlist
+| evenodd = swap
+| group1 = [[Tûng-khî Lièn-mèn (NBA)|Tûng-khî Lièn-mèn]]
+| list1 = {{Navbox|child
+| group1 = [[Thai-sî-yòng Chû (NBA)|Thai-sî-yòng]]
+| list1 =
+: [[Boston Celtics]]
+: [[Brooklyn Nets]]
+: [[New York Knicks]]
+: [[Philadelphia 76ers]]
+: [[Toronto Raptors]]
+| group2 = [[Chûng-yông Chû (NBA)|Chûng-yông]]
+| list2 =
+: [[Chicago Bulls]]
+: [[Cleveland Cavaliers]]
+: [[Detroit Pistons]]
+: [[Indiana Pacers]]
+: [[Milwaukee Bucks]]
+| group3 = [[Tûng-nàm Chû (NBA)|Tûng-nàm]]
+| list3 =
+: [[Atlanta Hawks]]
+: [[Charlotte Hornets]]
+: [[Miami Heat]]
+: [[Orlando Magic]]
+: [[Washington Wizards]]
+}}
+
+| group2 = [[Sî-khî Lièn-mèn (NBA)|Sî-khî Lièn-mèn]]
+| list2 = {{Navbox|child
+| group1= [[Sî-pet Chû (NBA)|Sî-pet]]
+| list1 =
+: [[Denver Nuggets]]
+: [[Minnesota Timberwolves]]
+: [[Oklahoma City Thunder]]
+: [[Portland Trail Blazers]]
+: [[Utah Jazz]]
+| group2 = [[Thai-phìn-yòng Chû (NBA)|Thai-phìn-yòng]]
+| list2 =
+: [[Golden State Warriors]]
+: [[Los Angeles Clippers]]
+: [[Los Angeles Lakers]]
+: [[Phoenix Suns]]
+: [[Sacramento Kings]]
+| group3 = [[Sî-nàm Chû (NBA)|Sî-nàm]]
+| list3 =
+: [[Dallas Mavericks]]
+: [[Houston Rockets]]
+: [[Memphis Grizzlies]]
+: [[New Orleans Pelicans]]
+: [[San Antonio Spurs]]
+}}
+
+| group3 = Tak-ngièn sṳ-khien
+| list3 =
+: [[NBA draft|Draft]]
+: [[NBA Summer League|Summer League]]
+: [[National Basketball Association Christmas games|Christmas Day]]
+: [[NBA All-Star Weekend|All-Star Weekend]]
+:: [[NBA All-Star Game|Game]]
+:: [[NBA All-Star Game Most Valuable Player Award|MVP]]
+: [[NBA playoffs|Playoffs]]
+: [[NBA Finals|Finals]]
+:: [[NBA kôn-kiûn lie̍t-péu|kôn-kiûn]]
+:: [[Bill Russell NBA Finals Most Valuable Player Award|MVP]]
+
+| group4 = 
+| list4 =
+| below =
+}}<noinclude>
+[[Category:NBA|*]]
+</noinclude>
