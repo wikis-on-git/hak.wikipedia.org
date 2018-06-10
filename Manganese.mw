@@ -1,4 +1,108 @@
-[[File:Mn-TableImage.png|right|thumb|Manganese]]
+{{Infobox element
+|name=manganese
+|number=25
+|symbol=Mn
+|left=[[chromium]]
+|right=[[thiet]]
+|above=–
+|below=[[technetium|Tc]]
+|series=ko-thu kîm-su̍k
+|series comment=
+|group=7
+|period=4
+|block=d
+|series color=
+|appearance=silvery metallic
+|image name=Mangan 1-crop.jpg
+|image size=
+|image alt=A rough fragment of lustrous silvery metal
+|image name comment=
+|image name 2=
+|image name 2 comment=
+|atomic mass=54.938044
+|atomic mass ref=<ref name="IUPAC">[http://www.ciaaw.org/atomic-weights.htm Standard Atomic Weights 2013]. [[Commission on Isotopic Abundances and Atomic Weights]]</ref>
+|atomic mass 2=3
+|atomic mass comment=
+|electron configuration=&#91;[[argon|Ar]]&#93; 3d<sup>5</sup> 4s<sup>2</sup>
+|electrons per shell=2, 8, 13, 2
+|color=
+|phase=ku-thí
+|phase comment=
+|density gplstp=
+|density gpcm3nrt=7.21
+|density gpcm3nrt 2=
+|density gpcm3mp=5.95
+|melting point K=1519
+|melting point C=1246
+|melting point F=2275
+|boiling point K=2334
+|boiling point C=2061
+|boiling point F=3742
+|triple point K=
+|triple point kPa=
+|critical point K=
+|critical point MPa=
+|heat fusion=12.91
+|heat fusion 2=
+|heat vaporization=221
+|heat capacity=26.32
+|vapor pressure 1=1228
+|vapor pressure 10=1347
+|vapor pressure 100=1493
+|vapor pressure 1 k=1691
+|vapor pressure 10 k=1955
+|vapor pressure 100 k=2333
+|vapor pressure comment=
+|crystal structure=body-centered cubic
+|oxidation states='''7''', 6, 5, '''4''', 3, '''2''', 1, −1, −2, −3
+|oxidation states comment=acidic, basic or [[amphoterism|amphoteric]]; depending on the oxidation state
+|electronegativity=1.55
+|number of ionization energies=4
+|ionization energy 1=717.3
+|ionization energy 2=1509.0
+|ionization energy 3=3248
+|atomic radius=127
+|atomic radius calculated=
+|covalent radius=Low spin: 139±5 pm<br/>High spin: 161±8
+|Van der Waals radius=
+|magnetic ordering=paramagnetic
+|electrical resistivity=
+|electrical resistivity unit prefix=µ
+|electrical resistivity at 0=
+|electrical resistivity at 20=1.44
+|thermal conductivity=7.81
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=21.7
+|speed of sound=
+|speed of sound rod at 20=5150
+|speed of sound rod at r.t.=
+|Young's modulus=198
+|Shear modulus=
+|Bulk modulus=120
+|Poisson ratio=
+|Mohs hardness=6.0
+|Vickers hardness=
+|Brinell hardness=196
+|CAS number=7439-96-5
+|isotopes=
+{{infobox element/isotopes decay3 | mn=52 | sym=Mn | na=[[synthetic radioisotope|syn]] | hl=[[1 E5 s|5.591&nbsp;d]] | dm1=[[electron capture|ε]] | de1=–
+ | link1=chromium-52 | pn1=52 | ps1=Cr |
+dm2=[[positron emission|β<sup>+</sup>]] | de2=0.575
+ | pn2=52 | ps2=Cr|
+dm3=[[Gamma ray|γ]] | de3=0.7, 0.9, 1.4 | pn3= | ps3=– }}
+{{infobox element/isotopes decay | mn=53 | sym=Mn | na=[[trace radioisotope|trace]] | hl=[[1 E14 s|3.74&times;10<sup>6</sup>&nbsp;y]] | dm=ε | de=–
+ | link1=chromium-53 | pn=53 | ps=Cr }}
+{{infobox element/isotopes decay2 | mn=54 | sym=Mn | na=syn | hl=[[1 E7 s|312.3&nbsp;d]] | dm1=ε | de1=1.377 | link1=chromium-54 | pn1=54 | ps1=Cr
+ | dm2=γ | de2=0.834 | pn2= | ps2=– }}
+{{Infobox element/isotopes stable | mn=55 | sym=Mn | na=100% | n=30 |firstlinks=yes}}
+|isotopes comment=
+|discovered by=[[Torbern Olof Bergman]]
+|discovery date=1770
+|first isolation by=[[Johann Gottlieb Gahn]]
+|first isolation date=1774
+}}
 '''Manganese''' he yit-chúng [[fa-ho̍k]] [[ngièn-su]], fa-ho̍k fù-ho vì '''Mn''', ngièn-chṳ́ su-muk he '''25'''.
 
 {{Template:Ngièn-su Tsû-khì-péu}}
