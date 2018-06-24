@@ -1,4 +1,4 @@
-{{{assessors}}} ({{{year}}}). ''[http://www.redlist.org/search/details.php?species={{{id}}} {{{title}}}]''. ''{{{edition|}}}-ngièn [[IUCN Fùng Miàng-tân|IUCN Su Vî-hia̍p Vu̍t-chúng Fùng Miàng-tân]]''. [[IUCN]] {{{edition|}}}. {{{downloaded|}}} ha-chai.<noinclude>
+{{{assessors}}} ({{{year}}}). ''[http://www.redlist.org/search/details.php?species={{{id}}} {{{title}}}]''. {{#if:{{{edition|}}}|''{{{edition|}}}-ngièn [[IUCN Fùng Miàng-tân|IUCN Su Vî-hia̍p Vu̍t-chúng Fùng Miàng-tân]]''. [[IUCN]] {{{edition|}}}.}} {{#if:{{{download|}}}| {{{downloaded|}}} ha-chai.}}<noinclude>
 ----
 ==Sot-mìn==
 Yung [[IUCN Fùng Miàng-tân]] ke mù-pán.
