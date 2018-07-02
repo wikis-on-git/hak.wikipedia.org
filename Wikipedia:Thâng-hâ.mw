@@ -1259,3 +1259,14 @@ So far, we have [[mw:Reading/Web/Projects/Mobile Page Issues|drafted a proposal 
 Our next step would be to start implementing these changes. We wanted to reach out to you for any concerns, thoughts, and suggestions you might have before beginning development. Please [[mw:Reading/Web/Projects/Mobile Page Issues|visit the project page]] where we have more information and mockups of how this may look. Please [[mw:Talk:Reading/Web/Projects/Mobile Page Issues|leave feedback on the talk page]]. 
 </div> [[m:User:CKoerner (WMF)|CKoerner (WMF)]] ([[m:User talk:CKoerner (WMF)|talk]]) 20:58, 12 Liuk-ngie̍t 2018 (UTC)
 <!-- 訊息由 User:CKoerner (WMF)@metawiki 傳送，使用清單於 https://meta.wikimedia.org/w/index.php?title=User:CKoerner_(WMF)/Sandbox&oldid=18120916 -->
+
+== Tidy to RemexHtml ==
+
+<div class="plainlinks mw-content-ltr" lang="en" dir="ltr">
+The [[:mw:Parsing|Parsing]] team will be [[:mw:Parsing/Replacing Tidy|replacing Tidy with RemexHtml]] at this wiki on 5 July 2018.
+
+Some pages at this wiki use outdated HTML.  This change may change the appearance of those pages.  [[Special:LintErrors]] has a complete list of affected pages.
+
+Read [https://lists.wikimedia.org/pipermail/wikitech-ambassadors/2018-June/001867.html this e-mail message] for more information.  Read the instructions at [[:mw:Help:Extension:Linter]].  You can ask questions at [[:mw:Talk:Parsing/Replacing Tidy]].  Thank you for helping fix these problems.
+</div> [[:m:User:Elitre (WMF)]] 14:38, 2 Chhit-ngie̍t 2018 (UTC)
+<!-- 訊息由 User:Elitre (WMF)@metawiki 傳送，使用清單於 https://meta.wikimedia.org/w/index.php?title=Talk:Editing/Parsing_change&oldid=18129171 -->
