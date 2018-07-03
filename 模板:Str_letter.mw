@@ -1,0 +1,2 @@
+{{#invoke:String|len|{{#invoke:String|match|s={{{1}}}|^%a*|ignore_errors=true}}}}<noinclude>
+{{Documentation}}</noinclude>
