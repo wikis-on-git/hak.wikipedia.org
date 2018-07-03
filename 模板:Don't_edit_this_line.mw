@@ -1,0 +1,15 @@
+<noinclude><!-- 
+This template should only be called by Taxonomy template pages, where {{{machine code}}} is unspecified. It is (now) an error if parameter 1 is given a value.
+--></noinclude><includeonly>{{#invoke:Autotaxobox|callTaxonomyKey|parent={{{parent|}}}|rank={{{rank|}}}|extinct={{{extinct|}}}|always_display={{{always_display|{{{always display|}}}}}}|link_target={{{link|}}}|link_text={{#ifeq:{{padleft:|1|{{{1|}}}}}|{|{{{2|}}}|{{{1|}}}}}|refs={{{refs|}}}|same_as={{{same_as|{{{same as|}}}}}}}}<!--
+-->{{#ifeq:{{NAMESPACE}}|Template
+|{{#ifeq:{{lcfirst:{{{rank|}}}}}|species
+ |[[Category:Taxonomy templates for species|{{#titleparts:{{PAGENAME}}||2}}]]
+ |{{#if:{{Str endswith|{{PAGENAME}}|/?}}
+  |[[Category:Taxonomy templates with query|{{#titleparts:{{PAGENAME}}||2}}]]
+  |{{#if:{{#titleparts:{{PAGENAME}}||3}}
+   |[[Category:Taxonomy templates with qualified names|{{#titleparts:{{PAGENAME}}||2}}]]
+   |[[Category:Taxonomy templates|{{#titleparts:{{PAGENAME}}||2}}]]
+   }}
+  }}
+ }}
+}}</includeonly><noinclude>{{documentation}}</noinclude>
