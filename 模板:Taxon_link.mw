@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:Autotaxobox|taxonLink
+|taxon={{{1|}}}
+|extinct={{taxon info|{{{1|}}}|extinct}}
+|link_target={{taxon info|{{{1|}}}|link_target}}
+|plain_link_text={{taxon info|{{{1|}}}|link_text}}
+|bold={{{bold|}}}
+|italic={{{italic|{{Is italic taxon|{{taxon info|{{{1|}}}|rank}}}}}}}
+}}</includeonly><noinclude>{{Documentation}}</noinclude>
