@@ -1,0 +1,1 @@
+<noinclude>{{pp-template|small=yes}}</noinclude>{{#ifexpr:{{Str find|{{{1|}}}|. }}>1|{{str rep|{{{1|}}}|. |.&nbsp;}}|{{{1|}}}}}<noinclude>{{documentation}}</noinclude>
