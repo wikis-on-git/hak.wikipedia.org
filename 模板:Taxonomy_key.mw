@@ -1,0 +1,74 @@
+<includeonly><noinclude><!--
+The template must be supplied with ALL of the parameters: parent, link_target, link, rank,
+extinct, always_display, refs. In normal use this happens because it's called from
+Module:Autotaxobox|callTaxonomyKey.
+When testing from a page that is not a taxonomy template, pgname = Taxonomy/TAXON must be
+supplied to supply the value of TAXON.
+
+****** First show the RIGHT-HAND table, with the correct taxobox colour, showing parent taxa with "edit" links
+
+--></noinclude>{| class="infobox biota" style="text-align: left; font-size:100%" 
+|-
+! colspan=2 style="text-align: center; background-color: {{#invoke:Autotaxobox|taxoboxColour|{{#titleparts:{{{pgname|{{PAGENAME}}}}}||2}} }}" | Ancestral taxa
+|-
+{{#invoke:Autotaxobox|taxonomyList|{{#titleparts:{{{pgname|{{PAGENAME}}}}}||2}} }}
+|}<noinclude><!--Now check whether the parent taxonomy template or link target article need to be created;
+use #titleparts: to remove any #section part in the link target
+--></noinclude>
+{{#ifexist:Template:Taxonomy/{{{parent|}}}
+|{{#if:{{{link_target|}}}|{{#ifexist:{{#titleparts:{{{link_target}}}||}}|__NOINDEX__<noinclude><!-- then it looks like we're in the clear.  Google can show the article, rather than this page. --></noinclude>
+|Wikipedia does not yet have an article about [[{{{link_target}}}]]. You can help by [{{Create taxonomy/link|{{{link_target}}} }} creating it].  The page that you are currently viewing contains information about [[{{{link_target}}}]]'s taxonomy.}}}}
+|{{error|Making progress.}} If the table below looks correct, then the necessary taxonomic information for the target taxon exists.
+
+{{Taxonomy key/missing template|taxon={{{parent|}}}|msg=given as the value of <code>parent</code>}}
+}}<noinclude><!--
+
+****** Now show the LEFT-HAND table, i.e. information for the current taxon
+
+--></noinclude>
+Not sure why you're here? [[Wikipedia:Automated taxobox system|Get started]]  with Wikipedia taxonomy.
+{| class="wikitable"
+|-
+|Parent:
+|<code>{{{parent|}}}</code> &#x5B;[[Template:Taxonomy/{{{parent|}}}|Taxonomy]]; <span class=plainlinks>[{{Create taxonomy/link|{{{parent|}}}}} edit]&#x5D;</span>
+|-
+|Rank:
+|<code>{{{rank|}}}</code> (displays as <code>{{anglicise rank|{{{rank|}}}|check=yes}}</code>)
+|-
+|Link:
+|<code>{{#invoke:Autotaxobox|taxonLink
+ |taxon={{{pgname|{{#titleparts:{{PAGENAME}}||2}}}}}
+ |extinct={{{extinct}}}
+ |link_target={{{link_target}}}
+ |link_text={{{link}}}<!--link here may be "link_target|link_text"-->
+ |bold=no
+ |italic={{Is italic taxon|{{{rank}}}}}
+ }}</code>{{#ifeq:{{{link_target}}}|{{{link}}}|| (links to <code>{{{link_target}}}</code>)}}
+|-
+|Extinct:
+|{{#if:{{{extinct|}}}|<code>{{{extinct|}}}</code>|no}}
+|-
+|Always displayed:
+|{{#if:{{{always_display|}}}|<code>{{{always_display}}}</code>[[Category:Taxonomy templates using always_display|{{{always_display}}}]]|{{#switch:{{lc:{{{rank|}}} }}
+  |virus_group
+  |regnum | phylum | divisio | classis | ordo | familia | genus | species = yes (major rank)
+  |#default = no
+}} }}
+|-
+|Taxonomic references:
+|{{#if:{{{refs|}}}|{{{refs}}}|{{#ifeq:{{#titleparts:{{{pgname|{{PAGENAME}}}}}|1|2}}|Incertae sedis|not applicable (''incertae sedis'')|–}}}}
+|-
+|Parent's taxonomic references:
+|{{#if:{{Taxon info|{{{parent|}}}|refs}}|{{Taxon info|{{{parent|}}}|refs}}|{{#ifeq:{{#titleparts:{{{parent|}}}|1|2}}|Incertae sedis|not applicable (''incertae sedis'')|–}}}}
+|-
+{{#if:{{{same_as|{{{same as|}}}}}}|
+{{!}}Same as taxon:{{!}}{{!}}<code>{{{same_as|{{{same as|}}}}}}</code> &#x5B;[[Template:Taxonomy/{{{same_as|{{{same as}}}}}}|Taxonomy]]; <span class=plainlinks>[{{Create taxonomy/link|{{{same_as|{{{same as|}}}}}}}} edit]&#x5D;</span>
+{{!}}-
+}}
+{{#if:{{Str endswith|{{{pgname|{{PAGENAME}}}}}|/skip}}|
+{{!}} colspan=2 {{!}}For the suffix "/skip", see [[Wikipedia:Automated_taxobox_system/advanced_taxonomy#Skip_taxonomy_templates|Skip taxonomy templates]].<br>For the skipped taxa, see [[Template:{{Str crop|{{{pgname|{{PAGENAME}}}}}|5}}]].|
+{{#if:{{Str endswith|{{{pgname|{{PAGENAME}}}}}|/?}}|
+{{!}} colspan=2 {{!}}For the suffix "/?", see [[Wikipedia:Automated_taxobox_system/advanced_taxonomy#Questionable_assignments|Questionable assignments]].|
+{{#ifeq:{{#titleparts:{{{pgname|{{PAGENAME}}}}}|1|2}}|Incertae sedis|
+{{!}} colspan=2 {{!}}For taxon names with "Incertae sedis", see [[Wikipedia:Automated_taxobox_system/advanced_taxonomy#Incertae_sedis_taxonomy_templates|''Incertae sedis'' taxonomy templates]].|
+}}}}}}</includeonly><noinclude>{{Documentation}}</noinclude>
