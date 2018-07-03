@@ -1,0 +1,10 @@
+<includeonly>{{#if:{{{rank|}}}|<!--
+Cell stating the rank: 
+-->
+{{!}} {{anglicise rank|{{{rank|}}}}}:<!--
+Cell stating the taxon's name, with authority:
+-->
+{{!}} <span class="{{lc:{{anglicise rank|{{{rank}}} }} }}">{{Taxonomy/nobreak|{{{link}}}}}</span>{{#if:{{{auth|}}}
+|<br /><small>{{{auth}}}</small>}}
+{{!}}-
+}}</includeonly><noinclude>{{documentation}}[[Category:Taxobox]]</noinclude>
