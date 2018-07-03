@@ -1,1 +1,1 @@
-<includeonly>http://en.wikipedia.org/w/index.php?action=edit&title=Template:taxonomy/{{urlencode:{{ucfirst:{{{1}}}}}}}&preload=Template:Taxonomy/{{taxonomy preload|{{{1}}}}}</includeonly>
+<includeonly>http://hak.wikipedia.org/w/index.php?action=edit&title=Template:taxonomy/{{urlencode:{{ucfirst:{{{1}}}}}}}&preload=Template:Taxonomy/{{taxonomy preload|{{{1}}}}}</includeonly>
