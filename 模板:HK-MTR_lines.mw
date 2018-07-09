@@ -2,14 +2,14 @@
  | Kóng-Kiú
  | Kîn-Kiú
  | Fù-Kiú=[[{{{1}}} chhṳ̍t-thûng-chhâ]]
- | Sha Tin to Central Link='''<font color="#{{HK-MTR color|{{{1}}}}}">[[{{{1}}}]]</font>'''
- | Khiâng-kuí='''<font color="#{{HK-MTR color|{{{1}}}}}">[[Hiông-kóng {{{1}}}|{{{1}}}]]</font>'''
- | Kî-chhòng Khoai-sien='''<font color="#{{HK-MTR color|{{{1}}}}}">[[{{{1}}}|{{{1}}}]]</font>'''
- | Tûng-sî='''<font color="#{{HK-MTR color|{{{1}}}}}">[[{{{1}}} Sien|{{{1}}} Sien]]</font>'''
- | Nàm-pet='''<font color="#{{HK-MTR color|{{{1}}}}}">[[{{{1}}} Sien|{{{1}}} Sien]]</font>'''
+ | Sha Tin to Central Link='''[[{{{1}}}|<font color="#{{HK-MTR color|{{{1}}}}}">{{{1}}}</font>]]'''
+ | Khiâng-kuí='''[[Hiông-kóng {{{1}}}|<font color="#{{HK-MTR color|{{{1}}}}}">{{{1}}}</font>]]'''
+ | Kî-chhòng Khoai-sien='''[[{{{1}}}|<font color="#{{HK-MTR color|{{{1}}}}}">{{{1}}}</font>]]'''
+ | Tûng-sî='''[[{{{1}}} Sien<font color="#{{HK-MTR color|{{{1}}}}}">|{{{1}}} Sien</font>]]'''
+ | Nàm-pet='''[[{{{1}}} Sien|<font color="#{{HK-MTR color|{{{1}}}}}">{{{1}}} Sien</font>]]'''
  | Intercity='''<font color="#{{HK-MTR color|{{{1}}}}}">{{{1}}}</font>'''
- | Nàm-kóng-tó tûng='''<font color="#{{HK-MTR color|{{{1}}}}}">[[Nàm-kóng-tó Sien|Nàm-kóng-tó Sien (tûng-thon)]]</font>'''
- | Nàm-kóng-tó sî='''<font color="#{{HK-MTR color|{{{1}}}}}">[[Nàm-kóng-tó Sien|Nàm-kóng-tó Sien (sî-thon)]]</font>'''
- | Kóng-tó='''<font color="#{{HK-MTR color|{{{1}}}}}">[[{{{1}}} Sien|{{{1}}}{{#if:{{{2|}}}||&nbsp;Sien}}]]</font>'''
- | #default='''<font color="#{{HK-MTR color|{{{1}}}}}">[[{{{1}}} Sien|{{{1}}}{{#if:{{{2|}}}||&nbsp;Sien}}]]</font>'''
+ | Nàm-kóng-tó tûng='''[[Nàm-kóng-tó Sien|<font color="#{{HK-MTR color|{{{1}}}}}">Nàm-kóng-tó Sien (tûng-thon)</font>]]'''
+ | Nàm-kóng-tó sî='''[[Nàm-kóng-tó Sien<font color="#{{HK-MTR color|{{{1}}}}}">|Nàm-kóng-tó Sien (sî-thon)</font>]]'''
+ | Kóng-tó='''[[{{{1}}} Sien|<font color="#{{HK-MTR color|{{{1}}}}}">{{{1}}}{{#if:{{{2|}}}||&nbsp;Sien}}</font>]]'''
+ | #default='''[[{{{1}}} Sien|<font color="#{{HK-MTR color|{{{1}}}}}">{{{1}}}{{#if:{{{2|}}}||&nbsp;Sien}}</font>]]'''
 }}
