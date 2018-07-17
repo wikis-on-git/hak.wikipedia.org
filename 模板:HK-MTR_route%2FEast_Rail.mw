@@ -22,7 +22,7 @@
 {{BS3|utSTR|STR|utCONTg||||{{RoutemapRoute|Shenzhen Metro Line 1|Ricon=u|enclosed=no}}}}
 {{BS3|utSTR|STR|utKBHFe||'''[[Luohu Station|Luohu]]'''|(Shenzhen Metro Line 1)||O3=HUBa}}
 {{BS3|utKBHFe|STR|HUB||'''[[Futiankouan Station|Futiankouan]]'''|(Shenzhen Metro Line 4)||O1=HUBa}}
-{{BS3|lGRENZE|hWZOLLae|lGRENZE||[[Hong Kong]] / [[China]] border|||O1=HUB|O3=HUB}}
+{{BS3|lGRENZE|TZOLLWo|lGRENZE||[[Hong Kong]] / [[China]] border|||O1=HUB|O3=HUB}}
 {{BS3|KBFa-ELEV|STR|HUB||[[Lok Ma Chau Station|'''Lok Ma Chau''']]|||O1=HUBe}}
 {{BS3|hSTR|BHF|HUBrf||[[Lo Wu Station|'''Lo Wu''']]|||O2=HUBaq}}
 {{BS3|ehBHF|ABZgl|STR+r||[[Chau Tau Station|''Chau Tau'']]|}}
