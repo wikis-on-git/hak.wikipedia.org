@@ -1,8 +1,8 @@
-<includeonly><div class="noresize thumb {{#switch:{{{align}}}
+<includeonly><div class="thumb {{#switch:{{{align}}}
 |left= tleft" style="
 |right= tright" style="
 |none= tnone" style="
-|#default=tnone" style="margin-left: auto; margin-right:auto; overflow:hidden;}} {{#if:{{{width|}}}|width: {{{width|}}};|width: -moz-min-content; width: -webkit-min-content; width: min-content;}} max-width: 100%;">{{#ifeq:{{{border|}}}|no||<div class="thumbinner">}}<div class="overflowbugx" style="overflow: auto; {{#ifeq:{{{dir|}}}|rtl|direction: rtl;}}">[[{{{image}}}|{{#if:{{{height|}}}|x{{{height}}}px}}|alt={{{alt|}}}|{{#invoke:Unstrip|unstrip|{{#switch:{{{caption}}}
+|#default=tnone" style="margin-left: auto; margin-right:auto; overflow:hidden;}} {{#if:{{{width|}}}|width: {{{width|}}};|width: -moz-min-content; width: -webkit-min-content; width: min-content;}} max-width: 100%;">{{#ifeq:{{{border|}}}|no||<div class="thumbinner">}}<div class="noresize" style="overflow: auto; {{#ifeq:{{{dir|}}}|rtl|direction: rtl;}}">[[{{{image}}}|{{#if:{{{height|}}}|x{{{height}}}px}}|alt={{{alt|}}}|{{#invoke:Unstrip|unstrip|{{#switch:{{{caption}}}
 |thumb
 |thumbnail
 |frame
