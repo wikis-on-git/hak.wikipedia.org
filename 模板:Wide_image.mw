@@ -1,17 +1,17 @@
-<includeonly><div class="thumb noresize {{#switch:{{{5}}}
+<includeonly><div class="thumb {{#switch:{{{5}}}
 |left= tleft" style="
 |right= tright" style="
 |none= tnone" style="
 |#default=tnone" style="margin-left: auto; margin-right:auto; overflow:hidden;
-}} width:{{{4|auto}}}; max-width:{{#expr:{{str sub|{{{2}}}|0|{{#expr:{{str find|{{{2}}}|px}} -1}}}} + 8}}px;">
-<div class="thumbinner" style="{{yesno|{{{border|}}}|no=border-width:0; background:transparent;|blank=}}"><div class="overflowbugx" style="overflow:auto;{{#ifeq:{{{dir|}}}|rtl|direction:rtl;}}">[[File:{{{1}}}|{{{2}}}|alt={{{alt|}}}|{{#invoke:Unstrip|unstrip|{{#switch:{{{3}}}
+}} width:{{{4|auto}}}; max-width:{{#ifeq:{{{border|}}}|no|{{#expr:{{str sub|{{{2}}}|0|{{#expr:{{str find|{{{2}}}|px}} -1}}}}}}px|{{#expr:{{str sub|{{{2}}}|0|{{#expr:{{str find|{{{2}}}|px}} -1}}}} + 8}}px}};">
+{{#ifeq:{{{border|}}}|no||<div class="thumbinner">}}<div class="noresize overflowbugx" style="overflow:auto;{{#ifeq:{{{dir|}}}|rtl|direction:rtl;}}">[[File:{{{1}}}|{{{2}}}|alt={{{alt|}}}|{{#invoke:Unstrip|unstrip|{{#switch:{{{3}}}
 |thumb
 |thumbnail
 |frame
 |border={{{1}}}
-|#default={{#if:{{{3|}}}|{{#ifeq:{{{dir|}}}|rtl|&#x202A;}}{{{3|}}}{{#ifeq:{{{dir|}}}|rtl|&#x202C;}}|}}}}}}]]</div>{{ #if: {{{3|}}}|<div class="thumbcaption" {{#if:{{{align-cap|}}}|style="text-align:{{{align-cap}}}"}}><div class="magnify">[[:File:{{{1}}}| ]]</div>{{{3}}}</div>|}}
-</div></div></includeonly><noinclude>
+|#default={{#if:{{{3|}}}|{{#ifeq:{{{dir|}}}|rtl|&#x202A;}}{{{3|}}}{{#ifeq:{{{dir|}}}|rtl|&#x202C;}}|}}}}}}]]</div>{{ #if: {{{3|}}}|<div class="thumbcaption" {{#if:{{{align-cap|}}}|style="text-align:{{{align-cap}}}"}}>{{#ifeq:{{{border|}}}|no||<div class="magnify">[[:File:{{{1}}}| ]]</div>}}{{{3}}}</div>|}}
+{{#ifeq:{{{border|}}}|no||</div>}}</div></includeonly><noinclude>
 {{documentation}}
 <!-- If you copy this template, you need to add the overflowx and overflowy CSS classes to your global CSS for Internet Explorer users. On the English Wikipedia, these are conditionally loaded by [[MediaWiki:Common.js]] -->
-<!-- Add categories and interwikis to the /doc subpage, not here! -->
+<!-- Add categories to the /doc subpage, not here! -->
 </noinclude>
