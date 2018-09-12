@@ -1,0 +1,1 @@
+<includeonly>{{ #switch: {{{1|}}} | 1=1 | -1=Yun 1 | 2=2 | -2=Yun 2 | 3=3 | -3=Yun 3 | 4=4 | -4=Yun 4 | 5=5 | -5=Yun 5 | 6=6 | -6=Yun 6 | 7=7 | -7=Yun 7 | 8=8 | -8=Yun 8 | 9=9 | -9=Yun 9 | 10=10 | -10=Yun 10 | 11=11 | -11=Yun 11 | 12=12 | -12=Yun 12 }}</includeonly><noinclude>{{documentation}}</noinclude>
