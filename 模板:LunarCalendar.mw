@@ -1,0 +1,48 @@
+{| class="infobox" style="float:right; margin-left:15px"
+|- style="background:#ccccff"
+|[[Nùng-la̍k {{Chinese calendar/month name|{{#expr:(((abs {{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}) +10) mod 12) +1}}}}-ngie̍t|<<]]
+|colspan="5" align="center" bgcolor="#ccccff"| '''[[nùng-la̍k {{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t]]'''
+|[[Nùng-la̍k {{Chinese calendar/month name|{{#expr:((abs {{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}) mod 12) + 1}}}}-ngie̍t|>>]]
+|- style="text-align:center;"
+| [[{{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t 1-ngit (nùng-la̍k)|1]]
+| [[{{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t 2-ngit (nùng-la̍k)|2]]
+| [[{{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t 3-ngit (nùng-la̍k)|3]]
+| [[{{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t 4-ngit (nùng-la̍k)|4]]
+| [[{{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t 5-ngit (nùng-la̍k)|5]]
+| [[{{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t 6-ngit (nùng-la̍k)|6]]
+| [[{{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t 7-ngit (nùng-la̍k)|7]]
+|- style="text-align:center;"
+| [[{{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t 8-ngit (nùng-la̍k)|8]]
+| [[{{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t 9-ngit (nùng-la̍k)|9]]
+| [[{{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t 10-ngit (nùng-la̍k)|10]]
+| [[{{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t 11-ngit (nùng-la̍k)|11]]
+| [[{{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t 12-ngit (nùng-la̍k)|12]]
+| [[{{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t 13-ngit (nùng-la̍k)|13]]
+| [[{{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t 14-ngit (nùng-la̍k)|14]]
+|- style="text-align:center;"
+| [[{{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t 15-ngit (nùng-la̍k)|15]]
+| [[{{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t 16-ngit (nùng-la̍k)|16]]
+| [[{{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t 17-ngit (nùng-la̍k)|17]]
+| [[{{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t 18-ngit (nùng-la̍k)|18]]
+| [[{{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t 19-ngit (nùng-la̍k)|19]]
+| [[{{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t 20-ngit (nùng-la̍k)|20]]
+| [[{{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t 21-ngit (nùng-la̍k)|21]]
+|- style="text-align:center;"
+| [[{{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t 22-ngit (nùng-la̍k)|22]]
+| [[{{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t 23-ngit (nùng-la̍k)|23]]
+| [[{{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t 24-ngit (nùng-la̍k)|24]]
+| [[{{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t 25-ngit (nùng-la̍k)|25]]
+| [[{{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t 26-ngit (nùng-la̍k)|26]]
+| [[{{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t 27-ngit (nùng-la̍k)|27]]
+| [[{{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t 28-ngit (nùng-la̍k)|28]]
+|- style="text-align:center;"
+| [[{{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t 29-ngit (nùng-la̍k)|29]]
+| [[{{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t 30-ngit (nùng-la̍k)|30]]
+|colspan=4| &nbsp;
+|- style="background:#ccccff"
+|colspan="7" align="center" bgcolor="#ccccff"| [[nùng-la̍k]] ngie̍t-la̍k
+|}{{#if:{{NAMESPACE}}||
+[[Category:Nùng-la̍k {{Chinese calendar/month name|{{#expr:abs{{{1|{{Chinese calendar/month|{{JD|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}}}}}}}}}}-ngie̍t]]
+}}<noinclude>
+{{Documentation}}
+</noinclude>
