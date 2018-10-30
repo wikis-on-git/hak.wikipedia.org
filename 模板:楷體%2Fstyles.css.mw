@@ -1,0 +1,5 @@
+/* [[Template:楷體]] */
+
+.template-kai {
+    font-family: 標楷體, DFKai-SB, 'AR PL UKai HK', 'AR PL UKai TW', 全字庫正楷體, TW-Kai, 'AR PL KaitiM Big5', 楷体, KaiTi, 楷体_GB2312, KaiTi_GB2312, BiauKai, FandolKai, 华文楷体, STKaiti, Kai, 'AR PL UKai CN', 'AR PL KaitiM GB', EUDCKAI, cursive;
+}
