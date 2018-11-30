@@ -1,0 +1,4 @@
+.nowrap,
+.nowrap a:before {
+	white-space: nowrap;
+}
