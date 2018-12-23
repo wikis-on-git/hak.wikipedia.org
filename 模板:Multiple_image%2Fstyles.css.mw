@@ -1,0 +1,17 @@
+/* Note this will not work on old devices that do not support media queries. Ideally this should be defaults. */
+@media all and ( max-width: 720px ) {
+	.tmulti > .thumbinner {
+		/* not !important usage can be removed when these are no longer inline styles
+		inside Template:Multiple image and media query using min-width is introduced */
+		width: 100% !important;
+		max-width: none !important;
+	}
+	.tmulti .tsingle {
+		/* not !important usage can be removed when these are no longer inline styles
+		inside Template:Multiple image and media query using min-width is introduced */
+	    float: none !important;
+	    max-width: none !important;
+	    width: 100% !important;
+	    text-align: center;
+	}
+}
