@@ -1,0 +1,10 @@
+.font-mong {
+	font-family: 'Menk Hawang Tig', 'Menk Qagan Tig', 'Menk Garqag Tig', 'Menk Har_a Tig', 'Menk Scnin Tig', 'Oyun Gurban Ulus Tig', 'Oyun Qagan Tig', 'Oyun Garqag Tig', 'Oyun Har_a Tig', 'Oyun Scnin Tig', 'Oyun Agula Tig', 'Mongolian Baiti', 'Noto Sans Mongolian', 'Mongolian Universal White', 'Mongol Usug', 'Mongolian White', 'MongolianScript', 'Code2000', /*Myatav Erdenechimeg's*/'Menksoft Qagan';
+}
+
+.font-mong-mnc,
+.font-mong:lang(mnc-Mong),
+.font-mong:lang(dta-Mong),
+.font-mong:lang(sjo-Mong)  {
+	font-family: 'Abkai Xanyan', 'Abkai Xanyan LA', 'Abkai Xanyan VT', 'Abkai Xanyan XX', 'Abkai Xanyan SC', 'Abkai Buleku', 'Daicing White', 'Mongolian Baiti', 'Noto Sans Mongolian', 'Mongolian Universal White';
+}
