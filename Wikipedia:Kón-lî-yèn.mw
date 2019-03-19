@@ -39,18 +39,7 @@
 * 移動頁面 (move) 
 * 移動頁面跟它的子頁面 (move-subpages) 
 * 管理中央通告 (centralnotice-admin) 
-* 編輯其他用戶的CSS檔案 (editusercss) 
-* 編輯其他用戶的JavaScript檔案 (edituserjs) 
-* 編輯半保護頁面 (autoconfirmed) 
-* 編輯用戶界面 (editinterface) 
-* 繞過IP封鎖、自動封鎖以及範圍封鎖 (ipblock-exempt) 
-* 繞過Proxy的自動封鎖 (proxyunbannable) 
-* 自我解除封鎖 (unblockself) 
-* 覆蓋標題黑名單 (tboverride) 
-* 覆蓋現有的檔案 (reupload) 
-* 遞交一個trackback (trackback) 
-* 加入的一個群組: IP 查封例外者 
-* 移除的一個群組: IP 查封例外者
+* 編輯其他用戶的CSS檔案 (edi
 
 ==Kón-lî-yèn chhiáng-khiù ke Sṳ̂n-chhiáng-khî /管理員請求个申請區 ==
 {{Wikipedia:Kón-lî-yèn/Chhiáng-khiù}}
