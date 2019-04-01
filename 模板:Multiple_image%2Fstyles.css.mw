@@ -1,17 +1,71 @@
-/* Note this will not work on old devices that do not support media queries. Ideally this should be defaults. */
+/* this is a block */
+.thumbinner {
+	display: flex;
+	flex-direction: column;
+}
+
+.trow {
+	display: flex;
+	flex-direction: row;
+	clear: left;
+	flex-wrap: wrap;
+	width: 100%;
+	box-sizing: border-box;
+}
+
+/* this is a cell */
+.tsingle {
+	margin: 1px;
+	float: left;
+}
+
+.theader {
+	clear: both;
+	font-weight: bold;
+	text-align: center;
+	align-self: center;
+	background-color: transparent;
+	width: 100%;
+}
+
+.thumbcaption {
+	text-align: left;
+	background-color: transparent;
+}
+
+.text-align-left {
+	text-align: left;
+}
+
+.text-align-right {
+	text-align: right;
+}
+
+.text-align-center {
+	text-align: center;
+}
+
 @media all and ( max-width: 720px ) {
-	.tmulti > .thumbinner {
+	.thumbinner {
 		/* not !important usage can be removed when these are no longer inline styles
 		inside Template:Multiple image and media query using min-width is introduced */
 		width: 100% !important;
+		box-sizing: border-box;
 		max-width: none !important;
+		align-items: center;
 	}
-	.tmulti .tsingle {
+	.trow {
+		justify-content: center;
+	}
+	.tsingle {
 		/* not !important usage can be removed when these are no longer inline styles
 		inside Template:Multiple image and media query using min-width is introduced */
 	    float: none !important;
-	    max-width: none !important;
-	    width: 100% !important;
+	    max-width: 100% !important;
+	    box-sizing: border-box;
 	    text-align: center;
+	}
+	.thumbcaption {
+		text-align: center;
 	}
 }
