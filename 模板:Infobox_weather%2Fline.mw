@@ -15,9 +15,4 @@
 {{!}}style="{{Infobox weather/col{{{sc}}}|{{{f}}}*{{{yr1}}}}} border-left-width:medium"{{!}}{{#iferror:{{{yr{{{show}}}|}}}|{{formatnum:{{#iferror:{{{yr{{#ifeq:{{{show}}}|1|2|1}}}}}|—}}}}|{{formatnum:{{{yr{{{show}}}}}}}}{{#iferror:{{#expr:{{#if:{{{yr{{{alt}}}|}}}|{{{yr{{{alt}}}}}}|foo}}>1}}||<br>({{formatnum:{{{yr{{{alt}}}}}}}})}}}}|#default=<font color="red">'''Error: </includeonly>This template makes a table line with two values that are not dependent on the length of month<includeonly>, {{#switch:{{{sc|}}}|#default=to specify temperature add the <code><nowiki>|sc=t</nowiki></code> parameter|d=days of precipitation uses {{tlx|Infobox weather/oneline/date}}, which displays only one value and applies a length of month factor to the background color formula|h=humidity uses {{tlx|Infobox weather/oneline}}, which displays only one value|p=precipitation uses {{tlx|Infobox weather/line/date}}, which applies a length of month factor to the background color formula|s=sunshine hours uses {{tlx|Infobox weather/oneline/date}}, which displays only one value and applies a length of month factor to the background color formula}}.'''</font>}}</includeonly><noinclude>
 
 [[da:Skabelon:Infoboks vejr/linje]]
-[[es:Plantilla:Clima/line]]
-[[id:Templat:Infobox Weather/line]]
-[[no:Mal:Infoboks vær/linje]]
-[[pt:Predefinição:Infobox weather/line]]
-[[ro:Format:Infobox weather/line]]
 </noinclude>
