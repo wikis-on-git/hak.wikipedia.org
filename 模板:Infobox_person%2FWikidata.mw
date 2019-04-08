@@ -1,0 +1,95 @@
+{{Infobox
+|name         = Infobox person/Wikidata
+|bodystyle    = 
+|title        =
+|above        = {{{official_name|{{#if:{{#invoke:Wikidata|ViewSomething|labels|value}}|{{#invoke:Wikidata|ViewSomething|labels|value}}|{{PAGENAMEBASE}}}}}}} 
+|titlestyle   = 
+
+|image        = {{#invoke:InfoboxImage|InfoboxImage|image={{#invoke:Wikidata|getImages|P18|{{{image_main|FETCH_WIKIDATA}}} }}|size={{{image_size|}}}|sizedefault=frameless|alt={{{alt|}}}}}
+|imagestyle   = 
+|caption      = <!-- {{#if:{{{caption|{{#invoke:Wikidata|getImageLegend|FETCH_WIKIDATA}} }}}|{{{caption|{{#invoke:Wikidata|getImageLegend|FETCH_WIKIDATA}} }}} }} -->
+|captionstyle = 
+|headerstyle  = background:#ccf;
+|labelstyle   = background:#ddf; width:30%;
+|datastyle    = 
+
+| label1     = Mû-ngî-miàng
+| data1      = {{#invoke:Wikidata|getRawValue|P1559|{{{native_name<includeonly>|FETCH_WIKIDATA</includeonly>}}}}}
+
+|label11  = Chhut-se-ngit
+|data11   = {{#invoke:WikidataIB |getValue |P569 |rank=best |name=birth_date |fetchwikidata={{{fetchwikidata|ALL}}} |suppressfields={{{suppressfields|}}} |{{{birth_date<includeonly>|</includeonly>}}} |qid={{{qid|}}} |onlysourced={{{onlysourced|false}}} }}
+
+|label13  = Chhut-se-thi
+|data13   = {{#invoke:WikidataIB |getValue |P19 |rank=best |name=birth_place |fetchwikidata={{{fetchwikidata|ALL}}} |suppressfields={{{suppressfields|}}} |{{{birth_place<includeonly>|</includeonly>}}} |qid={{{qid|}}} |onlysourced={{{onlysourced|false}}} }}
+
+|label15  = Pún-miàng
+|data15   = {{#invoke:Wikidata|getRawValue|P1477|{{{birth_name<includeonly>|FETCH_WIKIDATA</includeonly>}}}}}
+
+|label21  = Ko-sṳ̂n-ngit
+|data21   = {{#invoke:WikidataIB |getValue |P570 |rank=best |name=death_date |fetchwikidata={{{fetchwikidata|ALL}}} |suppressfields={{{suppressfields|}}} |{{{death_date<includeonly>|</includeonly>}}} |qid={{{qid|}}} |onlysourced={{{onlysourced|false}}} }}
+
+|label23  = Ko-sṳ̂n-thi
+|data23   = {{#invoke:WikidataIB |getValue |P20 |rank=best |name=death_place |fetchwikidata={{{fetchwikidata|ALL}}} |suppressfields={{{suppressfields|}}} |{{{death_place<includeonly>|</includeonly>}}} |qid={{{qid|}}} |onlysourced={{{onlysourced|false}}} }}
+
+|label25  = Ko-sṳ̂n ngièn-yîn
+|data25   = {{#invoke:WikidataIB |getValue |P509 |rank=best |name=death_cause |fetchwikidata={{{fetchwikidata|ALL}}} |suppressfields={{{suppressfields|}}} |{{{death_cause<includeonly>|</includeonly>}}} |qid={{{qid|}}} |onlysourced={{{onlysourced|false}}} }}
+
+|label31  = Koet-sit
+|data31   = {{#invoke:WikidataIB |getValue |P27 |rank=best |name=citizenship |fetchwikidata={{{fetchwikidata|ALL}}} |suppressfields={{{suppressfields|}}} |{{{citizenship<includeonly>|</includeonly>}}} |qid={{{qid|}}} |onlysourced={{{onlysourced|false}}} }}
+
+|label41  = Mû-ngî
+|data41   = {{#invoke:WikidataIB |getValue |P103 |rank=best |name=native language |fetchwikidata={{{fetchwikidata|ALL}}} |suppressfields={{{suppressfields|}}} |{{{native_language<includeonly>|</includeonly>}}} |qid={{{qid|}}} |onlysourced={{{onlysourced|false}}} }}
+
+|label42  = voi kóng
+|data42   = {{#invoke:WikidataIB |getValue |P1412 |rank=best |name=languages spoken, written or signed |fetchwikidata={{{fetchwikidata|ALL}}} |suppressfields={{{suppressfields|}}} |{{{other_languages<includeonly>|</includeonly>}}} |qid={{{qid|}}} |onlysourced={{{onlysourced|false}}} }}
+
+|label45  = chûng-kau
+|data45   = {{#invoke:WikidataIB |getValue |P140 |rank=best |name=religion |fetchwikidata={{{fetchwikidata|ALL}}} |suppressfields={{{suppressfields|}}} |{{{religion<includeonly>|</includeonly>}}} |qid={{{qid|}}} |onlysourced={{{onlysourced|false}}} }}
+
+|label53  = Ho̍k-vi
+|data53   = {{#invoke:WikidataIB |getValue |P512 |rank=best |name=education |fetchwikidata={{{fetchwikidata|ALL}}} |suppressfields={{{suppressfields|}}} |{{{education<includeonly>|</includeonly>}}} |qid={{{qid|}}} |onlysourced={{{onlysourced|false}}} }}
+
+|label55  = Mû-káu
+|data55   = {{#invoke:WikidataIB |getValue |P69 |rank=best |name=alma_mater |fetchwikidata={{{fetchwikidata|ALL}}} |suppressfields={{{suppressfields|}}} |{{{alma_mater<includeonly>|</includeonly>}}} |qid={{{qid|}}} |onlysourced={{{onlysourced|false}}} }}
+
+|label61  = Chṳt-ngia̍p
+|data61   = {{#invoke:WikidataIB |getValue |P106 |rank=best |name=occupation |fetchwikidata={{{fetchwikidata|ALL}}} |suppressfields={{{suppressfields|}}} |{{{occupation<includeonly>|</includeonly>}}} |qid={{{qid|}}} |onlysourced={{{onlysourced|false}}} }}
+
+|label62  = Fûng-kak
+|data62   = {{#invoke:WikidataIB |getValue |P136 |rank=best |name=genre |fetchwikidata={{{fetchwikidata|ALL}}} |suppressfields={{{suppressfields|}}} |{{{genre<includeonly>|</includeonly>}}} |qid={{{qid|}}} |onlysourced={{{onlysourced|false}}} }}
+
+|label63  = ku-chú
+|data63   = {{#invoke:WikidataIB |getValue |P108 |rank=best |name=employer |fetchwikidata={{{fetchwikidata|ALL}}} |suppressfields={{{suppressfields|}}} |{{{employer<includeonly>|</includeonly>}}} |qid={{{qid|}}} |onlysourced={{{onlysourced|false}}} }}
+
+|label65  = Chṳn-tóng
+|data65   = {{#invoke:WikidataIB |getValue |P102 |rank=best |name=political_party |fetchwikidata={{{fetchwikidata|ALL}}} |suppressfields={{{suppressfields|}}} |{{{political_party<includeonly>|</includeonly>}}} |qid={{{qid|}}} |onlysourced={{{onlysourced|false}}} }}
+
+|label71  = chok-phín
+|data71   = {{#invoke:WikidataIB |getValue |P800 |rank=best |name=notable_works |fetchwikidata={{{fetchwikidata|ALL}}} |suppressfields={{{suppressfields|}}} |{{{notable_works<includeonly>|</includeonly>}}} |qid={{{qid|}}} |onlysourced={{{onlysourced|false}}} }}
+
+|label81  = Pû-ngiòng
+|data81   = {{#invoke:WikidataIB |getValue |P26 |rank=best |name=spouse |fetchwikidata={{{fetchwikidata|ALL}}} |suppressfields={{{suppressfields|}}} |{{{spouse<includeonly>|</includeonly>}}} |qid={{{qid|}}} |onlysourced={{{onlysourced|false}}} }}
+
+|label83  = Chṳ́-ńg
+|data83   = {{#invoke:WikidataIB |getValue |P40 |rank=best |name=children |fetchwikidata={{{fetchwikidata|ALL}}} |suppressfields={{{suppressfields|}}} |{{{children<includeonly>|</includeonly>}}} |qid={{{qid|}}} |onlysourced={{{onlysourced|false}}} }}
+
+|label84  = Kâ-chhu̍k
+|data84   = {{#invoke:WikidataIB |getValue |P53 |rank=best |name=family |fetchwikidata={{{fetchwikidata|ALL}}} |suppressfields={{{suppressfields|}}} |{{{family<includeonly>|</includeonly>}}} |qid={{{qid|}}} |onlysourced={{{onlysourced|false}}} }}
+
+|label85  = Â-pâ
+|data85   = {{#invoke:WikidataIB |getValue |P22 |rank=best |name=father |fetchwikidata={{{fetchwikidata|ALL}}} |suppressfields={{{suppressfields|}}} |{{{father<includeonly>|</includeonly>}}} |qid={{{qid|}}} |onlysourced={{{onlysourced|false}}} }}
+
+|label86  = Â-mê
+|data86   = {{#invoke:WikidataIB |getValue |P25 |rank=best |name=mother |fetchwikidata={{{fetchwikidata|ALL}}} |suppressfields={{{suppressfields|}}} |{{{mother<includeonly>|</includeonly>}}} |qid={{{qid|}}} |onlysourced={{{onlysourced|false}}} }}
+
+|label88  = Hiûng-thi chí-moi
+|data88   = {{#invoke:WikidataIB |getValue |P3373 |rank=best |name=sibling |fetchwikidata={{{fetchwikidata|ALL}}} |suppressfields={{{suppressfields|}}} |{{{sibling<includeonly>|</includeonly>}}} |qid={{{qid|}}} |onlysourced={{{onlysourced|false}}} }}
+
+|label91 = Mióng-cham
+|data91  = {{#invoke:Wikidata|getValue|P856|{{{website<includeonly>|FETCH_WIKIDATA</includeonly>}}}}}
+
+|belowstyle = background:#ddf;
+|below = {{EditOnWikidata}}
+}}<noinclude>
+{{documentation}}
+</noinclude>
