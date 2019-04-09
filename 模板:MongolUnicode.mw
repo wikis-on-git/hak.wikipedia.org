@@ -1,6 +1,5 @@
-<indicator name="Mong"><templatestyles src="Template:MongolUnicode/fonts.css" /></indicator><span {{#if:{{{lang|{{{3|}}}}}}|lang="{{{lang|{{{3|}}}}}}-Mong"}} class="font-mong" style="display:{{{display|inline-block}}}; font-weight:{{{font-weight|normal}}}; font-size: {{{font-size|1.25em}}}; line-height: {{{line-height|1.25em}}}; {{#ifeq:{{{2|}}}|h||{{writing-mode|v2}}}} vertical-align:{{{vertical-align|{{{valign|{{#ifeq:{{{2|}}}|h|middle|text-top}}}}}}}}; {{{style|}}}">{{{1}}}</span><noinclude>
+<templatestyles src="Template:MongolUnicode/fonts.css" /><span {{#if:{{{lang|}}}|lang="{{{lang|}}}-Mong"}} class="font-mong" style="display:inline-block; font-weight:normal; font-size: {{{size|1.25em}}}; line-height: 1.25em; {{#ifeq:{{{2|}}}|h||-ms-writing-mode:tb-lr; writing-mode:tb-lr; -webkit-writing-mode: vertical-lr; writing-mode: vertical-lr; word-wrap:normal;}} vertical-align:{{{vertical-align|{{{valign|text-top}}}}}}; {{{style|}}}">{{{1}}}</span><noinclude>
 {{Documentation}}
-
 [[Category:Text-specific formatting and function templates]]
 [[Category:Mongolian language|Template]]
 </noinclude>
