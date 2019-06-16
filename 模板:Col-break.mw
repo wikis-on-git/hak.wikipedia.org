@@ -1,4 +1,4 @@
-<p></p>
-| {{#if:{{{width<includeonly>|</includeonly>}}}|width="{{{width}}}"}} style="text-align:{{{align|left}}};vertical-align:{{{valign|top}}};{{#if: {{{gap<includeonly>|</includeonly>}}} | padding-left:{{{gap}}}; }}" |<noinclude>
+&#32;
+| style="{{#if:{{{width|}}}|width: {{{width}}}; }}text-align: {{{align|left}}}; vertical-align: {{{valign|top}}}; {{#if: {{{gap|}}}|padding-left: {{{gap}}};}} {{{style|}}}" |<noinclude>
 {{Documentation}}
 </noinclude>
