@@ -1,4 +1,5 @@
-<includeonly>{| class="toccolours" align="center"
+<includeonly>{{Commonscat|{{{decade|}}}s}}
+{| class="toccolours" align="center"
 |-
 | style="text-align:left; | {{#ifeq: {{{decade|}}} | 0 | &larr; [[:Category:Chhièn 0 ngièn-thoi|Chhièn 0 ngièn-thoi]] | [[:Category:{{#expr: {{{decade|}}} - 10 }} ngièn-thoi|&larr; {{#expr: {{{decade|}}} - 10 }} ngièn-thoi]] }}
 ! [[:Category:{{{decade|}}} ngièn-thoi|{{{decade|}}} ngièn-thoi]]
