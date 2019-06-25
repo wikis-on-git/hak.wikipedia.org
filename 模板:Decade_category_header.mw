@@ -1,0 +1,28 @@
+<includeonly>{| class="toccolours" align="center"
+|-
+| style="text-align:left; | {{#ifeq: {{{decade|}}} | 0 | &larr; [[:Category:Chhièn 0 ngièn-thoi|Chhièn 0 ngièn-thoi]] | [[:Category:{{#expr: {{{decade|}}} - 10 }} ngièn-thoi|&larr; {{#expr: {{{decade|}}} - 10 }} ngièn-thoi]] }}
+! [[:Category:{{{decade|}}} ngièn-thoi|{{{decade|}}} ngièn-thoi]]
+| style="text-align:right; | [[:Category:{{#expr: {{{decade|}}} + 10}} ngièn-thoi|{{#expr: {{{decade|}}} + 10}} ngièn-thoi &rarr;]]
+|-
+| colspan=3 | {{flatlist|
+* [[:Category:{{{decade|}}} ngièn|{{{decade|}}} ngièn]]
+* [[:Category:{{#expr: {{{decade|}}} + 1 }} ngièn|{{#expr: {{{decade|}}} + 1 }} ngièn]]
+* [[:Category:{{#expr: {{{decade|}}} + 2 }} ngièn|{{#expr: {{{decade|}}} + 2 }} ngièn]]
+* [[:Category:{{#expr: {{{decade|}}} + 3 }} ngièn|{{#expr: {{{decade|}}} + 3 }} ngièn]]
+* [[:Category:{{#expr: {{{decade|}}} + 4 }} ngièn|{{#expr: {{{decade|}}} + 4 }} ngièn]]
+* [[:Category:{{#expr: {{{decade|}}} + 5 }} ngièn|{{#expr: {{{decade|}}} + 5 }} ngièn]]
+* [[:Category:{{#expr: {{{decade|}}} + 6 }} ngièn|{{#expr: {{{decade|}}} + 6 }} ngièn]]
+* [[:Category:{{#expr: {{{decade|}}} + 7 }} ngièn|{{#expr: {{{decade|}}} + 7 }} ngièn]]
+* [[:Category:{{#expr: {{{decade|}}} + 8 }} ngièn|{{#expr: {{{decade|}}} + 8 }} ngièn]]
+* [[:Category:{{#expr: {{{decade|}}} + 9 }} ngièn|{{#expr: {{{decade|}}} + 9 }} ngièn]]
+}}
+|}</includeonly><!--
+--><noinclude>
+{{Documentation|content=
+'''用法'''
+<pre>{{Decade category header
+| decade = 1700 <!--該年代的開始年份，例子為1700 ngièn-thoi-->
+}}
+</pre>}}
+[[Category:Sṳ̀-kiên|{{PAGENAME}}]]
+</noinclude>
