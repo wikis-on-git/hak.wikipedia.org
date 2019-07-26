@@ -1,0 +1,340 @@
+{{Documentation subpage}}
+<!-- Place categories where indicated at the bottom of this page and interwikis at Wikidata (see [[WP:Wikidata]]) -->
+{{Template shortcut|ill|ILL}}
+{{High-use| 55000 }}
+{{COinS safe|n}}
+{{Hatnote|For guidance, see [[Help:Interlanguage links#Inline links]].}}
+{{Language templates}}
+
+This template links conditionally to pages on non-English Wikipedias. If the specified article {{em|does not exist}} on the English Wikipedia, this template {{em|intentionally}} displays a red link to that anticipated but still-nonexistent article, followed by link(s) to the specified article(s) on the non-English Wikipedia(s), shown under the corresponding [[language code]](s), in brackets. Hovering over a non-English link displays the name of the article on the non-English Wikipedia, as normal. Links to non-English Wikipedia articles are always blue; it is up to the editor to make sure they link to the intended article.
+
+If the specified article {{em|exists}} (that is, after the anticipated article has been created) on the English Wikipedia, this template will only show the blue link to that article, and no longer to the non-English link(s).
+
+This template should not be used in hatnotes as [[Wikipedia:Hatnote#Non-existent_articles|red links should not be present in hatnotes]].
+
+==Usage==
+There are several ways of using this template. It can produce links to one or more specific languages, [[User:Magnus Manske|Magnus Manske]]'s [https://tools.wmflabs.org/reasonator/ Reasonator], or to the Wikidata table of languages.
+
+The shortcut {{tl|ill}} may be used.
+
+A full list of language codes can be found at [[List of Wikipedias#Detailed list]].
+
+{{As of|2016|2}}, if there is a redirect for the term in English Wikipedia, both the redirected (blue) link and interlanguage link(s) are displayed. This is why "casa" appears as a bluelink in the example [[#Link to multiple languages|below]].
+
+==Link to one foreign language==
+To link to a foreign language article with the {{em|same}} title as the English Wikipedia, the parameters are:
+
+{{tlc|ill|''Article title''|''language code''}}
+*{{tlc|ill|Hanning Schröder|de}} gives {{{{PAGENAMETDOC}}|Hanning Schröder|de}}
+
+To link to a foreign language article with a {{em|different}} title, the parameters are:
+
+{{tlc|ill|''English article title''|''language code''|''Title in foreign language''}}
+*{{tlc|ill|Hooglede town hall|nl|Gemeentehuis van Hooglede}} gives {{{{PAGENAMETDOC}}|Hooglede town hall|nl|Gemeentehuis van Hooglede}}
+
+==Link to multiple languages==
+To link to multiple languages with the same title as the English language page, the titles of the page are not necessary; the parameters are:
+
+{{tlc|ill|''English article title''|''language 1 code''||''language 2 code''||...}}
+*{{tlc|ill|casa|es||it||ro||de|haus}} gives {{{{PAGENAMETDOC}}|casa|es||it||ro||de|haus}}
+
+To link to multiple language articles, the parameters are:
+
+{{tlc|ill|''English article title''|''language 1 code''|''Title in language 1''|''language 2 code''|''Title in language 2''|...}}
+
+*{{tlc|ill|Olena Chaplynska|uk|Олена Чаплинська|ru|Чаплинская, Гелена|ja|モトローナ・チャプリーンシカ}} gives {{{{PAGENAMETDOC}}|Olena Chaplynska|uk|Олена Чаплинська|ru|Чаплинская, Гелена|ja|モトローナ・チャプリーンシカ}}
+
+==Link to Reasonator and Wikidata==
+To link to the Wikidata table of languages in which the article is available, the parameters are:
+
+{{tlc|ill|''Article title in English Wikipedia''|WD{{=}}''Wikidata item code''}}
+* {{tlc|ill|Jokery|WD{{=}}Q131138}} gives {{{{PAGENAMETDOC}}|Jokery|WD=Q131138}}
+All links to other Wikipedias are ignored if {{para|WD}} is present.
+
+To link to [https://tools.wmflabs.org/reasonator/ Reasonator], add any value for the parameter {{para|reasonator}}. If a Wikidata item is linked, then the Reasonator link goes to the page for that item; if not, then a search is performed on Reasonator for that item.
+{| class="wikitable"
+|-
+! Input !! Output
+|-
+| <code><nowiki>{{Interlanguage link|Jokery|WD=Q131138|reasonator=1}}</nowiki></code> || {{{{PAGENAMETDOC}}|Jokery|WD=Q131138|reasonator=1}}
+|-
+| <code><nowiki>{{Interlanguage link|Jokery|reasonator=1}}</nowiki></code> || {{{{PAGENAMETDOC}}|Jokery|reasonator=1}}
+|}
+
+==Modifying the display==
+===Displaying different text===
+To create a [[WP:piped link|piped link]] (text displayed that is different from the title of the page to which the text links), use the {{para|lt}} parameter (which stands for "link text"). This is useful if [[WP:disambiguation|disambiguation]] is necessary, for example to hide the (botanist) in [[Charles Darwin (botanist)]]:
+* {{tlx|ill|Charles Darwin (botanist)|lt{{=}}Charley Darwin|fr|Charles Darwin|de|Charles Darwin|es|Charles Darwin}} gives {{{{PAGENAMETDOC}}|Charles Darwin (botanist)|lt=Charley Darwin|fr|Charles Darwin|de|Charles Darwin|es|Charles Darwin}}
+
+'''Do not''' use {{tlf|!}} to create piped links: {{tlx|ill|Maze (band){{tlf|!}}Mazy|...}} is not equivalent to {{tlx|ill|Maze (band)|lt{{=}}Mazy|...}}. The former will not cause the foreign language links to disappear when the English article exists.
+
+===Forcing links===
+To display the interlanguage links even if the English Wikipedia article exists, add any of the values <code>1</code>, <code>y</code>, <code>yes</code> or <code>force</code> for the parameter {{para|display}}.
+
+{| class="wikitable"
+|-
+! Input !! Output
+|-
+| <code><nowiki>{{Interlanguage link|Joke|fr|Blague|hu|Vicc|de|Witz}}</nowiki></code> || {{{{PAGENAMETDOC}}|Joke|fr|Blague|hu|Vicc|de|Witz}}
+|-
+| <code><nowiki>{{Interlanguage link|Joke|fr|Blague|hu|Vicc|de|Witz|display=1}}</nowiki></code> || {{{{PAGENAMETDOC}}|Joke|fr|Blague|hu|Vicc|de|Witz|display=1}}
+|}
+
+===Remove bold formatting from links===
+Usually the display of the Interlanguage or Wikidata or the Reasonator (the "appended link") are in normal font, but if the appended link is for example in a title line of table, then along with the rest of the line the appended link will be bold. In such circumstances the appended link can be set to display unbolded by adding any value for the parameter {{para|nobold}}.
+
+{| class="wikitable"
+|-
+! Input !! Output
+|-
+| <code><nowiki>'''{{Interlanguage link|Charles Darwin (botanist)|fr|Charles Darwin|de|Charles Darwin}}'''</nowiki></code> || '''{{{{PAGENAMETDOC}}|Charles Darwin (botanist)|fr|Charles Darwin|de|Charles Darwin}}'''
+|-
+| <code><nowiki>'''{{Interlanguage link|nobold=1|Charles Darwin (botanist)|fr|Charles Darwin|de|Charles Darwin}}'''</nowiki></code> || '''{{{{PAGENAMETDOC}}|nobold=1|Charles Darwin (botanist)|fr|Charles Darwin|de|Charles Darwin}}'''
+|}
+
+===Vertical alignment===
+
+The vertical alignment of the interlanguage/Wikidata/Reasonator links can be altered by adding:
+*<code><nowiki>vertical-align=sup</nowiki></code> to place the links in superscript
+*<code><nowiki>vertical-align=sub</nowiki></code> to place the links in subscript
+
+{| class="wikitable"
+|-
+! Input !! Output
+|-
+| <code><nowiki>{{Interlanguage link|vertical-align=sup|Charles Darwin (botanist)|fr|Charles Darwin|de|Charles Darwin}}</nowiki></code> || {{{{PAGENAMETDOC}}|vertical-align=sup|Charles Darwin (botanist)|fr|Charles Darwin|de|Charles Darwin}}
+|-
+| <code><nowiki>{{Interlanguage link|vertical-align=sub|Charles Darwin (botanist)|fr|Charles Darwin|de|Charles Darwin}}</nowiki></code> || {{{{PAGENAMETDOC}}|vertical-align=sub|Charles Darwin (botanist)|fr|Charles Darwin|de|Charles Darwin}}
+|}
+
+==Examples==
+* <code><nowiki>{{Interlanguage link|TC Matic|af|TC Matic|nl|TC Matic|fr|TC Matic|es|TC Matic}}</nowiki></code> gives {{{{PAGENAMETDOC}}|TC Matic|af|TC Matic|nl|TC Matic|fr|TC Matic|es|TC Matic}}, because [[TC Matic]] exists here
+* <code><nowiki>{{Interlanguage link|TC Matic (band)|af|TC Matic|nl|TC Matic|fr|TC Matic|es|TC Matic}}</nowiki></code> gives {{{{PAGENAMETDOC}}|TC Matic (band)|af|TC Matic|nl|TC Matic|fr|TC Matic|es|TC Matic}}, because [[TC Matic (band)]] does not exist here
+* <code><nowiki>{{Interlanguage link|TC Matic (band)|af||nl||fr||es|}}</nowiki></code> gives {{{{PAGENAMETDOC}}|TC Matic (band)|af||nl||fr||es|}} – although shown in blue the interwiki links won't work because they default to the title "TC Matic (band)" which is wrong
+* <code><nowiki>{{Interlanguage link|TC Matic (band)|lt=TC Matic|af|TC Matic|nl|TC Matic|fr|TC Matic|es|TC Matic}}</nowiki></code> gives {{{{PAGENAMETDOC}}|TC Matic (band)|lt=TC Matic|af|TC Matic|nl|TC Matic|fr|TC Matic|es|TC Matic}} – the text "TC Matic" now redlinks to "TC Matic (band)"
+* <code><nowiki>{{Interlanguage link|TC Matic|lt=TC Matic (band)|af|TC Matic|nl|TC Matic|fr|TC Matic|es|TC Matic}}</nowiki></code> gives {{{{PAGENAMETDOC}}|TC Matic|lt=TC Matic (band)|af|TC Matic|nl|TC Matic|fr|TC Matic|es|TC Matic}} – the text "TC Matic (band)" now links to "TC Matic" which exists
+
+==TemplateData==
+{{TemplateData header}}
+<templatedata>
+{
+	"params": {
+		"1": {
+			"label": "Article name",
+			"description": "Name of the English Wikipedia page, or suggested name if the page does not exist",
+			"type": "wiki-page-name",
+			"required": true,
+			"suggested": true
+		},
+		"2": {
+			"label": "1st language code",
+			"description": "Language code for the 1st page in another language",
+			"type": "line",
+			"suggested": true
+		},
+		"3": {
+			"label": "1st page",
+			"description": "Title of the page in the 1st other language, if not the same as the English Wikipedia page",
+			"type": "line",
+			"default": "English Wikipedia article title",
+			"suggested": true
+		},
+		"4": {
+			"label": "2nd language code",
+			"description": "Language code for the 2nd page in another language",
+			"type": "line"
+		},
+		"5": {
+			"label": "2nd page",
+			"description": "Title of the page in the 2nd other language, if not the same as the English Wikipedia page",
+			"type": "line",
+			"default": "English Wikipedia article title"
+		},
+		"6": {
+			"label": "3rd language code",
+			"description": "Language code for the 3rd page in another language",
+			"type": "line"
+		},
+		"7": {
+			"label": "3rd page",
+			"description": "Title of the page in the 3rd other language, if not the same as the English Wikipedia page",
+			"default": "English Wikipedia article title",
+			"type": "line"
+		},
+		"8": {
+			"label": "4th language code",
+			"description": "Language code for the 4th page in another language",
+			"type": "line"
+		},
+		"9": {
+			"label": "4th page",
+			"description": "Title of the page in the 4th other language, if not the same as the English Wikipedia page",
+			"type": "line",
+			"default": "English Wikipedia article title"
+		},
+		"10": {
+			"label": "5th language code",
+			"description": "Language code for the 5th page in another language",
+			"type": "line"
+		},
+		"11": {
+			"label": "5th page",
+			"description": "Title of the page in the 5th other language, if not the same as the English Wikipedia page",
+			"type": "line",
+			"default": "English Wikipedia article title"
+		},
+		"12": {
+			"label": "6th language code",
+			"description": "Language code for the 6th page in another language",
+			"type": "line"
+		},
+		"13": {
+			"label": "6th page",
+			"description": "Title of the page in the 6th other language, if not the same as the English Wikipedia page",
+			"type": "line",
+			"default": "English Wikipedia article title"
+		},
+		"14": {
+			"label": "7th language code",
+			"description": "Language code for the 7th page in another language",
+			"type": "line"
+		},
+		"15": {
+			"label": "7th page",
+			"description": "Title of the page in the 7th other language, if not the same as the English Wikipedia page",
+			"type": "line",
+			"default": "English Wikipedia article title"
+		},
+		"16": {
+			"label": "8th language code",
+			"description": "Language code for the 8th page in another language",
+			"type": "line"
+		},
+		"17": {
+			"label": "8th page",
+			"description": "Title of the page in the 8th other language, if not the same as the English Wikipedia page",
+			"type": "line",
+			"default": "English Wikipedia article title"
+		},
+		"18": {
+			"label": "9th language code",
+			"description": "Language code for the 9th page in another language",
+			"type": "line"
+		},
+		"19": {
+			"label": "9th page",
+			"description": "Title of the page in the 9th other language, if not the same as the English Wikipedia page",
+			"type": "line",
+			"default": "English Wikipedia article title"
+		},
+		"20": {
+			"label": "10th language code",
+			"description": "Language code for the 10th page in another language",
+			"type": "line"
+		},
+		"21": {
+			"label": "10th page",
+			"description": "Title of the page in the 10th other language, if not the same as the English Wikipedia page",
+			"type": "line",
+			"default": "English Wikipedia article title"
+		},
+		"22": {
+			"label": "11th language code",
+			"description": "Language code for the 11th page in another language",
+			"type": "line"
+		},
+		"23": {
+			"label": "11th page",
+			"description": "Title of the page in the 11th other language, if not the same as the English Wikipedia page",
+			"type": "line",
+			"default": "English Wikipedia article title"
+		},
+		"24": {
+			"label": "12th language code",
+			"description": "Language code for the 12th page in another language",
+			"type": "line"
+		},
+		"25": {
+			"label": "12th page",
+			"description": "Title of the page in the 12th other language, if not the same as the English Wikipedia page",
+			"type": "line",
+			"default": "English Wikipedia article title"
+		},
+		"lt": {
+			"label": "Link text",
+			"description": "Text displayed for the link to the English Wikipedia article, if not the same as the article title",
+			"type": "line",
+			"default": "English Wikipedia article title",
+			"suggested": true
+		},
+		"WD": {
+			"label": "Wikidata item",
+			"description": "Wikidata item of the article. Replaces links to pages in other languages",
+			"type": "line",
+			"suggested": true
+		},
+		"reasonator": {
+			"label": "Reasonator",
+			"description": "If anything is set for this, there is a link to the Reasonator page for the Wikidata item (if there is a link to an item) or to a Reasonator search for the English Wikipedia article title (if there is no item link) ",
+			"type": "string"
+		},
+		"nobold": {
+			"label": "No bold (or italic)",
+			"description": "Forces links to other-language pages, Wikidata and Reasonator and the link brackets to have non-bold or -italic text",
+			"type": "string"
+		},
+		"preserve": {
+			"label": "Preserve",
+			"description": "If anything is set for this, forces links to pages in other languages and projects to always display even if the English Wikipedia article exists",
+			"aliases": [
+				"display"
+			],
+			"type": "string"
+		}
+	},
+	"description": "Link to other Wikipedias or Wikidata if an article in the English Wikipedia doesn't exist.",
+	"paramOrder": [
+		"1",
+		"lt",
+		"2",
+		"3",
+		"4",
+		"5",
+		"6",
+		"7",
+		"8",
+		"9",
+		"10",
+		"11",
+		"12",
+		"13",
+		"14",
+		"15",
+		"16",
+		"17",
+		"18",
+		"19",
+		"20",
+		"21",
+		"22",
+		"23",
+		"24",
+		"25",
+		"WD",
+		"reasonator",
+		"preserve",
+		"nobold"
+	]
+}
+</templatedata>
+
+==Redirects==
+After [[WP:Templates for discussion/Log/2015 March 8#Template:Interlanguage link multi|a merge discussion]], five other templates were merged into this template, and thus this template contains all of their features.
+
+{{Interlanguage link template list}}
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox | |
+<!-- Categories below this line, please; interwikis at Wikidata -->
+[[Category:Internal link templates]]
+[[Category:Interwiki link templates]]
+}}</includeonly>
