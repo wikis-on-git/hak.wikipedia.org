@@ -1,0 +1,10 @@
+<div class="templatedata-header">{{#if:{{{noheader|}}}| |This is the {{#if:{{{nolink|}}}|TemplateData|[[Wikipedia:TemplateData|TemplateData]]}} documentation for this template used by [[Wikipedia:VisualEditor|VisualEditor]] and other tools.}}
+
+See the [https://tools.wmflabs.org/bambots/TemplateParam.php?wiki=enwiki&template={{Urlencode:{{{1|{{ROOTPAGENAME}}}}}}} monthly error report] for this template.
+
+'''TemplateData for {{{1|{{BASEPAGENAME}}}}}'''
+</div><includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox||
+[[Category:TemplateData documentation]]
+}}</includeonly><noinclude>
+{{Documentation}}
+</noinclude>
