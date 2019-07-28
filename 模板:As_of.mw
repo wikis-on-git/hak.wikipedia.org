@@ -8,7 +8,7 @@
 ## optional named parameter url=[URL] gives statement reference
 
 ## displayed text ([A/a]s of [Start date] by default)
--->{{#if:{{{alt|}}}|{{{alt}}}|Chia̍t chì {{Startdate|{{{1}}}|{{MONTHNUMBER|{{{2|}}}}}|{{{3|}}}}}}}<!--
+-->{{#if:{{{alt|}}}|{{{alt}}}|Chṳ {{Startdate|{{{1}}}|{{MONTHNUMBER|{{{2|}}}}}|{{{3|}}}}}}}<!--
 
 
 ## ref/update inline banner (hidden by default)
@@ -30,5 +30,5 @@
 --></includeonly><noinclude><!-- 
 
 ## dynamic example (截止今天,自我参考)
--->Chia̍t chì {{Start date|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}<sup class="plainlinks">[http://en.wikipedia.org/wiki/Template:As_of &#91;ref&#93;]</sup>
+-->Chṳ {{Start date|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}<sup class="plainlinks">[http://en.wikipedia.org/wiki/Template:As_of &#91;ref&#93;]</sup>
 {{documentation}}</noinclude>
