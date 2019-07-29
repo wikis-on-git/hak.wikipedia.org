@@ -1,0 +1,721 @@
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AT THE BOTTOM OF THIS PAGE -->
+{{High-risk| approximately 946684 }}
+{{Lua|Module:Authority control|Module:Check for unknown parameters}}
+{{Uses Wikidata|section=Wikidata}}
+{{Lua sidebar}}
+{{TOC right}}
+
+== Description ==
+{{details|Authority control|Wikipedia:Authority control}}
+This metadata template links Wikipedia articles to various library (and other) catalogue systems, for biographies and other topics.
+
+This template draws most of its values from [[Wikidata]], but they can be overridden by locally entered data. Adding the data to Wikidata is preferable.
+
+If there is no information in Wikidata for the specific subject, an empty instance of this template will be ''dormant'', meaning it will be invisible on the rendered page. Thus, using this template on a page with no authority information is harmless.
+
+An empty instance of this template stays dormant in an article, until values are added to Wikidata, when it will then display them, so this template should be added to all biographies, whether or not there are authority control identifiers in Wikidata already.
+
+=== User pages ===
+
+The template may also be placed on user pages, but then data must be entered locally.
+
+== Data types ==
+
+Wikidata content is used as fallback for all identifiers.
+
+The template validates digits for all values and shows an error if the check fails.
+
+Wherever possible, the template also generates a link to [[WorldCat Identities]], using VIAF or LCCN values, or manually via {{para|WORLDCATID}}.
+
+== Position ==
+{{See also|Wikipedia:Manual of Style/Layout#Standard appendices and footers{{!}}Wikipedia:Manual of Style/Layout}}
+As a metadata template, the Authority control template should be placed after the [[Wikipedia:External links|external links]] section and [[Wikipedia:Navigation templates|navigation templates]], right before the categories.
+
+==Usage==
+As a rule of thumb: (1) insert the empty version, (2) click "Show preview" to see which sources are automatically pulled from Wikidata, (3a) if you know more sources, add them in the template using their named parameter, (3b) alternatively, consider adding them to the article's "Wikidata item", so that all versions of Wikipedia will automatically benefit.
+
+; Empty (reliant wholly on Wikidata) : <kbd><nowiki>{{Authority control}}</nowiki></kbd>
+
+; Selective suppression via blank parameters (reliant wholly on Wikidata, except the suppressed parameters) : <kbd><nowiki>{{Authority control |VIAF= |LCCN= |WORLDCATID=}}</nowiki></kbd>
+
+; Full (may not be up-to-date) : <kbd><nowiki>{{Authority control |VIAF=xxxxxx |LCCN=n/xx/xxxxxx |ISNI=xxxx xxxx xxxx xxxx |ORCID=xxxx-xxxx-xxxx-xxxx |GND=xxxxxx |SELIBR=xxxxxx |SUDOC=xxxxxxxxx |BNF=xxxxxx |BPN=xxxxx |RID=xxxxx |BIBSYS=xxxxx |ULAN=xxxxx |HDS=xxxxx |LIR=x |MBA=xxxxxx |MGP=xxxxxx |NLA=xxxxxxx |NDL=xxxxxxxx |NCL=x |NKC=aaxxxxxxxx |Léonore=LH/xxxx/xx |SBN=IT\ICCU\AAAA\xxxxxx |RSL=xxxxxxxxx |Botanist=A.a. |USCongress=Axxxxxx |BNE=XXxxxxxxx |CINII=DAxxxxxxxx |TLS=Aaaa_Aaaa |SIKART=xxxxxxx |KULTURNAV=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx |LNB=xxxxxxxxx |NSK=xxxxxxxxx |RKDartists=xxxxxx |IAAF=xxxxxx |ACM-DL=xxxxxxxxxxx |Autores.uy=xxxxx |BALaT=x |Bildindex=x |DBLP=xxx/xxx |Joconde=xxxxxxxxxxx |NARA=xxxxxxx |PIC=x |RKDID=xxxxxx |SNAC-ID=xa}}</nowiki></kbd><!-- As of 25 June 2018 -->
+
+;The following data sources are accepted (may not be up-to-date):
+
+{| class="wikitable sortable"
+! Parameter || Scope || Name || Search || Remarks
+|-
+| VIAF
+| People
+| [[Virtual International Authority File]]
+| [https://viaf.org/]
+| International authority data from the Online Computer Library Center (OCLC)
+|-
+| LCCN
+| People
+| [[Library of Congress Control Number]]
+| [http://authorities.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First]
+| See [[Wikipedia:Authority control#LCCN]] for formatting instructions
+|-
+| ISNI
+| People
+| [[International Standard Name Identifier]]
+| [http://isni.org/search]
+| ISNI is a method for uniquely identifying the public identities of contributors to media content such as books, TV programmes, and newspaper articles. '''Please take care not to confuse ISNI and ORCID identifiers.'''
+|-
+| ORCID
+| People
+| [[ORCID]]
+| [https://orcid.org/]
+| Authority data on researchers, academics, etc. The ID range is a subset of the [[ISNI]] range. For free text links (for example when mentioning a person on page which is not about them), it is also possible to use {{tl|ORCID}}. Authors—including Wikipedia editors—may obtain an ORCID by signing up at [https://orcid.org/register orcid.org/register]. '''Please take care not to confuse ORCID and ISNI identifiers.'''
+|-
+| GND
+| All
+| [[Integrated Authority File]] (''{{lang|de|Gemeinsame Normdatei}}'')
+| [http://www.dnb.de/EN/Home/home_node.html] [http://swb.bsz-bw.de/DB=2.104/SET=4/TTL=1/LNG=EN/START_WELCOME?retrace=0]
+| Authority data on people, corporations and subjects from the [[German National Library]] (DNB)
+|-
+| SELIBR
+| People
+| [[LIBRIS]]
+| [http://libris.kb.se/]
+| Authority data from the [[National Library of Sweden]]
+|-
+| SUDOC
+| People
+| ''{{lang|fr|[[Système universitaire de documentation]]}}''
+| [http://www.idref.fr/autorites/autorites.html]<!--IdRef direct interface--> {{fr icon}}
+| Authority data of people listed in the general catalogue of the University Documentation System of France. Also available from [http://www.sudoc.abes.fr/xslt//DB=2.1/SET=2/TTL=1/LNG=EN/ English-speaking catalog] (search author, click one book, click author name, take PPN= value of the URL)
+|-
+| BNF
+| People
+| ''{{lang|fr|[[Bibliothèque nationale de France]]}}''
+| [http://catalogue.bnf.fr/jsp/recherche_combinee_tout.jsp?host=catalogue] {{fr icon}}
+| Authority data of people listed in the general catalogue of the National Library of France
+|-
+| BPN
+| People
+| [[Biografisch Portaal|Dutch Biography Portal]] (''{{lang|nl|Biografisch Portaal}}'')
+| [http://www.biografischportaal.nl/en/]
+| Dutch project with material for 40,000 digitized biographies, including former colonies of the Netherlands.
+|-
+| RID
+| People
+| [[ResearcherID]]
+| [http://www.researcherid.com/ViewProfileSearch.action]
+| An identifying system for scientific authors. The system was introduced in January 2008 by [[Thomson Reuters]]. The combined use of the [[digital object identifier]] with the ResearcherID allows for a unique association of authors and scientific articles.
+<!--|-
+| Scopus
+| People
+| [[Scopus]]
+| ''Login required''
+| SciVerse Scopus is a bibliographic database containing abstracts and citations for academic journal articles. It covers nearly 19,500 titles from over 5,000 international publishers, of which 16,500 are peer-reviewed journals in the scientific, technical, medical, and social sciences (including arts and humanities).-->
+|-
+| BIBSYS
+| People
+| [[BIBSYS]]
+| [http://ask.bibsys.no/ask/action/smpsearch]
+| BIBSYS is a supplier of library and information systems for all Norwegian university Libraries, the National Library of Norway, college libraries, and a number of research libraries and institutions.
+|-
+| ULAN
+| Artists
+| [[Union List of Artist Names]]
+| [http://www.getty.edu/research/tools/vocabularies/ulan/index.html]
+| ULAN is an online database using a controlled vocabulary currently containing around 293,000 names and other information about artists. Names in ULAN may include given names, pseudonyms, variant spellings, names in multiple languages, and names that have changed over time (e.g., married names).
+|-
+| HDS
+|
+| [[Historical Dictionary of Switzerland]]
+| [http://www.hls-dhs-dss.ch/f/home]
+| Historical Dictionary of Switzerland is an encyclopedia on the history of Switzerland.
+|-
+| LIR
+|
+| {{Section link|Historical Dictionary of Switzerland|Lexicon Istoric Retic}}
+| [http://www.e-lir.ch/]
+| ''Lexicon Istoric Retic'' (LIR) is a two volume version with a selection of articles published in Romansh.
+|-
+| MBA
+| Artists
+| [[MusicBrainz]] Artist ID
+| [https://musicbrainz.org/search]
+| MusicBrainz is an open music encyclopedia that collects music metadata and makes it available to the public.
+|-
+| MGP
+|
+| [[Mathematics Genealogy Project]]
+| [https://genealogy.math.ndsu.nodak.edu/search.php]
+| Mathematics Genealogy Project is a web-based database for the academic genealogy of mathematicians.
+|-
+| NLA
+| People or groups
+| [[National Library of Australia]]
+| [//trove.nla.gov.au/people]
+| NLA Trove’s People and Organisation view allows the discovery of biographical and other contextual information about people and organisations. Search also available via [http://viaf.org/ VIAF].
+|-
+| NDL
+| People
+| [[National Diet Library]]
+| [http://iss.ndl.go.jp/?locale=en]
+| Authority data listed in the catalog of the national library of Japan. Search also available via [http://viaf.org/ VIAF].
+|-
+| NCL
+|
+| [[National Central Library]]
+| 
+| National Central Library is the national library of Taiwan, Republic of China.
+|-
+| NKC
+|
+| [[National Library of the Czech Republic]]
+| [http://aleph.nkp.cz/eng/aut]
+| National Library of the Czech Republic (''Národní knihovna České republiky'') is the central library of the Czech Republic.
+|-
+| Léonore
+|
+| ''[[Base Léonore]]''
+| [http://www.culture.gouv.fr/documentation/leonore/recherche.htm]
+| Léonore database (''Base Léonore'') is a French database that lists the records of the members of the National Order of the Legion of Honor.
+|-
+| SBN
+|
+| ''[[Istituto Centrale per il Catalogo Unico]]'' (ICCU) ''Servizio bibliotecario nazionale'' (SBN)
+| [http://opac.sbn.it/opacsbn/opac/iccu/authority.jsp]
+| Central Institute for the Union Catalogue (ICCU: ''Istituto Centrale per il Catalogo Unico'') is an Italian government agency created to build a single catalog of all the libraries in the nation. It manages National Library Service (SBN: ''Servizio bibliotecario nazionale'').
+|-
+| RSL
+|
+| [[Russian State Library]]
+| [http://aleph.rsl.ru/F/?func=file&file_name=find-b&CON_LNG=ENG]
+| Russian State Library (Российская государственная библиотека) is the national library of Russia.
+|-
+| Botanist
+|
+| [[Author citation (botany)]]
+| [http://www.ipni.org/ipni/authorsearchpage.do]
+| Author citation (botany): standard form (official abbreviation) of a personal name for use in an author citation (only for names of algae, fungi and plants). Links to page at [[International Plant Names Index]] (IPNI).
+|-
+| NARA
+|
+| [[National Archives and Records Administration]]
+| [https://catalog.archives.gov/advancedsearch]
+| National Archives and Records Administration (NARA) is an independent agency of the United States government charged with preserving and documenting government and historical records.
+|-
+| USCongress
+|
+| [[Biographical Directory of the United States Congress]]
+| [http://bioguide.congress.gov/biosearch/biosearch.asp]
+| Biographical Directory of the United States Congress is a biographical dictionary of all present and former members of the United States Congress and its predecessor, the Continental Congress. Also included are Delegates from territories and the District of Columbia and Resident Commissioners from the Philippines and Puerto Rico.
+|-
+| BNE
+|
+| ''[[Biblioteca Nacional de España]]''
+| [http://datos.bne.es/personas]
+| National Library of Spain (BNE: ''Biblioteca Nacional de España'') is a major public library, the largest in Spain.
+|-
+| CINII
+|
+| [[CiNii]]
+| [http://ci.nii.ac.jp/]
+| CiNii is a bibliographic database service for material in Japanese academic libraries. It is maintained by the [[National Institute of Informatics]].
+|-
+| TLS
+|
+| ''[[Theaterlexikon der Schweiz]]''
+| [http://tls.theaterwissenschaft.ch/]
+| ''Theaterlexikon der Schweiz'' (TLS) is an encyclopedia about theatre in Switzerland. It was developed by the Institute of Theatre Studies of the [[University of Berne]].
+|-
+| SIKART
+|
+| [[SIKART]]
+| [http://www.sikart.ch/KuenstlerInnen.aspx]
+| SIKART is a biographical dictionary and a database on visual art in Switzerland and Liechtenstein. It is published online by the Swiss Institute for Art Research (SIAR).
+|-
+| KULTURNAV
+|
+| [[KulturNav]]
+| [http://kulturnav.org/index]
+| KulturNav is a Norwegian cloud-based software service, allowing users to create, manage and distribute name authorities and terminology, focusing on the needs of museums and other cultural heritage institutions. The software is developed by KulturIT ANS and the development project is funded by the [[Arts Council Norway]].
+|-
+| RKDartists
+| Artists
+| {{Section link|Netherlands Institute for Art History|Online artist pages}}
+| [https://rkd.nl/en/explore/artists/record?query]
+| RKDartists is an online database using a controlled vocabulary currently containing around 200,000+ names and other information about artists. Names in RKDartists may include given names, pseudonyms, variant spellings, names in multiple languages, and names that have changed over time (e.g., married names).
+|-
+| RKDID
+| Art
+| [[:d:Q17299580|RKDimages ID]]
+| [https://rkd.nl/explore/images/]
+| 
+|-
+| autores.uy
+| Authors
+| [[autores.uy]]
+| [http://autores.uy]
+| autores.uy is an author's database, that focus on [[Uruguay]]an authors. It was created and maintained by the Uruguayan chapter of Creative Commons. It also provides access to digitized works of the authors in public domain.
+|-
+| PIC
+| Photographers
+| [[New York Public Library#PIC|Photographers' Identities Catalog]]
+| [https://pic.nypl.org/]
+| PIC is a photographer's database. It is maintained by the New York Public Library.
+|-
+| IAAF
+| People
+| [[International Association of Athletics Federations]]
+| [https://www.iaaf.org/athletes]
+| The IAAF athlete database lists information about [[sport of athletics]] competitors.
+|-
+| ACM-DL
+| People
+| [[ACM Digital Library]]
+| [https://dl.acm.org/]
+| 
+|-
+| BALaT
+| People or groups or art
+| [[d:Q2876688|d:BALaT]]
+| [http://balat.kikirpa.be/?lang=en-GB]
+| Belgian Art Links and Tools
+|-
+| Bildindex
+| Art
+| [[Marburg Picture Index]]
+| [http://www.bildindex.de/]
+| 
+|-
+| DBLP
+| Publications
+| [[DBLP]]
+| [https://dblp.org/]
+| 
+|-
+| Joconde
+| Art
+| [[Joconde]]
+| [http://www2.culture.gouv.fr/documentation/joconde/fr/pres.htm]
+| 
+|-
+| LNB
+| People
+| [[National Library of Latvia]]
+| [http://www.lnb.lv/]
+| 
+|-
+| NSK
+| 
+| [[National and University Library in Zagreb]]
+| [http://katalog.nsk.hr]
+| 
+|-
+| SNAC-ID
+| People or groups
+| [[Social Networks and Archival Context]]
+| [http://snaccooperative.org/]
+| 
+|}
+
+{{Anchor|Deprecated parameters}}
+;The following data sources are '''deprecated'''
+
+and will cause articles to be added to hidden tracking sub-categories of [[:Category:Wikipedia articles with authority control information]]:
+{{Collapse top|title=Deprecated parameters}}
+{| class="wikitable"
+! Deprecated<br />parameter
+! Scope
+! style="width:17em" | Name
+! Remarks
+! Tracking
+|-
+| {{red|GKD}}
+| Corporations
+| {{lang|de|[[Gemeinsame Körperschaftsdatei]]}}<br />(now part of GND)
+| Authority data on corporations from the German National Library ({{red|'''deprecated''', please use GND}})
+| [[:Category:Wikipedia articles with deprecated authority control identifiers|Tracking for all deprecated IDs]]
+|-
+| {{red|PND}}
+| People
+| {{lang|de|[[Personennamendatei]]}}<br />(now part of GND)
+| Authority data on people from the German National Library ({{red|'''deprecated''', please use GND}})
+| [[:Category:Wikipedia articles with deprecated authority control identifiers|Tracking for all deprecated IDs]]
+|-
+| {{red|SWD}}
+| Subjects
+| {{lang|de|[[Schlagwortnormdatei]]}}<br />(now part of GND)
+| Authority data on subjects from the German National Library ({{red|'''deprecated''', please use GND}})
+| [[:Category:Wikipedia articles with deprecated authority control identifiers|Tracking for all deprecated IDs]]
+|-
+| {{red|NARA-organization}}
+| Organizations
+| [[National Archives and Records Administration|NARA]]-organization<br />(now simply [[National Archives and Records Administration|NARA]])
+| Authority data on organizations via federal records ({{red|'''deprecated''', please use NARA}})
+| [[:Category:Wikipedia articles with deprecated authority control identifiers|Tracking for all deprecated IDs]]
+|-
+| {{red|NARA-person}}
+| People
+| [[National Archives and Records Administration|NARA]]-person<br />(now simply [[National Archives and Records Administration|NARA]])
+| Authority data on people via federal records ({{red|'''deprecated''', please use NARA}})
+| [[:Category:Wikipedia articles with deprecated authority control identifiers|Tracking for all deprecated IDs]]
+|}
+{{collapse bottom}}
+
+==Examples==
+[[Victor Hugo]]:
+
+<kbd><nowiki>{{Authority control |VIAF=9847974 |LCCN=n/79/091479 |ISNI=0000 0001 2120 0982 |GND=118554654 |SELIBR=206651 |SUDOC=026927608 |BNF=cb11907966z |BIBSYS=90054094 |ULAN=500032572 |HDS=11461 |MBA=c0c99c8f-4779-4c35-9497-67d60a73310a |NLA=35212404 |NDL=00443985 |NKC=jn19990003739 |Léonore=LH/1320/26 |SBN=IT\ICCU\CFIV\000163 |RSL=000081185 |BNE=XX874892 |CINII=DA00460099 |RKDartists=40381 }}</nowiki></kbd>
+
+{{Authority control |VIAF=9847974 |LCCN=n/79/091479 |ISNI=0000 0001 2120 0982 |GND=118554654 |SELIBR=206651 |SUDOC=026927608 |BNF=cb11907966z |BIBSYS=90054094 |ULAN=500032572 |HDS=11461 |MBA=c0c99c8f-4779-4c35-9497-67d60a73310a |NLA=35212404 |NDL=00443985 |NKC=jn19990003739 |Léonore=LH/1320/26 |SBN=IT\ICCU\CFIV\000163 |RSL=000081185 |BNE=XX874892 |CINII=DA00460099 |RKDartists=40381 }}
+
+[[Alexander Graham Bell]]:
+
+<kbd><nowiki>{{Authority control |VIAF=59263727 |LCCN=n/79/113947 |ISNI=0000 0000 8138 6064 |GND=119408643 |SUDOC=066924146 |BNF=13746617f |MBA=9dd93d09-24b4-41f1-a48b-ef48b07499c3 |NDL=00620343 }}</nowiki></kbd>
+
+{{Authority control |VIAF=59263727 |LCCN=n/79/113947 |ISNI=0000 0000 8138 6064 |GND=119408643 |SUDOC=066924146 |BNF=13746617f |MBA=9dd93d09-24b4-41f1-a48b-ef48b07499c3 |NDL=00620343 }}
+
+[[Harry Forbes Witherby]]:
+
+<kbd><nowiki>{{Authority control |VIAF=66861474 |LCCN=n/87/142671 |ISNI=0000 0001 0911 2808 |GND=117421863 |SUDOC=090162897 }}</nowiki></kbd>
+
+{{Authority control |VIAF=66861474 |LCCN=n/87/142671 |ISNI=0000 0001 0911 2808 |GND=117421863 |SUDOC=090162897 }}
+
+{{Anchor|Wikidata|Tracking categories}}
+
+==Wikidata and tracking categories==
+The template can get its information from the following properties on [[Wikidata]]:
+
+{{#invoke:Authority control|docConfTable}}
+
+=== Additional tracking categories ===
+This template may add the following categories:
+* {{clc|Pages with red-linked authority control categories}} – error category to identify missing categories
+* {{clc|Wikipedia articles with deprecated authority control identifiers}} – fix/migrate/remove deprecated IDs
+* {{clc|Wikipedia articles with suppressed authority control identifiers}} – tracking only (no error)
+* {{clc|Pages using authority control with parameters}} – articles and categories transcluding this template with explicit parameters, i.e. not loaded from WikiData (no error)
+* {{clc|VIAF not on Wikidata}}
+* {{clc|VIAF different on Wikidata}}
+* {{clc|Wikipedia articles with WorldCat identifiers}}
+* {{clc|Wikipedia articles with WorldCat-LCCN identifiers}}
+* {{clc|Wikipedia articles with WorldCat-VIAF identifiers}}
+
+== Error reports ==
+{{Template error report}}
+
+== Microformat ==
+The template wraps each UID value with the [[HTML]] markup: <code><nowiki><span class="uid">...</span></nowiki></code>, which enables the first-found value to be included in an [[hCard]] [[microformat]]. For that reason, VIAF, where present, is emitted first.
+
+==See also==
+* [[Wikipedia:Authority control]] – editor information
+** [[Wikipedia:Authority control integration proposal/FAQ|FAQ]]
+* [[Help:Authority control]] – reader help
+* [[Template:Taxonbar]] – authority control style template for taxonomic databases 
+* [[Template:Infobox book]] – supporting some [[library classification]] systems
+* [[Template:German National Library portal]]
+* For more information:
+** {{lang|de|[[:de:Wikipedia:Normdaten]]}} {{De icon}}
+** {{lang|de|[[:de:Hilfe:GND]]}} {{De icon}}
+** [[:Commons:Template:Authority control]]
+
+== TemplateData ==
+{{TemplateDataHeader}}
+<templatedata>
+{
+        "description": "A template to link Wikipedia articles to various library catalogue systems",
+        "params": {
+                "VIAF": {
+                        "label": "VIAF",
+                        "description": "International authority data from the Online Computer Library Center (OCLC).",
+                        "type": "number",
+                        "default": "Wikidata property P214"
+                },
+                "LCCN": {
+                        "label": "LCCN",
+                        "description": "Library of Congress Control Number.  See [[Wikipedia:Authority control#LCCN]] for formatting instructions.",
+                        "type": "string",
+                        "default": "Wikidata property P244"
+                },
+                "ISNI": {
+                        "label": "ISNI",
+                        "description": "International Standard Name Identifier is a method for uniquely identifying the public identities of contributors to media content such as books, TV programmes, and newspaper articles.",
+                        "type": "string",
+                        "default": "Wikidata property P213"
+                },
+                "ORCID": {
+                        "label": "ORCID",
+                        "description": "Authority data on researchers, academics, etc. The ID range has been defined as a subset of the forthcoming ISNI range.",
+                        "type": "string",
+                        "default": "Wikidata property P496"
+                },
+                "GND": {
+                        "label": "GND",
+                        "aliases": ["GKD", "PND", "SWD"],
+                        "description": "Authority data on people, corporations and subjects from the German National Library.",
+                        "type": "string",
+                        "default": "Wikidata property P227"
+                },
+                "SELIBR": {
+                        "label": "SELIBR",
+                        "description": "Authority data from the National Library of Sweden.",
+                        "type": "string",
+                        "default": "Wikidata property P906"
+                },
+                "SUDOC": {
+                        "label": "SUDOC",
+                        "description": "Authority data of people listed in the general catalogue of the University Documentation System of France.",
+                        "type": "string",
+                        "default": "Wikidata property P269"
+                },
+                "BNF": {
+                        "label": "BNF",
+                        "description": "Authority data of people listed in the general catalogue of the National Library of France.",
+                        "type": "string",
+                        "default": "Wikidata property P268"
+                },
+                "BPN": {
+                        "label": "BPN",
+                        "description": "Dutch project with material for 40,000 digitized biographies, including former colonies of the Netherlands.",
+                        "type": "number",
+                        "default": "Wikidata property P651"
+                },
+                "RID": {
+                        "label": "RID",
+                        "description": "An identifying system for scientific authors. The system was introduced in January 2008 by Thomson Reuters. The combined use of the Digital Object Identifier with the ResearcherID allows for a unique association of authors and scientific articles.",
+                        "type": "string",
+                        "default": "Wikidata property P1053"
+                },
+                "BIBSYS": {
+                        "label": "BIBSYS",
+                        "description": "BIBSYS is a supplier of library and information systems for all Norwegian university Libraries, the National Library of Norway, college libraries, and a number of research libraries and institutions.",
+                        "type": "string",
+                        "default": "Wikidata property P1015"
+                },
+                "ULAN": {
+                        "label": "ULAN",
+                        "description": "ULAN is an online database using a controlled vocabulary currently containing around 293,000 names and other information about artists.",
+                        "type": "string",
+                        "default": "Wikidata property P245"
+                },
+                "HDS": {
+                        "label": "HDS",
+                        "description": "Historical Dictionary of Switzerland is an encyclopedia on the history of Switzerland.",
+                        "type": "number",
+                        "default": "Wikidata property P902"
+                },
+                "LIR": {
+                        "label": "LIR",
+                        "description": "Historical Dictionary of Switzerland: Lexicon Istoric Retic (LIR) is a two volume version with a selection of articles published in Romansh.",
+                        "type": "number",
+                        "default": "Wikidata property P886"
+                },
+                "MBA": {
+                        "label": "MBA",
+                        "description": " MusicBrainz is an open music encyclopedia that collects music metadata and makes it available to the public.",
+                        "type": "string",
+                        "default": "Wikidata property P434"
+                },
+                "MGP": {
+                        "label": "MGP",
+                        "description": "Mathematics Genealogy Project is a web-based database for the academic genealogy of mathematicians.",
+                        "type": "number",
+                        "default": "Wikidata property P549"
+                },
+
+                "NLA": {
+                        "label": "NLA",
+                        "description": "Authority control number issued by the National Library of Australia.",
+                        "type": "string",
+                        "default": "Wikidata property P409"
+                },
+                "NDL": {
+                        "label": "NDL",
+                        "description": "Authority control number issued by the National Diet Library (National Library of Japan).",
+                        "type": "number",
+                        "default": "Wikidata property P349"
+                },
+                "NCL": {
+                        "label": "NCL",
+                        "description": "National Central Library is the national library of Taiwan, Republic of China.",
+                        "type": "number",
+                        "default": "Wikidata property P1048"
+                },
+                "NKC": {
+                        "label": "NKC",
+                        "description": "National Library of the Czech Republic (Národní knihovna České republiky) is the central library of the Czech Republic.",
+                        "type": "string",
+                        "default": "Wikidata property P691"
+                },
+                "Léonore": {
+                        "label": "Léonore",
+                        "description": "Léonore database (Base Léonore) is a French database that lists the records of the members of the National Order of the Legion of Honor.",
+                        "type": "string",
+                        "default": "Wikidata property P640"
+                },
+                "SBN": {
+                        "label": "SBN",
+                        "description": "Central Institute for the Union Catalogue (ICCU: Istituto Centrale per il Catalogo Unico) is an Italian government agency created to build a single catalog of all the libraries in the nation. It manages National Library Service (SBN: Servizio bibliotecario nazionale).",
+                        "type": "string",
+                        "default": "Wikidata property P396"
+                },
+                "RSL": {
+                        "label": "RSL",
+                        "description": "Russian State Library (Российская государственная библиотека) is the national library of Russia.",
+                        "type": "number",
+                        "default": "Wikidata property P947"
+                },
+                "Botanist": {
+                        "label": "Botanist",
+                        "description": "Author citation (botany): standard form (official abbreviation) of a personal name for use in an author citation (only for names of algae, fungi and plants). Links to page at International Plant Names Index (IPNI).",
+                        "type": "string",
+                        "default": "Wikidata property P428"
+                },
+                "NARA": {
+                        "label": "NARA",
+                        "aliases": ["NARA-person", "NARA-organization"],
+                        "description": "National Archives and Records Administration (NARA) is an independent agency of the United States government charged with preserving and documenting government and historical records.",
+                        "type": "number",
+                        "default": "Wikidata property P1225"
+                },
+                "NARA-person": {
+                        "label": "NARA-person",
+                        "description": "National Archives and Records Administration (NARA) is an independent agency of the United States government charged with preserving and documenting government and historical records.",
+                        "type": "number",
+                        "default": "Wikidata property P1222",
+			"deprecated": true
+                },
+                "NARA-organization": {
+                        "label": "NARA-organization",
+                        "description": "National Archives and Records Administration (NARA) is an independent agency of the United States government charged with preserving and documenting government and historical records.",
+                        "type": "number",
+                        "default": "Wikidata property P1223",
+			"deprecated": true
+                },
+                "USCongress": {
+                        "label": "USCongress",
+                        "description": "Biographical Directory of the United States Congress is a biographical dictionary of all present and former members of the United States Congress and its predecessor, the Continental Congress. Also included are Delegates from territories and the District of Columbia and Resident Commissioners from the Philippines and Puerto Rico.",
+                        "type": "string",
+                        "default": "Wikidata property P1157"
+                },
+                "BNE": {
+                        "label": "BNE",
+                        "description": "National Library of Spain (BNE: Biblioteca Nacional de España) is a major public library, the largest in Spain.",
+                        "type": "string",
+                        "default": "Wikidata property P950"
+                },
+                "CINII": {
+                        "label": "CINII",
+                        "description": "CiNii is a bibliographic database service for material in Japanese academic libraries. It is maintained by the [[National Institute of Informatics]].",
+                        "type": "string",
+                        "default": "Wikidata property P271"
+                },
+                "TLS": {
+                        "label": "TLS",
+                        "description": "Theaterlexikon der Schweiz (TLS) is an encyclopedia about theatre in Switzerland. It was developed by the Institute of Theatre Studies of the University of Berne.",
+                        "type": "string",
+                        "default": "Wikidata property P1362"
+                },
+                "SIKART": {
+                        "label": "SIKART",
+                        "description": "SIKART is a biographical dictionary and a database on visual art in Switzerland and Liechtenstein. It is published online by the Swiss Institute for Art Research (SIAR).",
+                        "type": "number",
+                        "default": "Wikidata property P781"
+                },
+                "KULTURNAV": {
+                        "label": "KULTURNAV",
+                        "description": "KulturNav is a Norwegian cloud-based software service, allowing users to create, manage and distribute name authorities and terminology, focusing on the needs of museums and other cultural heritage institutions. The software is developed by KulturIT ANS and the development project is funded by the [[Arts Council Norway]].",
+                        "type": "string",
+                        "default": "Wikidata property P1248"
+                },
+                "RKDartists": {
+                        "label": "RKDartists",
+                        "description": "RKDartists is an online database using a controlled vocabulary currently containing around 200,000+ names and other information about artists",
+                        "type": "number",
+                        "default": "Wikidata property P650"
+                },
+               "autores.uy": {
+                        "label": "autores.uy",
+                        "description": "autores.uy is an author's database, that focus on uruguayan authors. It also provides access to digitized works of the authors in public domain.",
+                        "type": "number",
+                        "default": "Wikidata property P2558"
+                },
+               "PIC": {
+                        "label": "PIC",
+                        "description": "Photographers' Identities Catalog (PIC) is a photographer's database. It is maintained by the New York Public Library.",
+                        "type": "number",
+                        "default": "Wikidata property P2750"
+                },
+               "ACM-DL": {
+                        "label": "ACM-DL",
+                        "description": "Association for Computing Machinery Digital Library (ACM DL) author identifier.",
+                        "type": "number",
+                        "default": "Wikidata property P864"
+                },
+               "BALaT": {
+                        "label": "BALaT",
+                        "description": "Identifier for images in the Photo Library database of BALaT (Belgian Art Links & Tools), maintained by KIK-IRPA, Belgium's Royal Institute for Cultural Heritage.",
+                        "type": "number",
+                        "default": "Wikidata property P3293"
+                },
+               "Bildindex": {
+                        "label": "Bildindex",
+                        "description": "Picture index of art and architecture.",
+                        "type": "number",
+                        "default": "Wikidata property P2092"
+                },
+               "DBLP": {
+                        "label": "DBLP",
+                        "description": "Identifier for person entries in the DBLP (Digital Bibliography & Library Project) computer science bibliography.",
+                        "type": "number",
+                        "default": "Wikidata property P2456"
+                },
+               "IAAF": {
+                        "label": "IAAF",
+                        "description": "Identifier for athletes in International Association of Athletics Federations (IAAF) database and website.",
+                        "type": "string",
+                        "default": "Wikidata property P1146"
+                },
+               "Joconde": {
+                        "label": "Joconde",
+                        "description": "Identifier in the Joconde database of the French Ministry of Culture.",
+                        "type": "string",
+                        "default": "Wikidata property P347"
+                },
+               "LNB": {
+                        "label": "LNB",
+                        "description": "Identifier assigned by the National Library of Latvia.",
+                        "type": "number",
+                        "default": "Wikidata property P1368"
+                },
+               "NSK": {
+                        "label": "NSK",
+                        "description": "Identifier for an item in the National and University Library in Zagreb (including leading zeroes).",
+                        "type": "number",
+                        "default": "Wikidata property P1375"
+                },
+               "RKDID": {
+                        "label": "RKDID",
+                        "description": "Identifier per RKDimages of the Netherlands Institute for Art History.",
+                        "type": "number",
+                        "default": "Wikidata property P350"
+                },
+               "SNAC-ID": {
+                        "label": "SNAC-ID",
+                        "description": "Identifier for items in the Social Networks and Archival Context system.",
+                        "type": "string",
+                        "default": "Wikidata property P3430"
+                }
+        }
+}
+</templatedata>
+
+== External links ==
+; Maintenance reports
+* [//tools.wmflabs.org/kasparbot/ac.php?select-project-enwiki=1 Authority control validator] provided by [[User:KasparBot|KasparBot]]
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox||
+<!-- CATEGORIES HERE, THANKS -->
+[[Category:People and person external link templates]]
+[[Category:External link templates to linked data sites with reciprocal links]]
+[[Category:Templates using data from Wikidata]]
+[[Category:Templates that add a tracking category]]
+[[Category:External link templates using Wikidata]]
+}}</includeonly>
