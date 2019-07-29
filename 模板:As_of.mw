@@ -18,10 +18,10 @@
 {{main other|[[Category:包含截止日期说明的条目（--><!--
 
 ## temporal category for template (word method)
-{{#if: {{#ifexpr: {{{1}}} = 1 }} | {{#ifexpr: {{#time:Y|{{{1}}}}} > 2004 | {{{1}}} | {{#ifexpr: {{#time:Y|{{{1}}}}} > 1989 | {{#time:Y|{{{1}}}}} | 1990年以前 }}}} | --><!--
+{{#if: {{#ifexpr: {{{1}}} = 1 }} | {{#ifexpr: {{#time:Y|{{{1}}}}} > 2004 | {{{1}}} | {{#ifexpr: {{#time:Y|{{{1}}}}} > 1989 | {{#time:Y|{{{1}}}}} | 1990-ngièn yî-chhièn }}}} | --><!--
 
 ## temporal category for template (parameter method)
-{{#ifexpr: {{{1}}} > 2004 | {{{1}}}年{{#if:{{{2|}}} | {{{2}}}月 }}  | {{#ifexpr:{{{1}}} > 1989 | {{{1}}}年 | 1990年以前 }}}}}} ）]]--><!--
+{{#ifexpr: {{{1}}} > 2004 | {{{1}}}-ngièn{{#if:{{{2|}}} | {{{2}}}-ngie̍t }}  | {{#ifexpr:{{{1}}} > 1989 | {{{1}}}-ngièn | 1990-ngièn yî-chhièn }}}}}} ）]]--><!--
 
 ## global category for template
 [[Category:包含截止日期说明的条目]]}}--><!--
