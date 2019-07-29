@@ -1,0 +1,11 @@
+{{Sister project
+| position = {{{position|}}}
+| project  = data
+| text     = Liá-ke {{module other|module|template}} sṳ́-yung to {{#if:{{{section|}}} | [[Wikidata]] su̍k-sin; khí-thí chhiáng khon [[#{{{section}}}|§&nbsp;{{{section}}}]]. | [[Wikidata]] su̍k-sin:
+{{#invoke:Uses Wikidata|usesProperty}}
+}}}}{{#switch:{{SUBPAGENAME}}
+|sandbox |testcases |doc= <!--no category-->
+|#default={{#ifeq:{{PAGENAME}} |Uses Wikidata ||{{module other |[[Category:Modules using data from Wikidata]] |{{template other |[[Category:Templates using data from Wikidata]]}} }} }}
+}}<!--
+
+--><noinclude>{{documentation}}</noinclude>
