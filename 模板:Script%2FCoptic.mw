@@ -1,0 +1,3 @@
+<templatestyles src="Script/styles_coptic.css" /><span class="script-coptic">{{{1}}}</span><noinclude>
+{{documentation}}
+</noinclude>
