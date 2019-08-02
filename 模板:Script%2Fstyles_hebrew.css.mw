@@ -1,0 +1,5 @@
+.script-hebrew,
+.script-Hebr {
+	font-size: 1.15em;
+	font-family: 'Ezra SIL', 'Ezra SIL SR', 'Keter Aram Tsova', 'Taamey Ashkenaz', 'Taamey David CLM', 'Taamey Frank CLM', 'Frank Ruehl CLM', 'Keter YG', 'Shofar', 'David CLM', 'Hadasim CLM', 'Simple CLM', 'Nachlieli', 'SBL BibLit', 'SBL Hebrew', Cardo, Alef, 'Noto Serif Hebrew', 'Noto Sans Hebrew', 'David Libre', David, 'Times New Roman', Gisha, Arial, FreeSerif, FreeSans;
+}
