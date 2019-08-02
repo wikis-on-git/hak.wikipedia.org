@@ -1,0 +1,4 @@
+<templatestyles src="Script/styles_khmer.css" /><span class="script-khmer">{{{1}}}</span><noinclude>
+{{Uses TemplateStyles|Template:Script/styles khmer.css}}
+[[Category:Austroasiatic multilingual support templates|{{PAGENAME}}]]
+</noinclude>
