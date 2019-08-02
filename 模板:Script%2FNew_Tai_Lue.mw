@@ -1,0 +1,4 @@
+<templatestyles src="Script/styles_talu.css" /><span class="script-Talu">{{{1}}}</span><noinclude>
+{{Uses TemplateStyles|Template:Script/styles talu.css}}
+[[Category:Kra–Dai multilingual support templates|{{PAGENAME}}]]
+</noinclude>
