@@ -1,0 +1,3 @@
+.script-aramaic {
+	font-family: 'Aramaic VIIBCE', 'Aramaic Imperial Yeb', 'Noto Sans Imperial Aramaic', 'Everson Mono', EversonMono, 'Unifont Upper CSUR', Unifont, Quivira, sans-serif;
+}
