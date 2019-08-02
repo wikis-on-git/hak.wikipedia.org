@@ -1,0 +1,3 @@
+.script-coptic {
+	font-family: 'New Athena Unicode', 'MPH 2B Damase', 'FreeSerif', 'Arial Coptic', Quivira, Analecta, Antinoou, 'Sophia Nubian', 'Noto Sans Coptic', 'Segoe UI Historic', 'Segoe UI Symbol';
+}
