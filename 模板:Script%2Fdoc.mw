@@ -1,0 +1,113 @@
+{{Documentation subpage}}
+{{Uses TemplateStyles|Template:Script/styles.css|noprotcat=yes}}
+
+=== Usage ===
+This template applies custom styling (better typefaces and/or typefaces that support uncommon scripts and/or bigger size text) to scripts (writing systems), identified by their [[ISO 15924]] code. It takes two unnamed parameters: the ISO code, and the text to transform. Currently, the following codes are supported:
+* {{tlf|Script|Arab|أبجدية عربية}}&lrm; &rarr; {{Script|Arab|أبجدية عربية}}&lrm; <small>(uses {{tl|Script/Arabic}})</small>
+** {{tlf|Script|fa-Arab|فارسی}}&lrm; &rarr; {{Script|fa-Arab|فارسی}} <small>(uses {{tl|Script/Nastaliq}})</small>
+** {{tlf|Script|ps-Arab|پښتو}}&lrm; &rarr; {{Script|ps-Arab|پښتو}} <small>(uses {{tl|Script/Nastaliq}})</small>
+** {{tlf|Script|ur-Arab|اُردُو}}&lrm; &rarr; {{Script|ur-Arab|اُردُو}} <small>(uses {{tl|Script/Nastaliq}})</small>
+** {{tlf|Script|Aran|اُردُو}}&lrm; &rarr; {{Script|Aran|اُردُو}} <small>(uses {{tl|Script/Nastaliq}})</small>
+* {{tlf|Script|Armi|𐡀𐡁𐡂}}&lrm; &rarr; {{Script|Armi|𐡀𐡁𐡂}} <small>(uses {{tl|Script/Aramaic}})</small>
+* {{tlf|Script|Bali|ᬅᬓ᭄ᬱᬭᬩᬮᬶ}} &rarr; {{Script|Bali|ᬅᬓ᭄ᬱᬭᬩᬮᬶ}} <small>(uses {{tl|Script/Bali}})</small>
+* {{tlf|Script|Bamu|ꚩꚫꛑꚩꚳ ꚳ꛰ꛀꚧꚩꛂ}} &rarr; {{Script|Bamu|ꚩꚫꛑꚩꚳ ꚳ꛰ꛀꚧꚩꛂ}} <small>(uses {{tl|Script/Bamum}})</small>
+* {{tlf|Script|Brah|𑀓𑀔𑀕𑀖𑀗}} &rarr; {{Script|Brah|𑀓𑀔𑀕𑀖𑀗}} <small>(uses {{tl|Script/Brahmi}})</small>
+* {{tlf|Script|Bugi|ᨒᨚᨈᨑ}} &rarr; {{Script|Bugi|ᨒᨚᨈᨑ}} <small>(uses {{tl|Script/Lontara}})</small>
+* {{tlf|Script|Buhd|ᝊᝓᝑᝒ}} &rarr; {{Script|Buhd|ᝊᝓᝑᝒ}} <small>(uses {{tl|Script/Buhid}})</small>
+* {{tlf|Script|Chak|𑄇𑄈𑄉𑄊𑄋}} &rarr; {{Script|Chak|𑄇𑄈𑄉𑄊𑄋}} <small>(uses {{tl|Script/Chakma}})</small>
+* {{tlf|Script|Cham|ꨆꨇꨈꨉꨊ}} &rarr; {{Script|Cham|ꨆꨇꨈꨉꨊ}} <small>(uses {{tl|Script/Cham}})</small>
+* {{tlf|Script|Copt|ⲙⲉⲧⲣⲉⲙⲛⲭⲏⲙⲓ}} &rarr; {{Script|Copt|ⲙⲉⲧⲣⲉⲙⲛⲭⲏⲙⲓ}} <small>(uses {{tl|Script/Coptic}})</small>
+* {{tlf|Script|Cprt|𐠀𐠰𐠦𐠡𐠩}}&lrm; &rarr; {{Script|Cprt|𐠀𐠰𐠦𐠡𐠩}}
+* {{tlf|Script|Cyrs|азъбоукы}} &rarr; {{Script|Cyrs|азъбоукы}} <small>(uses {{tl|Script/Slavonic}})</small>
+* {{tlf|Script|Ethi|አማርኛ}} &rarr; {{Script|Ethi|አማርኛ}} <small>(uses {{tl|Script/Ethiopic}})</small>
+* {{tlf|Script|Fraser|ꓛꓬꓹ ꓡꓯꓺ ꓡꓯꓺ}} &rarr; {{Script|Fraser|ꓛꓬꓹ ꓡꓯꓺ ꓡꓯꓺ}} <small>(uses {{tl|Script/Lisu}})</small>
+* {{tlf|Script|Geok|ⴌⴓⴑⴞⴓⴐⴈ}} &rarr; {{Script|Geok|ⴌⴓⴑⴞⴓⴐⴈ}} <small>(uses {{tl|Script/Khutsuri}})</small>
+* {{tlf|Script|Glag|ⰍⰫⰓⰊⰎⰎⰑⰂⰋⰜⰀ}} &rarr; {{Script|Glag|ⰍⰫⰓⰊⰎⰎⰑⰂⰋⰜⰀ}} <small>(uses {{tl|Script/Glagolitic}})</small>
+* {{tlf|Script|Grek|ξημερωθήκαμε}} &rarr; {{Script|Grek|ξημερωθήκαμε}} <small>(uses {{tl|Script/Greek}})</small>
+* {{tlf|Script|Goth|𐌲𐌿𐍄𐌹𐍃𐌺}} &rarr; {{Script|Goth|𐌲𐌿𐍄𐌹𐍃𐌺}} <small>(uses {{tl|Script/Gothic}})</small>
+* {{tlf|Script|Hano|ᜥ ᜥᜲ ᜥᜳ ᜥ᜴}} &rarr; {{Script|Hano|ᜥ ᜥᜲ ᜥᜳ ᜥ᜴}} <small>([[Hanunó'o alphabet|Hanunó'o]])</small>
+* {{tlf|Script|Hebr|אלפבית עברי}}&lrm; &rarr; {{Script|Hebr|אלפבית עברי}}&lrm; <small>(uses {{tl|Script/Hebrew}})</small>
+* {{tlf|Script|Ital|𐌅𐌝𐌕𐌄𐌋𐌉𐌞}} &rarr; {{Script|Ital|𐌅𐌝𐌕𐌄𐌋𐌉𐌞}} <small>(uses {{tl|Script/Old Italic}})</small>
+* {{tlf|Script|Java|ꦲꦏ꧀ꦱꦫꦗꦮ}} &rarr; {{Script|Java|ꦲꦏ꧀ꦱꦫꦗꦮ}} <small>(uses {{tl|Script/Java}})</small>
+* {{tlf|Script|Kali|ꤊꤢ꤬ꤛꤢ꤭ ꤜꤟꤤ꤬}} &rarr; {{Script|Kali|ꤊꤢ꤬ꤛꤢ꤭ ꤜꤟꤤ꤬}} <small>(uses {{tl|Script/Kayah Li}})</small>
+* {{tlf|Script|Khmr|អក្សរខ្មែរ}} &rarr; {{Script|Khmr|អក្សរខ្មែរ}} <small>(uses {{tl|Script/Khmer}})</small>
+* {{tlf|Script|Kore|나랏〮말〯ᄊᆞ미〮}} &rarr; {{Script|Kore|나랏〮말〯ᄊᆞ미〮}} <small>(uses {{tl|Script/Korean}})</small>
+* {{tlf|Script|Lana|ᨲᩫ᩠ᩅᨵᨾ᩠ᨾ᩼}} &rarr; {{Script|Lana|ᨲᩫ᩠ᩅᨵᨾ᩠ᨾ᩼}} <small>(uses {{tl|Script/Tai Tham}})</small>
+* {{tlf|Script|Latn|Latin}} &rarr; {{Script|Latn|Latin}} <small>(uses {{tl|Script/Classical and Medieval Latin}})</small>
+* {{tlf|Script|Latf|Fraktur blackletter}} &rarr; {{Script|Latf|Fraktur blackletter}}
+** {{tlf|Script|en-Latf|Textura blackletter}} &rarr; {{Script|en-Latf|Textura blackletter}}
+** {{tlf|Script|it-Latf|Rotunda blackletter}} &rarr; {{Script|it-Latf|Rotunda blackletter}}
+* {{tlf|Script|Latg|Ᵹaelaċ}} &rarr; {{Script|Latg|Ᵹaelaċ}} <small>(uses {{tl|Script/Gaelic}})</small>
+* {{tlf|Script|Limbu|ᤁᤂᤃᤄᤅ}} &rarr; {{Script|Limbu|ᤁᤂᤃᤄᤅ}} <small>(uses {{tl|Script/Limbu}})</small>
+* {{tlf|Script|Linb|𐂂 𐃌}} &rarr; {{Script|Linb|𐂂 𐃌}}
+* {{tlf|Script|Lisu|ꓛꓬꓹ ꓡꓯꓺ ꓡꓯꓺ}} &rarr; {{Script|Lisu|ꓛꓬꓹ ꓡꓯꓺ ꓡꓯꓺ}} <small>(uses {{tl|Script/Lisu}})</small>
+* {{tlf|Script|Lyci|𐊍𐊒𐊖𐊙𐊗𐊕𐊀}} &rarr; {{Script|Lyci|𐊍𐊒𐊖𐊙𐊗𐊕𐊀}} <small>(uses {{tl|Script/Lycian}})</small>
+* {{tlf|Script|Meithei|ꯃꯤꯇꯩ ꯃꯌꯦꯛ}} &rarr; {{Script|Meithei|ꯃꯤꯇꯩ ꯃꯌꯦꯛ}} <small>(uses {{tl|Script/Meithei}})</small>
+* {{tlf|Script|Mymr|မြန်မာ}} &rarr; {{Script|Mymr|မြန်မာ}} <small>(uses {{tl|Script/Mymr}})</small>
+* {{tlf|Script|Nkoo|ߒߞߏ}}&lrm; &rarr; {{Script|Nkoo|ߒߞߏ}} <small>(uses {{tl|Script/Nko}})</small>
+* {{tlf|Script|Ogam|ᚉᚒᚅᚐ}} &rarr; {{Script|Ogam|ᚉᚒᚅᚐ}} <small>(uses {{tl|Script/Ogam}})</small>
+* {{tlf|Script|Orkh|𐱅𐰭𐰼𐰃}}&lrm; &rarr; {{Script|Orkh|𐱅𐰭𐰼𐰃}}&lrm; <small>(uses {{tl|Script/Orkhon}})</small>
+* {{tlf|Script|Osma|𐒋𐒘𐒈𐒑𐒛𐒒𐒕𐒀}} &rarr; {{Script|Osma|𐒋𐒘𐒈𐒑𐒛𐒒𐒕𐒀}} <small>(uses {{tl|Script/Osmanya}})</small>
+* {{tlf|Script|Phli|𐭮𐭯𐭠𐭧𐭯𐭲}}&lrm; &rarr; {{Script|Phli|𐭮𐭯𐭠𐭧𐭯𐭲}} <small>(uses {{tl|Script/Pahlavi}})</small>
+* {{tlf|Script|Phnx|𐤒𐤓𐤕 𐤇𐤃𐤔𐤕}}&lrm; &rarr; {{Script|Phnx|𐤒𐤓𐤕 𐤇𐤃𐤔𐤕}}&lrm; <small>(uses {{tl|Script/Phoenician}})</small>
+* {{tlf|Script|Piqd|}} &rarr; {{Script|Piqd|}} <small>(uses {{tl|Script/Klingon}})</small>
+* {{tlf|Script|Pollard|𖼀𖼁𖼂𖼃𖼄}} &rarr; {{Script|Pollard|𖼀𖼁𖼂𖼃𖼄}} <small>(uses {{tl|Script/Pollard}})</small>
+* {{tlg|Script|Prti|𐭎𐭐𐭀𐭃𐭐𐭕𐭉‬}}&lrm; &rarr; {{Script|Prti|𐭎𐭐𐭀𐭃𐭐𐭕𐭉‬}} <small>(uses {{tl|Script/Inscriptional Parthian}})</small>
+* {{tlf|Script|Rjng|ꥆꤰ꥓ꤼꤽ ꤽꥍꤺꥏ}} &rarr; {{Script|Rjng|ꥆꤰ꥓ꤼꤽ ꤽꥍꤺꥏ}} <small>(uses {{tl|Script/Rejang}})</small>
+* {{tlf|Script|Runr|᛬ᚱᚢᚾᚨ᛬}} &rarr; {{Script|Runr|᛬ᚱᚢᚾᚨ᛬}} <small>(uses {{tl|Script/Runic}})</small>
+* {{tlf|Script|Samr|ࠀࠁࠂ}}&lrm; &rarr; {{Script|Samr|ࠀࠁࠂ}} <small>(uses {{tl|Script/Samaritan}})</small>
+* {{tlf|Script|Sidd|𑖭𑖰𑖛𑖽}} &rarr; {{Script|Sidd|𑖭𑖰𑖛𑖽}} <small>(uses {{tl|Script/Siddham}})</small>
+* {{tlf|Script|Sylo|ꠍꠤꠟꠐꠤ ꠘꠣꠉꠞꠤ}} &rarr; {{Script|Sylo|ꠍꠤꠟꠐꠤ ꠘꠣꠉꠞꠤ}} <small>(uses {{tl|Script/Syloti}})</small>
+* {{tlf|Script|Syre|ܐܣܛܪܢܓܠܐ}} &rarr; {{Script|Syre|ܐܣܛܪܢܓܠܐ}} <small>(uses {{tl|Script/Strng}})</small>
+* {{tlf|Script|Syrj|ܣܪܛܐ}} &rarr; {{Script|Syrj|ܣܪܛܐ}} <small>(uses {{tl|Script/Serto}})</small>
+* {{tlf|Script|Syrn|ܡܕܢܚܝܐ}} &rarr; {{Script|Syrn|ܡܕܢܚܝܐ}} <small>(uses {{tl|Script/Mdnh}})</small>
+* {{tlf|Script|Tagb|ᝦᝤᝪᝨᝯ}} &rarr; {{Script|Tagb|ᝦᝤᝪᝨᝯ}} <small>(uses {{tl|Script/Tagbanwa}})</small>
+* {{tlf|Script|Talu|ᦟᦲᧅᦷᦎᦺᦑᦟᦹᧉ}} &rarr; {{Script|Talu|ᦟᦲᧅᦷᦎᦺᦑᦟᦹᧉ}} <small>(uses {{tl|Script/New Tai Lue}})</small>
+* {{tlf|Script|Tavt|ꪼꪕꪒꪾ}} &rarr; {{Script|Tavt|ꪼꪕꪒꪾ}} <small>(uses {{tl|Script/Tai Viet}})</small>
+* {{tlf|Script|Tfng|ⵜⵉⴼⵉⵏⴰⵖ}} &rarr; {{Script|Tfng|ⵜⵉⴼⵉⵏⴰⵖ}} <small>(uses {{tl|Script/Tifinagh}})</small>
+* {{tlf|Script|Tglg|ᜊᜌ᜔ᜊᜌᜒᜈ᜔}} &rarr; {{Script|Tglg|ᜊᜌ᜔ᜊᜌᜒᜈ᜔}} <small>(uses {{tl|Script/Baybayin}})</small>
+* {{tlf|Script|Ugar|𐎀𐎁𐎂}} &rarr; {{Script|Ugar|𐎀𐎁𐎂}}
+* {{tlf|Script|Vaii|ꕙꔤ}} &rarr; {{Script|Vaii|ꕙꔤ}} <small>(uses {{tl|Script/Vai}})</small>
+* {{tlf|Script|Xpeo|𐏈 𐏉 𐏊}} &rarr; {{Script|Xpeo|𐏈 𐏉 𐏊}}
+* {{tlf|Script|Xsux|𒈗}} &rarr; {{Script|Xsux|𒈗}} <small>(uses {{tl|Script/Cuneiform}})</small>
+* {{tlf|Script|Yiii|ꆈꌠꁱꂷ}} &rarr; {{Script|Yiii|ꆈꌠꁱꂷ}} <small>(uses {{tl|Script/Yi}})</small>
+
+=== See also ===
+* {{Tl|Lang}} for identifying text as belonging to a language and script, etc. (beyond the scope of this template)
+* {{Tl|IPA}} to style text for [[International Phonetic Alphabet|IPA]] notation
+* {{Tl|ISO 15924 script codes and Unicode}} for a list of ISO 15924 codes with their names and other details
+
+{{ISO 15924/footer}}
+
+== Template Data==
+{{TemplateDataHeader}}
+
+<includeonly>
+[[Category:Language formatting and function templates]]</includeonly>
+<templatedata>
+{
+	"params": {
+		"1": {
+			"aliases": [
+				"script"
+			],
+			"label": "Script code",
+			"description": "ISO 15924 script code for the script used",
+			"example": "Hang (hangul), Latn (Latin), Hant (traditional Chinese characters)",
+			"type": "line",
+			"required": true
+		},
+		"2": {
+			"aliases": [
+				"text"
+			],
+			"label": "Text",
+			"description": "The text in the script demacrated",
+			"example": "國漢文混用",
+			"type": "line",
+			"required": true
+		}
+	},
+	"description": "Marks some text as in a different script according to ISO 15924 script codes"
+}
+</templatedata>
