@@ -1,0 +1,3 @@
+<templatestyles src="Script/styles_brahmi.css" /><span title="Brahmi" {{#if:{{{2|}}}|lang="{{{1}}}" xml:lang="{{{1}}}"}} class="script-brahmi">{{{2|{{{1}}}}}}</span><noinclude>
+{{documentation}}
+</noinclude>
