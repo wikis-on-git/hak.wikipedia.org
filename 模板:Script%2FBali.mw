@@ -1,0 +1,7 @@
+<templatestyles src="Script/styles_bali.css" /><span lang="ban" class="script-bali" style="{{#if:{{{small|}}}||font-size:{{{size|16px}}}}}; line-height:{{{height|2.1em}}}; word-wrap: break-word;">{{{1}}}</span><noinclude>
+{{Uses TemplateStyles|Template:Script/styles_bali.css}}
+-----
+This template is used to mark text written in [[Balinese alphabet]], using a set of specific fonts and a specific font size. Since Balinese is a [[scriptio continua]], "word-wrap: break-word" would force long text to be wrapped.
+
+[[Category:Austronesian multilingual support templates|{{PAGENAME}}]]
+</noinclude>
