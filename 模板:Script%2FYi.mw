@@ -1,0 +1,4 @@
+<templatestyles src="Script/styles_yi.css" /><span class="script-yi">{{{1}}}</span><noinclude>
+{{Uses TemplateStyles|Template:Script/styles yi.css}}
+[[Category:Sino-Tibetan multilingual support templates|{{PAGENAME}}]]
+</noinclude>
