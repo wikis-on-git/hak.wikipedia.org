@@ -1,0 +1,22 @@
+.module-shortcutboxplain {
+	float:right;
+	border:1px solid #aaa;
+	background:#fff;
+	margin:0 0 0 1em;
+	padding:.3em .6em .2em .6em;
+	text-align:center;
+	font-size:85%;
+	font-weight:bold
+}
+
+.module-shortcutlist {
+	display:inline-block;
+	border-bottom:1px solid #aaa;
+	margin-bottom:.2em;
+	font-weight: normal;
+}
+
+.module-shortcutanchordiv {
+	position:relative;
+	top:-3em;
+}
