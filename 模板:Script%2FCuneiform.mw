@@ -1,0 +1,19 @@
+<span style="font-size:125%;font-family:{{#switch: {{{1|}}}
+|sux
+|4 = Akkadian" title="Classical Sumerian cuneiform"
+|akk
+|elx
+|xeb
+|xhu
+|5 = Akkadian" title="Neo-Sumerian cuneiform"
+|hit = UllikummiA, Assurbanipal, CuneiformNA,'Noto Sans Cuneiform'" title="Hittite cuneiform"<!-- preference for Ullikummi, later cuneiform styles as last resort --!>
+|xht
+|xlu
+|6 = 'Free Idg Serif',Akkadian,'Noto Sans Cuneiform','Noto Sans Sumero-Akkadian Cuneiform','Segoe UI Historic';" title="Old Assyrian cuneiform"<!-- use Akkadian, Noto, and Segoe as last resort -->
+|7 = CuneiformNA,Assurbanipal,Akkadian,'Noto Sans Cuneiform','Noto Sans Sumero-Akkadian Cuneiform','Segoe UI Historic';" title="Neo-Assyrian cuneiform"<!-- use Akkadian, Noto, and Segoe as last resort -->
+|peo = Behistun, Aegean, 'Old Persian';" title="Old Persian cuneiform"
+|#default = 'Segoe UI Historic','Akkadian','Noto Sans Cuneiform','Noto Sans Sumero-Akkadian Cuneiform';" title="cuneiform text"
+}} lang="{{#switch:{{{1|}}}|akk|elx|hit|sux|xeb|xht|xhu|xlu={{{1}}}|und}}-Xsux">{{{2|{{{1}}}}}}</span><noinclude>
+
+{{documentation}}
+</noinclude>
