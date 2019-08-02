@@ -1,0 +1,6 @@
+<span style="{{#if:{{{small|}}}||font-size:{{{size|16px}}}}}; line-height:{{{height|2.1em}}}; font-family:'RibengUni', Noto Sans Chakma;">{{{1}}}</span><noinclude>
+-----
+This template is used to mark text written in [[Chakma alphabet]], using a set of specific fonts and a specific font size. 
+
+[[Category:Austroasiatic multilingual support templates|{{PAGENAME}}]]
+</noinclude>
