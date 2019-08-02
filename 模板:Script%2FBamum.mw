@@ -1,0 +1,3 @@
+<templatestyles src="Script/styles_bamum.css" /><span class="script-bamum">{{{1}}}</span><noinclude>
+{{documentation}}
+</noinclude>
