@@ -1,0 +1,6 @@
+<span lang="cjm" style="{{#if:{{{small|}}}||font-size:{{{size|16px}}}}}; line-height:{{{height|2.1em}}}; word-wrap: break-word; font-family:'Noto Sans Cham', 'Code2000';">{{{1}}}</span><noinclude>
+-----
+This template is used to mark text written in [[Cham alphabet]], using a set of specific fonts and a specific font size. Since Javanese script is a [[scriptio continua]], "word-wrap: break-word" would force long text to be wrapped.
+
+[[Category:Austronesian multilingual support templates|{{PAGENAME}}]]
+</noinclude>
