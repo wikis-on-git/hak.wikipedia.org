@@ -1,0 +1,20 @@
+<templatestyles src="Script/styles_aramaic.css" /><span dir="rtl" title="Imperial Aramaic alphabet" class="script-aramaic">{{{1}}}</span>&lrm;<noinclude>
+{{doc|content=
+{{Uses TemplateStyles|Template:Script/styles_aramaic.css}}
+template intended to force [[Aramaic alphabet]] fonts if installed.
+* [https://sourceforge.net/projects/culmus/files/ancient_fonts/ Aramaic VIIBCE and Aramaic Imperial Yeb], from [http://culmus.sourceforge.net/ancient/index.html Ancient Semitic fonts] on [[SourceForge]]
+* [[Noto fonts|Noto Sans Imperial Aramaic]]
+* [http://www.evertype.com/emono/ EversonMono]
+* [[GNU Unifont]]
+* [http://www.quivira-font.com/ Quivira]
+
+example:
+* {{Script/Aramaic|𐡀𐡁𐡂}}
+
+==See also==
+* {{tl|script}}
+
+
+[[Category:Language formatting and function templates]]
+}}
+</noinclude>
