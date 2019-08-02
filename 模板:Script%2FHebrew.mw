@@ -1,4 +1,4 @@
-<span class="script-hebrew" style="font-size: 115%; font-family: Alef, 'SBL Hebrew', David, 'SBL Hebrew', Narkisim, 'Times New Roman', 'Ezra SIL SR', FrankRuehl, 'Microsoft Sans Serif', 'Lucida Grande'" dir="rtl">{{{1}}}</span><noinclude>
-{{documentation|content=
-此模板為{{tl|Lang-he-n}}所用，請參看該模板的說明。
-}}</noinclude>
+<templatestyles src="Script/styles_hebrew.css" /><span class="script-hebrew" style="font-size: {{{size|115%}}}; {{{style|}}}" {{{attributes|}}} {{#ifeq: {{{no_rtl_mark|+}}} | {{{no_rtl_mark|-}}}||dir="rtl"}}>{{{1}}}</span>{{#ifeq: {{{no_rtl_mark|+}}} | {{{no_rtl_mark|-}}}||}}<noinclude>
+{{documentation}}
+<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>
