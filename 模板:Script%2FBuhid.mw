@@ -1,0 +1,3 @@
+<templatestyles src="Script/styles_buhid.css" /><span style="script-buhid">{{{1}}}</span><noinclude>
+{{Uses TemplateStyles|Template:Script/styles_buhid.css}}
+[[Category:Language formatting and function templates]]</noinclude>
