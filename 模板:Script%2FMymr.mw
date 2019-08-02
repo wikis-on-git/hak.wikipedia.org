@@ -1,0 +1,4 @@
+<templatestyles src="Script/styles_mymr.css" /><span class="script-myanmar">{{{1}}}</span><noinclude>
+{{documentation}}
+[[Category:Sino-Tibetan multilingual support templates|{{PAGENAME}}]]
+</noinclude>
