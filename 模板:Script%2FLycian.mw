@@ -1,0 +1,16 @@
+<span title="Lycian alphabet" class="script-lycian" style="font-family: Noto Sans Lycian, Segoe UI Historic, sans-serif;">{{{1}}}</span><noinclude>
+{{doc|content=
+Template intended to force [[Lycian alphabet]] fonts if installed.
+
+* [[Noto fonts|Noto Sans Lycian]]
+* [[Segoe UI Historic]]
+
+Example:
+* {{Script/Lycian|𐊍𐊒𐊖𐊙𐊗𐊕𐊀}}
+
+==See also==
+* {{tl|script}}
+
+[[Category:Language formatting and function templates]]
+}}
+</noinclude>
