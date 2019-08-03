@@ -1,0 +1,3 @@
+<templatestyles src="Script/styles_slavonic.css" /><span title="Slavonic" {{#if:{{{2|}}}|lang="{{{1}}}" xml:lang="{{{1}}}"}} class="script-slavonic" style="">{{{2|{{{1}}}}}}</span><noinclude>
+{{doc}}
+</noinclude>
