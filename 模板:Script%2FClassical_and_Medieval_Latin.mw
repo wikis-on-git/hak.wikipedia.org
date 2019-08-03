@@ -1,0 +1,4 @@
+<templatestyles src="Script/styles_latin.css" /><span class="script-latin" lang="und-Latn" {{#if:{{{style|}}}|style="{{{style|}}}"}}>{{{1}}}</span><noinclude>
+{{documentation}}
+<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>
