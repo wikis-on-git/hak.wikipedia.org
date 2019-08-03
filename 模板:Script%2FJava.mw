@@ -1,0 +1,6 @@
+<span {{#if:{{{2|}}}|lang="{{{1}}}" xml:lang="{{{1}}}"}} style="{{#if:{{{small|}}}||font-size:{{{size|16px}}}}}; line-height:{{{height|2.1em}}}; word-wrap: break-word; font-family:'Tuladha Jejeg', 'Javanese Text', 'Noto Sans Javanese';">{{{2|{{{1}}}}}}</span><noinclude>
+-----
+This template is used to mark text written in [[Javanese script]], using a set of specific fonts and a specific font size. Since Javanese script is a [[scriptio continua]], "word-wrap: break-word" would force long text to be wrapped.
+
+[[Category:Austronesian multilingual support templates|{{PAGENAME}}]]
+</noinclude>
