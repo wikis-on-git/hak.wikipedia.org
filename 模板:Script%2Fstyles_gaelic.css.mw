@@ -1,0 +1,4 @@
+.script-gaelic {
+	font-size: 1.25em;
+	font-family: Duibhlinn, Ceanannas, Corcaigh, 'Bunchló Ársa GC', 'Bunchlo Arsa GC', Gaelic, Gadelica, Junicode, Cardo;
+}
