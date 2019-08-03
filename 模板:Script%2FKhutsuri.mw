@@ -1,0 +1,5 @@
+<templatestyles src="Script/styles_khutsuri.css" /><span class="script-khutsuri">{{{1}}}</span><noinclude>
+----
+{{Uses TemplateStyles|Template:Script/styles khutsuri.css}}
+This template is used for marking the Georgian [[Khutsuri]] script, i.e. the combination of the Asomtavruli and Nuskhuri scripts.
+</noinclude>
