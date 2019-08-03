@@ -1,0 +1,4 @@
+<templatestyles src="Script/styles_runic.css" /><span title="runes" class="script-runic" lang="gem-Runr">{{#ifeq:{{{2}}}|rtl|&#x202E;|}}{{{1}}}{{#ifeq:{{{2}}}|rtl|&#x202C;|}}</span><noinclude>
+{{documentation}}
+<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>
