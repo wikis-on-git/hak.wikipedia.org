@@ -1,0 +1,20 @@
+<templatestyles src="Script/styles_phoenician.css" /><span dir="rtl" title="Phoenician alphabet" class="script-phoenician">{{{1}}}</span>&lrm;<noinclude>
+{{doc|content=
+{{Uses TemplateStyles|Template:Script/styles phoenician.css}}
+Template intended to force [[Phoenician alphabet]] fonts if installed.
+* [http://guindo.pntic.mec.es/~jmag0042/alphabet.html ALPHABETUM Unicode]
+* [http://www.wazu.jp/gallery/views/View_MPH2BDamase.html MPH 2B Damase]
+* Aegean
+* Code2001
+* [[Free UCS Outline Fonts|FreeSans]]
+* [[Noto fonts|Noto Sans Phoenician]]
+
+Example:
+* {{Script/Phoenician|𐤂𐤀𐤁}}
+
+==See also==
+* {{tl|script}}
+
+[[Category:Language formatting and function templates]]
+}}
+</noinclude>
