@@ -1,0 +1,4 @@
+<templatestyles src="Script/styles_ethiopic.css" /><span class="Ethiopic">{{{1}}}</span><noinclude>
+{{documentation}}
+<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>
