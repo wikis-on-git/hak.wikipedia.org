@@ -1,0 +1,6 @@
+<templatestyles src="Script/styles_old_italic.css" /><span class="script-old-italic">{{#if:{{{rtl|}}}|&#x202E;}}{{{1}}}{{#if:{{{rtl|}}}|&#x202C;}}</span><noinclude>
+{{documentation}}
+<!-- Add categories and interwikis to the /doc subpage, not here! -->
+
+[[Category:Indo-European multilingual support templates|{{PAGENAME}}]]
+</noinclude>
