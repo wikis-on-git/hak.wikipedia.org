@@ -1,0 +1,3 @@
+.polytonic {
+	font-family: 'SBL BibLit', 'SBL Greek', Athena, 'EB Garamond', 'EB Garamond 12', 'Foulis Greek', 'Garamond Libre', Cardo, 'Gentium Plus', Gentium, Garamond, 'Palatino Linotype', 'DejaVu Sans', 'DejaVu Serif', FreeSerif, FreeSans, 'Arial Unicode MS', 'Lucida Sans Unicode', 'Lucida Grande', Code2000, sans-serif;
+}
