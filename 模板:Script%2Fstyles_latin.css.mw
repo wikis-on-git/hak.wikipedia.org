@@ -1,0 +1,3 @@
+.script-latin {
+	font-family: 'Palemonas MUFI', 'EB Garamond', 'EB Garamond 12', 'Garamond Libre', 'Cormorant Garamond', Cormorant, Cardo, 'ETBookOT', 'ETBembo', 'Junicode', 'Andron Freefont LAT', 'PFEFFER MEDIÆVAL', 'Open Baskerville', 'Adobe Garamond Pro', 'Adobe Caslon Pro', 'Baskerville Ten', 'Garamond', serif;
+}
