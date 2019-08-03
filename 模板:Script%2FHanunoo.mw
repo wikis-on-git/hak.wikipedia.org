@@ -1,0 +1,3 @@
+<templatestyles src="Script/styles_hanunoo.css" /><span class="script-hanunoo">{{{1}}}</span><noinclude>
+{{Uses TemplateStyles|Template:Script/styles hanunoo.css}}
+[[Category:Language formatting and function templates]]</noinclude>
