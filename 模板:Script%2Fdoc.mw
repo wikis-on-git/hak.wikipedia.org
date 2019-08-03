@@ -25,7 +25,7 @@ This template applies custom styling (better typefaces and/or typefaces that sup
 * {{tlf|Script|Glag|ⰍⰫⰓⰊⰎⰎⰑⰂⰋⰜⰀ}} &rarr; {{Script|Glag|ⰍⰫⰓⰊⰎⰎⰑⰂⰋⰜⰀ}} <small>(uses {{tl|Script/Glagolitic}})</small>
 * {{tlf|Script|Grek|ξημερωθήκαμε}} &rarr; {{Script|Grek|ξημερωθήκαμε}} <small>(uses {{tl|Script/Greek}})</small>
 * {{tlf|Script|Goth|𐌲𐌿𐍄𐌹𐍃𐌺}} &rarr; {{Script|Goth|𐌲𐌿𐍄𐌹𐍃𐌺}} <small>(uses {{tl|Script/Gothic}})</small>
-* {{tlf|Script|Hano|ᜥ ᜥᜲ ᜥᜳ ᜥ᜴}} &rarr; {{Script|Hano|ᜥ ᜥᜲ ᜥᜳ ᜥ᜴}} <small>([[Hanunó'o alphabet|Hanunó'o]])</small>
+* {{tlf|Script|Hano|ᜥ ᜥᜲ ᜥᜳ ᜥ᜴}} &rarr; {{Script|Hano|ᜥ ᜥᜲ ᜥᜳ ᜥ᜴}} <small>(uses {{tl|Script/Hanunoo}})</small>
 * {{tlf|Script|Hebr|אלפבית עברי}}&lrm; &rarr; {{Script|Hebr|אלפבית עברי}}&lrm; <small>(uses {{tl|Script/Hebrew}})</small>
 * {{tlf|Script|Ital|𐌅𐌝𐌕𐌄𐌋𐌉𐌞}} &rarr; {{Script|Ital|𐌅𐌝𐌕𐌄𐌋𐌉𐌞}} <small>(uses {{tl|Script/Old Italic}})</small>
 * {{tlf|Script|Java|ꦲꦏ꧀ꦱꦫꦗꦮ}} &rarr; {{Script|Java|ꦲꦏ꧀ꦱꦫꦗꦮ}} <small>(uses {{tl|Script/Java}})</small>
