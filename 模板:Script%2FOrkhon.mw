@@ -1,0 +1,4 @@
+<templatestyles src="Script/styles_orkhon.css" /><span class="script-orkh" dir="rtl" style="font-size: {{#if:{{{size|}}}|{{{size}}}|12}}px;">{{{1}}}</span>&lrm;<noinclude>
+{{documentation|content={{Uses TemplateStyles|Template:Script/styles orkhon.css}}}}
+<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>
