@@ -1,0 +1,4 @@
+.script-gothic {
+	font-size: 1.25em;
+	font-family: Vulcanius, Junicode, Pfeffer Mediæval, Ulfilas, Silubr, Skeirs, Midjungards, ALPHABETUM, FreeSerif, FreeSans, 'Noto Sans Gothic', Code2001, 'Segoe UI Historic', 'Segoe UI Symbol', serif;
+}
