@@ -1,0 +1,9 @@
+.script-old-italic {
+	font-size: 1.25em;
+	font-family: 'Italica Vetus', 'Italica Vetus SN', Cardo, FreeMono, 'DejaVu Sans', 'Noto Sans Old Italic', 'Quivira', 'Aegean', 'Segoe UI Historic';
+}
+
+.script-old-italic[style*="direction: rtl"] {
+	font-size: 1.25em;
+	font-family: 'Italica Vetus SN', 'Italica Vetus', Cardo, FreeMono, 'DejaVu Sans', 'Noto Sans Old Italic', 'Quivira', 'Aegean', 'Segoe UI Historic';
+}
