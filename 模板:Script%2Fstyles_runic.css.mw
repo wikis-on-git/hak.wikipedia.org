@@ -1,0 +1,3 @@
+.script-runic {
+	font-family: 'BabelStone Runic Beagnoth', 'BabelStone Runic Beorhtnoth', 'BabelStone Runic Beorhtric', 'BabelStone Runic Beowulf', 'BabelStone Runic Berhtwald', 'BabelStone Runic Byrhtferth', Junicode, Kelvinch, 'Free Monospaced', Code2000, Hnias, 'Noto Sans Runic', 'Segoe UI Historic', 'Segoe UI Symbol';
+}
