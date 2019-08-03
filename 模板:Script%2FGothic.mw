@@ -1,0 +1,5 @@
+<templatestyles src="Script/styles_gothic.css" /><span class="script-gothic">{{{1}}}</span><noinclude>
+{{documentation}}
+
+[[Category:Language formatting and function templates]]
+</noinclude>
