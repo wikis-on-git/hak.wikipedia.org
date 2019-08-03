@@ -1,0 +1,7 @@
+.script-slavonic {
+	font-family: /* Unicode 9.0 Slavonic fonts: */ 'Ponomar Unicode', 'Ponomar Unicode TT', 'Monomakh Unicode', 'Monomakh Unicode TT', 'Menaion Unicode', 'Menaion Unicode TT', 'Fedorovsk Unicode', 'Fedorovsk Unicode TT', /* Unicode 8.0 Slavonic fonts: */ BukyVede, 'Kliment Std', 'RomanCyrillic Std', /* Unicode 6.x Slavonic fonts: */ 'Monomachus', 'Old Standard', 'Old Standard TT', /* Unicode 5.1 Slavonic fonts: */ Dilyana, Menaion, 'Menaion Medieval', Lazov, Code2000, /* Unicode fallback: */ 'DejaVu Sans', 'DejaVu Serif', Code2001, 'FreeSerif', 'TITUS Cyberbit Basic', 'Charis SIL', 'Doulos SIL', 'Chrysanthi Unicode', 'Bitstream Cyberbit', 'Bitstream CyberBase', Thryomanes, 'Lucida Grande', 'FreeSans', 'Arial Unicode MS', 'Microsoft Sans Serif', 'Lucida Sans Unicode';
+}
+
+.script-glagolitic {
+	font-family: 'Menaion Unicode TT', 'Menaion Unicode', Vikidemia, Bukyvede, FreeSerif, Ja, Unicode5, 'TITUS Cyberbit Basic', 'Noto Sans Glagolitic', 'Segoe UI Historic', 'Segoe UI Symbol';
+}
