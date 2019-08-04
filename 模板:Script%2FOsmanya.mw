@@ -1,0 +1,4 @@
+<templatestyles src="Script/styles_osmanya.css" /><span class="script-osmanya">{{{1}}}</span><noinclude>
+{{Uses TemplateStyles|Template:Script/styles osmanya.css}}
+<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>
