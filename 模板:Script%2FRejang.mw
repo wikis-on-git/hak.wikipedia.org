@@ -1,0 +1,6 @@
+<span style="{{#if:{{{small|}}}||font-size:{{{size|16px}}}}}; line-height:{{{height|2.1em}}}; font-family:'Noto Sans Rejang', 'Code2000';">{{{1}}}</span><noinclude>
+-----
+This template is used to mark text written in [[Rejang script]], using a set of specific fonts and a specific font size.
+
+[[Category:Austronesian multilingual support templates|{{PAGENAME}}]]
+</noinclude>
