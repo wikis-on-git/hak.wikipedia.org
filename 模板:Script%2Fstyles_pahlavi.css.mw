@@ -1,0 +1,5 @@
+.script-Pahlavi,
+.script-Phli {
+	font-family: Segoe UI Historic, Noto Sans Inscriptional Pahlavi, Shapour, ZH Mono, sans-serif;
+	font-weight: normal;
+}
