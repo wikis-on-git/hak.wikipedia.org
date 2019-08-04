@@ -1,0 +1,4 @@
+<templatestyles src="Script/styles_pahlavi.css" /><span class="script-Pahlavi script-Phli" dir="rtl" style="font-size: {{{size|100%}}}; {{{style|}}}" {{{attributes|}}}>{{{1}}}</span>&lrm;<noinclude>
+{{Uses TemplateStyles|Template:Script/styles pahlavi.css}}
+{{Documentation|Template:Script/doc}}
+</noinclude>
