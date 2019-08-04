@@ -1,0 +1,3 @@
+<templatestyles src="Script/styles_tagbanwa.css" /><span class="script-tagbanwa">{{{1}}}</span><noinclude>
+{{Uses TemplateStyles|Template:Script/styles tagbanwa.css}}
+[[Category:Language formatting and function templates]]</noinclude>
