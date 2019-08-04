@@ -1,0 +1,4 @@
+.script-ogham,
+.script-Ogam {
+	font-family: 'BabelStone Ogham', 'BabelStone Ogham Fixed', 'BabelStone Ogham Bound', 'BabelStone Ogham Stemless', 'BabelStone Ogham Lithic', 'BabelStone Ogham Pictish', 'BabelStone Ogham Special', 'DejaVu Sans', 'Noto Sans Ogham', 'Segoe UI Historic', 'Segoe UI Symbol';
+}
