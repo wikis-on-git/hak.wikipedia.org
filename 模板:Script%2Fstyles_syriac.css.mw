@@ -1,0 +1,11 @@
+.script-Syre {
+	font-family: 'Estrangelo Antioch', 'Estrangelo Edessa', 'Estrangelo Midyat', 'Estrangelo Nisibin', 'Estrangelo Quenneshrin', 'Estrangelo Talada', 'Estrangelo TurAbdin', 'Noto Sans Syriac Estrangela', 'Segoe UI Historic';
+}
+
+.script-Syrj {
+	font-family: 'Serto Batnan', 'Serto Jerusalem', 'Serto Kharput', 'Serto Malankara', 'Serto Mardin', 'Serto Urhoy', 'Noto Sans Syriac Western';
+}
+
+.script-Syrn {
+	font-family: 'East Syriac Adiabene', 'East Syriac Ctesiphon', 'Noto Sans Syriac Eastern', FreeSans, Code2000;
+}
