@@ -1,0 +1,6 @@
+<span lang="syl" style="{{#if:{{{small|}}}||font-size:{{{size|16px}}}}}; line-height:{{{height|2.1em}}}; font-family:'Noto Sans Syloti Nagri';">{{{1}}}</span><noinclude>
+-----
+This template is used to mark text written in [[Sylheti Nagari]], using a set of specific fonts and a specific font size.
+
+[[Category:Indo-European multilingual support templates|{{PAGENAME}}]]
+</noinclude>
