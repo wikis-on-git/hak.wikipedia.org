@@ -1,0 +1,5 @@
+.script-samaritan {
+	font-family: 'Noto Sans Samaritan', 'Hebrew Samaritan', 'Everson Mono', EversonMono, Unifont, Quivira, sans-serif;
+	direction: rtl;
+	unicode-bidi: bidi-override;
+}
