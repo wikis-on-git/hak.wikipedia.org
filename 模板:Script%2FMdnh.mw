@@ -1,0 +1,4 @@
+<templatestyles src="Script/styles_syriac.css" /><span class="script-Syrn" dir="rtl" style="font-size:{{{size|125%}}};">{{{1}}}</span>&lrm;<noinclude>
+{{documentation}}
+<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>
