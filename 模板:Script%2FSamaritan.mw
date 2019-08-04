@@ -1,0 +1,20 @@
+<templatestyles src="Script/styles_samaritan.css" /><span dir="rtl" title="Samaritan alphabet" class="script-samaritan">{{{1}}}</span>&lrm;<noinclude>
+{{doc|content=
+{{Uses TemplateStyles|Template:Script/styles samaritan.css}}
+template intended to force [[Samaritan alphabet]] fonts if installed.
+* [https://sourceforge.net/projects/culmus/files/ancient_fonts/ Hebrew Samaritan], from [http://culmus.sourceforge.net/ancient/index.html Ancient Semitic fonts] on [[SourceForge]]
+* [[Noto fonts|Noto Sans Samaritan]]
+* [http://www.evertype.com/emono/ EversonMono]
+* [[GNU Unifont]]
+* [http://www.quivira-font.com/ Quivira]
+
+example:
+* {{Script/Samaritan|ࠀࠁࠂ}}
+
+==See also==
+* {{tl|script}}
+
+
+[[Category:Language formatting and function templates]]
+}}
+</noinclude>
