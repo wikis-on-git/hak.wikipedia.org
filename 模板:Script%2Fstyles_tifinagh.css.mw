@@ -1,0 +1,3 @@
+.script-tifinagh {
+	font-family: 'DejaVu Sans', Ebrima, FreeSans, 'Noto Sans Tifinagh';
+}
