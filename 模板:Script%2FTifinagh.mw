@@ -1,0 +1,3 @@
+<templatestyles src="Script/styles_tifinagh.css" /><span class="script-tifinagh">{{{1}}}</span><noinclude>
+{{documentation|content={{Uses TemplateStyles|Template:Script/styles tifinagh.css}}}}
+</noinclude>
