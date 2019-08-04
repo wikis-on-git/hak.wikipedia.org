@@ -1,0 +1,6 @@
+<span style="{{#if:{{{small|}}}||font-size:{{{size|16px}}}}}; line-height:{{{height|2.1em}}}; font-family:'miao unicode'; 'sans-serif'">{{{1}}}</span><noinclude>
+-----
+This template is used to mark text written in [[Pollard script]], using a set of specific fonts and a specific font size. 
+
+[[Category:Austroasiatic multilingual support templates|{{PAGENAME}}]]
+</noinclude>
