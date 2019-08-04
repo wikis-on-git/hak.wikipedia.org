@@ -1,0 +1,4 @@
+<templatestyles src="Script/styles_klingon.css" /><span class="script-klingon">{{{1}}}</span><noinclude>
+{{documentation}}
+<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>
