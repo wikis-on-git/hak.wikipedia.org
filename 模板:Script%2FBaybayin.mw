@@ -1,0 +1,3 @@
+<templatestyles src="Script/styles_baybayin.css" /><span class="script-baybayin">{{{1}}}</span><noinclude>
+{{Uses TemplateStyles|Template:Script/styles_baybayin.css}}
+[[Category:Language formatting and function templates]]</noinclude>
