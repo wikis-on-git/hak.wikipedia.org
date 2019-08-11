@@ -1,40 +1,20 @@
 <noinclude>{{Hakka-TW|0|模板:亞洲}}</noinclude>
-<br clear="all" />
-{| align="center" id="toc" cellspacing="0"
-|- bgcolor="#ccccff"
-! align="center" width="100%" | [[Â-chû]]
-|-
-| colspan = "2" |
-{|
-| align="right" style="font-size: 88%; vertical-align: center;" width="15%"| [[Tûng-â]] lâu [[Pet-â]]
-| vertical-align: center;|ː
-| align="left" style="font-size: 88%;" width="85%"|[[Chûng-fà Ngìn-mìn Khiung-fò-koet]] ([[Chûng-koet Thai-liu̍k]])| [[Chûng-fà Mìn-koet]] ([[Thòi-vân]])<sup>1</sup>| [[Ngit-pún]] | [[Chêu-sién Mìn-chú-chú-ngi Ngìn-mìn Khiung-fò-koet]] | [[Thai-hòn Mìn-koet]] | [[Mùng-kú]] | [[Ngò-lò-sṳ̂]]
-|-
-| align="right" style="font-size: 88%; vertical-align: center;" | [[Tûng-nàm-â]]
-| vertical-align: center;|ː
-| align="left" style="font-size: 88%;" | [[Mién-thien]] | [[Vùn-lòi]] | [[Kán-pu-chhài]] | [[Tûng Timor]] | [[Yin-nì]] | [[Liàu-koet]] | [[Mâ-lòi-sî-â]] | [[Fî-li̍t-pîn]] | [[Sîn-kâ-pô]] | [[Thai-koet]] | [[Ye̍t-nàm]]
-|-
-| align="right" style="font-size: 88%; vertical-align: center;" | [[Nàm-â]]
-| vertical-align: center;|ː
-| align="left" style="font-size: 88%;" | [[Bangladesh]] | [[Bhutan]] | [[Yin-thu]] | [[Maldives]] | [[Nepal]]| [[Pakistan]] | [[Sri Lanka]]
-|-
-| align="right" style="font-size: 88%; vertical-align: center;" | [[Chûng-Â]]
-| vertical-align: center;|ː
-| align="left" style="font-size: 88%;" | [[Kazakhstan]] | [[Kyrgyzstan]] | [[Tajikistan]] | [[Turkmenistan]] | [[Uzbekistan]]
-|-
-| align="right" style="font-size: 88%; vertical-align: center;" | [[Sî-â]]
-| vertical-align: center;|ː
-| align="left" style="font-size: 88%;" | [[Afghanistan]] | [[Armenia]] | [[Azerbaijan]] | [[Bahrain]] | [[Cyprus]] | [[Pet Cyprus]] | [[Gruzia]] | [[Iran]] | [[Iraq]] | [[Yî-set-lie̍t]] | [[Yok-tan]] | [[Kuwait]] | [[Lì-pâ-nun]] | [[Oman]] | [[Palestine]] | [[Qatar]] | [[Saudi Â-lâ-pak]] | [[Si-li-â]] | [[Thú-ngí-khì]] | [[Â-lâ-pak Lièn-ha̍p Thai-kûng-koet]] | [[Yemen]]
-|-
-| align="right" style="font-size: 88%; vertical-align: center;" | khì-thâ thi̍t-sû chṳn-khî
-| vertical-align: center;|ː
-| align="left" style="font-size: 88%;" | [[Hiông-kóng]]| [[Au-mùn]]
-|}
-|- bgcolor="#ccccff"
-| align="center" width="100%" | [[Sṳ-kie thi-lî sok-yín]] | [[Fî-chû ]] | [[Mî-chû]] | [[Nàm-khi̍t-chû]] | [[Êu-chû]] | [[Thai-yòng-chû]] | [[Kok-koet sú-tû lie̍t-péu|Kok-koet sú-tû]]
-| align="right"|
-|-
-|<div style="font-size: 85%;text-align: left; padding-left:1em;">(1) Chhiáng ngì khon [[Thòi-vân mun-thì]]</div>
-|}<noinclude>
+{{Navbox
+|name    = Â-chû
+|title   = Â-chû
+|group1  = [[Tûng-â]] lâu [[Pet-â]]
+|list1   = [[Chûng-fà Ngìn-mìn Khiung-fò-koet]] ([[Chûng-koet Thai-liu̍k]]){{·}} [[Chûng-fà Mìn-koet]] ([[Thòi-vân]])<sup>1</sup>{{·}} [[Ngit-pún]] {{·}} [[Chêu-sién Mìn-chú-chú-ngi Ngìn-mìn Khiung-fò-koet]] {{·}} [[Thai-hòn Mìn-koet]] {{·}} [[Mùng-kú]] {{·}} [[Ngò-lò-sṳ̂]]
+|group2  = [[Tûng-nàm-â]]
+|list2  = [[Mién-thien]] {{·}} [[Vùn-lòi]] {{·}} [[Kán-pu-chhài]] {{·}} [[Tûng Timor]] {{·}} [[Yin-nì]] {{·}} [[Liàu-koet]] {{·}} [[Mâ-lòi-sî-â]] {{·}} [[Fî-li̍t-pîn]] {{·}} [[Sîn-kâ-pô]] {{·}} [[Thai-koet]] {{·}} [[Ye̍t-nàm]]
+|group3  =  [[Nàm-â]]
+|list3  =  [[Bangladesh]] {{·}} [[Bhutan]] {{·}} [[Yin-thu]] {{·}} [[Maldives]] {{·}} [[Nepal]]{{·}} [[Pakistan]] {{·}} [[Sri Lanka]]
+|group4  =  [[Chûng-Â]]
+|list4  = [[Kazakhstan]] {{·}} [[Kyrgyzstan]] {{·}} [[Tajikistan]] {{·}} [[Turkmenistan]] {{·}} [[Uzbekistan]]
+|group5  =  [[Sî-â]]
+|list5   = [[Afghanistan]] {{·}} [[Armenia]] {{·}} [[Azerbaijan]] {{·}} [[Bahrain]] {{·}} [[Cyprus]] {{·}} [[Pet Cyprus]] {{·}} [[Gruzia]] {{·}} [[Iran]] {{·}} [[Iraq]] {{·}} [[Yî-set-lie̍t]] {{·}} [[Yok-tan]] {{·}} [[Kuwait]] {{·}} [[Lì-pâ-nun]] {{·}} [[Oman]] {{·}} [[Palestine]] {{·}} [[Qatar]] {{·}} [[Saudi Â-lâ-pak]] {{·}} [[Si-li-â]] {{·}} [[Thú-ngí-khì]] {{·}} [[Â-lâ-pak Lièn-ha̍p Thai-kûng-koet]] {{·}} [[Yemen]]
+|group6= khì-thâ thi̍t-sû chṳn-khî
+|list6 = [[Hiông-kóng]]{{·}} [[Au-mùn]]
+|below= (1) Chhiáng ngì khon [[Thòi-vân mun-thì]]
+}}<noinclude>
 [[Category:Â-chû koet-kâ]]
 </noinclude>
