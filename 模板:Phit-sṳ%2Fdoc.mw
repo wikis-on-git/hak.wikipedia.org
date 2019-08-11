@@ -1,0 +1,67 @@
+{{Documentation subpage}}
+<!-- Categories and interwikis go at the bottom of this page. -->
+
+== Introduction ==
+The template should be used when a rarely-used Chinese character may not be displayed properly. Viewers may see a blank, a block or an interrogation mark. This template can provide a description of how the character should be displayed.
+
+== Usage ==
+The template can be used when a rarely-used Chinese character may not be displayed properly.
+
+<pre><nowiki>{{Phit-sṳ|The rarely-used Chinese character that may not be displayed properly|The description of the character}}</nowiki></pre>
+
+== Examples ==
+{| class="wikitable"
+! style="width:95%;" | input
+! style="width:5%;" | output
+|-
+| <pre style="margin:0px; white-space:normal;"><nowiki>{{Phit-sṳ|嚟|chó 口 yu 黎}}</nowiki></pre>
+| {{Phit-sṳ|嚟|chó 口 yu 黎}}
+|-
+| <pre style="margin:0px; white-space:normal;"><nowiki>{{Phit-sṳ|龑|sông 龍 ha 天}}</nowiki></pre> 
+| {{Phit-sṳ|龑|sông 龍 ha 天}}
+|-
+| <pre style="margin:0px; white-space:normal;"><nowiki>{{Phit-sṳ|屙|ngoi 尸 nui 阿}}</nowiki></pre> 
+| {{Phit-sṳ|屙|ngoi 尸 nui 阿}}
+|}
+
+== See also ==
+*[[:en:Template:zh]]
+*[[:zh:Template:全局僻字]]
+*[[:zh:Template:缺字]]
+*[[:zh:Template:Unihan]]
+*[[:zh:Template:未收錄漢字]]
+*[[:zh:Template:CJK-New-Char]]
+
+==TemplateData==
+{{TemplateDataHeader}}
+<templatedata>
+{
+	"description": "This template should be used when a rarely-used Chinese character may not be displayed properly. Viewers may see a blank, a block or an interrogation mark. This template can provide a description of how the character should render.",
+	"format": "inline",
+	"params": {
+		"1": {
+			"label": "character",
+			"description": "The Chinese character that may not render properly",
+			"type": "line",
+			"required": true,
+			"example": "龑"
+		},
+		"2": {
+			"label": "description",
+			"description": "A description of the visual composition of the character",
+			"type": "string",
+			"suggested": true,
+			"example": "sông 龍 ha 天",
+			"default": "※This rarely-used Chinese character may not be displayed properly in your system. You may see a blank, a block or a question mark."
+		}
+	}
+}
+</templatedata>
+
+<includeonly>
+<!-- categories -->
+[[Category:Chinese language templates]]
+
+<!-- inter-language links -->
+
+</includeonly>
