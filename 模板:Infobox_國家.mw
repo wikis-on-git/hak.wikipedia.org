@@ -4,18 +4,18 @@
 <templatestyles src="Infobox/styles.css" />
 {| class="infobox bordered" cellpadding="4" style="width: 300px; font-size: 90%;"
 |-
-| colspan=2 align=center bgcolor=#e3e3e3| '''{{{name|{{{國家名稱|{{PAGENAME}} }}} }}}'''
+| colspan=2 align=center bgcolor=#e3e3e3| <center>'''{{{name|{{{國家名稱|{{PAGENAME}} }}} }}}'''</center>
 |-
-| colspan=2 align=center bgcolor=#4798B3| '''{{{native_name|{{{國名原文|}}}}}}'''
+| colspan=2 align=center bgcolor=#4798B3| <center>'''{{{native_name|{{{國名原文|}}}}}}'''</center>
 |-
 | colspan="2" |
     {| style="text-align: center; margin: 0 auto; background: none;"
     |-
-    | style="border: 0; vertical-align: middle;" | <span style="border: 1px solid #bbbbbb; display: table-cell;">[[File:{{{image_flag|{{{國旗文件名}}}}}}|125px]]</span>
-    | style="border: 0; vertical-align: middle;" | [[File:{{{image_coat|{{{國徽文件名}}}}}}|100px]]
+    | style="border: 0; vertical-align: middle;" | <span style="border: 1px solid #bbbbbb; display: table-cell;"><center>[[File:{{{image_flag|{{{國旗文件名}}}}}}|125px]]</center></span>
+    | style="border: 0; vertical-align: middle;" | <center>[[File:{{{image_coat|{{{國徽文件名}}}}}}|100px]]</center>
     |- style="font-size: 95%;"
-    | style="border: 0;" | [[{{PAGENAME}} 國旗|國旗]]
-    | style="border: 0;" | [[{{PAGENAME}} 國徽|國徽]]
+    | style="border: 0;" | <center>[[{{PAGENAME}} 國旗|國旗]]</center>
+    | style="border: 0;" | <center>[[{{PAGENAME}} 國徽|國徽]]</center>
     |}
 |-
 {{#if:{{{motto|{{{national_motto|{{{國家格言|}}}}}}}}}
@@ -26,9 +26,9 @@
  |{{!}}colspan="2" style="font-size: 95%; text-align: center;" {{!}} [[國歌]]: {{{anthem|{{{national_anthem|{{{國歌名稱|}}}}}}}}}
 }}
 |-
-|colspan="2" align="center" bgcolor="#c6c9ff"|'''自然地理'''<br/><small>(實際管轄區)</small>
+|colspan="2" align="center" bgcolor="#c6c9ff"|<center>'''自然地理'''<br/><small>(實際管轄區)</small></center>
 |-
-|colspan="2" align="center"|[[File:{{{image_map|{{{國家位置圖片文件名}}}}}}|250px]]
+|colspan="2" align="center"|<center>[[File:{{{image_map|{{{國家位置圖片文件名}}}}}}|250px]]</center>
 |-
 |style="width:9em";|'''[[首都]]'''||{{{capital|{{{國家首都名稱|}}}}}}
 |-
@@ -65,7 +65,7 @@
 {{!}}{{!}}{{{utc_offset|{{{時區|}}}}}}
 }}
 |-
-|colspan="2" align="center" bgcolor="#33CC99"|'''人民生活'''
+|colspan="2" align="center" bgcolor="#33CC99"|<center>'''人民生活'''</center>
 |-
 {{#if:{{{official_languages|{{{官方語言|}}}}}}|
 {{!}}{{!}}'''[[官方語言]]'''
@@ -81,7 +81,7 @@
 {{!}}{{!}}{{{ethnic_groups|{{{民族|}}}}}}
 }}
 |-
-|colspan="2" align="center" bgcolor="#FFCC66"|'''政治文化'''
+|colspan="2" align="center" bgcolor="#FFCC66"|<center>'''政治文化'''</center>
 |-
 {{#if:{{{government_type|{{{政治體制|}}}}}}|
 {{!}}{{!}}'''政治體制'''
@@ -98,7 +98,7 @@
 {{!}}{{!}}{{{主要節日|}}}
 }}
 |-
-|colspan="2" align="center" bgcolor="#CC9966"|'''經濟實力'''
+|colspan="2" align="center" bgcolor="#CC9966"|<center>'''經濟實力'''</center>
 |-
 {{#if:{{{currency|{{{金幣單位|}}}}}}|
 {{!}}{{!}}'''金幣單位'''
@@ -143,7 +143,7 @@
  |{{!}}colspan="2" style="font-size: 95%; text-align: center;" {{!}} {{{國際事務}}}
 }}
 |-
-|colspan="2" align="center" bgcolor="#FFCCCC"|'''國家資料'''
+|colspan="2" align="center" bgcolor="#FFCCCC"|<center>'''國家資料'''</center>
 |-
 {{#if:{{{國家象徵|}}}|
 {{!}}{{!}}'''國家象徵'''
