@@ -1,8 +1,7 @@
 <noinclude>{{esoteric}}{{Hakka-TW|1|模板:Infobox Country}}</noinclude>
 <div style="position: relative; style="float: right; font-size: small;">
-
-
 <div style="position: relative; style="float: right; font-size: small; border:0.1px solid #73B839;">
+<templatestyles src="Infobox/styles.css" />
 {| class="infobox bordered" cellpadding="4" style="width: 300px; font-size: 90%;"
 |-
 | colspan=2 align=center bgcolor=#e3e3e3| '''{{{name|{{{國家名稱|{{PAGENAME}} }}} }}}'''
@@ -165,10 +164,5 @@
 {{!}}{{!}}'''[[國際電話區號列表|國際電話區號]]'''
 {{!}}{{!}}{{{calling_code|{{{國際電話區號|}}}}}}
 }}
-|-
-|colspan=2|<div style="float:right; font-size:70%; padding:0 .5em 0 .5em">[{{SERVER}}{{localurl:{{NAMESPACE}}:{{PAGENAME}}|action=edit&section=0}} <small>phiên-cho</small>]</div>
 |}
-
-</div><noinclude>
-==重新改寫==
-2006年7月27日又重新改寫了，遵循“有就顯示，無就不顯示”的原則。
+</div>
