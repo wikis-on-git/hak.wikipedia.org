@@ -1,5 +1,6 @@
 <noinclude>{{esoteric}}{{Hakka-TW|0|模板:Infobox 國家}}</noinclude>
-<div style="position: relative; style="float: right; font-size: small; border:0.1px solid #73B839;">
+<div style="position: relative; style="float: right; font-size: small;">
+<templatestyles src="Infobox/styles.css" />
 {| class="infobox bordered" cellpadding="4" style="width: 300px; font-size: 90%;"
 |-
 | colspan=2 align=center bgcolor=#e3e3e3| '''{{{name|{{{koet-kâ miàng-chhṳ̂n|{{PAGENAME}} }}} }}}'''
@@ -162,7 +163,5 @@
 {{!}}{{!}}'''[[koet-chi thien-fa khî-ho lie̍t-péu|koet-chi thien-fa khî-ho]]'''
 {{!}}{{!}}{{{calling_code|{{{koet-chi thien-fa khî-ho|}}}}}}
 }}
-|-
-|colspan=2|<div style="float:right; font-size:70%; padding:0 .5em 0 .5em">[{{SERVER}}{{localurl:{{NAMESPACE}}:{{PAGENAME}}|action=edit&section=0}} <small>phiên-cho</small>]</div>
 |}
 </div><noinclude>{{documentation}}</noinclude>
