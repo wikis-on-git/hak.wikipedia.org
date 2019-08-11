@@ -1,0 +1,16 @@
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+This template is for easy access to the [[Unicode]] Consortium's [[Han unification]] [https://www.unicode.org/cgi-bin/GetUnihanData.pl database].
+
+=== Usage ===
+* <nowiki>{{unihan|4e95}}</nowiki> yields {{unihan|4e95}}
+* <nowiki>{{unihan}}</nowiki> by itself yields {{unihan}}, since that seems to be the default for the database.
+==See also==
+
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+[[Category:WikiProject Japan templates]]
+[[Category:Unicode character templates]]
+
+</includeonly>
