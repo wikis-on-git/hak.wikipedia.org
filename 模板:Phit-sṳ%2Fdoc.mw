@@ -52,7 +52,7 @@ The template can be used when a rarely-used Chinese character may not be display
 			"type": "string",
 			"suggested": true,
 			"example": "sông 龍 ha 天",
-			"default": "※This rarely-used Chinese character may not be displayed properly in your system. You may see a blank, a block or a question mark."
+			"default": "※Liá-ke sṳ hàn-màng pûn Unicode sû-liu̍k, chhai ngì ke ne-thúng tú khó-nèn mò-fap-thu hién-sṳ, só-yî pien-sṳ̀n khûng-pha̍k, fông-khoai fe̍t-chá mun-ho."
 		}
 	}
 }
