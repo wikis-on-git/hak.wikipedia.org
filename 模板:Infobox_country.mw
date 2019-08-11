@@ -3,9 +3,9 @@
 <templatestyles src="Infobox/styles.css" />
 {| class="infobox bordered" cellpadding="4" style="width: 300px; font-size: 90%;"
 |-
-| colspan=2 align=center bgcolor=#e3e3e3| '''{{{name|{{{koet-kâ miàng-chhṳ̂n|{{PAGENAME}} }}} }}}'''
+| colspan=2 align=center bgcolor=#e3e3e3| <center>'''{{{name|{{{koet-kâ miàng-chhṳ̂n|{{PAGENAME}} }}} }}}'''</center>
 |-
-| colspan=2 align=center bgcolor=#4798B3| '''{{{native_name|{{{koet-miàng ngièn-vùn|}}}}}}'''
+| colspan=2 align=center bgcolor=#4798B3| <center>'''{{{native_name|{{{koet-miàng ngièn-vùn|}}}}}}'''</center>
 |-
 | colspan="2" |
     {| style="text-align: center; margin: 0 auto; background: none;"
@@ -13,8 +13,8 @@
     | style="border: 0; vertical-align: middle;" | <span style="border: 1px solid #bbbbbb; display: table-cell;">[[File:{{{image_flag|{{{koet-khì vùn-khien-miàng}}}}}}|125px]]</span>
     | style="border: 0; vertical-align: middle;" | [[File:{{{image_coat|{{{khì-ho vùn-khien-miàng}}}}}}|100px]]
     |- style="font-size: 95%;"
-    | style="border: 0;" | [[{{PAGENAME}} koet-khì|Koet-khì]]
-    | style="border: 0;" | [[{{PAGENAME}} khì-ho|Khì-ho]]
+    | style="border: 0;" | <center>[[{{PAGENAME}} koet-khì|Koet-khì]]</center>
+    | style="border: 0;" | <center>[[{{PAGENAME}} khì-ho|Khì-ho]]</center>
     |}
 |-
 {{#if:{{{motto|{{{national_motto|{{{koet-kâ kiet-ngièn|}}}}}}}}}
@@ -25,9 +25,9 @@
  |{{!}}colspan="2" style="font-size: 95%; text-align: center;" {{!}} [[koet-kô]]: {{{anthem|{{{national_anthem|{{{koet-kô miàng-chhṳ̂n|}}}}}}}}}
 }}
 |-
-|colspan="2" align="center" bgcolor="#c6c9ff"|'''Chhṳ-yèn thi-lî'''<br/><small>(sṳ̍t-chi kón-hot-khî)</small>
+|colspan="2" align="center" bgcolor="#c6c9ff"|<center>'''Chhṳ-yèn thi-lî'''<br/><small>(sṳ̍t-chi kón-hot-khî)</small></center>
 |-
-|colspan="2" align="center"|[[File:{{{image_map|{{{koet-kâ vi-chṳ thù-hìn vùn-khien-miàng}}}}}}|250px]]
+|colspan="2" align="center"|<center>[[File:{{{image_map|{{{koet-kâ vi-chṳ thù-hìn vùn-khien-miàng}}}}}}|250px]]</center>
 |-
 |style="width:9em";|'''[[sú-tû]]'''||{{{capital|{{{koet-kâ sú-tû miàng-chhṳ̂n|}}}}}}
 |-
@@ -64,7 +64,7 @@
 {{!}}{{!}}{{{utc_offset|{{{sṳ̀-khî|}}}}}}
 }}
 |-
-|colspan="2" align="center" bgcolor="#33CC99"|'''Ngìn-mìn sên-fa̍t'''
+|colspan="2" align="center" bgcolor="#33CC99"|<center>'''Ngìn-mìn sên-fa̍t'''</center>
 |-
 {{#if:{{{official_languages|{{{kôn-fông ngî-ngièn|}}}}}}|
 {{!}}{{!}}'''[[kôn-fông ngî-ngièn]]'''
@@ -80,7 +80,7 @@
 {{!}}{{!}}{{{ethnic_groups|{{{mìn-chhu̍k|}}}}}}
 }}
 |-
-|colspan="2" align="center" bgcolor="#FFCC66"|'''Chṳn-chhṳ vùn-fa'''
+|colspan="2" align="center" bgcolor="#FFCC66"|<center>'''Chṳn-chhṳ vùn-fa'''</center>
 |-
 {{#if:{{{government_type|{{{chṳn-chhṳ thí-chṳ|}}}}}}|
 {{!}}{{!}}'''chṳn-chhṳ thí-chṳ'''
@@ -97,7 +97,7 @@
 {{!}}{{!}}{{{chú-yeu chiet-ngit|}}}
 }}
 |-
-|colspan="2" align="center" bgcolor="#CC9966"|'''Kîn-chi sṳ̍t-li̍t'''
+|colspan="2" align="center" bgcolor="#CC9966"|<center>'''Kîn-chi sṳ̍t-li̍t'''</center>
 |-
 {{#if:{{{currency|{{{kîm-pi tân-vi|}}}}}}|
 {{!}}{{!}}'''Kîm-pi tân-vi'''
@@ -142,7 +142,7 @@
  |{{!}}colspan="2" style="font-size: 95%; text-align: center;" {{!}} {{{koet-chi sṳ-vu}}}
 }}
 |-
-|colspan="2" align="center" bgcolor="#FFCCCC"|'''Koet-kâ chṳ̂-liau'''
+|colspan="2" align="center" bgcolor="#FFCCCC"|<center>'''Koet-kâ chṳ̂-liau'''</center>
 |-
 {{#if:{{{koet-kâ siong-chṳ̂n|}}}|
 {{!}}{{!}}'''Koet-kâ siong-chṳ̂n'''
