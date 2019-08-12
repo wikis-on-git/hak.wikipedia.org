@@ -1,8 +1,7 @@
 {{Navbox
 |title  = [[Êu-chû Lièn-mèn]]
 |name   = Êu-chû Lièn-mèn
-|navbar = plain
-|style  = width:100%
+| state = {{{state<includeonly>|autocollapse</includeonly>}}}
 |group1 = {{SIL|Sṳ̀n-yèn koet}}
 |list1 = {{flagcountry|France}}{{ww}}{{flagcountry|Finland}}{{ww}}{{flagcountry|Greece}}{{ww}}{{flagcountry|Hungary}}{{ww}}{{flagcountry|Netherlands}}{{ww}}{{flagcountry|Latvia}}{{ww}}{{flagcountry|Lithuania}}{{ww}}{{flagcountry|Romania}}{{ww}}{{flagcountry|Luxembourg}}{{ww}}{{flagcountry|Malta}}{{ww}}{{flagcountry|Austria}}{{ww}}{{flagcountry|Ireland}}{{ww}}{{flagcountry|Estonia}}{{ww}}{{flagcountry|Portugal}}{{ww}}{{flagcountry|Belgium}}{{ww}}{{flagcountry|Bulgaria}}{{ww}}{{flagcountry|Poland}}{{ww}}{{flagcountry|Cyprus}}{{ww}}{{flagcountry|Sweden}}{{ww}}{{flagcountry|Spain}}{{ww}}{{flagcountry|Czech Republic}}{{ww}}{{flagcountry|Slovakia}}{{ww}}{{flagcountry|Slovenia}}{{ww}}{{flagcountry|Denmark}}{{ww}}{{flagcountry|Germany}}{{ww}}{{flagcountry|Italy}}{{ww}}{{flagcountry|United Kingdom}}{{ww}}{{flagcountry|Croatia}}
 |group2 = {{SIL|<br />Hèu-sién-koet}}
