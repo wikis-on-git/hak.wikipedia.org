@@ -1,0 +1,38 @@
+{{Navbox
+| name = Pet Mî-chû
+| state = {{{state<includeonly>|autocollapse</includeonly>}}}
+| bodyclass = hlist
+| title = [[Pet Mî-chû]]
+| imagestyle = padding:0 1.0em 0 0.5em;
+| image = [[File:Location North America.svg|120px|link=Pet Mî-chû]]
+
+| group1 = Koet-kâ
+| list1 =
+ {{Navbox |child |groupstyle=font-weight:normal;
+  | group1 = Chhiòn-phu<br> chhai Pet Mî
+  | list1 = [[Antigua lâu Barbuda]]{{·}} [[Bahamas]]{{·}} [[Barbados]]{{·}} [[Belize]]{{·}} [[Kâ-nâ-thai]]{{·}} [[Costa Rica]]{{·}} [[Cuba]]{{·}} [[Dominica]]{{·}} [[Dominica Khiung-fò-koet]]{{·}} [[El Salvador]]{{·}} [[Grenada]]{{·}} [[Guatemala]]{{·}} [[Haiti]]{{·}} [[Honduras]]{{·}} [[Jamaica]]{{·}} [[Me̍t-sî-kô]]{{·}} [[Nicaragua]]{{·}} [[Panama]]{{·}} [[Saint Kitts lâu Nevis]]{{·}} [[Saint Lucia]]{{·}} [[Saint Vincent lâu Grenadines]]{{·}} [[Trinidad lâu Tobago]]{{·}} [[Mî-koet]]
+  | group2 = Phu-fun<br> chhai Pet Mî
+  | list2 = [[Colombia]] ([[Archipelago of San Andrés, Providencia and Santa Catalina|San Andrés lâu Providencia]]){{·}} [[Fap-koet]] ([[Guadeloupe]], [[Martinique]]){{·}} [[Hò-làn]] ([[Bonaire]], [[Saba]], [[Sint Eustatius]]){{·}} [[Venezuela]] ([[Isla Aves]])
+ }}
+
+<!---group2 omitted to maintain alternating list backgrounds--->
+
+| group3 = Hói-ngoi liâng-thi
+| list3 =
+ {{Navbox |child |groupstyle=font-weight:normal;
+  | group1 = Tân-ma̍k
+  | list1 = [[Greenland]]
+  | group2 = Fap-koet
+  | list2 = [[Clipperton-tó]]{{·}} [[Saint-Barthélemy]]{{·}} [[Saint-Martin]]{{·}} [[Saint-Pierre lâu Miquelon]]
+  | group3 = Hò-làn
+  | list3 = [[Aruba]]{{·}} [[Curaçao]]{{·}} [[Sint Maarten]]
+  | group4 = Yîn-koet
+  | list4 = [[Anguilla]]{{·}} [[Bermuda]]{{·}} [[Yîn-koet liâng Virgin Khiùn-tó]]{{·}} [[Cayman Kiùn-tó]]{{·}} [[Montserrat]]{{·}} [[Turks lâu Caicos Khiùn-tó]]
+  | group5 = Mî-koet
+  | list5 = [[Navassa-tó]]{{·}} [[Puerto Rico]]{{·}} [[Mî-koet liâng Virgin Khiùn-tó]]
+ }}
+
+}}
+<noinclude>
+[[Category:Pet Mî-chû]]
+</noinclude>
