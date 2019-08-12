@@ -1,4 +1,4 @@
-<div style="position: relative; style="float: right; border:0.1px solid {{{線顏色|#73B839}}};">
+<div style="position: relative; style="float: right; border:0.1px solid #73B839;">
 <templatestyles src="Infobox/styles.css" />
 <table class="infobox {{{bodyclass|}}}" cellspacing="5" style="width: 22em; text-align: left; font-size: 88%; line-height: 1.5em; {{{bodystyle|}}}"><!--
  Caption
