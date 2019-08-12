@@ -1,0 +1,24 @@
+{{Navbox
+| name  = Nàm Mî-chû
+| state = {{{state<includeonly>|autocollapse</includeonly>}}}
+| title = [[Nàm Mî-chû]]
+| image = [[File:South America (orthographic projection).svg|80px|]]
+| listclass = hlist
+
+| group1 = Koet-kâ
+| list1 =
+ {{Navbox |child |groupstyle=font-weight:normal;
+  | group1 = Chú-khièn<br> koet-kâ
+  | list1 = [[Argentina]]{{·}} [[Bolivia]]{{·}} [[Pâ-sî]]{{·}} [[Chile]]{{·}} [[Colombia]]{{·}} [[Ecuador]]{{·}} [[Guyana]]{{·}} [[Paraguay]]{{·}} [[Peru]]{{·}} [[Suriname]]{{·}} [[Uruguay]]{{·}} [[Venezuela]]
+  | group2 = Phu-fun
+  | list2 = [[Fap-koet liâng Guiana]] ([[Fap-koet]])
+ }}
+
+<!---group2 omitted to maintain alternating list backgrounds--->
+
+| group3 = Hói-ngoi liâng-thi
+| list3 = [[Falkland Khiùn-tó]]{{\}}[[Nàm Georgia lâu Nàm Sandwich Khiùn-tó]] ([[Yîn-koet]])
+
+}}<noinclude>
+[[Category:Nàm Mî-chû]]
+</noinclude>
