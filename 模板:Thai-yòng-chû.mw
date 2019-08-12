@@ -1,0 +1,35 @@
+{{Navbox
+| name = Thai-yòng-chû
+| state = {{{state<includeonly>|autocollapse</includeonly>}}}
+| bodyclass = hlist
+| title = [[Thai-yòng-chû]]
+| image = [[File:Oceania (orthographic projection).svg|150px|]]
+
+| group1 = Chú-khièn<br> koet-kâ
+| list1 =
+ {{Navbox |child |groupstyle=font-weight:normal;
+  | group1 = Sṳ̍t-thí
+  | list1 = [[Au-chû]]{{·}} [[Micronesia Lièn-pâng]]{{·}} [[Fiji]]{{·}} [[Kiribati]]{{·}} [[Marshall Khiùn-tó]]{{·}} [[Nauru]]{{·}} [[New Zealand]]{{·}} [[Palau]]{{·}} [[Papua New Guinea]]{{·}} [[Samoa]]{{·}} [[Solomon Khiùn-tó]]{{·}} [[Tonga]]{{·}} [[Tuvalu]]{{·}} [[Vanuatu]]
+  | group2 = Phu-fun
+  | list2 = [[Fu̍k-fa̍t-chiet-tó]]{{\}}[[Juan Fernández Khiùn-tó]] ([[Chile]]){{·}} [[Sî Papua]]{{\}}[[Papua]] ([[Yin-nì]]){{·}} [[Ogasawara]] ([[Ngi̍t-pún]]){{·}} [[Hawaii]]{{\}}[[Palmyra Fàn-chêu]] ([[Mî-koet]])
+ }}
+
+<!---group2 omitted to main alternating list backgrounds--->
+
+| group3 = [[New Zealand]]<br /> ke lièn-he-pâng
+| list3 = [[Niue]]{{·}} [[Cook Khiùn-tó]]
+
+| group4 = Hói-ngoi liâng-thi
+| list4 =
+ {{Navbox |child |groupstyle=font-weight:normal; |evenodd=swap
+  | group1 = [[Au-chû]]
+  | list1 = [[Ashmore lâu Cartier Khiùn-tó]]{{·}} [[Sṳn-tan-tó]]{{·}} [[Cocos (Keeling) Khiùn-tó]]{{·}} [[Sân-fù-hói-tó]]{{·}} [[Norfolk-tó]]
+  | group2 = [[Mî-koet]]
+  | list2 = [[Mî-koet liâng Samoa]]{{·}} [[Baker-tó]]{{·}} [[Guam]]{{·}} [[Howland-tó]]{{·}} [[Jarvis-tó]]{{·}} [[Johnston Fàn-chêu]]{{·}} [[Kingman-chêu]]{{·}} [[Midway Fàn-chêu]]{{·}} [[Pet Mariana Khiùn-tó]]{{·}} [[Wake-tó]]
+  | group3 = Khì-thâ
+  | list3 = [[Fap-koet liâng Polynesia]]{{\}}[[New Caledonia]]{{\}}[[Wallis lâu Futuna]] ([[Fap-koet]]){{·}} [[Tokelau]] ([[New Zealand]]){{·}} [[Pitcairn Khiùn-tó]] ([[Yîn-koet]])
+ }}
+
+}}<noinclude>
+[[Category:Thai-yòng-chû]]
+</noinclude>
