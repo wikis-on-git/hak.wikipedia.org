@@ -10,8 +10,8 @@
 | colspan="2" |
     {| style="text-align: center; margin: 0 auto; background: none;"
     |-
-    | style="border: 0; vertical-align: middle;" | <span style="border: 1px solid #bbbbbb; display: table-cell;"><center>[[File:{{{image_flag|{{{koet-khì vùn-khien-miàng}}}}}}|125px]]</center></span>
-    | style="border: 0; vertical-align: middle;" | <center>[[File:{{{image_coat|{{{khì-ho vùn-khien-miàng}}}}}}|100px]]</center>
+    | style="border: 0; vertical-align: middle;" | <center>[[File:{{#if:{{{image_flag|{{{koet-khì vùn-khien-miàng}}}}}}|{{{image_flag|{{{koet-khì vùn-khien-miàng}}}}}}|Flag of None.svg}}|125px]]</center>
+    | style="border: 0; vertical-align: middle;" | <center>[[File:{{#if:{{{image_coat|{{{khì-ho vùn-khien-miàng}}}}}}|{{{image_coat|{{{khì-ho vùn-khien-miàng}}}}}}|Coats of arms of None.svg}}|100px]]</center>
     |- style="font-size: 95%;"
     | style="border: 0;" | <center>[[{{PAGENAME}} koet-khì|Koet-khì]]</center>
     | style="border: 0;" | <center>[[{{PAGENAME}} khì-ho|Khì-ho]]</center>
@@ -27,7 +27,7 @@
 |-
 |colspan="2" align="center" bgcolor="#c6c9ff"|<center>'''Chhṳ-yèn thi-lî'''<br/><small>(sṳ̍t-chi kón-hot-khî)</small></center>
 |-
-|colspan="2" align="center"|<center>[[File:{{{image_map|{{{koet-kâ vi-chṳ thù-hìn vùn-khien-miàng}}}}}}|250px]]<br />{{PAGENAME}} ke só-chhai.</center>
+|colspan="2" align="center"|<center>[[File:{{#if:{{{image_map|{{{koet-kâ vi-chṳ thù-hìn vùn-khien-miàng}}}}}}|{{{image_map|{{{koet-kâ vi-chṳ thù-hìn vùn-khien-miàng}}}}}}|Missing map.svg}}|250px]]<br />{{PAGENAME}} ke só-chhai.</center>
 |-
 |style="width:9em";|'''[[sú-tû]]'''||{{{capital|{{{koet-kâ sú-tû miàng-chhṳ̂n|}}}}}}
 |-
