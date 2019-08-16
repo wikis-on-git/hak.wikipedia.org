@@ -37,7 +37,7 @@
 }}
 |-
 |colspan="2"|'''[[koet-kâ mien-chit lie̍t-péu|Mien-chit]]'''
-{{#if:{{{area_km2|{{{mien-chit|{{{koet-thú mien-chit su-kí|}}}}}}}}}|*koet-thú mien-chit {{{area_km2|{{{mien-chit|{{{koet-thú mien-chit su-kí|}}}}}}}}} [[Pêng-hong kong-lí|km²]]}} {{#if:{{{area_rank|{{{mien-chit phài-miàng|{{{Mien-chit phài-miàng|}}}}}}}}}|<small>sṳ-kie thi {{{area_rank|{{{mien-chit phài-miàng|{{{Mien-chit phài-miàng|}}}}}}}}} miàng</small>}}
+{{#if:{{{area_km2|{{{mien-chit|{{{koet-thú mien-chit su-kí|}}}}}}}}}|*koet-thú mien-chit {{{area_km2|{{{mien-chit|{{{koet-thú mien-chit su-kí|}}}}}}}}} [[phìn-fông kûng-lî|km²]]}} {{#if:{{{area_rank|{{{mien-chit phài-miàng|{{{Mien-chit phài-miàng|}}}}}}}}}|<small>sṳ-kie thi {{{area_rank|{{{mien-chit phài-miàng|{{{Mien-chit phài-miàng|}}}}}}}}} miàng</small>}}
 |-
 {{#if:{{{chui-kô tiám|}}}|
 {{!}}{{!}}'''thi-lî chui-kô tiám'''
@@ -120,7 +120,7 @@
 {{!}}{{!}}{{{GDP_nominal_per_capita|{{{phìn-kiûn koet-nui sên-sán chúng-su|}}}}}} <small>({{{GDP_nominal_year|{{{GDP ngièn}}}}}} ngièn)</small>
 }}
 |-
-{{#if:{{{GDP_PPP_per_capita|{{{pêng-kin GDP PPP|}}}}}}|
+{{#if:{{{GDP_PPP_per_capita|{{{phìn-kiûn GDP PPP|}}}}}}|
 {{!}}{{!}}'''phìn-kiûn [[koet-nui sên-sán chúng-su|GDP]]''' (PPP)
 {{!}}{{!}}{{{GDP_PPP_per_capita|{{{phìn-kiûn GDP PPP|}}}}}} <small>({{{GDP_PPP_year|{{{GDP PPP ngièn}}}}}} ngièn)</small>
 }}
