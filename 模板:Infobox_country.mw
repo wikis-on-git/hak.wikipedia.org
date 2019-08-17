@@ -80,7 +80,9 @@
 {{!}}{{!}}{{{languages|{{{thûng-yung ngî-ngièn|}}}}}}
 }}
 |-
-|colspan="2"|'''[[koet-kâ ngìn-khiéu lie̍t-péu|ngìn-khiéu]]'''
+{{#if:{{{population_estimate|{{{population_census|{{{chúng ngìn-khiéu su-kí|{{{population_density_km2|{{{ngìn-khiéu me̍t-thu su-kí|}}}}}}}}}}}}}}}
+ |{{!}}colspan="2"{{!}}'''[[koet-kâ ngìn-khiéu lie̍t-péu|ngìn-khiéu]]'''
+}}
 {{#if:{{{population_estimate|}}}|*chúng ngìn-khiéu: {{{population_estimate|}}} ngìn}} {{#if:{{{population_estimate_year|}}}|<small>[[{{{population_estimate_year|}}}-ngièn]] kû-kie</small>}}{{#if:{{{population_estimate_rank|}}}|<small>, sṳ-kie thi {{{population_estimate_rank|}}} miàng</small>}}
 {{#if:{{{population_census|{{{chúng ngìn-khiéu su-kí|}}}}}}|*chúng ngìn-khiéu: {{{population_census|{{{chúng ngìn-khiéu su-kí|}}}}}} ngìn}} {{#if:{{{population_census_year|{{{ngìn-khiéu ngièn|}}}}}}|<small>[[{{{population_census_year|{{{ngìn-khiéu ngièn|}}}}}}-ngièn]] phú-chhà</small>}}{{#if:{{{population_census_rank|{{{ngìn-khiéu phài-miàng|}}}}}}|<small>, sṳ-kie thi {{{population_census_rank|{{{ngìn-khiéu phài-miàng|}}}}}} miàng</small>}}
 {{#if:{{{population_density_km2|{{{ngìn-khiéu me̍t-thu su-kí|}}}}}}|*[[koet-kâ ngìn-khiéu me̍t-thu lie̍t-péu|ngìn-khiéu me̍t-thu]]: {{{population_density_km2|{{{ngìn-khiéu me̍t-thu su-kí|}}}}}} ngìn/km<sup>2</sup>}} {{#if:{{{population_census_year|{{{ngìn-khiéu ngièn|}}}}}}|<small>[[{{{population_census_year|{{{ngìn-khiéu ngièn|}}}}}}-ngièn]]</small>}} {{#if:{{{population_density_rank|{{{ngìn-khiéu me̍t-thu phài-miàng|}}}}}}|<small>, sṳ-kie thi {{{population_density_rank|{{{ngìn-khiéu me̍t-thu phài-miàng|}}}}}} miàng</small>}}
