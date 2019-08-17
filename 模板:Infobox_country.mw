@@ -94,7 +94,9 @@
 {{!}}{{!}}{{{ethnic_groups|{{{mìn-chhu̍k|}}}}}}
 }}
 |-
-|colspan="2" align="center" bgcolor="#FFCC66"|<center>'''Chṳn-chhṳ vùn-fa'''</center>
+{{#if:{{{government_type|{{{chṳn-chhṳ thí-chṳ|{{{leader_title1|{{{koet-kâ ngièn-sú chhṳn-chṳt|{{{leader_title2|{{{chṳn-fú thoi-péu chhṳn-chṳt|{{{leader_title3|{{{chṳn-fú sú-nó chhṳn-chṳt|}}}}}}}}}}}}}}}}}}}}}}}}
+ |{{!}}colspan="2" align="center" bgcolor="#FFCC66"{{!}}<center>'''Chṳn-chhṳ vùn-fa'''</center>
+}}
 |-
 {{#if:{{{government_type|{{{chṳn-chhṳ thí-chṳ|}}}}}}|
 {{!}}{{!}}'''chṳn-chhṳ thí-chṳ'''
@@ -108,9 +110,9 @@
 {{#if:{{{leader_title2|{{{chṳn-fú thoi-péu chhṳn-chṳt|}}}}}}| *[[{{PAGENAME}} {{{leader_title2|{{{chṳn-fú thoi-péu chhṳn-chṳt}}}}}}|{{{leader_title2|{{{chṳn-fú thoi-péu chhṳn-chṳt}}}}}}]]: {{{leader_name2|{{{hien-ngim chṳn-fú thoi-péu miàng-sṳ}}}}}}}}
 {{#if:{{{leader_title3|{{{chṳn-fú sú-nó chhṳn-chṳt|}}}}}}|*[[{{PAGENAME}} {{{leader_title3|{{{chṳn-fú sú-nó chhṳn-chṳt}}}}}}|{{{leader_title3|{{{chṳn-fú sú-nó chhṳn-chṳt}}}}}}]]: {{{leader_name3|{{{hien-ngim chṳn-fú sú-nó miàng-sṳ}}}}}}}}
 |-
-{{#if:{{{chú-yeu chiet-ngit|}}}|
+{{#if:{{{festivals|{{{chú-yeu chiet-ngit|}}}}}}|
 {{!}}{{!}}'''chú-yeu chiet-ngit'''
-{{!}}{{!}}{{{chú-yeu chiet-ngit|}}}
+{{!}}{{!}}{{{festivals|{{{chú-yeu chiet-ngit|}}}}}}
 }}
 |-
 |colspan="2" align="center" bgcolor="#CC9966"|<center>'''Kîn-chi sṳ̍t-li̍t'''</center>
