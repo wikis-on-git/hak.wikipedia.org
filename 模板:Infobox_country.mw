@@ -68,7 +68,9 @@
 {{!}}{{!}}{{{utc_offset|{{{sṳ̀-khî|}}}}}}
 }}
 |-
-|colspan="2" align="center" bgcolor="#33CC99"|<center>'''Ngìn-mìn sên-fa̍t'''</center>
+{{#if:{{{official_languages|{{{kôn-fông ngî-ngièn|{{{languages|{{{thûng-yung ngî-ngièn|{{{population_estimate|{{{population_census|{{{chúng ngìn-khiéu su-kí|{{{population_density_km2|{{{ngìn-khiéu me̍t-thu su-kí|{{{ethnic_groups|{{{mìn-chhu̍k|}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+ |{{!}}colspan="2" align="center" bgcolor="#33CC99"{{!}}<center>'''Ngìn-mìn sên-fa̍t'''</center>
+}}
 |-
 {{#if:{{{official_languages|{{{kôn-fông ngî-ngièn|}}}}}}|
 {{!}}{{!}}'''[[kôn-fông ngî-ngièn]]'''
