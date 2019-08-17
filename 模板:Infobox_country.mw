@@ -29,7 +29,9 @@
 |-
 |colspan="2" align="center"|<center>[[File:{{#if:{{{image_map|{{{koet-kâ vi-chṳ thù-hìn vùn-khien-miàng}}}}}}|{{{image_map|{{{koet-kâ vi-chṳ thù-hìn vùn-khien-miàng}}}}}}|Missing map.svg}}|250px]]<br />{{PAGENAME}} ke só-chhai.</center>
 |-
-|style="width:9em";|'''[[sú-tû]]'''||{{{capital|{{{koet-kâ sú-tû miàng-chhṳ̂n|}}}}}}
+{{#if:{{{capital|{{{koet-kâ sú-tû miàng-chhṳ̂n|}}}}}}
+ |{{!}}style="width:9em";{{!}}'''[[sú-tû]]'''{{!}}{{!}}{{{capital|{{{koet-kâ sú-tû miàng-chhṳ̂n|}}}}}}
+}}
 |-
 {{#if:{{{largest_city|{{{chui-thai sàng-sṳ miàng-chhṳ̂n|}}}}}}|
 {{!}}{{!}}'''Chui-thai sàng-sṳ'''
