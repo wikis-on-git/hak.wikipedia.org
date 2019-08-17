@@ -38,8 +38,10 @@
 {{!}}{{!}}{{{largest_city|{{{chui-thai sàng-sṳ miàng-chhṳ̂n|}}}}}}
 }}
 |-
-|colspan="2"|'''[[koet-kâ mien-chit lie̍t-péu|Mien-chit]]'''
-{{#if:{{{area_km2|{{{mien-chit|{{{koet-thú mien-chit su-kí|}}}}}}}}}|*koet-thú mien-chit {{{area_km2|{{{mien-chit|{{{koet-thú mien-chit su-kí|}}}}}}}}} [[phìn-fông Kûng-lî|km²]]}} {{#if:{{{area_rank|{{{mien-chit phài-miàng|{{{Mien-chit phài-miàng|}}}}}}}}}|<small>sṳ-kie thi {{{area_rank|{{{mien-chit phài-miàng|{{{Mien-chit phài-miàng|}}}}}}}}} miàng</small>}}
+{{#if:{{{area_km2|{{{mien-chit|{{{koet-thú mien-chit su-kí|}}}}}}}}}
+ |{{!}}colspan="2"{{!}}'''[[koet-kâ mien-chit lie̍t-péu|Mien-chit]]'''
+}}
+{{#if:{{{area_km2|{{{mien-chit|{{{koet-thú mien-chit su-kí|}}}}}}}}}|{{*mp}}koet-thú mien-chit {{{area_km2|{{{mien-chit|{{{koet-thú mien-chit su-kí|}}}}}}}}} [[phìn-fông Kûng-lî|km²]]}} {{#if:{{{area_rank|{{{mien-chit phài-miàng|{{{Mien-chit phài-miàng|}}}}}}}}}|<small>sṳ-kie thi {{{area_rank|{{{mien-chit phài-miàng|{{{Mien-chit phài-miàng|}}}}}}}}} miàng</small>}}
 |-
 {{#if:{{{chui-kô tiám|}}}|
 {{!}}{{!}}'''thi-lî chui-kô tiám'''
