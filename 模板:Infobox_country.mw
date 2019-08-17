@@ -115,11 +115,13 @@
 {{!}}{{!}}{{{festivals|{{{chú-yeu chiet-ngit|}}}}}}
 }}
 |-
-|colspan="2" align="center" bgcolor="#CC9966"|<center>'''Kîn-chi sṳ̍t-li̍t'''</center>
+{{#if:{{{central_bank|{{{chûng-yông ngiùn-hòng|{{{currency|{{{kîm-pi tân-vi|{{{GDP|{{{GDP_nominal|{{{koet-nui sên-sán chúng-su|{{{GDP_PPP|{{{GDP_nominal_per_capita|{{{phìn-kiûn koet-nui sên-sán chúng-su|{{{GDP_PPP_per_capita|{{{phìn-kiûn GDP PPP|{{{HDI|{{{ngìn-lui fat-chán chúng-su|}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+ |{{!}}colspan="2" align="center" bgcolor="#CC9966"{{!}}<center>'''Kîn-chi sṳ̍t-li̍t'''</center>
+}}
 |-
-{{#if:{{{central_bank|{{{tûng-ông ngiùn-hòng|}}}}}}|
-{{!}}{{!}}'''[[tûng-ông ngiùn-hòng]]'''
-{{!}}{{!}}{{{central_bank|{{{tûng-ông ngiùn-hòng|}}}}}}
+{{#if:{{{central_bank|{{{chûng-yông ngiùn-hòng|}}}}}}|
+{{!}}{{!}}'''[[chûng-yông ngiùn-hòng]]'''
+{{!}}{{!}}{{{central_bank|{{{chûng-yông ngiùn-hòng|}}}}}}
 }}
 |-
 {{#if:{{{currency|{{{kîm-pi tân-vi|}}}}}}|
