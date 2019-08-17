@@ -117,6 +117,11 @@
 |-
 |colspan="2" align="center" bgcolor="#CC9966"|<center>'''Kîn-chi sṳ̍t-li̍t'''</center>
 |-
+{{#if:{{{central_bank|{{{tûng-ông ngiùn-hòng|}}}}}}|
+{{!}}{{!}}'''[[tûng-ông ngiùn-hòng]]'''
+{{!}}{{!}}{{{central_bank|{{{tûng-ông ngiùn-hòng|}}}}}}
+}}
+|-
 {{#if:{{{currency|{{{kîm-pi tân-vi|}}}}}}|
 {{!}}{{!}}'''Kîm-pi tân-vi'''
 {{!}}{{!}}{{{currency|{{{kîm-pi tân-vi|}}}}}}
@@ -145,11 +150,6 @@
 {{#if:{{{HDI|{{{ngìn-lui fat-chán chúng-su|}}}}}}|
 {{!}}{{!}}'''[[ngìn-lui fat-chán chúng-su|HDI]]'''
 {{!}}{{!}}{{{HDI|{{{ngìn-lui fat-chán chúng-su|}}}}}} <small>({{{HDI_year|{{{HDI ngièn|}}}}}} ngièn)</small>
-}}
-|-
-{{#if:{{{tûng-ông ngiùn-hòng|}}}|
-{{!}}{{!}}'''[[tûng-ông ngiùn-hòng]]'''
-{{!}}{{!}}{{{tûng-ông ngiùn-hòng|}}}
 }}
 |-
 {{#if:{{{koet-chi sṳ-vu|}}}
