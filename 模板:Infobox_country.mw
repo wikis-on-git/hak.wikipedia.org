@@ -162,7 +162,9 @@
  |{{!}}colspan="2" style="font-size: 95%; text-align: center;" {{!}} {{{koet-chi sṳ-vu}}}
 }}
 |-
-|colspan="2" align="center" bgcolor="#FFCCCC"|<center>'''Koet-kâ chṳ̂-liau'''</center>
+{{#if:{{{country_code|{{{koet-kâ thoi-ho|{{{cctld|{{{koet-chi khî-khî suk-siá|{{{calling_code|{{{koet-chi thien-fa khî-ho|}}}}}}}}}}}}}}}}}}
+ |{{!}}colspan="2" align="center" bgcolor="#FFCCCC"{{!}}<center>'''Koet-kâ chṳ̂-liau'''</center>
+}}
 |-
 {{#if:{{{koet-kâ siong-chṳ̂n|}}}|
 {{!}}{{!}}'''Koet-kâ siong-chṳ̂n'''
