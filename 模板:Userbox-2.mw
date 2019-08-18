@@ -1,0 +1,7 @@
+<div style="float: {{{float|left}}}; border: {{{9|{{{border-s|1}}}}}}px solid {{{1|{{{border-c|{{{id1-c|#999999}}}}}}}}}; margin: 1px;">
+{| cellspacing="0" style="width: 238px; background: {{{2|{{{info-c|#eeeeee}}}}}};"
+| style="width: 45px; height: 45px; background: {{{1|{{{id1-c|#dddddd}}}}}}; text-align: center; font-size: {{{id1-s|14}}}pt; color: {{{id1-fc|black}}}; {{{id1-op|}}}}}}" | '''{{{3|{{{id1|id1}}}}}}'''
+| style="font-size: {{{info-s|8}}}pt; color: {{{8|{{{info-fc|black}}}}}}; padding: {{{info-p|4pt}}}; line-height: {{{info-lh|1.25em}}}; {{{info-op|}}}}}}" | {{{4|{{{info|''info''}}}}}}
+| style="width: 45px; height: 45px; background: {{{7|{{{id2-c|{{{1|{{{id1-c|#dddddd}}}}}}}}}}}}; text-align: center; font-size: {{{id2-s|14}}}pt; color: {{{id2-fc|black}}}; {{{id2-op|}}}}}}" | '''{{{5|{{{id2|id2}}}}}}'''
+|}</div><noinclude>
+</noinclude>
