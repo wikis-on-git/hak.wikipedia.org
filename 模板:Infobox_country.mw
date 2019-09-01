@@ -29,6 +29,10 @@
 |-
 |colspan="2" align="center"|<center>[[File:{{#if:{{{image_map|{{{koet-kâ vi-chṳ thù-hìn vùn-khien-miàng}}}}}}|{{{image_map|{{{koet-kâ vi-chṳ thù-hìn vùn-khien-miàng}}}}}}|Missing map.svg}}|250px]]<br />{{PAGENAME}} ke só-chhai.</center>
 |-
+{{#if:{{{status|{{{Thi-vi|{{{thi-vi|}}} }}} }}}
+ |{{!}}style="width:9em";{{!}}'''Thi-vi'''{{!}}{{!}}{{{status|{{{Thi-vi|{{{thi-vi|}}} }}} }}}
+}}
+|-
 {{#if:{{{capital|{{{sú-tû|{{{koet-kâ sú-tû miàng-chhṳ̂n|}}}}}}}}}
  |{{!}}style="width:9em";{{!}}'''[[sú-tû]]'''{{!}}{{!}}{{{capital|{{{sú-tû|{{{koet-kâ sú-tû miàng-chhṳ̂n|}}}}}}}}}
 }}
