@@ -1,72 +1,59 @@
-{| cellpadding="1" style="float: right; border: 1px solid #8888aa; background: #f7f8ff; padding: 5px; font-size: 85%; margin: 0px;"
-| style="background: #ccf; text-align: center;" | '''Sîn-yok Sṳn-kîn Tshiòn-sû'''
-|-
-! ''[[Si Fuk-yîm-sû]]''
-|-
-| [[Mâ-thai-fuk-yîm]]
-|-
-| [[Mâ-khó-fuk-yîm]]
-|-
-| [[Lu-kâ-fuk-yîm]]
-|-
-| [[Yok-hon-fuk-yîm]]
-|-
-! ''[[Sṳ́-thù-hàng-chhon]]''
-|-
-! ''[[Pó-lò Sû-sin]]''
-|-
-| [[Lò-mâ-sû]]
-|-
-| [[Kô-lìm-tô-chhièn-sû]]
-|-
-| [[Kô-lìm-tô-heu-sû]]
-|-
-| [[Kâ-lâ-thai-sû]]
-|-
-| [[Yî-fut-só-sû]]
-|-
-| [[Fî-li̍p-pí-sû]]
-|-
-| [[Kô-lò-sî-sû]]
-|-
-| [[Thiap-sat-lò-nì-kâ-chhièn-sû]]
-|-
-| [[Thiap-sat-lò-nì-kâ-heu-sû]]
-|-
-| [[Thì-mô-thai-chhièn-sû]]
-|-
-| [[Thì-mô-thai-heu-sû]]
-|-
-| [[Thì-tô-sû]]
-|-
-| [[Fî-li-mùn-sû]]
-|-
-! ''[[Phû-thûng Sû-sin]]''
-|-
-| [[Hî-pak-lòi-sû]]
-|-
-| [[Ngâ-kok-sû]]
-|-
-| [[Pí-tet-chhièn-sû]]
-|-
-| [[Pí-tet-heu-sû]]
-|-
-| [[Yok-hon-yit-sû]]
-|-
-| [[Yok-hon-ngi-sû]]
-|-
-| [[Yok-hon-sâm-sû]]
-|-
-| [[Yù-thai-sû]]
-|-
-! ''[[Yi-ngièn-sû]]''
-|-
-| [[Khí-sṳ-liu̍k]]
-|-
-|-
-! '''Tsón-to [[Khiu-yok Sṳn-kîn]]'''
-|-
-|}
-<noinclude>
-[[id:Templat:Perjanjian Baru]]
+<includeonly>{{Sidebar with collapsible lists
+| name           = Sîn-yok Sṳn-kîn
+| bodyclass      = plainlist
+| bodystyle      = {{#ifeq:{{{status|{{{1|}}}}}}|subtemplate |{{subsidebar bodystyle}};}}<!--width:{{{width|18.0}}}em;<!--(and see image sizing)-->line-height:1.4em;
+| title          = {{#ifeq:{{{status|{{{1|}}}}}}|subtemplate | |[[Sîn-yok Sṳn-kîn]]}}
+| imagestyle     = padding-bottom:0.8em;<!--(remove if caption reinstated)-->
+| image          = {{#ifeq:{{{status|{{{1|}}}}}}|subtemplate | |[[File:P46.jpg|{{#expr:{{{width|18.0}}}*10}}px|Papyrus 46, one of the oldest New Testament papyri, showing 2 Cor 11:33-12:9]]}}
+| captionstyle   = font-size:90%;padding-bottom:0.3em;
+| caption        = <!--Papyrus 46, one of the oldest New Testament papyri, showing 2 Cor 11:33-12:9-->
+| listtitlestyle = {{#ifeq:{{{status|{{{1|}}}}}}|subtemplate |background:#ddf;padding-top:0.25em;padding-bottom:0.25em;<!--font-weight:normal;-->}}text-align:center;
+| liststyle      = {{#ifeq:{{{status|{{{1|}}}}}}|subtemplate | |border-top:1px solid #aaa;border-bottom:1px solid #aaa;}}
+| expanded       = {{{expanded|{{{selected|{{{2|{{{1|}}}}}}}}}}}}
+
+
+<!--------------------- Gospels ------------------------>
+| list1name = Fuk-yîm-sû
+| list1title = '''[[Fuk-yîm-sû]]'''
+| list1 = [[Mâ-thai-fuk-yîm]] {{·}} [[Mâ-khó-fuk-yîm]] {{·}} [[Lu-kâ-fuk-yîm]] {{·}} [[Yok-hon-fuk-yîm]]
+
+<!--------------------- Acts ------------------------>
+| list12name = Hàng-chhon
+| list12title = '''Hàng-chhon'''
+| list12 = [[Sṳ́-thù-hàng-chhon]]
+
+
+<!------------------- Epistles --------------------->
+| list13name = Sû-sin
+| list13title = Sû-sin
+| list13 = 
+ {{Sidebar |navbar=off |bodystyle={{subsidebar bodystyle}}
+  |headingclass={{#ifeq:{{{status|{{{1|}}}}}}|subtemplate |navbox-subgroup}}
+  |headingstyle={{#ifeq:{{{status|{{{1|}}}}}}|subtemplate |background:#e6e6ff;}}text-align:center;
+  |contentclass=hlist
+
+  | heading1 = '''[[Pó-lò Sû-sin]]'''
+  | content1 = [[Lò-mâ-sû]] {{·}} [[Kô-lìm-tô-chhièn-sû]] {{·}} [[Kô-lìm-tô-heu-sû]] {{·}} [[Kâ-lâ-thai-sû]] {{·}} [[Yî-fut-só-sû]] {{·}} [[Fî-li̍p-pí-sû]] {{·}} [[Kô-lò-sî-sû]] {{·}} [[Thiap-sat-lò-nì-kâ-chhièn-sû]] {{·}} [[Thiap-sat-lò-nì-kâ-heu-sû]] {{·}} [[Thì-mô-thai-chhièn-sû]] {{·}} [[Thì-mô-thai-heu-sû]] {{·}} [[Thì-tô-sû]] {{·}} [[Fî-li-mùn-sû]]
+  | heading2 = '''[[Phû-thûng Sû-sin]]'''
+  | content2 = [[Hî-pak-lòi-sû]] {{·}} [[Ngâ-kok-sû]] {{·}} [[Pí-tet-chhièn-sû]] {{·}} [[Pí-tet-heu-sû]] {{·}} [[Yok-hon-yit-sû]] {{·}} [[Yok-hon-ngi-sû]] {{·}} [[Yok-hon-sâm-sû]] {{·}} [[Yù-thai-sû]]
+ }}
+
+
+<!---------------------- Apocalypse ------------------------>
+| list14name = Yi-ngièn-sû
+| list14title = '''[[Yi-ngièn-sû]]'''
+| list14 = 
+
+<!------------------- Deuterocanonical -------------------->
+<!-- 
+| list15name = deutero
+| list15title = New Testament manuscripts
+| list15 = 
+
+-->
+
+| navbar = {{#ifeq:{{{status|{{{1|}}}}}}|subtemplate |off}}
+
+}}</includeonly><noinclude>
+{{Documentation}}[[Category:Sîn-yok Sṳn-kîn]]
 </noinclude>
