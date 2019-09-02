@@ -18,37 +18,37 @@
 | list1 = [[Mâ-thai-fuk-yîm]] {{·}} [[Mâ-khó-fuk-yîm]] {{·}} [[Lu-kâ-fuk-yîm]] {{·}} [[Yok-hon-fuk-yîm]]
 
 <!--------------------- Acts ------------------------>
-| list12name = Hàng-chhon
-| list12title = '''Hàng-chhon'''
-| list12 = [[Sṳ́-thù-hàng-chhon]]
+| list2name = Hàng-chhon
+| list2title = '''Hàng-chhon'''
+| list2 = [[Sṳ́-thù-hàng-chhon]]
 
 
 <!------------------- Epistles --------------------->
-| list13name = Sû-sin
-| list13title = Sû-sin
-| list13 = 
+| list3name = Sû-sin
+| list3title = '''Sû-sin'''
+| list3 = 
  {{Sidebar |navbar=off |bodystyle={{subsidebar bodystyle}}
   |headingclass={{#ifeq:{{{status|{{{1|}}}}}}|subtemplate |navbox-subgroup}}
   |headingstyle={{#ifeq:{{{status|{{{1|}}}}}}|subtemplate |background:#e6e6ff;}}text-align:center;
   |contentclass=hlist
 
-  | heading1 = '''[[Pó-lò Sû-sin]]'''
+  | heading1 = [[Pó-lò Sû-sin]]
   | content1 = [[Lò-mâ-sû]] {{·}} [[Kô-lìm-tô-chhièn-sû]] {{·}} [[Kô-lìm-tô-heu-sû]] {{·}} [[Kâ-lâ-thai-sû]] {{·}} [[Yî-fut-só-sû]] {{·}} [[Fî-li̍p-pí-sû]] {{·}} [[Kô-lò-sî-sû]] {{·}} [[Thiap-sat-lò-nì-kâ-chhièn-sû]] {{·}} [[Thiap-sat-lò-nì-kâ-heu-sû]] {{·}} [[Thì-mô-thai-chhièn-sû]] {{·}} [[Thì-mô-thai-heu-sû]] {{·}} [[Thì-tô-sû]] {{·}} [[Fî-li-mùn-sû]]
-  | heading2 = '''[[Phû-thûng Sû-sin]]'''
+  | heading2 = [[Phû-thûng Sû-sin]]
   | content2 = [[Hî-pak-lòi-sû]] {{·}} [[Ngâ-kok-sû]] {{·}} [[Pí-tet-chhièn-sû]] {{·}} [[Pí-tet-heu-sû]] {{·}} [[Yok-hon-yit-sû]] {{·}} [[Yok-hon-ngi-sû]] {{·}} [[Yok-hon-sâm-sû]] {{·}} [[Yù-thai-sû]]
  }}
 
 
 <!---------------------- Apocalypse ------------------------>
-| list14name = Yi-ngièn-sû
-| list14title = '''[[Yi-ngièn-sû]]'''
-| list14 = 
+| list4name = Yi-ngièn-sû
+| list4title = '''[[Yi-ngièn-sû]]'''
+| list4 = 
 
 <!------------------- Deuterocanonical -------------------->
 <!-- 
-| list15name = deutero
-| list15title = New Testament manuscripts
-| list15 = 
+| list5name = deutero
+| list5title = New Testament manuscripts
+| list5 = 
 
 -->
 
