@@ -1,96 +1,91 @@
-{| cellpadding="1" style="float: right; border: 1px solid #8888aa; background: #f7f8ff; padding: 5px; font-size: 85%; margin: 0px;"
-| style="background: #ccf; text-align: center;" | '''[[Khiu-yok]] [[Sṳn-kîn]] chhiòn-sû muk-liu̍k '''
+<includeonly>{{Sidebar with collapsible lists
+| name           = Khiu-yok Sṳn-kîn
+| bodyclass      = plainlist
+| bodystyle      = {{#ifeq:{{{status|{{{1|}}}}}}|subtemplate |{{subsidebar bodystyle}};}}<!--width:{{{width|18.0}}}em;<!--(and see image sizing)-->line-height:1.4em;
+| title          = {{#ifeq:{{{status|{{{1|}}}}}}|subtemplate | |[[Khiu-yok Sṳn-kîn]]}}
+| imagestyle     = padding-bottom:0.8em;<!--(remove if caption reinstated)-->
+| image          = {{#ifeq:{{{status|{{{1|}}}}}}|subtemplate | |[[File:Aleppo Codex Joshua 1 1.jpg|{{#expr:{{{width|18.0}}}*10}}px|Joshua 1:1 as recorded in the Aleppo Codex]]}}
+| captionstyle   = font-size:90%;padding-bottom:0.3em;
+| caption        = <!--[[Book of Joshua#God's commission to Joshua (chapter 1)|Joshua 1:1]] as recorded in the [[Aleppo Codex]]-->
+| listtitlestyle = {{#ifeq:{{{status|{{{1|}}}}}}|subtemplate |background:#ddf;padding-top:0.25em;padding-bottom:0.25em;<!--font-weight:normal;-->}}text-align:center;
+| liststyle      = {{#ifeq:{{{status|{{{1|}}}}}}|subtemplate | |border-top:1px solid #aaa;border-bottom:1px solid #aaa;}}
+| expanded       = {{{expanded|{{{selected|{{{2|{{{1|}}}}}}}}}}}}
 
-|-
-! '''[[Mô-sî Ńg-kîn]]'''
-|-
-| [[Chhóng-sṳ-ki]]
-|-
-| [[Chhut-âi-khi̍p-ki]]
-|-
-| [[Li-vi-ki]]
-|-
-| [[Mìn-su-ki]]
-|-
-| [[Sṳ̂n-min-ki]]
-|-
-! '''[[Li̍t-sṳ́-sû (Sṳn-kîn)|Li̍t-sṳ́-sû]]'''
-|-
-| [[Yok-sû-â-ki]]
-|-
-| [[Sṳ-sṳ̂-ki]]
-|-
-| [[Lu-tet-ki]]
-|-
-| [[Sat-mû-ngí-ki-song]]
-|-
-| [[Sat-mû-ngí-ki-ha]]
-|-
-| [[Lie̍t-vòng-ki-song]]
-|-
-| [[Lie̍t-vòng-ki-ha]]
-|-
-| [[Li̍t-thoi-chṳ-song]]
-|-
-| [[Li̍t-thoi-chṳ-ha]]
-|-
-| [[Yî-sṳ̂-lâ-ki]]
-|-
-| [[Nì-hî-mí-ki]]
-|-
-| [[Yî-sṳ̂-thiap-ki]]
-|-
-! '''[[Sṳ̂-kô Chṳ-fi-sû]]'''
-|-
-| [[Yok-pak-ki]]
-|-
-| [[Sṳ̂-phiên]]
-|-
-| [[Chṳ̂m-ngièn]]
-|-
-| [[Chhòn-tho-sû]]
-|-
-| [[Ngâ-kô]]
-|-
-! '''[[Thai Siên-tî-sû]]'''
-|-
-| [[Yî-soi-â-sû]]
-|-
-| [[Yâ-li-mí-sû]]
-|-
-| [[Yâ-li-mí-ôi-kô]]
-|-
-| [[Yî-sî-kiet-sû]]
-|-
-| [[Than-yî-lî-sû]]
-|-
-! '''[[Séu Siên-tî-sû]]'''
-|-
-| [[Hò-sî-â-sû]]
-|-
-| [[Yok-ngí-sû]]
-|-
-| [[Â-mô-sṳ̂-sû]] 
-|-
-| [[Ngò-pâ-tí-â-sû]]
-|-
-| [[Yok-nâ-sû]]
-|-
-| [[Mì-kâ-sû]]
-|-
-| [[Nâ-fùng-sû]]
-|-
-| [[Ha̍p-pâ-kuk-sû]]
-|-
-| [[Sî-fân-ngâ-sû]]
-|- 
-| [[Ha̍p-kâi-sû]]
-|- 
-| [[Sat-kâ-li-â-sû]]
-|- 
-| [[Mâ-lâ-kî-sû]]
-|-
-| align="right" | {{Edit|Template:Khiu-yok Sṳn-kîn}}
-|}<noinclude>
-[[Category:文化模板]]
+
+<!--------------------- Pentateuch ------------------------>
+| list1name = Mô-sî Ńg-kîn
+| list1title = '''[[Mô-sî Ńg-kîn]]'''
+| list1 = [[Chhóng-sṳ-ki]] {{·}} [[Chhut-âi-khi̍p-ki]] {{·}} [[Li-vi-ki]] {{·}} [[Mìn-su-ki]] {{·}} [[Sṳ̂n-min-ki]]
+
+<!--------------------- Historical ------------------------>
+| list12name = Li̍t-sṳ́-sû
+| list12title = '''[[Li̍t-sṳ́-sû (Sṳn-kîn)|Li̍t-sṳ́-sû]]'''
+| list12 = [[Yok-sû-â-ki]] {{·}} [[Sṳ-sṳ̂-ki]] {{·}} [[Lu-tet-ki]] {{·}} [[Sat-mû-ngí-ki-song]] {{·}} [[Sat-mû-ngí-ki-ha]] {{·}} [[Lie̍t-vòng-ki-song]] {{·}} [[Lie̍t-vòng-ki-ha]] {{·}} [[Li̍t-thoi-chṳ-song]] {{·}} [[Li̍t-thoi-chṳ-ha]] {{·}} [[Yî-sṳ̂-lâ-ki]] {{·}} [[Nì-hî-mí-ki]] {{·}} [[Yî-sṳ̂-thiap-ki]]
+
+<!------------------- Poetry / Wisdom --------------------->
+| list13name = Sṳ̂-kô Chṳ-fi-sû
+| list13title = '''[[Sṳ̂-kô Chṳ-fi-sû]]'''
+| list13 = [[Yok-pak-ki]] {{·}} [[Sṳ̂-phiên]] {{·}} [[Chṳ̂m-ngièn]] {{·}} [[Chhòn-tho-sû]] {{·}} [[Ngâ-kô]]
+
+<!---------------------- Prophetic ------------------------>
+| list14name =Siên-tî-sû
+| list14title = '''[[Siên-tî-sû]]'''
+| list14 =
+ {{Sidebar |navbar=off |bodystyle={{subsidebar bodystyle}}
+  |headingclass={{#ifeq:{{{status|{{{1|}}}}}}|subtemplate |navbox-subgroup}}
+  |headingstyle={{#ifeq:{{{status|{{{1|}}}}}}|subtemplate |background:#e6e6ff;}}text-align:center;
+  |contentclass=hlist
+
+  | heading1 = '''[[Thai Siên-tî-sû]]'''
+  | content1 = [[Yî-soi-â-sû]] {{·}} [[Yâ-li-mí-sû]] {{·}} [[Yâ-li-mí-ôi-kô]] {{·}} [[Yî-sî-kiet-sû]] {{·}} [[Than-yî-lî-sû]]
+  | heading2 = '''[[Séu Siên-tî-sû]]'''
+  | content2 =  [[Hò-sî-â-sû]] {{·}} [[Yok-ngí-sû]] {{·}} [[Â-mô-sṳ̂-sû]]  {{·}} [[Ngò-pâ-tí-â-sû]] {{·}} [[Yok-nâ-sû]] {{·}} [[Mì-kâ-sû]] {{·}} [[Nâ-fùng-sû]] {{·}} [[Ha̍p-pâ-kuk-sû]] {{·}} [[Sî-fân-ngâ-sû]] {{·}} [[Ha̍p-kâi-sû]] {{·}} [[Sat-kâ-li-â-sû]] {{·}} [[Mâ-lâ-kî-sû]]
+ }}
+
+
+<!------------------- Deuterocanonical -------------------->
+<!-- 
+| list15name = deutero
+| list15title = {{bigger|[[Deuterocanonical books|Deuterocanonical]]}}
+| list15 =
+ {{Sidebar |navbar=off |bodystyle={{subsidebar bodystyle}}
+  |headingclass={{#ifeq:{{{status|{{{1|}}}}}}|subtemplate |navbox-subgroup}}
+  |headingstyle={{#ifeq:{{{status|{{{1|}}}}}}|subtemplate |background:#e6e6ff;}}text-align:center;
+  |contentclass=hlist
+
+  | content1 =
+* [[Book of Tobit|Tobit]]
+* [[Book of Judith|Judith]]
+* [[Book of Esther#Additions to Esther|Additions to Esther]]
+* [[1 Maccabees]]
+* [[2 Maccabees]]
+* [[Book of Wisdom|Wisdom of Solomon]]
+* [[Sirach]]
+* [[Book of Baruch|Baruch]]{{\}}[[Letter of Jeremiah]]
+* [[Additions to Daniel]]
+
+  | heading2 = Orthodox only
+  | content2 =
+* [[1 Esdras]]
+* [[2 Esdras]] 
+* [[Prayer of Manasseh]]
+* [[Psalm 151]]
+* [[3 Maccabees]]
+* [[4 Maccabees]]
+* [[Book of Odes (Bible)|Odes]]
+
+  | heading3 = Orthodox Tewahedo
+  | content3 =
+* [[Book of Enoch|1 Enoch]]
+* [[Book of Jubilees|Jubilees]]
+* [[Meqabyan|1, 2, and 3 Meqabyan]]
+* [[Rest of the Words of Baruch|Paralipomena of Baruch]]
+* [[Orthodox Tewahedo biblical canon|Broader canon]]
+}}
+-->
+
+| navbar = {{#ifeq:{{{status|{{{1|}}}}}}|subtemplate |off}}
+
+}}</includeonly><noinclude>
+{{Documentation}}[[Category:Khiu-yok Sṳn-kîn]]
 </noinclude>
