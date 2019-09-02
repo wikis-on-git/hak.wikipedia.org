@@ -22,7 +22,6 @@
 | list2title = '''Hàng-chhon'''
 | list2 = [[Sṳ́-thù-hàng-chhon]]
 
-
 <!------------------- Epistles --------------------->
 | list3name = Sû-sin
 | list3title = '''Sû-sin'''
@@ -32,17 +31,16 @@
   |headingstyle={{#ifeq:{{{status|{{{1|}}}}}}|subtemplate |background:#e6e6ff;}}text-align:center;
   |contentclass=hlist
 
-  | heading1 = [[Pó-lò Sû-sin]]
+  | heading1 = '''[[Pó-lò Sû-sin]]'''
   | content1 = [[Lò-mâ-sû]] {{·}} [[Kô-lìm-tô-chhièn-sû]] {{·}} [[Kô-lìm-tô-heu-sû]] {{·}} [[Kâ-lâ-thai-sû]] {{·}} [[Yî-fut-só-sû]] {{·}} [[Fî-li̍p-pí-sû]] {{·}} [[Kô-lò-sî-sû]] {{·}} [[Thiap-sat-lò-nì-kâ-chhièn-sû]] {{·}} [[Thiap-sat-lò-nì-kâ-heu-sû]] {{·}} [[Thì-mô-thai-chhièn-sû]] {{·}} [[Thì-mô-thai-heu-sû]] {{·}} [[Thì-tô-sû]] {{·}} [[Fî-li-mùn-sû]]
-  | heading2 = [[Phû-thûng Sû-sin]]
+  | heading2 = '''[[Phû-thûng Sû-sin]]'''
   | content2 = [[Hî-pak-lòi-sû]] {{·}} [[Ngâ-kok-sû]] {{·}} [[Pí-tet-chhièn-sû]] {{·}} [[Pí-tet-heu-sû]] {{·}} [[Yok-hon-yit-sû]] {{·}} [[Yok-hon-ngi-sû]] {{·}} [[Yok-hon-sâm-sû]] {{·}} [[Yù-thai-sû]]
- }}
-
+}}
 
 <!---------------------- Apocalypse ------------------------>
 | list4name = Yi-ngièn-sû
 | list4title = '''[[Yi-ngièn-sû]]'''
-| list4 = 
+| list4 = [[Khí-sṳ-liu̍k]]
 
 <!------------------- Deuterocanonical -------------------->
 <!-- 
