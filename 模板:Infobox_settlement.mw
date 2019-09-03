@@ -5,7 +5,7 @@
 |-
 {{#if:{{{translit_lang1|}}}|
 <tr <!-- ***** Transliteration language 1 ***** --> class="mergedtoprow">
-		<td colspan="2" style="text-align:center;"><center<'''{{{translit_lang1|}}}&nbsp;transliteration(s)'''</center> </td>
+		<td colspan="2" style="text-align:center;"><center<'''{{{translit_lang1|}}}&nbsp;chón-siá'''</center> </td>
 	</tr>
 {{#if:{{{translit_lang1_type|}}}|
 	<tr class="{{#if:{{{translit_lang1_type1|}}}|mergedrow|mergedbottomrow}}">
@@ -87,26 +87,27 @@
 {{#if:{{{image_skyline|}}}|
 	<tr>
 		<td colspan="2" style="text-align: center; padding: 0.7em 0.8em 0.7em 0.8em;;">
-			[[Image:{{{image_skyline|}}}|{{#if:{{{imagesize|}}}|{{{imagesize}}}|250px}}|none|{{{image_caption|Skyline of {{{official_name|}}}}}}]]{{#if:{{{image_caption|}}}|<small>{{{image_caption|}}}</small>}}
+			[[Image:{{{image_skyline|}}}|{{#if:{{{imagesize|}}}|{{{imagesize}}}|250px}}|none|{{{image_caption|{{{official_name|}}} ke fûng-kín }}}]]{{#if:{{{image_caption|}}}|<small>{{{image_caption|}}}</small>}}
 		</td>
 	</tr>
 }}<!-- ***** Flag, Seal, Shield and Coat of arms ***** -->
+<!-- ***** Flag, Seal, Shield and Coat of arms ***** -->
 {{#if:{{{image_flag|}}}{{{image_seal|}}}{{{image_shield|}}}{{{image_blank_emblem| }}}| 
 	<tr class="mergedtoprow">
-		<td class="maptable" colspan="2" align="center" style="padding: 0.4em 0 0.4em 0;">
-			<table style="width: 100%; background: none;" align="center">
+		<td class="maptable" colspan="2" style="padding: 0.4em 0 0.4em 0; text-align:center">
+			<table style="width: 100%; background: none; text-align:center">
 {{#ifeq:{{#expr:{{#if:{{{image_flag|}}}|1|0}}+{{#if:{{{image_seal|}}}|1|0}}+{{#if:{{{image_shield|}}}|1|0}}+{{#if:{{{image_blank_emblem| }}}|1|0}}}}|2|
-             <tr> <td style="vertical-align: middle;" align="center"> {{#if:{{{image_flag|}}}|[[Image:{{{image_flag|}}}|{{#if:{{{flag_size|}}}|{{{flag_size}}}|100px}}|border|Official flag of {{{official_name|}}}]]<br><small>'''{{#if:{{{flag_link|}}}|[[{{{flag_link}}}|Flag]]|{{#ifexist:Flag of {{PAGENAME}}|[[Flag of {{PAGENAME}}|Flag]]|{{#ifexist:Flag of {{{official_name}}}|[[Flag of {{{official_name}}}|Flag]]|Flag}}}}}}'''</small> |{{#if:{{{image_seal|}}}|[[Image:{{{image_seal|}}}|{{#if:{{{seal_size|}}}|{{{seal_size}}}|100px}}|Official seal of {{{official_name|}}}]]<br><small>'''{{#if:{{{seal_link|}}}|[[{{{seal_link}}}|Seal]]|{{#ifexist:Seal of {{PAGENAME}}|[[Seal of {{PAGENAME}}|Seal]]|{{#ifexist:Seal of {{{official_name}}}|[[Seal of {{{official_name}}}|Seal]]|Seal}}}}}}'''</small> |{{#if:{{{image_shield|}}}|[[Image:{{{image_shield|}}}|{{#if:{{{shield_size|}}}|{{{shield_size}}}|100px}}|Coat of arms of {{{official_name|}}}]]<br><small>'''{{#if:{{{shield_link|}}}|[[{{{shield_link}}}|Coat of arms]]|{{#ifexist:Coat of arms of {{PAGENAME}}|[[Coat of arms of {{PAGENAME}}|Coat of arms]]|{{#ifexist:Coat of arms of {{{official_name}}}|[[Coat of arms of {{{official_name}}}|Coat of arms]]|Coat of arms}}}}}}'''</small>|{{#if:{{{image_blank_emblem| }}}|[[Image:{{{image_blank_emblem| }}}|{{#if:{{{blank_emblem_size| }}}|{{{blank_emblem_size| }}}|100px}}|Official logo of {{{official_name|}}}]]<br><small>'''{{#if:{{{blank_emblem_link| }}}|[[{{{blank_emblem_link| }}}|{{{blank_emblem_type|Logo}}}]]|{{#ifexist:Logo of {{PAGENAME}}|[[Logo of {{PAGENAME}}|Logo]]|{{#ifexist:Logo of {{{official_name}}}|[[Logo of {{{official_name}}}|Logo]]|{{#if:{{{blank_emblem_type|}}}|{{{blank_emblem_type}}}|Logo}}}}}}}}'''</small>}}}}}}}}</td>
-            <td style="vertical-align: middle;" align="center"> {{#if:{{{image_blank_emblem| }}}|[[Image:{{{image_blank_emblem| }}}|{{#if:{{{blank_emblem_size| }}}|{{{blank_emblem_size| }}}|100px}}|Official logo of {{{official_name|}}}]]<br><small>'''{{#if:{{{blank_emblem_link| }}}|[[{{{blank_emblem_link| }}}|{{{blank_emblem_type|Logo}}}]]|{{#ifexist:Logo of {{PAGENAME}}|[[Logo of {{PAGENAME}}|Logo]]|{{#ifexist:Logo of {{{official_name}}}|[[Logo of {{{official_name}}}|Logo]]|{{#if:{{{blank_emblem_type|}}}|{{{blank_emblem_type}}}|Logo}}}}}}}}'''</small> |{{#if:{{{image_shield|}}}|[[Image:{{{image_shield|}}}|{{#if:{{{shield_size|}}}|{{{shield_size}}}|100px}}|Coat of arms of {{{official_name|}}}]]<br><small>'''{{#if:{{{shield_link|}}}|[[{{{shield_link}}}|Coat of arms]]|{{#ifexist:Coat of arms of {{PAGENAME}}|[[Coat of arms of {{PAGENAME}}|Coat of arms]]|{{#ifexist:Coat of arms of {{{official_name}}}|[[Coat of arms of {{{official_name}}}|Coat of arms]]|Coat of arms}}}}}}'''</small> |{{#if:{{{image_seal|}}}|[[Image:{{{image_seal|}}}|{{#if:{{{seal_size|}}}|{{{seal_size}}}|100px}}|Official seal of {{{official_name|}}}]]<br><small>'''{{#if:{{{seal_link|}}}|[[{{{seal_link}}}|Seal]]|{{#ifexist:Seal of {{PAGENAME}}|[[Seal of {{PAGENAME}}|Seal]]|{{#ifexist:Seal of {{{official_name}}}|[[Seal of {{{official_name}}}|Seal]]|Seal}}}}}}'''</small> |{{#if:{{{image_flag|}}}|[[Image:{{{image_flag|}}}|{{#if:{{{flag_size|}}}|{{{flag_size}}}|100px}}|Official flag of {{{official_name|}}}]]<br><small>'''{{#if:{{{flag_link|}}}|[[{{{flag_link}}}|Flag]]|{{#ifexist:Flag of {{PAGENAME}}|[[Flag of {{PAGENAME}}|Flag]]|{{#ifexist:Flag of {{{official_name}}}|[[Flag of {{{official_name}}}|Flag]]|Flag}}}}}}'''</small>}}}}}}}}</td>
+             <tr> <td style="vertical-align: middle; text-align:center"> {{#if:{{{image_flag|}}}|[[Image:{{{image_flag|}}}|{{#if:{{{flag_size|}}}|{{{flag_size}}}|100px}}|border|{{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}} ke khì-é]]<br><small>'''{{#if:{{{flag_link|}}}|[[{{{flag_link}}}|Khì-é]]|{{#ifexist:{{PAGENAME}} ke khì-é|[[{{PAGENAME}} ke khì-é|Khì-é]]|{{#ifexist:{{{official_name}}} ke khì-é|[[{{{official_name}}} ke khì-é|Khì-é]]|Khì-é}}}}}}'''</small> |{{#if:{{{image_seal|}}}|[[Image:{{{image_seal|}}}|{{#if:{{{seal_size|}}}|{{{seal_size}}}|100px}}|{{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}} ke fî-chông]]<br><small>'''{{#if:{{{seal_link|}}}|[[{{{seal_link}}}|Hŭi-ciŏng]]|{{#ifexist:{{PAGENAME}} ke fî-chông|[[{{PAGENAME}} ke fî-chông|Fî-chông]]|{{#ifexist:{{{official_name}}} ke fî-chông|[[{{{official_name}}} ke fî-chông|Fî-chông]]|Fî-chông}}}}}}'''</small> |{{#if:{{{image_shield|}}}|[[Image:{{{image_shield|}}}|{{#if:{{{shield_size|}}}|{{{shield_size}}}|100px}}|{{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}} ke fî-ki]]<br><small>'''{{#if:{{{shield_link|}}}|[[{{{shield_link}}}|ke fî-ki]]|{{#ifexist:{{PAGENAME}} ke fî-ki|[[{{PAGENAME}} ke fî-ki|Fî-ki]]|{{#ifexist:{{{official_name}}} ke fî-ki|[[{{{official_name}}} ke fî-ki|Fî-ki]]|Fî-ki}}}}}}'''</small>|{{#if:{{{image_blank_emblem| }}}|[[Image:{{{image_blank_emblem| }}}|{{#if:{{{blank_emblem_size| }}}|{{{blank_emblem_size| }}}|100px}}|Official logo of {{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}}]]<br><small>'''{{#if:{{{blank_emblem_link| }}}|[[{{{blank_emblem_link| }}}|{{{blank_emblem_type|Logo}}}]]|{{#ifexist:Logo of {{PAGENAME}}|[[Logo of {{PAGENAME}}|Logo]]|{{#ifexist:Logo of {{{official_name}}}|[[Logo of {{{official_name}}}|Logo]]|{{#if:{{{blank_emblem_type|}}}|{{{blank_emblem_type}}}|Logo}}}}}}}}'''</small>}}}}}}}}</td>
+            <td style="vertical-align: middle; text-align:center"> {{#if:{{{image_blank_emblem| }}}|[[Image:{{{image_blank_emblem| }}}|{{#if:{{{blank_emblem_size| }}}|{{{blank_emblem_size| }}}|100px}}|Official logo of {{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}}]]<br><small>'''{{#if:{{{blank_emblem_link| }}}|[[{{{blank_emblem_link| }}}|{{{blank_emblem_type|Logo}}}]]|{{#ifexist:Logo of {{PAGENAME}}|[[Logo of {{PAGENAME}}|Logo]]|{{#ifexist:Logo of {{{official_name}}}|[[Logo of {{{official_name}}}|Logo]]|{{#if:{{{blank_emblem_type|}}}|{{{blank_emblem_type}}}|Logo}}}}}}}}'''</small> |{{#if:{{{image_shield|}}}|[[Image:{{{image_shield|}}}|{{#if:{{{shield_size|}}}|{{{shield_size}}}|100px}}|{{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}} ke fî-ki]]<br><small>'''{{#if:{{{shield_link|}}}|[[{{{shield_link}}}|Fî-ki]]|{{#ifexist:{{PAGENAME}} ke fî-ki|[[{{PAGENAME}} ke fî-ki|Fî-ki]]|{{#ifexist:{{{official_name}}} ke fî-ki|[[{{{official_name}}} ke fî-ki|Fî-ki]]|Fî-ki}}}}}}'''</small> |{{#if:{{{image_seal|}}}|[[Image:{{{image_seal|}}}|{{#if:{{{seal_size|}}}|{{{seal_size}}}|100px}}|{{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}} ke fî-chông]]<br><small>'''{{#if:{{{seal_link|}}}|[[{{{seal_link}}}|Fî-chông]]|{{#ifexist:{{PAGENAME}} ke fî-chông|[[{{PAGENAME}} ke fî-chông|Fî-chông]]|{{#ifexist:{{{official_name}}} ke fî-chông|[[{{{official_name}}} ke fî-chông|Fî-chông]]|Fî-chông}}}}}}'''</small> |{{#if:{{{image_flag|}}}|[[Image:{{{image_flag|}}}|{{#if:{{{flag_size|}}}|{{{flag_size}}}|100px}}|border|{{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}} gì gì]]<br><small>'''{{#if:{{{flag_link|}}}|[[{{{flag_link}}}|Gì]]|{{#ifexist:{{PAGENAME}} gì gì|[[{{PAGENAME}} ê kî-á|Gì]]|{{#ifexist:{{{official_name}}} gì gì|[[{{{official_name}}} gì gì| gì gì]]|Gì}}}}}}'''</small>}}}}}}}}</td>
 |{{#if:{{{image_flag|}}}{{{image_seal|}}}|
 				<tr>{{#if:{{{image_flag|}}}|
-					<td style="vertical-align: middle;" align="center" {{#if:{{{image_seal|}}}|width="50%"|colspan="2"}}> [[Image:{{{image_flag|}}}|{{#if:{{{flag_size|}}}|{{{flag_size}}}|100px}}|Official flag of {{{official_name|}}}]]<br><small>'''{{#if:{{{flag_link|}}}|[[{{{flag_link}}}|Flag]]|{{#ifexist:Flag of {{PAGENAME}}|[[Flag of {{PAGENAME}}|Flag]]|{{#ifexist:Flag of {{{official_name}}}|[[Flag of {{{official_name}}}|Flag]]|Flag}}}}}}'''</small></td>}}{{#if:{{{image_seal|}}}|
-					<td style="vertical-align: middle;" align="center" {{#if:{{{image_flag|}}}|width="50%"|colspan="2"}}> [[Image:{{{image_seal|}}}|{{#if:{{{seal_size|}}}|{{{seal_size}}}|100px}}|Official seal of {{{official_name|}}}]]<br><small>'''{{#if:{{{seal_link|}}}|[[{{{seal_link}}}|Seal]]|{{#ifexist:Seal of {{PAGENAME}}|[[Seal of {{PAGENAME}}|Seal]]|{{#ifexist:Seal of {{{official_name}}}|[[Seal of {{{official_name}}}|Seal]]|Seal}}}}}}'''</small></td>}}
+					<td style="vertical-align: middle; text-align:center" {{#if:{{{image_seal|}}}|width="50%"|colspan="2"}}> [[Image:{{{image_flag|}}}|{{#if:{{{flag_size|}}}|{{{flag_size}}}|100px}}|border|{{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}} ke khì-é]]<br><small>'''{{#if:{{{flag_link|}}}|[[{{{flag_link}}}|Khì-é]]|{{#ifexist:{{PAGENAME}} ke khì-é|[[{{PAGENAME}} ke khì-é|Khì-é]]|{{#ifexist:{{{official_name}}} ke khì-é|[[{{{official_name}}} ke khì-é|khì-é]]|Khì-é}}}}}}'''</small></td>}}{{#if:{{{image_seal|}}}|
+					<td style="vertical-align: middle; text-align:center" {{#if:{{{image_flag|}}}|width="50%"|colspan="2"}}> [[Image:{{{image_seal|}}}|{{#if:{{{seal_size|}}}|{{{seal_size}}}|100px}}|{{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}} ke fî-chông]]<br><small>'''{{#if:{{{seal_link|}}}|[[{{{seal_link}}}|Fî-chông]]|{{#ifexist:{{PAGENAME}} ke fî-chông|[[{{PAGENAME}} ke fî-chông|Fî-chông]]|{{#ifexist:{{{official_name}}} ke fî-chông|[[{{{official_name}}} ke fî-chông|Fî-chông]]|Fî-chông}}}}}}'''</small></td>}}
 				</tr>
 }}{{#if:{{{image_shield|}}}{{{image_blank_emblem| }}}|
 				<tr>{{#if:{{{image_shield|}}}|
-					<td style="vertical-align: middle;" align="center" {{#if:{{{image_blank_emblem| }}}|width="50%"|colspan="2"}}> [[Image:{{{image_shield|}}}|{{#if:{{{shield_size|}}}|{{{shield_size}}}|100px}}|Coat of arms of {{{official_name|}}}]]<br><small>'''{{#if:{{{shield_link|}}}|[[{{{shield_link}}}|Coat of arms]]|{{#ifexist:Coat of arms of {{PAGENAME}}|[[Coat of arms of {{PAGENAME}}|Coat of arms]]|{{#ifexist:Coat of arms of {{{official_name}}}|[[Coat of arms of {{{official_name}}}|Coat of arms]]|Coat of arms}}}}}}'''</small></td>}}{{#if:{{{image_blank_emblem| }}}|
-					<td style="vertical-align: middle;" align="center" {{#if:{{{image_shield|}}}|width="50%"|colspan="2"}}> [[Image:{{{image_blank_emblem| }}}|{{#if:{{{blank_emblem_size| }}}|{{{blank_emblem_size| }}}|100px}}|Official logo of {{{official_name|}}}]]<br><small>'''{{#if:{{{blank_emblem_link| }}}|[[{{{blank_emblem_link| }}}|{{{blank_emblem_type|Logo}}}]]|{{#ifexist:Logo of {{PAGENAME}}|[[Logo of {{PAGENAME}}|Logo]]|{{#ifexist:Logo of {{{official_name}}}|[[Logo of {{{official_name}}}|Logo]]|{{#if:{{{blank_emblem_type|}}}|{{{blank_emblem_type}}}|Logo}}}}}}}}'''</small></td>}}
+					<td style="vertical-align: middle; text-align:center" {{#if:{{{image_blank_emblem| }}}|width="50%"|colspan="2"}}> [[Image:{{{image_shield|}}}|{{#if:{{{shield_size|}}}|{{{shield_size}}}|100px}}|{{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}} ke fî-ki]]<br><small>'''{{#if:{{{shield_link|}}}|[[{{{shield_link}}}|Fî-ki]]|{{#ifexist:{{PAGENAME}} ke fî-ki|[[{{PAGENAME}} ke fî-ki|Fî-ki]]|{{#ifexist:{{{official_name}}} ke fî-ki|[[{{{official_name}}} ke fî-ki|Fî-ki]]|Fî-ki}}}}}}'''</small></td>}}{{#if:{{{image_blank_emblem| }}}|
+					<td style="vertical-align: middle; text-align:center" {{#if:{{{image_shield|}}}|width="50%"|colspan="2"}}> [[Image:{{{image_blank_emblem| }}}|{{#if:{{{blank_emblem_size| }}}|{{{blank_emblem_size| }}}|100px}}|Official logo of {{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}}]]<br><small>'''{{#if:{{{blank_emblem_link| }}}|[[{{{blank_emblem_link| }}}|{{{blank_emblem_type|Logo}}}]]|{{#ifexist:Logo of {{PAGENAME}}|[[Logo of {{PAGENAME}}|Logo]]|{{#ifexist:Logo of {{{official_name}}}|[[Logo of {{{official_name}}}|Logo]]|{{#if:{{{blank_emblem_type|}}}|{{{blank_emblem_type}}}|Logo}}}}}}}}'''</small></td>}}
 				</tr>
 }}}}
 			</table>
@@ -115,12 +116,12 @@
 }}<!-- ***** Nickname ***** -->
 {{#if:{{{nickname|}}}|
 	<tr class="mergedrow">
-		<td colspan="2" align="center">[[Nickname]]: <span class="nickname">{{{nickname|}}}</span></td>
+		<td colspan="2" align="center">[[Phe̍t-miàng]]: <span class="nickname">{{{nickname|}}}</span></td>
 	</tr>
 }}<!-- ***** Motto ***** -->
 {{#if:{{{motto|}}}|
 	<tr class="mergedrow">
-		<td colspan="2" align="center">[[Motto]]: {{{motto|}}}</td>
+		<td colspan="2" align="center">[[Kak-ngièn]]: {{{motto|}}}</td>
 	</tr>
 }}<!-- ***** Map ***** -->
 {{#if:{{{image_map|}}}|
@@ -130,7 +131,7 @@
 	</tr>
 {{#if:{{{image_map1|}}}|
 	<tr class="mergedrow">
-		<td colspan="2" style="text-align: center;">[[Image:{{{image_map1|}}}|{{#if:{{{mapsize1|}}}|{{{mapsize1}}}|250px}}|none|{{{map_caption1|Location of {{{official_name|}}}}}}]]{{#if:{{{map_caption1|}}}|<small>{{{map_caption1|}}}</small>}}
+		<td colspan="2" style="text-align: center;">[[Image:{{{image_map1|}}}|{{#if:{{{mapsize1|}}}|{{{mapsize1}}}|250px}}|none|{{{map_caption1|{{{official_name|}}} ke só-chhai. }}}]]{{#if:{{{map_caption1|}}}|<small>{{{map_caption1|}}}</small>}}
 		</td>
 	</tr>
 }}}}<!--*****Dot Map***** -->
@@ -214,7 +215,7 @@
 }}<!-- ***** Government type and Leader ***** -->
 {{#if:{{{government_type|}}}{{{leader_title|}}}|
 	<tr <!-- ***** Government ***** --> class="mergedtoprow">
-		<td colspan="2">'''Government''' {{#if:{{{government_footnotes|}}}|{{{government_footnotes}}}}}</td>
+		<td colspan="2">'''Chṳn-fú''' {{#if:{{{government_footnotes|}}}|{{{government_footnotes}}}}}</td>
 	</tr>
 {{#if:{{{government_type|}}}|
 	<tr class="mergedrow">
@@ -249,7 +250,7 @@
 }} }} }} }} }}<!-- ***** Geographical characteristics ***** -->
 {{#if:{{{area_total_km2|}}}{{{area_total_sq_mi|}}}{{{area_total_dunam|}}}{{{area_land_km2|}}}{{{area_land_sq_mi|}}}{{{area_water_km2|}}}{{{area_water_sq_mi|}}}{{{area_urban_km2|}}}{{{area_urban_sq_mi|}}}{{{area_metro_km2|}}}{{{area_blank1_km2|}}}{{{area_metro_sq_mi|}}}{{{area_blank1_sq_mi|}}}|
 	<tr <!-- ***** Area ***** --> class="mergedtoprow">
-		<td colspan="2">'''[[Area]]''' {{#if:{{{area_footnotes|}}}|{{{area_footnotes}}}}}</td>
+		<td colspan="2">'''Thi-khî''' {{#if:{{{area_footnotes|}}}|{{{area_footnotes}}}}}</td>
 	</tr>
 {{#if:{{{area_total_km2|}}}{{{area_total_sq_mi|}}}{{{area_total_dunam|}}}|
 	<tr class="mergedrow">
