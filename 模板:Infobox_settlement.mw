@@ -534,42 +534,87 @@
 	</tr>
 
 }}<!--*****Blank Fields*****-->
-{{#if:{{{blank_name|}}}|
-	<tr class="mergedrow">
-		<th>{{{blank_name}}}</th>
-		<td>{{{blank_info}}}</td>
-	</tr>
-{{#if:{{{blank1_name|}}}|
-	<tr class="mergedrow">
-		<th>{{{blank1_name}}}</th>
-		<td>{{{blank1_info}}}</td>
-	</tr>
-{{#if:{{{blank2_name|}}}|
-	<tr class="mergedrow">
-		<th>{{{blank2_name}}}</th>
-		<td>{{{blank2_info}}}</td>
-	</tr>
-{{#if:{{{blank3_name|}}}|
-	<tr class="mergedrow">
-		<th>{{{blank3_name}}}</th>
-		<td>{{{blank3_info}}}</td>
-	</tr>
-{{#if:{{{blank4_name|}}}|
-	<tr class="mergedrow">
-		<th>{{{blank4_name}}}</th>
-		<td>{{{blank4_info}}}</td>
-	</tr>
-{{#if:{{{blank5_name|}}}|
-	<tr class="mergedrow">
-		<th>{{{blank5_name}}}</th>
-		<td>{{{blank5_info}}}</td>
-	</tr>
-{{#if:{{{blank6_name|}}}|
-	<tr class="mergedrow">
-		<th>{{{blank6_name}}}</th>
-		<td>{{{blank6_info}}}</td>
-	</tr>
-}}}}}}}}}}}}}} <!-- ***** Footnotes ***** -->
+{{#if:{{{blank_name_sec1|{{{blank_name|}}}}}}|
+<tr class="mergedtoprow">
+<th>{{{blank_name_sec1|{{{blank_name|}}}}}}</th>
+<td>{{{blank_info_sec1|{{{blank_info|}}}}}}</td>
+</tr>}}
+{{#if:{{{blank1_name_sec1|{{{blank1_name|}}}}}}|
+<tr class="mergedrow">
+<th>{{{blank1_name_sec1|{{{blank1_name|}}}}}}</th>
+<td>{{{blank1_info_sec1|{{{blank1_info|}}}}}}</td>
+</tr>}}
+{{#if:{{{blank2_name_sec1|{{{blank2_name|}}}}}}|
+<tr class="mergedrow">
+<th>{{{blank2_name_sec1|{{{blank2_name|}}}}}}</th>
+<td>{{{blank2_info_sec1|{{{blank2_info|}}}}}}</td>
+</tr>}}
+{{#if:{{{blank3_name_sec1|{{{blank3_name|}}}}}}|
+<tr class="mergedrow">
+<th>{{{blank3_name_sec1|{{{blank3_name}}}}}}</th>
+<td>{{{blank3_info_sec1|{{{blank3_info}}}}}}</td>
+</tr>}}
+{{#if:{{{blank4_name_sec1|{{{blank4_name|}}}}}}|
+<tr class="mergedrow">
+<th>{{{blank4_name_sec1|{{{blank4_name|}}}}}}</th>
+<td>{{{blank4_info_sec1|{{{blank4_info|}}}}}}</td>
+</tr>}}
+{{#if:{{{blank5_name_sec1|{{{blank5_name|}}}}}}|
+<tr class="mergedrow">
+<th>{{{blank5_name_sec1|{{{blank5_name|}}}}}}</th>
+<td>{{{blank5_info_sec1|{{{blank5_info|}}}}}}</td>
+</tr>}}
+{{#if:{{{blank6_name_sec1|{{{blank6_name|}}}}}}|
+<tr class="mergedrow">
+<th>{{{blank6_name_sec1|{{{blank6_name|}}}}}}</th>
+<td>{{{blank6_info_sec1|{{{blank6_info|}}}}}}</td>
+</tr>}}
+{{#if:{{{blank7_name_sec1|{{{blank7_name|}}}}}}|
+<tr class="mergedrow">
+<th>{{{blank7_name_sec1|{{{blank7_name|}}}}}}</th>
+<td>{{{blank7_info_sec1|{{{blank7_info|}}}}}}</td>
+</tr>}}
+{{#if:{{{blank_name_sec2|}}}|
+<tr class="mergedtoprow">
+<th>{{{blank_name_sec2}}}</th>
+<td>{{{blank_info_sec2|}}}</td>
+</tr>}}
+{{#if:{{{blank1_name_sec2|}}}|
+<tr class="mergedrow">
+<th>{{{blank1_name_sec2}}}</th>
+<td>{{{blank1_info_sec2|}}}</td>
+</tr>}}
+{{#if:{{{blank2_name_sec2|}}}|
+<tr class="mergedrow">
+<th>{{{blank2_name_sec2}}}</th>
+<td>{{{blank2_info_sec2|}}}</td>
+</tr>}}
+{{#if:{{{blank3_name_sec2|}}}|
+<tr class="mergedrow">
+<th>{{{blank3_name_sec2}}}</th>
+<td>{{{blank3_info_sec2|}}}</td>
+</tr>}}
+{{#if:{{{blank4_name_sec2|}}}|
+<tr class="mergedrow">
+<th>{{{blank4_name_sec2}}}</th>
+<td>{{{blank4_info_sec2|}}}</td>
+</tr>}}
+{{#if:{{{blank5_name_sec2|}}}|
+<tr class="mergedrow">
+<th>{{{blank5_name_sec2}}}</th>
+<td>{{{blank5_info_sec2|}}}</td>
+</tr>}}
+{{#if:{{{blank6_name_sec2|}}}|
+<tr class="mergedrow">
+<th>{{{blank6_name_sec2}}}</th>
+<td>{{{blank6_info_sec2|}}}</td>
+</tr>}}
+{{#if:{{{blank7_name_sec2|}}}|
+<tr class="mergedrow">
+<th>{{{blank7_name_sec2}}}</th>
+<td>{{{blank7_info_sec2|}}}</td>
+</tr>
+}} <!-- ***** Footnotes ***** -->
 {{#if:{{{footnotes|}}}|
 	<tr class="mergedrow">
 		<td colspan="2" align="left"><small>{{{footnotes}}}</small></td>
