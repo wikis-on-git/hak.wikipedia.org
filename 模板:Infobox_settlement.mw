@@ -1,3 +1,4 @@
+<templatestyles src="Infobox/styles.css" />
 {| class="infobox geography vcard" style="width:23em; text-align:left;"
 		<td colspan="2" align="center" style="width:100%; font-size: 1.25em; white-space: nowrap;">'''<span class="fn org">{{{official_name}}}</span>{{#if:{{{native_name|}}}|<br><span class="nickname">{{{native_name}}}</span>}}{{#if:{{{other_name|}}}|<br><span class="nickname">{{{other_name}}}</span>}}'''</td>
 	</tr>
