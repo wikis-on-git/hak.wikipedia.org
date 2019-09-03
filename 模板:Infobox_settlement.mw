@@ -1,11 +1,11 @@
 <templatestyles src="Infobox/styles.css" />
 {| class="infobox geography vcard" style="width:23em; text-align:left;"
-		<td colspan="2" align="center" style="width:100%; font-size: 1.25em; white-space: nowrap;">'''<span class="fn org">{{{official_name}}}</span>{{#if:{{{native_name|}}}|<br><span class="nickname">{{{native_name}}}</span>}}{{#if:{{{other_name|}}}|<br><span class="nickname">{{{other_name}}}</span>}}'''</td>
+		<td colspan="2" align="center" style="width:100%; font-size: 1.25em; white-space: nowrap;">'''<center><span class="fn org">{{{official_name}}}</span></center>{{#if:{{{native_name|}}}|<br><center><span class="nickname">{{{native_name}}}</span></center>}}{{#if:{{{other_name|}}}|<br><span class="nickname">{{{other_name}}}</span>}}'''</td>
 	</tr>
 |-
 {{#if:{{{translit_lang1|}}}|
 <tr <!-- ***** Transliteration language 1 ***** --> class="mergedtoprow">
-		<td colspan="2" style="text-align:center;">'''{{{translit_lang1|}}}&nbsp;transliteration(s)''' </td>
+		<td colspan="2" style="text-align:center;"><center<'''{{{translit_lang1|}}}&nbsp;transliteration(s)'''</center> </td>
 	</tr>
 {{#if:{{{translit_lang1_type|}}}|
 	<tr class="{{#if:{{{translit_lang1_type1|}}}|mergedrow|mergedbottomrow}}">
