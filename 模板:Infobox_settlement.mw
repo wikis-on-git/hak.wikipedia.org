@@ -254,7 +254,7 @@
 	</tr>
 {{#if:{{{area_total_km2|}}}{{{area_total_sq_mi|}}}{{{area_total_dunam|}}}|
 	<tr class="mergedrow">
-		<th> &nbsp;-&nbsp;{{#if:{{{settlement_type|}}}|{{{settlement_type}}}|City}}
+		<th> &nbsp;-&nbsp;{{#if:{{{settlement_type|}}}|{{{settlement_type}}}|Sàng-sṳ}}
 		</th>
 		<td>{{#switch:{{{subdivision_name|}}}|[[United States]]|[[United Kingdom]]|[[United States of America]]|United States of America|United States|United Kingdom|[[United States|United States of America]]|{{UK}}=
 {{#if:{{{area_total_sq_mi|}}} |<!--THEN-->&nbsp;{{formatnum:{{{area_total_sq_mi| }}} }}&nbsp;[[square mile|sq&nbsp;mi]] 
@@ -362,16 +362,16 @@
 }}<!-- ***** Population ***** -->
 {{#if:{{{population_total|}}}{{{population_urban|}}}{{{population_metro|}}}{{{population_blank1|}}}{{{population_blank2|}}}|
 	<tr class="mergedtoprow">
-		<td colspan="2">'''Population''' {{#if:{{{population_as_of|}}}|({{{population_as_of}}}){{#if:{{{population_footnotes|}}}|{{{population_footnotes}}}}}}}</td>
+		<td colspan="2">'''Ngìn-khiéu''' {{#if:{{{population_as_of|}}}|({{{population_as_of}}}){{#if:{{{population_footnotes|}}}|{{{population_footnotes}}}}}}}</td>
 	</tr>
 {{#if:{{{population_total|}}}|
 	<tr class="mergedrow">
-		<th>&nbsp;- {{#if:{{{settlement_type|}}}|{{{settlement_type}}}|City}}</th>
+		<th>&nbsp;- {{#if:{{{settlement_type|}}}|{{{settlement_type}}}|Sàng-sṳ}}</th>
 		<td>{{formatnum:{{{population_total}}}}}</td>
 	</tr>
 }}{{#if:{{{population_density_sq_mi|}}}{{{population_density_km2|}}}|
         <tr class="mergedrow">
-		<th>&nbsp;- [[Population density|Density]]</th>
+		<th>&nbsp;- [[Ngìn-khiéu me̍t-thu|Me̍t-thu]]</th>
 		<td>{{#switch:{{{subdivision_name|}}}|[[United States]]|[[United Kingdom]]|United States|United Kingdom|[[United States of America]]|United States of America|[[United States|United States of America]]|{{UK}}=
 {{#if:{{{population_density_sq_mi|}}}|<!--THEN-->{{formatnum:{{{population_density_sq_mi|}}}}}/sq&nbsp;mi&nbsp;({{formatnum:{{#if:{{{population_density_km2|}}}|{{{population_density_km2| }}}|{{#expr: {{{population_density_sq_mi|}}}div 2.589988110336 round 1}} }} }}/km²)
 |<!--OR ELSE-->{{formatnum:{{#expr: {{{population_density_km2| }}} * 2.589988110336 round 1}} }}/sq&nbsp;mi&nbsp;({{formatnum:{{#if:{{{population_density_km2|}}}|{{{population_density_km2| }}}|{{#expr: {{{population_density_sq_mi|}}}div 2.589988110336 round 1}} }} }}/km²) }} 
@@ -462,7 +462,7 @@
 }} }}<!-- ***** Time Zone ***** -->
 {{#if:{{{timezone|}}}|
 	<tr class="mergedtoprow">
-		<th>[[Time zone]]</th>
+		<th>[[Sṳ̀-khî]]</th>
 		<td>{{{timezone}}} ([[UTC{{{utc_offset}}}]])
 	</tr>
 {{#if:{{{timezone_DST|}}}|
@@ -568,10 +568,10 @@
 	</tr>
 }}<!-- ***** Website ***** -->
 {{#if:{{{website|}}}|
-{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''Website:'''{{{website}}}
+{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''Mióng-cham: '''{{{website}}}
 {{!}}-
 }}
-|}<!--For deprecated parameter names--> <includeonly>{{#if:{{{city_logo|}}}{{{area_total|}}}{{{area_land|}}}{{{area_water|}}}{{{TotalArea_sq_mi|}}}{{{LandArea_sq_mi|}}} {{{WaterArea_sq_mi|}}}{{{area_urban|}}}{{{UrbanArea_sq_mi|}}}{{{area_metro|}}}{{{MetroArea_sq_mi|}}} {{{elevation|}}}{{{population_density|}}}{{{population_density_mi2|}}} {{{population_density_metro_mi2|}}} {{{population_density_urban_mi2|}}}|[[Category:Settlement articles requiring maintenance]]}}</includeonly><noinclude>
+|}<!--For deprecated parameter names--> <includeonly>{{#if:{{{city_logo|}}}{{{area_total|}}}{{{area_land|}}}{{{area_water|}}}{{{TotalArea_sq_mi|}}}{{{LandArea_sq_mi|}}} {{{WaterArea_sq_mi|}}}{{{area_urban|}}}{{{UrbanArea_sq_mi|}}}{{{area_metro|}}}{{{MetroArea_sq_mi|}}} {{{elevation|}}}{{{population_density|}}}{{{population_density_mi2|}}} {{{population_density_metro_mi2|}}} {{{population_density_urban_mi2|}}}|}}</includeonly><noinclude>
 {{intricate template}}
 {{template doc}}
 </noinclude>
