@@ -1,0 +1,7 @@
+<includeonly>{{#ifeq:{{NAMESPACE}}|Template||{{#ifeq:{{SUBPAGENAME}}|sandbox||{{#ifeq:{{SUBPAGENAME}}|testcases||{{#ifeq:{{FULLPAGENAME}}|Wikipedia:Sandbox||{{#ifeq:{{FULLPAGENAME}}|Wikipedia:Template messages/Redirect pages|| </includeonly>{{Mbox
+| type = content
+| image = [[File:Ambox warning orange.svg|50px]]
+| text = {{Error|This template should only be transcluded in the ''{{{1}}}'' namespace(s).}}
+}}<includeonly>{{#ifeq:{{lc:{{{nocat|false}}}}}|false|[[Category:Pages with templates in the wrong namespace]]|<!--If nocat=true, then the category is suppressed -->}}}}}}}}}}}}</includeonly><noinclude>
+{{Documentation}}
+</noinclude>
