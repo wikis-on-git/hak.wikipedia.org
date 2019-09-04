@@ -2,20 +2,20 @@
 {{#if:{{{1|}}} 
 | {{#if:{{#property:P18}}
 | {{#ifeq:{{filepath:{{{1|}}} }}|{{filepath:{{#property:P18}} }}
-| [[Category: pún-thi siông-kôan thù-phién lâu vì-kî sú-kí siông-thùng]]
-| [[Category: pún-thi siông-kôan thù-phién lâu vì-kî sú-kí m̀-thùng]]
+| [[Category: pún-thi siông-kôan thù-phién lâu Wikidata siông-thùng]]
+| [[Category: pún-thi siông-kôan thù-phién lâu Wikidata sú-kí m̀-thùng]]
 }}
 | {{#if:{{#property:P41}}{{#property:P94}}{{#property:P117}}{{#property:P154}}{{#property:P242}}
 | 
-| [[Category: pún-thi yû siông-kôan thù-phién yì vì-kî sú-kí vi thiâm-kâ]] 
+| [[Category: pún-thi yû siông-kôan thù-phién yì Wikidata vi thiâm-kâ]] 
 }}
 }}
 | {{#if:{{#property:P18}}
 | {{#if:{{{2|}}} 
 | 
-| [[Category: vì-kî sú-kí yû siông-kôan thù-phién yì pún-thi vi thiâm-kâ]] 
+| [[Category: Wikidata yû siông-kôan thù-phién yì pún-thi vi thiâm-kâ]] 
 }}
-| [[Category: pún-thi fò vì-kî sú-kí kiûn mò siông-kôan thù-phién]]
+| [[Category: pún-thi fò Wikidata kiûn mò siông-kôan thù-phién]]
 }}
 }}
 }}
