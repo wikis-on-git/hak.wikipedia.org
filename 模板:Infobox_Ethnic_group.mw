@@ -22,7 +22,7 @@
 {{#if:{{{population|}}}{{{pop|}}}{{{poptime|}}}|
 ! style="background-color: #b0c4de" {{!}} Chúng Ngìn-khiéu 
 {{!}}-
-{{!}} {{{population|}}}{{{pop|}}}{{{poptime|}}} {{#if: {{{genealogy|}}}|{{{genealogy|}}} （Pâu-hàm [[Chú-siên Hiet-thúng]]）}}
+{{!}} {{{population|}}}{{{pop|}}}{{{poptime|}}} {{#if: {{{genealogy|}}}|{{{genealogy|}}} (Pâu-hàm [[Chú-siên Hiet-thúng]])}}
 {{!}}-
 }}
 <!------------------------Fûn-phu Thi-khî-------------------------->
