@@ -1,0 +1,12 @@
+<noinclude>{{nodoc}}</noinclude>
+<font color="red">ERROR in {{tl|coord}} invocation.  Please see [[Template:Coord]] for usage.  Arguments supplied as:
+* 1={{{1|}}}
+* 2={{{2|}}}
+* 3={{{3|}}}
+* 4={{{4|}}}
+* 5={{{5|}}}
+* 6={{{6|}}}
+* 7={{{7|}}}
+* 8={{{8|}}}
+* 9={{{9|}}}
+</font><noinclude>{{template doc|Template:Coord/sub doc}}[[Category:Coord template]]</noinclude>
