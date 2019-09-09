@@ -19,10 +19,10 @@
 {{!}}-
 }}
 <!--------------------Chúng Ngìn-khiéu --------------------->
-{{#if:{{{population|}}}{{{pop|}}}{{{poptime|}}}|
+{{#if:{{{total|}}}{{{population|}}}{{{pop|}}}{{{poptime|}}}|
 ! style="background-color: #b0c4de" {{!}} Chúng Ngìn-khiéu 
 {{!}}-
-{{!}} {{{population|}}}{{{pop|}}}{{{poptime|}}} {{#if: {{{genealogy|}}}|{{{genealogy|}}} (Pâu-hàm [[Chú-siên Hiet-thúng]])}}
+{{!}} {{{total|}}}{{{population|}}}{{{pop|}}}{{{poptime|}}} {{#if: {{{genealogy|}}}|{{{genealogy|}}} (Pâu-hàm [[Chú-siên Hiet-thúng]])}}
 {{!}}-
 }}
 <!------------------------Fûn-phu Thi-khî-------------------------->
