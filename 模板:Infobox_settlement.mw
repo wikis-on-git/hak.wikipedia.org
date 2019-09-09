@@ -216,27 +216,38 @@
 {{#if:{{{subdivision_type|}}}|
 	<tr class="mergedtoprow">
 		<th>{{{subdivision_type}}}
-                <th class="adr"><span class="country-name">{{{subdivision_name}}}</span>
+        <td>{{{subdivision_name}}}
 	</tr>
 }}{{#if:{{{subdivision_type1|}}}|
 	<tr class="mergedrow">
 		<th>{{{subdivision_type1}}}
-                <th class="adr"><span class="region">{{{subdivision_name1}}}</span>
+        <td>{{{subdivision_name1}}}
 	</tr>
 }}{{#if:{{{subdivision_type2|}}}|
 	<tr class="mergedrow">
 		<th>{{{subdivision_type2}}}
-		<th>{{{subdivision_name2}}}
+		<td>{{{subdivision_name2}}}
 	</tr>
 }}{{#if:{{{subdivision_type3|}}}|
 	<tr class="mergedrow">
 		<th>{{{subdivision_type3}}}
-		<th>{{{subdivision_name3}}}
+		<td>{{{subdivision_name3}}}
 	</tr>
 }}{{#if:{{{subdivision_type4|}}}|
 	<tr class="mergedrow">
 		<th>{{{subdivision_type4}}}
-		<th>{{{subdivision_name4}}}
+		<td>{{{subdivision_name4}}}
+	</tr>
+}}
+{{#if:{{{subdivision_type5|}}}|
+	<tr class="mergedrow">
+		<th>{{{subdivision_type5}}}
+		<td>{{{subdivision_name5}}}
+	</tr>
+}}{{#if:{{{subdivision_type6|}}}|
+	<tr class="mergedrow">
+		<th>{{{subdivision_type6}}}
+		<td>{{{subdivision_name6}}}
 	</tr>
 }}<!--***** Established *****-->
 {{#if:{{{established_title|}}}|
