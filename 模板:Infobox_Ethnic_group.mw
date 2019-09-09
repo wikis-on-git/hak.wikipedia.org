@@ -2,7 +2,7 @@
 <!-------------------------Phêu-thì ------------------------->
 |+ style="font-size: larger; font-weight: bold" | {{{group|<includeonly>{{PAGENAME}}</includeonly>}}}
 |-
-|  style="font-size: smaller; font-weight: bold" align=center| <center><span {{#if:{{{native_name_lang|}}}|lang="{{{native_name_lang}}}"}}>{{{native_name|}}}</span></center>
+|  style="font-size: smaller; font-weight: bold" align=center| <span {{#if:{{{native_name_lang|}}}|lang="{{{native_name_lang}}}"}}>{{{native_name|}}}</span>
 |-
 <!-------------------------Khì-chì------------------------->
 {{#if:{{{flag|}}}|
