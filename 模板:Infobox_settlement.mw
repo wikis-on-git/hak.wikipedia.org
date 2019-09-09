@@ -160,17 +160,51 @@
 }}<!-- ***** Pushpin Map ***** -->
 {{#if:{{{pushpin_map|}}}|
 	<tr class="mergedrow">
-		<td colspan="2" align="center">
-{{Location map{{!}}{{{pushpin_map|}}}
-{{!}}label = {{#ifeq: {{lc: {{{pushpin_label_position|}}} }} | none | | {{{official_name|}}} }}
-{{!}}lat = {{#switch: {{lc: {{{latNS}}} }} | s={{#expr:0-({{{latd}}}+{{{latm}}}/60+{{#if:{{{lats}}}|{{{lats}}}/3600|0}})}} | n={{#expr:({{{latd}}}+{{{latm}}}/60+{{#if:{{{lats}}}|{{{lats}}}/3600|0}})}} }}   
-{{!}}long = {{#switch: {{lc: {{{longEW}}} }} | w={{#expr:0-({{{longd}}}+{{{longm}}}/60+{{#if:{{{longs}}}|{{{longs}}}/3600|0}})}} | e={{#expr:({{{longd}}}+{{{longm}}}/60+{{#if:{{{longs}}}|{{{longs}}}/3600|0}})}} }}
-{{!}}float = none
-{{!}}caption =
-{{!}}border = none
-{{!}}position = {{#if:{{{pushpin_label_position|}}} | {{{pushpin_label_position|}}} | right }}
-{{!}}width = {{#if:{{{pushpin_mapsize|}}}|{{{pushpin_mapsize|}}} | 250 }}
-}}{{#if:{{{pushpin_map_caption|}}}|<small>{{{pushpin_map_caption|}}}</small>|{{#if:{{{map_caption|}}}|<small>{{{map_caption|}}}</small> }} }}
+		<td colspan="2" style="text-align:center">
+{{Location map|{{{pushpin_map|}}}
+|label = {{#ifeq: {{lc: {{{pushpin_label_position|}}} }} | none | | {{#if:{{{name|}}}|{{{name}}}|{{{official_name|}}}}} }}
+|lat = {{#if:{{{latm|}}}{{{latNS|}}}| |{{{latd|}}} }}   
+|long = {{#if:{{{longm|}}}{{{longEW|}}}| |{{{longd|}}} }} 
+|lat_deg={{#if:{{{latm|}}}{{{latNS|}}}|{{{latd|}}}| }}   
+|lat_min={{#if:{{{latm|}}}{{{latNS|}}}|{{{latm|}}}| }}
+|lat_sec={{#if:{{{lats|}}}{{{latNS|}}}|{{{lats|}}}| }}
+|lat_dir={{#if:{{{latNS|}}}|{{{latNS|}}}| }}
+|lon_deg={{#if:{{{longm|}}}{{{longEW|}}}|{{{longd|}}}| }} 
+|lon_min={{#if:{{{longm|}}}{{{longEW|}}}|{{{longm|}}}| }} 
+|lon_sec={{#if:{{{longs|}}}{{{longEW|}}}|{{{longs|}}}| }}  
+|lon_dir={{#if:{{{longEW|}}}|{{{longEW|}}}| }} 
+|marksize   =6
+|float = center
+|caption =
+|border = none
+|position = {{#if:{{{pushpin_label_position|}}} | {{{pushpin_label_position|}}} | right }}
+|width = {{#if:{{{pushpin_mapsize|}}}|{{{pushpin_mapsize|}}} | 250px }}
+}}{{#if:{{{pushpin_map_caption|}}}|<small>{{{pushpin_map_caption|}}}</small> }}
+		</td>
+	</tr>
+}}
+{{#if:{{{pushpin_map1|}}}|
+	<tr class="mergedrow">
+		<td colspan="2" style="text-align:center">
+{{Location map|{{{pushpin_map1|}}}
+|label = {{#ifeq: {{lc: {{{pushpin_label_position1|}}} }} | none | | {{#if:{{{name|}}}|{{{name}}}|{{{official_name|}}}}} }}
+|lat = {{#if:{{{latm|}}}{{{latNS|}}}| |{{{latd|}}} }}   
+|long = {{#if:{{{longm|}}}{{{longEW|}}}| |{{{longd|}}} }} 
+|lat_deg={{#if:{{{latm|}}}{{{latNS|}}}|{{{latd|}}}| }}   
+|lat_min={{#if:{{{latm|}}}{{{latNS|}}}|{{{latm|}}}| }}
+|lat_sec={{#if:{{{lats|}}}{{{latNS|}}}|{{{lats|}}}| }}
+|lat_dir={{#if:{{{latNS|}}}|{{{latNS|}}}| }}
+|lon_deg={{#if:{{{longm|}}}{{{longEW|}}}|{{{longd|}}}| }} 
+|lon_min={{#if:{{{longm|}}}{{{longEW|}}}|{{{longm|}}}| }} 
+|lon_sec={{#if:{{{longs|}}}{{{longEW|}}}|{{{longs|}}}| }}  
+|lon_dir={{#if:{{{longEW|}}}|{{{longEW|}}}| }} 
+|marksize   =6
+|float = none
+|caption =
+|border = none
+|position = {{#if:{{{pushpin_label_position1|}}} | {{{pushpin_label_position1|}}} | right }}
+|width = {{#if:{{{pushpin_mapsize1|}}}|{{{pushpin_mapsize1|}}} | 250px }}
+}}{{#if:{{{pushpin_map_caption1|}}}|<small>{{{pushpin_map_caption1|}}}</small>|{{#if:{{{map_caption|}}}|<small>{{{map_caption|}}}</small> }} }}
 		</td>
 	</tr>
 }}<!-- ***** Coordinates ***** -->
