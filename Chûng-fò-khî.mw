@@ -102,8 +102,7 @@
 |utc_offset             = +8
 |timezone_DST           = 
 |utc_offset_DST         = 
-|latd=25 |latm=59 |lats=50 |latNS=N
-|longd=121 |longm=30 |longs=15 |longEW=E|coordinates_display=@
+|coordinates = {{coord|24|59|50|N|121|30|15|E|region:TW|display=inline,title}}
 |elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
 |elevation_m            = 
 |elevation_ft           =
