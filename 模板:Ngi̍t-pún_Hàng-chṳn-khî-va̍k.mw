@@ -1,39 +1,32 @@
 {{Navbox
 |name = Ngi̍t-pún Hàng-chṳn-khî-va̍k
 |title = [[Ngi̍t-pún]] Hàng-chṳn-khî-va̍k
-|image = [[File:Regions and Prefectures of Japan 2.png|160px]]
+| state        = {{{state|autocollapse}}}
+| listclass = hlist
 
-|group1style = background: #FF8585;
 |group1 = [[Hokkaidō|Hokkaidō Thi-fông]]
 |list1 = [[Hokkaidō]]
 
-|group2style = background: #FFFB91;
 |group2 = [[Tōhoku|Tōhoku Thi-fông]]
-|list2 = [[Aomori-yen]]{{.w}}[[Iwate-yen]]{{.w}}[[Miyagi-yen]]{{.w}}[[Akita-yen]]{{.w}}[[Yamagata-yen]]{{.w}}[[Fukushima-yen]] 
+|list2 = [[Aomori-yen|Aomori]]{{.w}}[[Iwate-yen|Iwate]]{{.w}}[[Miyagi-yen|Miyagi]]{{.w}}[[Akita-yen|Akita]]{{.w}}[[Yamagata-yen|Yamagata]]{{.w}}[[Fukushima-yen|Fukushima]] 
 
-|group3style = background: #79FF76;
 |group3 = [[Kantō|Kantō Thi-fông]]
-|list3 = [[Ibaraki-yen]]{{.w}}[[Tochigi-yen]]{{.w}}[[Gunma-yen]]{{.w}}[[Saitama-yen]]{{.w}}[[Chiba-yen]]{{.w}}[[Tûng-kîn-tû]]{{.w}}[[Kanagawa-yen]] 
+|list3 = [[Ibaraki-yen|Ibaraki]]{{.w}}[[Tochigi-yen|Tochigi]]{{.w}}[[Gunma-yen|Gunma]]{{.w}}[[Saitama-yen|Saitama]]{{.w}}[[Chiba-yen|Chiba]]{{.w}}[[Tûng-kîn-tû]]{{.w}}[[Kanagawa-yen|Kanagawa]] 
 
 |group4 = [[Chūbu|Chūbu Thi-fông]]
-|group4style = background: #8BFFE8;
-|list4 = [[Yamanashi-yen]]{{.w}}[[Nagano-yen]]{{.w}}[[Niigata-yen]]{{.w}}[[Gifu-yen]]{{.w}}[[Shizuoka-yen]]{{.w}}[[Aichi-yen]]{{.w}}[[Toyama-yen]]{{.w}}[[Ishikawa-yen]]{{.w}}[[Fukui-yen]]
+|list4 = [[Yamanashi-yen|Yamanashi]]{{.w}}[[Nagano-yen|Nagano]]{{.w}}[[Niigata-yen|Niigata]]{{.w}}[[Gifu-yen|Gifu]]{{.w}}[[Shizuoka-yen|Shizuoka]]{{.w}}[[Aichi-yen|Aichi]]{{.w}}[[Toyama-yen|Toyama]]{{.w}}[[Ishikawa-yen|Ishikawa]]{{.w}}[[Fukui-yen|Fukui]]
 
-|group5style = background: #7272FF;
 |group5 = [[Kinki|Kinki Thi-fông]]
-|list5 = [[Mie-yen]]{{.w}}[[Shiga-yen]]{{.w}}[[Kîn-tû-fú]]{{.w}}[[Thai-fán-fú]]{{.w}}[[Hyōgo-yen]]{{.w}}[[Nara-yen]]{{.w}}[[Wakayama-yen]]
+|list5 = [[Mie-yen|Mie]]{{.w}}[[Shiga-yen|Shiga]]{{.w}}[[Kîn-tû-fú]]{{.w}}[[Thai-fán-fú]]{{.w}}[[Hyōgo-yen|Hyōgo]]{{.w}}[[Nara-yen|Nara]]{{.w}}[[Wakayama-yen|Wakayama]]
 
-|group6style = background: #FF9148
 |group6 = [[Chūgoku|Chūgoku Thi-fông]]
-|list6 = [[Tottori-yen]]{{.w}}[[Shimane-yen]]{{.w}}[[Okayama-yen]]{{.w}}[[Hiroshima-yen]]{{.w}}[[Yamaguchi-yen]] 
+|list6 = [[Tottori-yen|Tottori]]{{.w}}[[Shimane-yen|Shimane]]{{.w}}[[Okayama-yen|Okayama]]{{.w}}[[Hiroshima-yen|Hiroshima]]{{.w}}[[Yamaguchi-yen|Yamaguchi]] 
 
-|group7style = background: #D16EFF
 |group7 = [[Shikoku|Shikoku Thi-fông]]
 |list7 = [[Tokushima-yen]]{{.w}}[[Kagawa-yen]]{{.w}}[[Ehime-yen]]{{.w}}[[Kōchi-yen]]
 
-|group8style = background: #C5C5C5;
 |group8 = [[Kyūshū|Kyūshū Thi-fông]]
-|list8 = [[Fukuoka-yen]]{{.w}}[[Saga-yen]]{{.w}}[[Nagasaki-yen]]{{.w}}[[Kumamoto-yen]]{{.w}}[[Ōita-yen]]{{.w}}[[Miyazaki-yen]]{{.w}}[[Kagoshima-yen]]{{.w}}[[Okinawa-yen]]
+|list8 = [[Fukuoka-yen|Fukuoka]]{{.w}}[[Saga-yen|Saga]]{{.w}}[[Nagasaki-yen|Nagasaki]]{{.w}}[[Kumamoto-yen|Kumamoto]]{{.w}}[[Ōita-yen|Ōita]]{{.w}}[[Miyazaki-yen|Miyazaki]]{{.w}}[[Kagoshima-yen|Kagoshima]]{{.w}}[[Okinawa-yen|Okinawa]]
 }}<noinclude>
 [[Category:Ngi̍t-pún|*]]
 </noinclude>
