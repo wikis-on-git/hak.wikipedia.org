@@ -210,9 +210,15 @@
 }}<!-- ***** Coordinates ***** -->
 {{#if:{{{latd|}}}|
 <tr class="mergedbottomrow">
-	<th colspan="2" style="text-align: center; font-size: smaller; padding-bottom: 0.7em;">[[Thi-lî chhô-phêu ne-thúng|Chhô-phêu]]:<br/><small>{{nobold|{{coord|{{{latd|}}}|{{{latm|}}}|{{{lats|}}}|{{{latNS|}}}|{{{longd|}}}|{{{longm|}}}|{{{longs|}}}|{{{longEW|}}}|{{{coordinates_type|type:city}}}}}}}</small></th>
+	<th colspan="2" style="text-align: center; font-size: smaller; padding-bottom: 0.7em;">[[Thi-lî chhô-phêu ne-thúng|Chhô-phêu]]: <br/><small>{{nobold|{{coord|{{{latd|}}}|{{{latm|}}}|{{{lats|}}}|{{{latNS|}}}|{{{longd|}}}|{{{longm|}}}|{{{longs|}}}|{{{longEW|}}}|{{{coordinates_type|type:city}}}}}}}</small></th>
 </tr>
-}}<!-- ***** Subdivisions ***** -->
+}}
+{{#if:{{{coord|{{{coordinates|}}}}}}|
+      <tr class="mergedbottomrow">
+        <td colspan="2" style="text-align: center; font-size: smaller; padding-bottom: 0.7em;">[[Thi-lî chhô-phêu ne-thúng|Chhô-phêu]]: {{{coordinates|{{{coord|}}}}}}</td>
+      </tr>
+}}
+<!-- ***** Subdivisions ***** -->
 {{#if:{{{subdivision_type|}}}|
 	<tr class="mergedtoprow">
 		<th>{{{subdivision_type}}}
