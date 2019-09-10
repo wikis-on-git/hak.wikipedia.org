@@ -3,17 +3,24 @@
   |title      = [[Thai-hòn Mìn-koet|Hòn-koet]] [[Hòn-koet Hàng-chṳn-khî-va̍k|Hàng-chṳn-khî-va̍k]]
   |image      = [[File:Flag of South Korea.svg|100px|border]] 
   |state      = {{{state<includeonly>|collapsed</includeonly>}}}
-  |groupstyle = 
+|titlestyle = background: #cbdcff;
+|groupstyle =  background: #cbdcff;
+|liststyle =  padding-left: 10px;
+
   |group1 = [[Thi̍t-phe̍t-sṳ]]
-  | list1 = [[Seoul|Seoul Thi̍t-phe̍t-sṳ]]
+  | list1 = [[Seoul]]
+
   |group2 = [[Kóng-vet-sṳ]]
-  | list2 = [[Busan|Busan Kóng-vet-sṳ]]{{.w}}[[Daegu|Daegu Kóng-vet-sṳ]]{{.w}}[[Incheon|Incheon Kóng-vet-sṳ]]{{.w}}[[Gwangju|Gwangju Kóng-vet-sṳ]]{{.w}}[[Daejeon|Daejeon Kóng-vet-sṳ]]{{.w}}[[Ulsan|Ulsan Kóng-vet-sṳ]]
+  | list2 = [[Busan]]{{·}}[[Daegu]]{{·}}[[Incheon]]{{·}}[[Gwangju]]{{·}}[[Daejeon]]{{·}}[[Ulsan]]
+
   |group3 = [[Tho]]
-  | list3 = [[Gyeonggi Tho]]{{.w}}[[Gangwon Tho (Nàm Hòn)|Gangwon Tho]]{{.w}}[[Chungcheong Pet-tho]]{{.w}}[[Chungcheong Nàm-tho]]{{.w}}[[Jeolla Pet-tho]]{{.w}}[[Jeolla Nàm-tho]]{{.w}}[[Gyeongsang Pet-tho]]{{.w}}[[Gyeongsang Nàm-tho]]
+  | list3 = [[Gyeonggi Tho|Gyeonggi]]{{·}}[[Gangwon Tho (Nàm Hòn)|Gangwon]]{{·}}[[Chungcheong Pet-tho|Chungcheong Pet]]{{·}}[[Chungcheong Nàm-tho|Chungcheong Nàm]]{{·}}[[Jeolla Pet-tho|Jeolla Pet]]{{·}}[[Jeolla Nàm-tho|Jeolla Nàm]]{{·}}[[Gyeongsang Pet-tho|Gyeongsang Pet]]{{·}}[[Gyeongsang Nàm-tho|Gyeongsang Nàm]]
+
   |group4 = [[Thi̍t-phe̍t Chhṳ-chhṳ-sṳ]]
-  | list4 = [[Sejong Thi̍t-phe̍t Chhṳ-chhṳ-sṳ]]
+  | list4 = [[Sejong Thi̍t-phe̍t Chhṳ-chhṳ-sṳ|Sejong]]
+
   |group5 = [[Thi̍t-phe̍t Chhṳ-chhṳ-tho]]
-  | list5 = [[Jeju Thi̍t-phe̍t Chhṳ-chhṳ-tho]]
+  | list5 = [[Jeju Thi̍t-phe̍t Chhṳ-chhṳ-tho|Jeju]]
 }}<noinclude>
 [[Category:Hòn-koet|*]]
 </noinclude>
