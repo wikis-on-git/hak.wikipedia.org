@@ -1,0 +1,6 @@
+<includeonly>{{#if:<!-- -->|{{ftm|{{{2|}}}|{{{3|}}}||0|{{{4|}}}}}|{{ftm|{{{2|}}}|{{{3|}}}|switch|0|{{{4|}}}}}}}</includeonly><noinclude>
+
+{{pp-template|small=yes}}
+{{Documentation}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS TO THE /doc SUBPAGE, THANKS -->
+</noinclude>
