@@ -1,4 +1,89 @@
-[[File:South Korea-Incheon.svg|right|thumb|200px|Incheon.]]
+{{Infobox settlement
+<!--See Template:Infobox settlement for additional fields that may be available-->
+<!-- Basic info  ---------------->
+|name                   = {{raise|0.1em|Incheon Kóng-vet-sṳ}}
+|official_name          = {{lower|0.1em|{{lang|ko-Hang|인천광역시}}}}
+| native_name =
+|settlement_type        = [[Kóng-vet-sṳ]]
+|translit_lang1= &nbsp;
+| translit_lang1_type = [[Hangul]]
+| translit_lang1_info = {{lang|ko-Hang|인천광역시}}
+|translit_lang1_type1 = [[Hon-sṳ]]
+|translit_lang1_info1 = {{lang|ko|仁川廣域市}}
+|translit_lang1_type2={{nowrap|[[Koet-ngî Lò-mâ-sṳ péu-ki-fap|Koet-ngî Lò-mâ-sṳ]]}}
+|translit_lang1_info2={{nowrap|Incheon Gwang-yeoksi}}
+|translit_lang1_type3={{nowrap|[[McCune-Reischauer]]}}
+|translpoopit_lang1_info3={{nowrap|Inch'ŏn Kwang'yŏkshi}}
+|image_skyline = 
+|image_flag            = Incheon Flag.png
+|image_blank_emblem     = Seal of Incheon.svg
+|blank_emblem_type      = Sṳ-chông
+|blank_emblem_size      =
+|nickname               =
+|motto                  =
+|image_map              = South Korea-Incheon.svg
+|map_caption            = 
+| pushpin_map           = South Korea
+| pushpin_label_position= right
+| pushpin_mapsize       = 
+| pushpin_map_caption   = 
+| pushpin_relief        = 1
+<!-- Location ------------------>
+|coordinates            = {{coord|37|29|N|126|38|E|region:KR-28|display=it}}
+|subdivision_type		= Koet-kâ
+|subdivision_name		= {{flagcountry|South Korea}}
+
+ <!-- Smaller parts (e.g. boroughs of a city) and seat of government -->
+|established_title      =  
+|established_date       =  
+|founder                =
+|named_for              =
+<!-- Area    --------------------->
+|seat_type              =
+|seat                   =
+|parts_type             = 
+|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
+                               Default is list if up to 5 items, coll if more than 5-->
+|parts                  = <!-- parts text, or header for parts list -->
+|government_footnotes   =
+|government_type        = 
+|leader_title           = 
+|leader_name            = 
+|leader_title1          = 
+|leader_name1           = 
+|total_type             = <!-- to set a non-standard label for total area and population rows -->
+|unit_pref                = <!--Enter: Imperial, to display imperial before metric-->
+|area_footnotes           =
+|area_magnitude         = <!-- use only to set a special wikilink -->
+|area_total_km2           =1062.63 <!-- ALL fields with measurements are subject to automatic unit conversion-->
+|area_total_sq_mi         =
+
+<!-- Elevation -------------------------->
+|elevation_footnotes    =  <!--for references: use <ref> tags-->
+|elevation_m            =
+|elevation_ft           =
+|elevation_min_m            =
+|elevation_min_ft           =
+<!-- Population   ----------------------->
+|population_total               = 2953883
+|population_as_of               = January 2018
+|population_footnotes           = 
+|population_density_km2         = auto <!--For automatic calculation, any density field may contain: auto -->
+|population_density_sq_mi       =
+
+<!-- General information  --------------->
+|population_note                =
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|website                = [http://english.incheon.go.kr/ incheon.go.kr] 
+|footnotes              =
+<!-- Politics ----------------->
+|elevation_max_m            =
+|elevation_max_ft           =
+|timezone               = 
+|utc_offset             =+9
+}}
 '''Incheon Kóng-vet-sṳ''' ({{lang-ko|인천광역시/仁川廣域市}}) he [[Thai-hòn Mìn-koet]] ke yit chak kóng-vet-sṳ.
 
 == Li̍t-sṳ́ ==
@@ -27,5 +112,6 @@
 
 {{Incheon}}
 {{Hòn-koet hàng-chṳn-khî-va̍k}}
+{{Authority control}}
 [[Category:Incheon]]
 [[Category:Hòn-koet]]
