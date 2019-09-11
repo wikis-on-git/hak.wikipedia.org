@@ -1,4 +1,43 @@
-[[File:South Korea-North Jeolla.svg|thumb|right|200px|Jeolla Pet-tho]]
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = {{raise|0.2em|Jeolla Pet-tho}}
+| native_name             = {{lower|0.1em|{{nobold|전라북도}}}}
+| native_name_lang        = ko
+| settlement_type         = Tho
+| translit_lang1          = &nbsp;
+| translit_lang1_type = [[Hangul]]
+| translit_lang1_info = {{lang|ko|전라북도}}
+| translit_lang1_type1 = [[Hon-sṳ]]
+| translit_lang1_info1    = {{lang|ko|全羅北道}}
+| translit_lang1_type2    = [[McCune-Reischauer]]
+| translit_lang1_info2    = Chŏllabuk-to
+| translit_lang1_type3    = [[Koet-ngî Lò-mâ-sṳ péu-ki-fap|Koet-ngî Lò-mâ-sṳ]]
+| translit_lang1_info3    = Jeollabuk-do
+| image_flag =
+| image_blank_emblem      = 
+| image_map               = South Korea-North Jeolla.svg
+|subdivision_type		= Koet-kâ
+|subdivision_name		= {{flagcountry|South Korea}}
+| seat_type               = Sú-fú
+| seat                    = [[Jeonju Sṳ|Jeonju]]
+| parts_type              = 
+| parts_style             = <!-- list, coll (collapsed list), para (paragraph format) -->
+| parts                   = 
+| leader_title            = 
+| leader_name             = 
+| area_total_km2          = 8067
+| area_rank               = 
+| population_total        = 1869711
+| population_as_of        = December, 2015
+| population_footnotes    = 
+| population_density_km2  = auto
+| iso_code = KR-45
+| website                 = [http://en.jeonbuk.go.kr English Official site] 
+                            [http://tour.jb.go.kr/index.do Travel Information]
+| footnotes               =
+| coordinates             = 
+
+}}
 '''Jeolla Pet-tho''' ({{lang-ko|전라북도/全羅北道}}) he [[Thai-hòn Mìn-koet]] ke 1 chak tho.
 
 ==Hàng-chṳn Khî-va̍k==
@@ -19,5 +58,6 @@
 
 {{Jeolla Pet-tho}}
 {{Hòn-koet hàng-chṳn-khî-va̍k}}
+{{Authority control}}
 [[Category:Hòn-koet]]
 [[Category:Jeolla Pet-tho]]
