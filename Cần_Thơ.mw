@@ -1,7 +1,7 @@
 {{Infobox settlement
-| name                            = Cần Thơ
+| name                            = {{raise|0.1em|Cần Thơ}}
 | official_name                   = 
-| native_name                     = Thành phố Cần Thơ
+| native_name                     = {{lower|0.1em|{{nobold|Thành phố Cần Thơ}}}}
 | native_name_lang                = vi
 | other_name                      = 
 | settlement_type                 = [[Chhṳ̍t-hot-sṳ]]
@@ -15,7 +15,8 @@
 | image_map                      = Can Tho in Vietnam.svg
 | mapsize                        = 250px
 | map_caption                    = 
-| pushin_map                      = Vietnam
+| pushpin_map                     = Vietnam
+| pushpin_relief                  = 1
 | coordinates                     = {{coord|10|02|N|105|47|E|region:VN|display=inline}}
 |subdivision_type	= Koet-kâ
 |subdivision_name	= {{flagcountry|Vietnam}}
