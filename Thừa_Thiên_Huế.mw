@@ -1,8 +1,8 @@
 {{Infobox settlement
-| name                            = Thừa Thiên-Huế
-| native_name                     = Tỉnh Thừa Thiên-Huế
+| name                            = {{raise|0.1em|Thừa Thiên-Huế}}
+| native_name                     = {{lower|0.1em|{{nobold|Tỉnh Thừa Thiên-Huế}}}}
 | native_name_lang                = vi<!-- ISO 639-2 code: vi for Vietnamese -->
-| type                            = [[Sén]]
+| settlement_type              = [[Sén]]
 | image_skyline                   = 
 | image_caption                   = 
 | image_map                       = Thua Thien-Hue in Vietnam.svg
