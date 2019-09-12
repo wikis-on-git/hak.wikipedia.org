@@ -1,0 +1,113 @@
+== Kak-sṳt ==
+{{Parameter names example
+ | honorific-prefix
+ | name
+ | native_name
+ | native_name_lang
+ | honorific-suffix
+ | image
+ | image_size
+ | smallimage
+ | alt
+ | caption
+ | order
+ | office
+ | term_start
+ | term_end
+ | alongside
+ | monarch
+ | president
+ | governor_general
+ | primeminister
+ | chancellor
+ | taoiseach
+ | governor
+ | vicepresident
+ | viceprimeminister
+ | deputy
+ | lieutenant
+ | succeeding
+ | constituency
+ | majority
+ | predecessor
+ | successor
+ | prior_term
+ | order2
+ | office2
+ | term_start2
+ | term_end2
+ | alongside2
+ | monarch2
+ | president2
+ | governor_general2
+ | primeminister2
+ | chancellor2
+ | taoiseach2
+ | governor2
+ | vicepresident2
+ | viceprimeminister2
+ | deputy2
+ | lieutenant2
+ | succeeding2
+ | constituency2
+ | predecessor2
+ | successor2
+ | majority2
+ | prior_term2
+}}
+<pre style="overflow:auto;">
+{{Infobox officeholder
+ | honorific-prefix   = 
+ | name               = 
+ | native_name        = 
+ | native_name_lang   = 
+ | honorific-suffix   = 
+ | image              = 
+ | image_size         = 
+ | smallimage         = <!--If this is specified, "image" should not be.-->
+ | alt                = 
+ | caption            = 
+ | order              = 
+ | office             = 
+ | term_start         = 
+ | term_end           = 
+ | alongside          = <!--For two or more people serving in the same position from the same district.  (e.g. United States Senators.)-->
+ | monarch            = 
+ | president          = 
+ | governor_general   = 
+ | primeminister      = 
+ | taoiseach          = 
+ | chancellor         = 
+ | governor           = 
+ | vicepresident      = 
+ | viceprimeminister  = 
+ | deputy             = 
+ | lieutenant         = 
+ | succeeding         = <!--For President-elect or equivalent-->
+ | constituency       = 
+ | majority           = 
+ | predecessor        = 
+ | successor          = 
+ | prior_term         =
+ | order2             =  <!--Can be repeated up to 16 times by changing the number-->
+ | office2            =  <!--Can be repeated up to 16 times by changing the number-->
+ | term_start2        =  <!--Can be repeated up to 16 times by changing the number-->
+ | term_end2          =  <!--Can be repeated up to 16 times by changing the number-->
+ | alongside2         =  <!--Can be repeated up to 16 times by changing the number-->
+ | monarch2           =  <!--Can be repeated up to 16 times by changing the number-->
+ | president2         =  <!--Can be repeated up to 16 times by changing the number-->
+ | governor_general2  =  <!--Can be repeated up to 16 times by changing the number-->
+ | primeminister2     =  <!--Can be repeated up to 16 times by changing the number-->
+ | chancellor2        =  <!--Can be repeated up to 16 times by changing the number-->
+ | taoiseach2         =  <!--Can be repeated up to 16 times by changing the number-->
+ | governor2          =  <!--Can be repeated up to 16 times by changing the number-->
+ | vicepresident2     =  <!--Can be repeated up to 16 times by changing the number-->
+ | viceprimeminister2 =  <!--Can be repeated up to 16 times by changing the number-->
+ | deputy2            =  <!--Can be repeated up to 16 times by changing the number-->
+ | lieutenant2        =  <!--Can be repeated up to 16 times by changing the number-->
+ | succeeding2        =  <!--Can be repeated up to 16 times by changing the number-->
+ | predecessor2       =  <!--Can be repeated up to 16 times by changing the number-->
+ | successor2         =  <!--Can be repeated up to 16 times by changing the number-->
+ | constituency2      =  <!--Can be repeated up to 16 times by changing the number-->
+ | majority2          =  <!--Can be repeated up to 16 times by changing the number-->
+ | prior_term2        =  <!--Can be repeated up to 16 times by changing the number--></pre>
