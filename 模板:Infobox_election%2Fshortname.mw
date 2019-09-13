@@ -1,0 +1,9 @@
+{{#if:{{{name|}}}
+  |{{#ifeq:{{{link}}}|no
+     |{{{name}}}
+     |{{#ifexist:Template:Party meta/shortname/{{{name|}}}
+       |[[{{{name}}}|{{Template:Party meta/shortname/{{{name|}}}}}]]
+       |{{{name}}}
+      }}
+   }}
+}}
