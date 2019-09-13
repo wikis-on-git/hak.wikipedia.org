@@ -128,7 +128,7 @@
 
  | header7 = {{#if: {{{regnal name|}}} |[[Chûn-ho]]}}
  | data8 = {{{regnal name|}}}
- | header9 = {{#if: {{{posthumous name|}}} | [[si-ho]]}}
+ | header9 = {{#if: {{{posthumous name|}}} | [[Si-ho]]}}
  | data10 = {{{posthumous name|}}}
  | header11 = {{#if: {{{temple name|}}} | [[Meu-ho]] }}
  | data12 = {{{temple name|}}}
