@@ -1,0 +1,188 @@
+{{infobox
+| bodyclass = vcard
+| aboveclass = fn
+| abovestyle = background-color: #cbe; font-size: 125%
+| above =  {{{name|<includeonly>{{PAGENAME}}</includeonly>}}}
+| subheader1  = {{#if: {{{title|}}} |<!-- TITLETEXT SWITCH: EMBEDDED BY REALM (ALPHABETICALLY) -->
+''{{{title|}}}''}}
+| imageclass = photo
+| image = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|{{{imgw|}}}}}}|sizedefault=frameless|upright=1.0|alt={{{alt|}}}|suppressplaceholder=yes}}
+| caption = {{{caption|}}}
+
+| headerstyle = background-color: #e4dcf6
+| header1 =  {{#if:{{{succession|}}}|{{{succession}}} {{#if:{{{moretext|}}}|{{nobold|<small>{{{moretext}}}</small>}}}}}}
+
+| label2 = {{ifempty| {{{reign-type|}}} |{{#switch:{{{consort|}}}|yes=Tenure|<!--BACKWARD COMPAT FROM IBR-->{{#switch:{{{2}}}|consort=Tenure|Chhai-vi}}<!--BACKWARD COMPAT FROM IBR-->}} }}
+| data2 = {{{reign|}}}
+
+| label3 = Kâ-mén
+| data3 = {{{coronation|}}}
+
+| label4 = Kâ-mén ngì-sit
+| data4 = {{{investiture|}}}
+
+| label5 = Chhièn-ngim
+| data5 = {{{predecessor|}}}
+
+| label6 = Ki-ngim
+| data6 = {{{successor|}}}
+
+| label7 = {{{reg-type|Ngiap-chṳn}}}
+| data7 = {{{regent|}}}
+
+| header8 =  {{#if:{{{succession1|}}}|{{{succession1}}} {{#if:{{{moretext1|}}}|{{nobold|<small>{{{moretext1}}}</small>}}}}}}
+
+| label9 = {{ifempty| {{{reign-type1|}}} | {{#switch:{{{consort|}}}|yes=Tenure|<!--BACKWARD COMPAT FROM IBR-->{{#switch:{{{2}}}|consort=Tenure|Chhai-vi}}<!--BACKWARD COMPAT FROM IBR-->}} }}
+| data9 = {{{reign1|}}}
+
+| label10 = {{{cor-type1|Kâ-mén}}}
+| data10 = {{{coronation1|}}}
+
+| label11 = {{{pre-type1|Chhièn-ngim}}}
+| data11 = {{{predecessor1|}}}
+
+| label12 = {{{suc-type1|Ki-ngim}}}
+| data12 = {{{successor1|}}}
+
+| label13 = {{{reg-type1|Ngiap-chṳn}}}
+| data13 = {{{regent1|}}}
+
+| header14 =  {{#if:{{{succession2|}}}|{{{succession2}}} {{#if:{{{moretext2|}}}|{{nobold|<small>{{{moretext2}}}</small>}}}}}}
+
+| label15 = {{ifempty| {{{reign-type2|}}} | {{#switch:{{{consort|}}}|yes=Tenure|<!--BACKWARD COMPAT FROM IBR-->{{#switch:{{{2}}}|consort=Tenure|Chhai-vi}}<!--BACKWARD COMPAT FROM IBR-->}} }}
+| data15 = {{{reign2|}}}
+
+| label16 = {{{cor-type2|Kâ-mén}}}
+| data16 = {{{coronation2|}}}
+
+| label17 = {{{pre-type2|Chhièn-ngim}}}
+| data17 = {{{predecessor2|}}}
+
+| label18 = {{{suc-type2|Ki-ngim}}}
+| data18 = {{{successor2|}}}
+
+| label19 = {{{reg-type2|Ngiap-chṳn}}}
+| data19 = {{{regent2|}}}
+
+| header20 =  {{#if:{{{succession3|}}}|{{{succession3}}} {{#if:{{{moretext3|}}}|{{nobold|<small>{{{moretext3}}}</small>}}}}}}
+
+| label21 = {{ifempty| {{{reign-type3|}}} |{{#switch:{{{consort|}}}|yes=Tenure|<!--BACKWARD COMPAT FROM IBR-->{{#switch:{{{2}}}|consort=Tenure|Chāi-ūi}}<!--BACKWARD COMPAT FROM IBR-->}} }}
+| data21 = {{{reign3|}}}
+
+| label22 = {{{cor-type3|Kâ-mén}}}
+| data22 = {{{coronation3|}}}
+
+| label23 = {{{pre-type3|Chhièn-ngim}}}
+| data23 = {{{predecessor3|}}}
+
+| label24 = {{{suc-type3|Ki-ngim}}}
+| data24 = {{{successor3|}}}
+
+| label25 = {{{reg-type3|Ngiap-chṳn}}}
+| data25 = {{{regent3|}}}
+
+| header26 = {{#if: {{{succession|}}} | <div style="height: 4px; width:100%;"></div>}}
+
+| label27 = Vòng-heu
+| data27 = {{{queen|}}}
+
+| label28 = {{{spouse-type|{{#switch:{{{type}}}|monarch={{#switch:{{{consort}}}|yes=Spouse|<!--BACKWARD COMPAT FROM IBR-->{{#switch:{{{2}}}|consort=Spouse|Consort}}<!--BACKWARD COMPAT FROM IBR-->}}|majesty={{#switch:{{{consort}}}|yes=Spouse|<!--BACKWARD COMPAT FROM IBR-->{{#switch:{{{2}}}|consort=Spouse|Consort}}<!--BACKWARD COMPAT FROM IBR-->}}|Phoè-ngó͘}}}}}
+| data28 = {{{spouse|}}}
+
+| label29 = {{{spouses-type|Phi-ngiéu}}}<!--FOOLPROOFING. USE NOT GENERALLY ENCOURAGED: USE spouse-->
+| data29 = {{{spouses|}}}
+
+| label30 = {{#if:{{{spouse 2|}}} | Phi-ngiéu | Phi-ngiéu}}
+| data30 = {{#if: {{{spouse 1|}}}|
+{{unbulleted list
+| {{{spouse 1}}}
+| {{{spouse 2|}}}
+| {{{spouse 3|}}} 
+| {{{spouse 4|}}} 
+| {{{spouse 5|}}} 
+| {{{spouse 6|}}} 
+| {{{spouse 7|}}}
+| {{{spouse 8|}}} 
+| {{{spouse 9|}}} 
+}}}}
+
+| label31 = Chṳ́-sit{{#if:{{{issue-link|}}}|<br><span style="font-size:smaller; font-weight:normal">''[[{{{issue-link}}}|{{#if:{{{issue-pipe|}}}|{{{issue-pipe}}}|Detail}}]]''</span>}}
+| data31 = {{{issue|}}}
+
+| data32 = {{#if:{{{full name|}}}{{{family_name|}}}{{{clan_name|}}}{{{given_name|}}}{{{era dates|}}}{{{regnal name|}}}{{{posthumous name|}}}{{{temple name|}}}|
+{{Infobox|bodystyle=border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none
+ | headerstyle = text-align:left
+ | datastyle = text-align:left; padding-left:0.7em;
+ | header1 = {{#if:{{{full name|}}}|Chhiòn-miàng}}
+ | class2 = nickname <!-- "nickname" is the correct parameter value for hCard -->
+ | data2 = {{{full name|}}}
+ | header3 = {{#if:{{{family_name|}}}{{{clan_name|}}}{{{given_name|}}}|Choân-miâ}}
+ | data4 = {{#if:{{{family_name|}}}{{{clan_name|}}}{{{given_name|}}}|
+{{unbulleted list
+ | 1 = {{#if: {{{family_name|}}} | Siang: <span class="nickname">{{{family_name}}}</span> }}
+ | 2 = {{#if: {{{clan_name|}}}   | Si: <span class="nickname">{{{clan_name}}}</span> }}
+ | 3 = {{#if: {{{given_name|}}}  | miàng: <span class="nickname">{{{given_name}}}</span> }}
+}}}}
+ | header5 = {{#if: {{{era dates|}}} |[[Ngièn-ho]] {{#if:{{{era name|}}}| kap&nbsp;}}sṳ̀-kiên}}
+ | data6 = {{#if: {{{era dates|}}} | {{#if:{{{era name|}}}|{{{era name}}}:&nbsp;}}{{{era dates}}} }}
+
+ | header7 = {{#if: {{{regnal name|}}} |[[Chûn-ho]]}}
+ | data8 = {{{regnal name|}}}
+ | header9 = {{#if: {{{posthumous name|}}} | [[si-ho]]}}
+ | data10 = {{{posthumous name|}}}
+ | header11 = {{#if: {{{temple name|}}} | [[Meu-ho]] }}
+ | data12 = {{{temple name|}}}
+ }}
+}}
+
+| label33 = {{{native_lang1}}}
+| data33 = {{#if: {{{native_lang1|}}}|{{{native_lang1_name1|}}}}}
+
+| label34 = {{{native_lang2}}}
+| data34 = {{#if: {{{native_lang2|}}}|{{{native_lang2_name1|}}}}}
+
+| label35 = {{{native_lang3}}}
+| data35 = {{#if: {{{native_lang3|}}}|{{{native_lang3_name1|}}}}}
+
+| label36 = {{{native_lang4}}}
+| data36 = {{#if: {{{native_lang4|}}}|{{{native_lang4_name1|}}}}}
+
+| label37 = {{{native_lang5}}}
+| data37 = {{#if: {{{native_lang5|}}}|{{{native_lang5_name1|}}}}}
+
+| label38 = [[Vòng-sit|{{{house-type|{{#switch:{{{house-type}}}|Vòng-sit}}}}}]]
+| data38 = {{{house|}}}
+
+| label39 = [[Vòng-sit|{{{house-type|{{#switch:{{{house-type}}}|Vòng-sit}}}}}]]
+| data39 = {{{royal house|}}}
+
+| label40 = [[Vòng-chhèu]]
+| data40 = {{{dynasty|}}}
+
+| label41 = Â-pâ
+| data41 = {{{father|}}}
+
+| label42 = Â-mê
+| data42 = {{{mother|}}}
+
+| label43 = Chhut-se
+| data43 = {{br separated entries| {{{birth_name|}}} | {{{birth_date|}}} | {{{birth_place|}}} }}
+
+| label44 = Ko-sṳ̂n
+| data44 = {{br separated entries| {{{death_date|}}} | {{{death_place|}}} }}
+
+| label45 = Mu-thi
+| data45 = {{br separated entries |1= {{{burial_date|{{{date of burial|}}}}}} |2= {{#if:{{{burial_place|{{{place of burial|}}}}}}|<span class="label">{{{burial_place|{{{place of burial|}}}}}}</span>}} }}
+
+| label46 = Chong-kàu
+| data46 = {{{religion|}}}
+
+| label47 = Chṳt-ngia̍p
+| data47 = {{{occupation|}}}
+
+| label48 = {{#if:{{{signature_type|}}}| {{{signature_type}}} | Chhiâm-miàng }}
+| data48 = {{#if:{{{signature|}}}|[[File:{{{signature}}}|125px|alt={{{signature_alt|}}}|{{PAGENAME}} ke chhiâm-miàng]]}}
+
+}}{{#if:{{{pronunciation|}}}|[[Category:Biography template using pronunciation]]}}<noinclude>
+{{documentation}}
+</noinclude>
