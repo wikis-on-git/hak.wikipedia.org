@@ -123,7 +123,7 @@
  | 2 = {{#if: {{{clan_name|}}}   | Si: <span class="nickname">{{{clan_name}}}</span> }}
  | 3 = {{#if: {{{given_name|}}}  | miàng: <span class="nickname">{{{given_name}}}</span> }}
 }}}}
- | header5 = {{#if: {{{era dates|}}} |[[Ngièn-ho]] {{#if:{{{era name|}}}| kap&nbsp;}}sṳ̀-kiên}}
+ | header5 = {{#if: {{{era dates|}}} |[[Ngièn-ho]] {{#if:{{{era name|}}}| lâu&nbsp;}}sṳ̀-kiên}}
  | data6 = {{#if: {{{era dates|}}} | {{#if:{{{era name|}}}|{{{era name}}}:&nbsp;}}{{{era dates}}} }}
 
  | header7 = {{#if: {{{regnal name|}}} |[[Chûn-ho]]}}
