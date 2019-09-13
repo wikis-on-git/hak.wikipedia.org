@@ -28,7 +28,7 @@
 {{#switch:{{{type|}}}
 | presidential
 | Presidential = {{#if:{{{votes_for_election|}}}|
-! colspan=4 style="text-align:center" {{!}} <small>{{{votes_for_election}}}</small>{{#if:{{{needed_votes|}}}|<br /><small>获胜需要{{{needed_votes}}}</small>}}
+! colspan=4 style="text-align:center" {{!}} <small>{{{votes_for_election}}}</small>{{#if:{{{needed_votes|}}}|<br /><small>sṳn chhut sî-yeu {{{needed_votes}}}</small>}}
 }}
 | parliamentary
 | Parliamentary
@@ -36,7 +36,7 @@
 | Legislative
 | by-election
 | By-election   = {{#if:{{{seats_for_election|}}}|
-! colspan=4 style="text-align:center" {{!}} <small>{{{seats_for_election}}}</small>{{#if:{{{majority_seats|}}}|<br /><small>需{{{majority_seats}}}席方能获得绝对多数</small>}}
+! colspan=4 style="text-align:center" {{!}} <small>{{{seats_for_election}}}</small>{{#if:{{{majority_seats|}}}|<br /><small>sî-yeu {{{majority_seats}}} chak sit-vi chhòi tet-to chhie̍t-tui tô-su</small>}}
 }}
 | #default      = 
 }}
