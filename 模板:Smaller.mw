@@ -1,1 +1,4 @@
-#REDIRECT[[Template:Resize]]
+{{Resize|90%|{{{1}}}}}<noinclude>
+{{Documentation|Template:Resize/doc}}
+{{/TemplateData}}
+</noinclude>
