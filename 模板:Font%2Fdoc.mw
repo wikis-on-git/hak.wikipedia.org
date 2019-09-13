@@ -1,0 +1,70 @@
+{{documentation subpage}}
+<IncludeOnly><!-- 在這裡加入模板的保護標識 --></IncludeOnly>
+<!-- 在本行下編輯模板說明 -->
+{{High-use| 3454}}
+== About ==
+'''<nowiki>{{font}}</nowiki>''' is used to define text styles, for example, size and color. It can also be used to inject [[CSS]]. This can be useful when needed to change "I" in Arial to "{{font|I|font=Times}}" in Times, since in Arial, uppercase "I" looks the same as lowercase "L".
+
+== Use ==
+<code><nowiki>{{font|TEXT(or「text=TEXT」)|font=FONT|size=SIZE（px/em/pt/%）|color=COLOR|bgcolor=BACKGROUND COLOR|css=CSS}}</nowiki></code>
+
+== Examples ==
+{| class="wikitable"
+!Markup
+!Display
+|-
+|<code><nowiki>{{font|text=Some text.|font=Comic Sans MS|size=20px|color=#7f5620}}</nowiki></code> || {{font|text=Some text.|font=Comic Sans MS|size=20px|color=#7f5620}}
+|-
+|<code><nowiki>{{font|Illinois|font=Times|size=20px}}</nowiki></code> || {{font|Illinois|font=Times|size=20px}}
+|-
+|<code><nowiki>{{font|Illinois|font=Arial|size=20px}}</nowiki></code> || {{font|Illinois|font=Arial|size=20px}}
+|-
+|<code><nowiki>{{font|啡色的文字。|font=標楷體|size=20px|color=#7f5620}}</nowiki></code>
+|{{font|啡色的文字。|font=標楷體|size=20px|color=#7f5620}}
+|-
+|<code><nowiki>{{font|text=Hello World!|font=Century Gothic|size=35px|color=#bf00bf}}</nowiki></code>
+|{{font|text=Hello World!|font=Century Gothic|size=35px|color=#bf00bf}}
+|-
+|<code><nowiki>{{font|text=囧囧囧囧囧|font=Simhei|color=#c9b295|bgcolor=#364d6a}}</nowiki></code>
+|{{font|text=囧囧囧囧囧|font=Simhei|color=#c9b295|bgcolor=#364d6a}}
+|-
+|<code><nowiki>{{font|text=可以選用全部選項。|font=Simhei|size=20px|color=#5a7aad|bgcolor=#f9f9ef}}</nowiki></code>
+|{{font|text=可以選用全部選項，|font=Simhei|size=20px|color=#5a7aad|bgcolor=#f9f9ef}}
+|-
+|<code><nowiki>{{font|text=也可以只選用其中一項選項。|size=25px}}</nowiki></code>
+|{{font|text=也可以只選用其中一項選項。|size=25px}}
+|}
+
+== Defaults ==
+{| class="wikitable"
+!Parameter
+!Default
+|-
+|<code>font</code>
+|Sans-serif
+|-
+|<code>size</code>
+|100%
+|-
+|<code>color</code>
+|black
+|-
+|<code>bgcolor</code>
+|transparent
+|}
+
+==Limitations==
+This template should not be used around multiple paragraphs. For example, it should not be used around multiple bullet or numbered points or more than one cell of a table. It may, however, surround as many uses of <code><nowiki><br></nowiki></code> as desired.
+
+== See also ==
+* {{tl|font color}}
+
+{{font size templates}}
+
+<IncludeOnly>
+[[Category:Text color templates]]
+<!-- 本行下加入模板的分類 -->
+
+<!-- 本行下加入模板的跨語言鏈接 -->
+
+</IncludeOnly>
