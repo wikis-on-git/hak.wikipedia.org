@@ -1,0 +1,739 @@
+{{Documentation subpage}}
+<!-------
+ Categories go at the bottom of this page and interwikis at Wikidata.
+ -------->
+
+== Blank syntax ==
+{{Generic template demo
+ |name |title |titletext |more |type |image |image_size={{{image_size}}}<br/> |alt |caption
+ |succession  |moretext  |reign  |reign-type  |coronation  |cor-type  |predecessor  |pre-type  |regent  |reg-type  |successor  |suc-type
+ |succession1 |moretext1 |reign1 |reign-type1 |coronation1 |cor-type1 |predecessor1 |pre-type1 |regent1 |reg-type1 |successor1 |suc-type1
+ |succession2 |moretext2 |reign2 |reign-type2 |coronation2 |cor-type2 |predecessor2 |pre-type2 |regent2 |reg-type2 |successor2 |suc-type2
+ |succession3 |moretext3 |reign3 |reign-type3 |coronation3 |cor-type3 |predecessor3 |pre-type3 |regent3 |reg-type3 |successor3 |suc-type3
+ |birth_name |birth_date |birth_place |death_date |death_place |burial_date |burial_place
+ |spouse |spouse-type |consort |issue-type |issue |issue-link |issue-pipe
+ |full name |era name |era dates |regnal name |posthumous name |temple name |house |house-type |father |mother
+ |occupation |signature_type |signature={{{signature}}}<br/> |religion
+}}
+<pre style="overflow:auto;">
+{{Infobox royalty
+| name         = 
+| title        = 
+| titletext    = 
+| more         = 
+| type         = 
+| image        = 
+| image_size   = 
+| alt          = 
+| caption      = 
+
+| succession   = 
+| moretext     = 
+| reign        = 
+| reign-type   = 
+| coronation   = 
+| cor-type     = 
+| predecessor  = 
+| pre-type     = 
+| successor    = 
+| suc-type     = 
+| regent       = 
+| reg-type     = 
+
+| succession1  = 
+| moretext1    = 
+| reign1       = 
+| reign-type1  = 
+| coronation1  = 
+| cor-type1    = 
+| predecessor1 = 
+| pre-type1    = 
+| successor1   = 
+| suc-type1    = 
+| regent1      = 
+| reg-type1    = 
+
+| succession2  = 
+| moretext2    = 
+| reign2       = 
+| reign-type2  = 
+| coronation2  = 
+| cor-type2    = 
+| predecessor2 = 
+| pre-type2    = 
+| successor2   = 
+| suc-type2    = 
+| regent2      = 
+| reg-type2    = 
+
+| succession3  = 
+| moretext3    = 
+| reign3       = 
+| reign-type3  = 
+| coronation3  = 
+| cor-type3    = 
+| predecessor3 = 
+| pre-type3    = 
+| successor3   = 
+| suc-type3    = 
+| regent3      = 
+| reg-type3    = 
+
+| birth_name   = 
+| birth_date   = <!-- {{birth date and age|YYYY|MM|DD|df=y}} -->
+| birth_place  = 
+| death_date   = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD|df=y}} -->
+| death_place  = 
+| burial_date  = 
+| burial_place = 
+| spouse       = 
+| spouse-type  = 
+| consort      = <!-- yes or no -->
+| issue        = <!--list children in order of birth-->
+| issue-link   = 
+| issue-pipe   = 
+| issue-type   = 
+| full name    = 
+| era name     = 
+| era dates    = 
+| regnal name  = 
+| posthumous name = 
+| temple name  = 
+| house        = 
+| house-type   = 
+| father       = 
+| mother       = 
+
+| religion     = 
+| occupation   = 
+| signature_type = 
+| signature    = 
+}}
+</pre>
+
+== Example ==
+
+{{Infobox royalty
+| name = Henry VIII
+| image = Workshop of Hans Holbein the Younger - Portrait of Henry VIII - Google Art Project.jpg
+| caption = {{longitem|line-height:1.3em|Portrait by [[Hans Holbein the Younger]]<br/>(Walker Art Gallery, Liverpool).}}
+| succession = {{hlist |[[List of English monarchs|King of England]] |[[List of Irish monarchs|Lord/King of Ireland]]}}
+| moretext = ([[Style of the English sovereigns|more...]])
+| reign = {{nowrap|21 April 1509 – 28 January 1547}}
+| coronation = 24 June 1509
+| predecessor = [[Henry VII of England|Henry VII]]
+| successor = [[Edward VI of England|Edward VI]]
+| spouses = {{startplainlist}}
+* [[Catherine of Aragon]]
+* [[Anne Boleyn]]
+* [[Jane Seymour]]
+* [[Anne of Cleves]]
+* [[Catherine Howard]]
+* [[Catherine Parr]]
+{{endplainlist}}
+| issue = {{startplainlist}}
+* [[Mary I of England]]
+* ''{{longitem|line-height:1.3em|[[Henry FitzRoy, 1st Duke of Richmond and Somerset]]}}''
+* [[Elizabeth I of England]]
+* [[Edward VI of England]]
+{{endplainlist}}
+| issue-link = #Marriages and issue
+| issue-pipe = (among others)
+| house = [[House of Tudor]]
+| father = [[Henry VII of England]]
+| mother = [[Elizabeth of York]]
+| birth_date = {{birth date|1491|6|28|df=yes}}
+| birth_place = [[Palace of Placentia|Greenwich Palace]], [[Greenwich]]
+| death_date = {{death date and age|1547|1|28|1491|6|28|df=yes}}
+| death_place = [[Palace of Whitehall]], London
+| burial_date = 4 February 1547
+| burial_place = {{nowrap|[[St George's Chapel, Windsor Castle]]}}
+| signature = HenryVIIISig.svg
+| religion = {{longitem|Christian ([[Catholic Church|Roman Catholic]] then [[Anglo-Catholicism#History|Anglican]])}}
+}}
+<pre style="overflow:auto;">
+{{Infobox royalty
+| name = Henry VIII
+| image = Workshop of Hans Holbein the Younger - Portrait of Henry VIII - Google Art Project.jpg
+| caption = {{longitem|line-height:1.3em|Portrait by [[Hans Holbein the Younger]]<br/>(Walker Art Gallery, Liverpool).}}
+| succession = {{hlist |[[List of English monarchs|King of England]] |[[List of Irish monarchs|Lord/King of Ireland]]}}
+| moretext = ([[Style of the English sovereigns|more...]])
+| reign = {{nowrap|21 April 1509 – 28 January 1547}}
+| coronation = 24 June 1509
+| predecessor = [[Henry VII of England|Henry VII]]
+| successor = [[Edward VI of England|Edward VI]]
+| spouses = {{startplainlist}}
+* [[Catherine of Aragon]]
+* [[Anne Boleyn]]
+* [[Jane Seymour]]
+* [[Anne of Cleves]]
+* [[Catherine Howard]]
+* [[Catherine Parr]]
+{{endplainlist}}
+| issue = {{startplainlist}}
+* [[Mary I of England]]
+* ''{{longitem|line-height:1.3em|[[Henry FitzRoy, 1st Duke of Richmond and Somerset]]}}''
+* [[Elizabeth I of England]]
+* [[Edward VI of England]]
+{{endplainlist}}
+| issue-link = #Marriages and issue
+| issue-pipe = (among others)
+| house = [[House of Tudor]]
+| father = [[Henry VII of England]]
+| mother = [[Elizabeth of York]]
+| birth_date = {{birth date|1491|6|28|df=yes}}
+| birth_place = [[Palace of Placentia|Greenwich Palace]], [[Greenwich]]
+| death_date = {{death date and age|1547|1|28|1491|6|28|df=yes}}
+| death_place = [[Palace of Whitehall]], London
+| burial_date = 4 February 1547
+| burial_place = {{nowrap|[[St George's Chapel, Windsor Castle]]}}
+| signature = HenryVIIISig.svg
+| religion = {{longitem|Christian ([[Catholic Church|Roman Catholic]] then [[Anglo-Catholicism#History|Anglican]])}}
+}}
+</pre>
+
+{{Hidden end}}
+{{clear}}
+
+== Parameters ==
+
+All parameters are optional (even "name" can be taken from PAGENAME).
+
+{| class="wikitable"
+|-
+| colspan="2" style="text-align:center;background: #EEDDFF;" | name / title / type / image
+|-
+| style="align: right; text-align: right; vertical-align: top;" | name =
+| Most common English/Anglicised name (e.g. George III; Prince William (not William, Duke of Cumberland); Sophie (neither Princess Edward nor Princess Sophie); Elizabeth Bowes-Lyon (rather than Queen Elizabeth); Prince William (rather than Prince William of Wales) etc.)
+|-
+| style="align: right; text-align: right; vertical-align: top;" | title = 
+| Principal substantive title(s) in use (e.g. King of England; prev. Duke of Edinburgh) (omit this field if any one "succession(X)" field would be identical to it)
+|-
+| style="align: right; text-align: right; vertical-align: top;" | titletext =
+| An explanatory note about "title", already in &lt;small&gt;s — such as a link to full titles (dependent upon "title")
+|-
+| style="align: right; text-align: right; vertical-align: top;" | more =
+| Automatically-generated alternative to "titletext"; only appears if "titletext" is undefined/empty and "realm" is defined
+: '''{{hlist |austria |belgium |britain |china |cyprus |denmark |en-sco |england |ethiopia |france |hre |hungary |italy |jerusalem |luxembourg |malaysia |monaco |netherlands |norway |parma |portugal |russia |scotland |sicilies |spain-crown |spain-heir |sweden}}'''
+|-
+| style="align: right; text-align: right; vertical-align: top;" | image =
+| i.e. X.jpg, ''that is to say no [[Image:''
+|-
+| style="align: right; text-align: right; vertical-align: top;" | image_size =
+| Size to display image: 200px (set width), x300px (set height), or 200x300px (max width & max height). This defaults to frameless (default is 220px, but logged in users can change this by clicking on "my preferences" and adjusting thumbnail size) if empty or omitted. This parameter should not normally need to be set.
+|-
+| style="align: right; text-align: right; vertical-align: top;" | alt =
+| Alt text for the image, for visually impaired readers ''see [[WP:ALT]]''
+|-
+| style="align: right; text-align: right; vertical-align: top;" | caption =
+| Details of artist and year, for instance ''see [[WP:CAP]]''
+|-
+| colspan="2" style="text-align:center;background: #EEDDFF;" | ''succession'' fields
+|-
+| style="align: right; text-align: right; vertical-align: top;" | succession =
+| Primary substantive hereditary title (regarding the following fields, "reign" 'til "suc-type"; omit the "title" field if the two would be identical)
+|-
+| style="align: right; text-align: right; vertical-align: top;" | moretext =
+| An explanatory note about the "succession", already in &lt;small&gt;s — such as a link to full titles (dependent upon "succession")
+|-
+| style="align: right; text-align: right; vertical-align: top;" | reign =
+| D Month YYYY – D Month YYYY (or other appropriate format per [[Wikipedia:Manual of Style/Dates and numbers|MOS:DATE#Dates]]; for monarchs and their consorts (although dates may differ between the two))
+|-
+| style="align: right; text-align: right; vertical-align: top;" | reign-type =
+| Optional alternative text for 'Reign' (dependent upon "reign")
+|-
+| style="align: right; text-align: right; vertical-align: top;" | coronation =
+| D Month YYYY (or other appropriate format per [[Wikipedia:Manual of Style/Dates and numbers|MOS:DATE#Dates]]; for monarchs and their consorts)
+|-
+| style="align: right; text-align: right; vertical-align: top;" | cor-type =
+| Optional alternative text for 'Coronation', such as 'Investiture' (dependent upon "coronation"). Automatically links to country-specific article if one of the following values is entered:
+: '''{{hlist |britain |france |hre |hungary |japan |malaysia |norway |ottoman |poland |russia}}'''
+|-
+| style="align: right; text-align: right; vertical-align: top;" | predecessor =
+| For use in succession whose titles are entirely and directly hereditary. Link should be piped as appropriate — when it is reasonably clear that the person in context is a (e.g.) King of Scots, he may be linked as "James II" rather than "James II of Scotland".
+|-
+| style="align: right; text-align: right; vertical-align: top;" | pre-type =
+| Optional alternative text for 'Predecessor' (dependent upon "predecessor")
+|-
+| style="align: right; text-align: right; vertical-align: top;" | regent =
+| Any regents of the monarch in their role in this succession only; listed by most common name/title, most recent first, using {{tl|unbulleted list}}.
+|-
+| style="align: right; text-align: right; vertical-align: top;" | reg-type =
+| Optional alternative text for 'Regent' (dependent upon "regent")
+|-
+| style="align: right; text-align: right; vertical-align: top;" | successor =
+| As predecessor, ''[[mutatis mutandis]]''
+|-
+| style="align: right; text-align: right; vertical-align: top;" | suc-type =
+| Optional alternative text for 'Successor'. e.g. 'Heir-Apparent' or 'Heir-Presumptive' (dependent upon "successor")
+|-
+| colspan="2" style="text-align:center;background: #EEDDFF;" | "succession" to "suc-type" repeated as "successionX" to "suc-typeX" for 1–3
+|-
+| style="align: right; text-align: right; vertical-align: top;" | birth_name =
+| If different from name or full name
+|-
+| style="align: right; text-align: right; vertical-align: top;" | birth_date =
+|
+*for dead persons, <nowiki>{{birth date|yyyy|mm|dd|df=yes}}</nowiki> (''m.m.'' per [[Wikipedia:Manual of Style/Dates and numbers|MOS:DATE#Dates]] and [[:Template:Birth date]])
+*for living persons aged 3 years or over, <nowiki>{{birth date and age|yyyy|mm|dd|df=yes}}</nowiki> (''m.m.'' per [[Wikipedia:Manual of Style/Dates and numbers|MOS:DATE#Dates]] and [[:Template:Birth date and age]])
+*for living persons up to 3 years old, <nowiki>{{birth date|yyyy|mm|dd|df=yes}} (age {{age for infant|abbr=yes|yyyy|mm|dd|df=yes}})</nowiki> (''m.m.'' per [[Wikipedia:Manual of Style/Dates and numbers|MOS:DATE#Dates]], [[:Template:Birth date]] and [[:Template:Age for infant]])
+|-
+| style="align: right; text-align: right; vertical-align: top;" | birth_place =
+| [[Home|Residence]], [[Town/City/County/Region/Country]] (although almost invariably Country is obvious) HOWEVER, TAKE CARE TO AVOID [[Wikipedia:Manual of Style/Icons|FLAGCRUFT]] (dependent upon "date of birth")
+|-
+| style="align: right; text-align: right; vertical-align: top;" | death_date =
+|
+*for those who died aged 3 years old or over, <nowiki>{{death date and age|YYYY|MM|DD|yyyy|mm|dd|df=yes}}</nowiki> (dd/mm/yyyy being DoB; ''m.m.'' per [[Wikipedia:Manual of Style/Dates and numbers|MOS:DATE#Dates]] and [[:Template:Death date and age]])
+*for those who died aged under 3 years old, <nowiki>{{death date|YYYY|MM|DD|df=yes}} (aged {{age for infant|abbr=yes|yyyy|mm|dd|YYYY|MM|DD|df=yes}})</nowiki> (dd/mm/yyyy being DoB; ''m.m.'' per [[Wikipedia:Manual of Style/Dates and numbers|MOS:DATE#Dates]], [[:Template:Death date]] and [[:Template:age for infant]])
+|-
+| style="align: right; text-align: right; vertical-align: top;" | death_place =
+| See "birth_place", ''m.m.'' (dependent upon "death_date")
+|-
+| style="align: right; text-align: right; vertical-align: top;" | burial_date =
+| See "birth_date", ''m.m.''
+|-
+| style="align: right; text-align: right; vertical-align: top;" | burial_place =
+| See "birth_place", ''m.m.'' (dependent upon "burial_place")
+|-
+| colspan="2" style="text-align:center;background: #FFEEDD;" | ''spouse'' fields
+|-
+| style="align: right; text-align: right; vertical-align: top;" | consort =
+|
+*yes, ''if the subject is the consort of any monarch — effects "reign"''
+*no, ''which is the default if the field is omitted''
+|-
+| style="align: right; text-align: right; vertical-align: top;" | spouse =
+| Husbands/wives only; listed by most common name/title, in chronological order, using {{tl|unbulleted list}}, and dates if needed, e.g. (m. 2004; div. 2006; dec. 2007; wid. 2008). Break dates onto a new line if more visually appropriate
+|-
+| style="align: right; text-align: right; vertical-align: top;" | spouse-type =
+| Optional alternative text for 'Spouse' (no plurals needed)
+|-
+| colspan="2" style="text-align:center;background: #FFEEDD;" | repeated as "spouseX" and "spouseX-type" for 1–4
+|-
+| style="align: right; text-align: right; vertical-align: top;" | issue =
+| Children in order of birth, using {{tl|unbulleted list}}; listed by name and highest shorthand title (e.g. Prince Edward, Earl of Wessex), no need for preceding styles (e.g. ''HM''). Individuals without articles and/or who died as infants may be omitted from the list on an arbitrary basis. See also note for 'predecessor'.
+|-
+| style="align: right; text-align: right; vertical-align: top;" | issue-link =
+| Creates small link to a section in the article for further details on offspring (dependent upon "issue")
+|-
+| style="align: right; text-align: right; vertical-align: top;" | issue-pipe =
+| Changes the output text of the above link (dependent upon "issue-link")
+|-
+| style="align: right; text-align: right; vertical-align: top;" | full name =
+| English/Anglicised full legal non-titular name (current/most recent), with maiden name '([[Married and maiden names|née]] Whatever)' and translation in their native/official tongue(s) on a new line (each) underneath (use a <nowiki>''{{lang-XX|}}''</nowiki> [[:Category:Multilingual support templates|Multilingual support template]])
+|-
+| style="align: right; text-align: right; vertical-align: top;" | 
+era name =
+| For [[Regnal year#Asian era names|Asian era names]], wikilinked if appropriate (dependent upon "era dates")
+|-
+| style="align: right; text-align: right; vertical-align: top;" | era dates =
+| The dates of the monarch's era (per the above)
+|-
+| style="align: right; text-align: right; vertical-align: top;" | regnal name =
+| The monarch's [[regnal name]]
+|-
+| style="align: right; text-align: right; vertical-align: top;" | posthumous name =
+| The posthumous name given to monarchs in certain traditions
+|-
+| style="align: right; text-align: right; vertical-align: top;" | temple name =
+| As "posthumous name" ''m.m.''
+|-
+| style="align: right; text-align: right; vertical-align: top;" | house =
+| The Houses, Dynasties, or Families to which the subject belonged/s (by birth, marriage or otherwise), listed chronologically first to last, using {{tl|unbulleted list}} (e.g. <code><nowiki>{{unbulleted list|[[House of Saxe-Coburg and Gotha]] | [[House of Windsor]] }}</nowiki></code>) (formerly called "house name" and listed last to first — it is strongly recommended that, for clarity, ''(by birth/marriage)'' or similar be included after each House's link)
+|-
+| style="align: right; text-align: right; vertical-align: top;" | house-type =
+| Optional alternative text for 'Royal house', such as 'Dynasty' or 'Family' (dependent upon "house")
+|-
+| style="align: right; text-align: right; vertical-align: top;" | father =
+| Most common shorthand title, no need for preceding styles (e.g. ''HM''). May include multiple individuals, such as (Biological), (Adoptive) or (Hanai). See also note for 'predecessor'.
+|-
+| style="align: right; text-align: right; vertical-align: top;" | mother =
+| As "father", ''m.m.''
+|-
+| style="align: right; text-align: right; vertical-align: top;" | occupation =
+| Primary non-royal occupations, listed most recent first (if the subject is deceased there's no need for 'prev.') e.g. 'Theatre; prev. Broadcasting' (alive), or 'Military; Author' (dead)
+|-
+| style="align: right; text-align: right; vertical-align: top;" | signature_type =
+| A label to replace the default 'Signature', e.g. [[Tughra]] for Ottoman sultans
+|-
+| style="align: right; text-align: right; vertical-align: top;" | signature =
+| X.jpg, being an image of the subject's personal signature
+|-
+| style="align: right; text-align: right; vertical-align: top;" | signature_alt =
+| Alt text for signature
+|-
+| style="align: right; text-align: right; vertical-align: top;" | religion =
+| The subject's religion(s) — may be listed with dates (in chronological order) if applicable
+|}
+
+== Notes ==
+
+; Peer wikilinks
+: The wikilinks of substantive peers (or those in another kind of numbered succession) should always show that number (eg [[Richard, 1st Earl of Cornwall]] rather than Richard, Earl of Cornwall), unless other conventions say otherwise (such as that one should always see [[Prince Edward, Duke of Kent]], never Prince Edward, 2nd Duke of Kent). Generally, use the article's title, omitting surplus fore- and surnames or disambiguation.
+
+== Microformats ==
+{{UF-hcard-person}}
+
+== TemplateData ==
+{{TemplateDataHeader}}
+<templatedata>{
+  "description": "An infobox for royalty.",
+ "params": {
+  "name": {
+      "label": "Name",
+      "description": "Most common English/Anglicised name.",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "title": {
+      "label": "Title",
+      "description": "Principal substantive title(s) in use.",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "titletext": {
+      "label": "Titletext",
+      "description": "An explanatory note about 'title', already in <small>s — such as a link to full titles (dependent upon 'title').",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "more": {
+      "label": "More",
+      "description": "Automatically-generated alternative to 'titletext', only appears if 'titletext' is undefined/empty and 'realm' is defined.",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "image": {
+      "label": "Image",
+      "description": "i.e. X.jpg, that is to say no [[Image:",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "image_size ": {
+      "label": "Image size ",
+      "description": "Size to display image: 200px (set width), x300px (set height), or 200x300px (max width & max height).",
+      "type": "string",
+      "default": "220px",
+      "required": false
+    },
+    "alt": {
+      "label": "Alt",
+      "description": "Alt text for the image.",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "caption": {
+      "label": "Caption",
+      "description": "Details of artist and year.",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "succession": {
+      "label": "Succession",
+      "description": "Primary substantive hereditary title (regarding the following fields, 'reign' 'til 'suc-type'; omit the 'title' field if the two would be identical)",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "moretext": {
+      "label": "moretext",
+      "description": "An explanatory note about the 'succession', already in <small>s — such as a link to full titles (dependent upon 'succession')",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "reign": {
+      "label": "Reign",
+      "description": "D Month YYYY – D Month YYYY (or other appropriate format per MOS:DATE#Dates; for monarchs and their consorts (although dates may differ between the two))",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "reign-type": {
+      "label": "Reign-type",
+      "description": "Optional alternative text for 'Reign' (dependent upon 'reign')",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "": {
+      "label": "",
+      "description": "",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "coronation": {
+      "label": "Coronation",
+      "description": "D Month YYYY (or other appropriate format per MOS:DATE#Dates; for monarchs and their consorts)",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "cor-type": {
+      "label": "Coronation-type",
+      "description": "Optional alternative text for 'Coronation', such as 'Investiture' (dependent upon 'coronation'). Automatically links to country-specific article if one of the following values is entered:britain,france,hre,hungary,japan,malaysia,norway,ottoman,poland,russia.",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "predecessor": {
+      "label": "Predecessor",
+      "description": "For use in succession whose titles are entirely and directly hereditary. Link should be piped as appropriate — when it is reasonably clear that the person in context is a (e.g.) King of Scots, he may be linked as 'James II' rather than 'James II of Scotland'.",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "pre-type": {
+      "label": "Predecessor-type",
+      "description": "Optional alternative text for 'Predecessor' (dependent upon 'predecessor')",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "regent": {
+      "label": "Regent",
+      "description": "Any regents of the monarch in their role in this succession only; listed by most common name/title, most recent first, using <nowiki>{{unbulleted list}}</nowiki>",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "reg-type": {
+      "label": "Regent-type",
+      "description": "Optional alternative text for 'Regent' (dependent upon 'regent')",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "successor": {
+      "label": "Successor",
+      "description": "As predecessor, mutatis mutandis",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "suc-type": {
+      "label": "Successor-type",
+      "description": "Optional alternative text for 'Successor'. e.g. 'Heir-Apparent' or 'Heir-Presumptive' (dependent upon 'successor')",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "birth_name": {
+      "label": "Birth name",
+      "description": "If different from name or full name.",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "birth_date": {
+      "label": "Birth date",
+      "description": "for dead persons, {{birth date|yyyy|mm|dd|df=yes}} (m.m. per MOS:DATE#Dates and Template:Birth date), for living persons aged 3 years or over, {{birth date and age|yyyy|mm|dd|df=yes}} (m.m. per MOS:DATE#Dates and Template:Birth date and age), for living persons up to 3 years old, {{birth date|yyyy|mm|dd|df=yes}} (age {{age for infant|abbr=yes|yyyy|mm|dd|df=yes}}) (m.m. per MOS:DATE#Dates, Template:Birth date and Template:Age for infant).",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "birth_place": {
+      "label": "Birth place",
+      "description": "Residence, Town/City/County/Region/Country (although almost invariably Country is obvious) HOWEVER, TAKE CARE TO AVOID FLAGCRUFT (dependent upon 'date of birth')",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "death_date": {
+      "label": "Death date",
+      "description": "for those who died aged 3 years old or over, {{death date and age|YYYY|MM|DD|yyyy|mm|dd|df=yes}} (dd/mm/yyyy being DoB; m.m. per MOS:DATE#Dates and Template:Death date and age), for those who died aged under 3 years old, {{death date|YYYY|MM|DD|df=yes}} (aged {{age for infant|abbr=yes|yyyy|mm|dd|YYYY|MM|DD|df=yes}}) (dd/mm/yyyy being DoB; m.m. per MOS:DATE#Dates, Template:Death date and Template:age for infant)",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "death_place": {
+      "label": "Death place",
+      "description": "See 'birth_place', m.m. (dependent upon 'death_date')",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "burial_date": {
+      "label": "Burial date",
+      "description": "See 'birth_date', m.m.",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "burial_place": {
+      "label": "Burial place",
+      "description": "See 'birth_place', m.m. (dependent upon 'burial_place')",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "consort": {
+      "label": "Consort",
+      "description": "yes, if the subject is the consort of any monarch — effects 'reign' no, which is the default if the field is omitted",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "spouse": {
+      "label": "Spouse",
+      "description": "Husbands/wives only; listed by most common name/title, in chronological order, using <nowiki>{{unbulleted list}}</nowiki>, and dates if needed, e.g. (m. 2004; div. 2006; dec. 2007; wid. 2008). Break dates onto a new line if more visually appropriate.",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "spouse-type": {
+      "label": "Spouse-type",
+      "description": "Optional alternative text for 'Spouse' (no plurals needed).",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "issue": {
+      "label": "Issue",
+      "description": "Children in order of birth, separated using <nowiki>{{unbulleted list}}</nowiki>; listed by name and highest shorthand title (e.g. Prince Edward, Earl of Wessex), no need for preceding styles (e.g. HM). Individuals without articles and/or who died as infants may be omitted from the list on an arbitrary basis. See also note for 'predecessor'.",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "issue-link": {
+      "label": "Issue-link",
+      "description": "Creates small link to a section in the article for further details on offspring (dependent upon 'issue')",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "issue-pipe": {
+      "label": "Issue-pipe",
+      "description": "Changes the output text of the above link (dependent upon 'issue-link')",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "full name": {
+      "label": "Full name",
+      "description": "English/Anglicised full legal non-titular name (current/most recent), with maiden name '(née Whatever)' and translation in their native/official tongue(s) on a new line (each) underneath (use a ''{{lang-XX|}}'' Multilingual support template)",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "era name": {
+      "label": "Era name",
+      "description": "For Asian era names, wikilinked if appropriate (dependent upon 'era dates')",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "era dates": {
+      "label": "Era dates",
+      "description": "The dates of the monarch's era (per the above)",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "regnal name": {
+      "label": "Regnal name",
+      "description": "The monarch's regnal name",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "posthumous name": {
+      "label": "Posthumous name",
+      "description": "The posthumous name given to monarchs in certain traditions",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "temple name": {
+      "label": "Temple name",
+      "description": "As 'posthumous name' m.m.",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "house": {
+      "label": "House",
+      "description": "The Houses, Dynasties, or Families to which the subject belonged/s (by birth, marriage or otherwise), listed chronologically first to last, using <nowiki>{{unbulleted list}}</nowiki> (e.g. <nowiki>{{unbulleted list|[[House of Saxe-Coburg and Gotha]] | [[House of Windsor]] }}</nowiki>) (formerly called 'house name' and listed last to first — it is strongly recommended that, for clarity, (by birth/marriage) or similar be included after each House's link)",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "house-type": {
+      "label": "House-type",
+      "description": "Optional alternative text for 'Royal house', such as 'Dynasty' or 'Family' (dependent upon 'house')",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "father": {
+      "label": "Father",
+      "description": "Most common shorthand title, no need for preceding styles (e.g. HM). May include multiple individuals, such as (Biological), (Adoptive) or (Hanai). See also note for 'predecessor'.",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "mother": {
+      "label": "Mother",
+      "description": "As 'father', m.m.",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "occupation": {
+      "label": "Occupation",
+      "description": "Primary non-royal occupations, listed most recent first (if the subject is deceased there's no need for 'prev.') e.g. 'Theatre; prev. Broadcasting' (alive), or 'Military; Author' (dead).",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "signature_type": {
+      "label": "Signature type",
+      "description": "A label to replace the default 'Signature', e.g. 'Tughra' for Ottoman sultans",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "signature ": {
+      "label": "Signature",
+      "description": "X.jpg, being an image of the subject's personal signature",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "signature_alt": {
+      "label": "Signature alt",
+      "description": "Alt text for signature",
+      "type": "string",
+      "default": "",
+      "required": false
+    },
+    "religion": {
+      "label": "Religion",
+      "description": "The subject's religion(s) — may be listed with dates (in chronological order) if applicable",
+      "type": "string",
+      "default": "",
+      "required": false
+    }
+ } 
+}</templatedata>
+
+== See also ==
+* [http://en.wikipedia.org/w/index.php?title=Special%3AWhatLinksHere&target=Template%3A{{urlencode:{{BASEPAGENAME}}}}&namespace=0 List of articles using ''Template:{{BASEPAGENAME}}'']
+
+<includeonly>
+{{#ifeq:{{SUBPAGENAME}}|sandbox | |
+<!-- Categories go here and interwikis go in Wikidata -->
+[[Category:Royalty and nobility infobox templates]]
+[[Category:Politics and government infobox templates]]
+[[Category:Templates generating hCalendars]]
+[[Category:Templates generating hCards]]
+}}
+</includeonly>
