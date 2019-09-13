@@ -1,3 +1,17 @@
-<div class="notice" style="background:#ffc; border:1px solid #AAA; padding:0.5em; margin:0.5em auto;"> [[Image:Stop_hand.svg|50px|left]] This is your final warning, You may be blocked from editing without further warning the next time you vandalize Wikipedia.. 
-
-這是對您的'''最後警告'''！ <br />如果閣下再次[[Wikipedia:破壞|破壞]]維基百科{{{{{subst|}}}#if:{{{1|}}}|（如閣下於[[:{{{ 1}}}]]的編輯）}}，就會被'''[[Wikipedia:封禁方針|禁止]]編輯'''！{{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|}}<!-- Template:uw-vandalism4 --><noinclude>
+{{Mbox
+| name       = Warning
+| demospace  = {{{demospace|}}}
+| style      = {{#if:{{{style|}}} |{{#if:{{{small|}}}||width:80%;}} {{{style}}} }}
+| subst      = <includeonly>{{subst:substcheck}}</includeonly>
+| type       = content
+| image      = {{#if:{{{image|}}}| [[File:{{{image}}}|40px|Warning]] }}
+| small      = {{{small|}}}
+| smallimage = {{#if:{{{image|}}}| [[File:{{{image}}}|30px|Warning]]}}
+| imageright = {{#if:{{{imageright|}}} |{{{imageright}}} |{{#if:{{{shortcut|{{{shortcut1|}}}}}} |{{Ombox/shortcut|{{{shortcut|{{{shortcut1|}}}}}}|{{{shortcut2|}}}|{{{shortcut3|}}}|{{{shortcut4|}}}|{{{shortcut5|}}}}}}} }}
+| textstyle  = {{{textstyle|text-align: {{#if:{{{center|}}}|center|{{{align|left}}}}};}}}
+| text       = {{#if:{{{header|{{{heading|{{{title|}}}}}}}}} |<div style="{{{headstyle|text-align: {{#if:{{{center|}}}|center|left}};}}}">'''{{{header|{{{heading|{{{title|}}}}}}}}}'''</div>}}<!--
+            -->{{{text|{{{content|{{{reason|{{{1}}}}}}}}}}}}
+}}<noinclude>
+<!-- Add categories to the /doc subpage; interwikis go to Wikidata. -->
+{{Documentation}}
+</noinclude>
