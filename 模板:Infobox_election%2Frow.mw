@@ -113,8 +113,8 @@
 {{#switch:{{{type|}}}
 | presidential
 | Presidential 
-| Chóng-thóng
-| chóng-thóng = 
+| Chúng-thúng
+| chúng-thúng = 
 {{#ifeq:{{{ongoing|}}}|yes||
 {{#if:{{{electoral_vote1|}}}{{{electoral_vote2|}}}{{{electoral_vote3|}}}|
 ! style="text-align:left;white-space: nowrap" {{!}} Sién-kí-ngìn phiau
@@ -129,8 +129,8 @@
 {{#switch:{{{type|}}}
 | presidential
 | Presidential 
-| Chóng-thóng
-| chóng-thóng = 
+| Chúng-thúng
+| chúng-thúng = 
 {{#if:{{{delegate_count1|}}}{{{delegate_count2|}}}{{{delegate_count3|}}}|
 ! style="text-align:left" {{!}} Delegate&nbsp;count
 {{!}} style="{{#if:{{{delegate_count2|}}}|width:75px;}}text-align:center" {{!}} {{{delegate_count1|}}}
@@ -168,7 +168,7 @@
 | Li̍p-fap-fi
 | li̍p-fap-fi = 
 {{#if:{{{leader_since1|}}}{{{leader_since2|}}}{{{leader_since3|}}}|
-! style="text-align:left" {{!}} 上任时间
+! style="text-align:left" {{!}} Chhiu-ngim sṳ̀-khiên
 {{!}} style="{{#if:{{{leader_since1|}}}|width:75px;}}text-align:center" {{!}} {{{leader_since1|}}}
 {{!}} style="{{#if:{{{leader_since2|}}}|width:75px;}}text-align:center" {{!}} {{{leader_since2|}}}
 {{!}} style="{{#if:{{{leader_since3|}}}|width:75px;}}text-align:center" {{!}} {{{leader_since3|}}}
@@ -188,7 +188,7 @@
 | Li̍p-fap-fi
 | li̍p-fap-fi = 
 {{#if:{{{leaders_seat1|}}}{{{leaders_seat2|}}}{{{leaders_seat3|}}}|
-! style="text-align:left;white-space: nowrap" {{!}} 代表选区
+! style="text-align:left;white-space: nowrap" {{!}} Thoi-péu sién-khî
 {{!}} style="{{#if:{{{leaders_seat2|}}}|width:75px;}}text-align:center" {{!}} {{{leaders_seat1|}}}
 {{!}} style="{{#if:{{{leaders_seat2|}}}|width:75px;}}text-align:center" {{!}} {{{leaders_seat2|}}}
 {{!}} style="{{#if:{{{leaders_seat3|}}}|width:75px;}}text-align:center" {{!}} {{{leaders_seat3|}}}
@@ -208,7 +208,7 @@
 | Li̍p-fap-fi
 | li̍p-fap-fi = 
 {{#if:{{{last_election1|}}}{{{last_election2|}}}{{{last_election3|}}}|
-! style="text-align:left;white-space: nowrap" {{!}} 上届结果
+! style="text-align:left;white-space: nowrap" {{!}} Sông-kai kiet-kó
 {{!}} style="{{#if:{{{last_election1|}}}|width:75px;}}text-align:center" {{!}} {{{last_election1|}}}
 {{!}} style="{{#if:{{{last_election2|}}}|width:75px;}}text-align:center" {{!}} {{{last_election2|}}}
 {{!}} style="{{#if:{{{last_election3|}}}|width:75px;}}text-align:center" {{!}} {{{last_election3|}}}
@@ -228,7 +228,7 @@
 | Li̍p-fap-fi
 | li̍p-fap-fi = 
 {{#if:{{{seats_before1|}}}{{{seats_before2|}}}{{{seats_before3|}}}|
-! style="text-align:left;white-space: nowrap" {{!}} {{#ifeq:{{{ongoing|}}}|yes|当前议席|选前议席}}
+! style="text-align:left;white-space: nowrap" {{!}} {{#ifeq:{{{ongoing|}}}|yes|Hien-ha ngi-sit|Sién-chhièn ngi-sit}}
 {{!}} style="{{#if:{{{seats_before1|}}}|width:75px;}}text-align:center" {{!}} {{{seats_before1|}}}
 {{!}} style="{{#if:{{{seats_before2|}}}|width:75px;}}text-align:center" {{!}} {{{seats_before2|}}}
 {{!}} style="{{#if:{{{seats_before3|}}}|width:75px;}}text-align:center" {{!}} {{{seats_before3|}}}
@@ -249,10 +249,10 @@
 | li̍p-fap-fi  = 
 {{#ifeq:{{{ongoing|}}}|yes|
 {{#if:{{{seats_needed1|}}}{{{seats_needed2|}}}{{{seats_needed3|}}}|
-! style="text-align:left;white-space: nowrap" {{!}} [[执政党|所需]]议席
-{{!}} style="{{#if:{{{seats_needed1|}}}|width:75px;}}text-align:center" {{!}} {{{seats_needed1|}}}席
-{{!}} style="{{#if:{{{seats_needed2|}}}|width:75px;}}text-align:center" {{!}} {{{seats_needed2|}}}席
-{{!}} style="{{#if:{{{seats_needed3|}}}|width:75px;}}text-align:center" {{!}} {{{seats_needed3|}}}席
+! style="text-align:left;white-space: nowrap" {{!}} [[Chṳp-chṳn-tóng|Sî-yeu]] ngi-sit
+{{!}} style="{{#if:{{{seats_needed1|}}}|width:75px;}}text-align:center" {{!}} {{{seats_needed1|}}} chak sit-vi
+{{!}} style="{{#if:{{{seats_needed2|}}}|width:75px;}}text-align:center" {{!}} {{{seats_needed2|}}} chak sit-vi
+{{!}} style="{{#if:{{{seats_needed3|}}}|width:75px;}}text-align:center" {{!}} {{{seats_needed3|}}} chak sit-vi
 }}
 }}
 | #default      = 
@@ -271,7 +271,7 @@
 | li̍p-fap-fi  = 
 {{#ifeq:{{{ongoing|}}}|yes||
 {{#if:{{{seats1|}}}{{{seats2|}}}{{{seats3|}}}|
-! style="text-align:left;white-space: nowrap" {{!}} 赢得议席
+! style="text-align:left;white-space: nowrap" {{!}} Tet-to ngi-sit
 {{!}} style="{{#if:{{{seats1|}}}|width:75px;}}text-align:center" {{!}} {{{seats1|}}}
 {{!}} style="{{#if:{{{seats2|}}}|width:75px;}}text-align:center" {{!}} {{{seats2|}}}
 {{!}} style="{{#if:{{{seats3|}}}|width:75px;}}text-align:center" {{!}} {{{seats3|}}}
@@ -293,7 +293,7 @@
 | li̍p-fap-fi = 
 {{#ifeq:{{{ongoing|}}}|yes||
 {{#if:{{{seats_after1|}}}{{{seats_after2|}}}{{{seats_after3|}}}|
-! style="text-align:left;white-space: nowrap" {{!}} 选后议席
+! style="text-align:left;white-space: nowrap" {{!}} Sién-heu ngi-sit
 {{!}} style="{{#if:{{{seats_after1|}}}|width:75px;}}text-align:center" {{!}} {{{seats_after1|}}}
 {{!}} style="{{#if:{{{seats_after2|}}}|width:75px;}}text-align:center" {{!}} {{{seats_after2|}}}
 {{!}} style="{{#if:{{{seats_after3|}}}|width:75px;}}text-align:center" {{!}} {{{seats_after3|}}}
@@ -307,15 +307,15 @@
 | Parliamentary
 | legislative
 | Legislative 
-| 議會
-| 议会
-| 國會
-| 国会
-| 立法會
-| 立法会  = 
+| Ngi-fi
+| ngi-fi
+| Koet-fi
+| koet-fi
+| Li̍p-fap-fi
+| li̍p-fap-fi  = 
 {{#ifeq:{{{ongoing|}}}|yes||
 {{#if:{{{seat_change1|}}}{{{seat_change2|}}}{{{seat_change3|}}}|
-! style="text-align:left;white-space: nowrap" {{!}} Gī-se̍k chha-gia̍h
+! style="text-align:left;white-space: nowrap" {{!}} Ngi-sit chhâ-ngiak
 {{!}} style="{{#if:{{{seat_change1|}}}|width:75px;}}text-align:center" {{!}} {{{seat_change1|}}}
 {{!}} style="{{#if:{{{seat_change2|}}}|width:75px;}}text-align:center" {{!}} {{{seat_change2|}}}
 {{!}} style="{{#if:{{{seat_change3|}}}|width:75px;}}text-align:center" {{!}} {{{seat_change3|}}}
@@ -326,7 +326,7 @@
 |-<!-- popular vote  -->
 {{#ifeq:{{{ongoing|}}}|yes||
 {{#if:{{{popular_vote1|}}}{{{popular_vote2|}}}{{{popular_vote3|}}}|
-! style="text-align:left;white-space: nowrap" {{!}} Bîn-soán tek-phiò
+! style="text-align:left;white-space: nowrap" {{!}} Mìn-sién tet-phiau
 {{!}} style="{{#if:{{{popular_vote1|}}}|width:75px;}}text-align:center" {{!}} {{{popular_vote1|}}}
 {{!}} style="{{#if:{{{popular_vote2|}}}|width:75px;}}text-align:center" {{!}} {{{popular_vote2|}}}
 {{!}} style="{{#if:{{{popular_vote3|}}}|width:75px;}}text-align:center" {{!}} {{{popular_vote3|}}}
@@ -335,7 +335,7 @@
 |-<!-- percentage  -->
 {{#ifeq:{{{ongoing|}}}|yes||
 {{#if:{{{percentage1|}}}{{{percentage2|}}}{{{percentage3|}}}|
-! style="text-align:left" {{!}} Tek-phiò-lu̍t
+! style="text-align:left" {{!}} Tet-phiau-sut
 {{!}} style="{{#if:{{{percentage1|}}}|width:75px;}}text-align:center" {{!}} {{{percentage1|}}}
 {{!}} style="{{#if:{{{percentage2|}}}|width:75px;}}text-align:center" {{!}} {{{percentage2|}}}
 {{!}} style="{{#if:{{{percentage3|}}}|width:75px;}}text-align:center" {{!}} {{{percentage3|}}}
@@ -345,11 +345,11 @@
 {{#switch:{{{type|}}}
 | presidential
 | Presidential 
-| chóng-thóng
-| Chóng-thóng = 
+| chúng-thúng
+| Chúng-thúng = 
 {{#ifeq:{{{ongoing|}}}|yes||
 {{#if:{{{counties_won1|}}}{{{counties_won2|}}}{{{counties_won3|}}}|
-! style="text-align:left;white-space: nowrap" {{!}} Sèng-chhut ê kūn/koān
+! style="text-align:left;white-space: nowrap" {{!}} Sṳn-chhut ke khiun/yen
 {{!}} style="{{#if:{{{counties_won1|}}}|width:75px;}}text-align:center" {{!}} {{{counties_won1|}}}
 {{!}} style="{{#if:{{{counties_won2|}}}|width:75px;}}text-align:center" {{!}} {{{counties_won2|}}}
 {{!}} style="{{#if:{{{counties_won3|}}}|width:75px;}}text-align:center" {{!}} {{{counties_won3|}}}
@@ -361,11 +361,11 @@
 {{#switch:{{{type|}}}
 | presidential
 | Presidential
-| chóng-thóng
-| Chóng-thóng = 
+| chúng-thúng
+| Chúng-thúng = 
 {{#ifeq:{{{ongoing|}}}|yes||
 {{#if:{{{counties_threshold1|}}}{{{counties_threshold2|}}}{{{counties_threshold3|}}}|
-! style="text-align:left" {{!}} Tek kàu 25% soán-phiò ê kūn/koān
+! style="text-align:left" {{!}} Tet to 25% sién-phiau ke khiun/yen
 {{!}} style="{{#if:{{{counties_threshold1|}}}|width:75px;}}text-align:center" {{!}} {{{counties_threshold1|}}}
 {{!}} style="{{#if:{{{counties_threshold2|}}}|width:75px;}}text-align:center" {{!}} {{{counties_threshold2|}}}
 {{!}} style="{{#if:{{{counties_threshold3|}}}|width:75px;}}text-align:center" {{!}} {{{counties_threshold3|}}}
@@ -379,15 +379,15 @@
 | Parliamentary
 | legislative
 | Legislative 
-| gī-hoē
-| Gī-hoē
-| kok-hoē
-| Kok-hoē
-| li̍p-hoat-hoē
-| Li̍p-hoat-hoē  = 
+| Ngi-fi
+| ngi-fi
+| Koet-fi
+| koet-fi
+| Li̍p-fap-fi
+| li̍p-fap-fi  = 
 {{#ifeq:{{{ongoing|}}}|yes||
 {{#if:{{{swing1|}}}|
-! style="text-align:left;white-space: nowrap" {{!}} iû-lī-phiò-lu̍t
+! style="text-align:left;white-space: nowrap" {{!}} yù-lì-phiau-sut
 {{!}} style="width:75px;text-align:center" {{!}} {{{swing1}}}
 {{!}} style="{{#if:{{{swing2|}}}|width:75px;}}text-align:center" {{!}} {{{swing2|}}}
 {{!}} style="{{#if:{{{swing3|}}}|width:75px;}}text-align:center" {{!}} {{{swing3|}}}
@@ -400,11 +400,11 @@
 {{#switch:{{{type|}}}
 | presidential
 | Presidential
-| chóng-thóng
-| Chóng-thóng = 
+| chúng-thúng
+| Chúng-thúng = 
 {{#ifeq:{{{ongoing|}}}|yes|
 {{#if:{{{poll1_person1|}}}{{{poll1_person2|}}}{{{poll1_person3|}}}|
-! colspan=4 {{!}} Bîn-ì tiâu-cha
+! colspan=4 {{!}} Mìn-yi tiau-chhà
 }}
 }}
 | #default      = 
@@ -413,8 +413,8 @@
 {{#switch:{{{type|}}}
 | presidential
 | Presidential
-| chóng-thóng
-| Chóng-thóng = 
+| chúng-thúng
+| Chúng-thúng = 
 {{#ifeq:{{{ongoing|}}}|yes|
 {{#if:{{{poll1_person1|}}}{{{poll1_person2|}}}{{{poll1_person3|}}}|
 ! style="text-align:left; white-space: nowrap" {{!}} {{{poll1_date|}}}{{#if:{{{poll1_source|}}}| [{{{poll1_source|}}}]}}
@@ -428,8 +428,8 @@
 {{#switch:{{{type|}}}
 | presidential
 | Presidential
-| chóng-thóng
-| Chóng-thóng =
+| chúng-thúng
+| Chúng-thúng =
 {{#ifeq:{{{ongoing|}}}|yes|
 {{#if:{{{poll2_person1|}}}{{{poll2_person2|}}}{{{poll2_person3|}}}|
 ! style="text-align:left; white-space: nowrap" {{!}} {{{poll2_date|}}}{{#if:{{{poll2_source|}}}| [{{{poll2_source|}}}]}}
@@ -443,8 +443,8 @@
 {{#switch:{{{type|}}}
 | presidential
 | Presidential
-| chóng-thóng
-| Chóng-thóng =
+| chúng-thúng
+| Chúng-thúng =
 {{#ifeq:{{{ongoing|}}}|yes|
 {{#if:{{{poll3_person1|}}}{{{poll3_person2|}}}{{{poll3_person3|}}}|
 ! style="text-align:left; white-space: nowrap" {{!}} {{{poll3_date|}}}{{#if:{{{poll3_source|}}}| [{{{poll3_source|}}}]}}
@@ -458,8 +458,8 @@
 {{#switch:{{{type|}}}
 | presidential
 | Presidential
-| chóng-thóng
-| Chóng-thóng =
+| chúng-thúng
+| Chúng-thúng =
 {{#ifeq:{{{ongoing|}}}|yes|
 {{#if:{{{poll4_person1|}}}{{{poll4_person2|}}}{{{poll4_person3|}}}|
 ! style="text-align:left; white-space: nowrap" {{!}} {{{poll4_date|}}}{{#if:{{{poll4_source|}}}| [{{{poll4_source|}}}]}}
@@ -473,8 +473,8 @@
 {{#switch:{{{type|}}}
 | presidential
 | Presidential
-| chóng-thóng
-| Chóng-thóng =
+| chúng-thúng
+| Chúng-thúng =
 {{#ifeq:{{{ongoing|}}}|yes|
 {{#if:{{{poll5_person1|}}}{{{poll5_person2|}}}{{{poll5_person3|}}}|
 ! style="text-align:left; white-space: nowrap" {{!}} {{{poll5_date|}}}{{#if:{{{poll5_source|}}}| [{{{poll5_source|}}}]}}
@@ -490,15 +490,15 @@
 | Parliamentary
 | legislative
 | Legislative 
-| gī-hoē
-| Gī-hoē
-| kok-hoē
-| Kok-hoē
-| li̍p-hoat-hoē
-| Li̍p-hoat-hoē  = 
+| Ngi-fi
+| ngi-fi
+| Koet-fi
+| koet-fi
+| Li̍p-fap-fi
+| li̍p-fap-fi  = 
 {{#ifeq:{{{ongoing|}}}|yes|
 {{#if:{{{poll1_party1|}}}{{{poll1_party2|}}}{{{poll1_party3|}}}|
-! colspan=4 {{!}} bîn-ì tiâu-cha
+! colspan=4 {{!}} Mìn-yi tiau-chhà
 }}
 }}
 | #default      = 
@@ -509,12 +509,12 @@
 | Parliamentary
 | legislative
 | Legislative 
-| gī-hoē
-| Gī-hoē
-| kok-hoē
-| Kok-hoē
-| li̍p-hoat-hoē
-| Li̍p-hoat-hoē  = 
+| Ngi-fi
+| ngi-fi
+| Koet-fi
+| koet-fi
+| Li̍p-fap-fi
+| li̍p-fap-fi  = 
 {{#ifeq:{{{ongoing|}}}|yes|
 {{#if:{{{poll1_party1|}}}{{{poll1_party2|}}}{{{poll1_party3|}}}|
 ! style="text-align:left; white-space: nowrap" {{!}} {{{poll1_date|}}}{{#if:{{{poll1_source|}}}| [{{{poll1_source|}}}]}}
@@ -531,12 +531,12 @@
 | Parliamentary
 | legislative
 | Legislative 
-| gī-hoē
-| Gī-hoē
-| kok-hoē
-| Kok-hoē
-| li̍p-hoat-hoē
-| Li̍p-hoat-hoē  = 
+| Ngi-fi
+| ngi-fi
+| Koet-fi
+| koet-fi
+| Li̍p-fap-fi
+| li̍p-fap-fi  = 
 {{#ifeq:{{{ongoing|}}}|yes|
 {{#if:{{{poll2_party1|}}}{{{poll2_party2|}}}{{{poll2_party3|}}}|
 ! style="text-align:left; white-space: nowrap" {{!}} {{{poll2_date|}}}{{#if:{{{poll2_source|}}}| [{{{poll2_source|}}}]}}
@@ -553,12 +553,12 @@
 | Parliamentary
 | legislative
 | Legislative 
-| gī-hoē
-| Gī-hoē
-| kok-hoē
-| Kok-hoē
-| li̍p-hoat-hoē
-| Li̍p-hoat-hoē  = 
+| Ngi-fi
+| ngi-fi
+| Koet-fi
+| koet-fi
+| Li̍p-fap-fi
+| li̍p-fap-fi  = 
 {{#ifeq:{{{ongoing|}}}|yes|
 {{#if:{{{poll3_party1|}}}{{{poll3_party2|}}}{{{poll3_party3|}}}|
 ! style="text-align:left; white-space: nowrap" {{!}} {{{poll3_date|}}}{{#if:{{{poll3_source|}}}| [{{{poll3_source|}}}]}}
@@ -575,12 +575,12 @@
 | Parliamentary
 | legislative
 | Legislative 
-| gī-hoē
-| Gī-hoē
-| kok-hoē
-| Kok-hoē
-| li̍p-hoat-hoē
-| Li̍p-hoat-hoē  = 
+| Ngi-fi
+| ngi-fi
+| Koet-fi
+| koet-fi
+| Li̍p-fap-fi
+| li̍p-fap-fi  = 
 {{#ifeq:{{{ongoing|}}}|yes|
 {{#if:{{{poll4_party1|}}}{{{poll4_party2|}}}{{{poll4_party3|}}}|
 ! style="text-align:left; white-space: nowrap" {{!}} {{{poll4_date|}}}{{#if:{{{poll4_source|}}}| [{{{poll4_source|}}}]}}
@@ -597,12 +597,12 @@
 | Parliamentary
 | legislative
 | Legislative 
-| gī-hoē
-| Gī-hoē
-| kok-hoē
-| Kok-hoē
-| li̍p-hoat-hoē
-| Li̍p-hoat-hoē  = 
+| Ngi-fi
+| ngi-fi
+| Koet-fi
+| koet-fi
+| Li̍p-fap-fi
+| li̍p-fap-fi  = 
 {{#ifeq:{{{ongoing|}}}|yes|
 {{#if:{{{poll5_party1|}}}{{{poll5_party2|}}}{{{poll5_party3|}}}|
 ! style="text-align:left; white-space: nowrap" {{!}} {{{poll5_date|}}}{{#if:{{{poll5_source|}}}| [{{{poll5_source|}}}]}}
