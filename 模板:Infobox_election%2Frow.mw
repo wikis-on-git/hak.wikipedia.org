@@ -99,8 +99,8 @@
 {{#switch:{{{type|}}}
 | presidential
 | Presidential 
-| Chóng-thóng
-| chóng-thóng = 
+| Chúng-thúng
+| chúng-thúng = 
 {{#if:{{{running_mate1|}}}{{{running_mate2|}}}{{{running_mate3|}}}|
 ! style="text-align:left;white-space: nowrap" {{!}} Fu-sú
 {{!}} style="{{#if:{{{running_mate1|}}}|width:75px;}}text-align:center" {{!}} {{{running_mate1|}}}
