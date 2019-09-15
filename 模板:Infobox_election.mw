@@ -1,4 +1,4 @@
-<templatestyles src="Infobox/styles.css" /><includeonly>{| class="infobox {{#if:{{{election_date|}}}|vevent|}}" style="font-size: 88%; line-height: 1.5em; {{#if:<!--
+<includeonly>{| class="infobox {{#if:{{{election_date|}}}|vevent|}}" style="font-size: 88%; line-height: 1.5em; {{#if:<!--
  -->{{{map_image|}}}{{{map|}}}{{{map2_image|}}}{{{map2|}}}{{{map3_image|}}}{{{map3|}}}{{{map4_image|}}}{{{map4|}}}<!--
  -->|width:{{max
 | 1 = {{#if:{{{map_image|}}}{{{map|}}}|{{#invoke:string|replace|{{ifempty|{{{map_size|}}}|300px}}|px%s*$||plain=false}}}}
