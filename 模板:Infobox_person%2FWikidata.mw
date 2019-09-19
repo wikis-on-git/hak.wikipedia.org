@@ -9,8 +9,8 @@
 |imagestyle   = 
 |caption      = <!-- {{#if:{{{caption|{{#invoke:Wikidata|getImageLegend|FETCH_WIKIDATA}} }}}|{{{caption|{{#invoke:Wikidata|getImageLegend|FETCH_WIKIDATA}} }}} }} -->
 |captionstyle = 
-|headerstyle  = background:#ccf;
-|labelstyle   = background:#ddf; width:30%;
+|headerstyle  = 
+|labelstyle   = 
 |datastyle    = 
 
 | label1     = Mû-ngî-miàng
@@ -88,7 +88,7 @@
 |label91 = Mióng-cham
 |data91  = {{#invoke:Wikidata|getValue|P856|{{{website<includeonly>|FETCH_WIKIDATA</includeonly>}}}}}
 
-|belowstyle = background:#ddf;
+|belowstyle = 
 |below = {{EditOnWikidata}}
 }}<noinclude>
 {{documentation}}
