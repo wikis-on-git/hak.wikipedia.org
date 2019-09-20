@@ -1,17 +1,17 @@
 <includeonly>{{#if:{{{nodiv|}}}|&nbsp;<span|<div}} class="noprint plainlinksneverexpand navbar" style="background:none; padding:0; font-weight:normal;{{{fontstyle|}}}; font-size:xx-small; {{{style|}}}"><!--
 
 -->{{#if:{{{mini|}}}{{{plain|}}}|<!--nothing-->|<!--else:
--->This box:&#32;}}<!--
+-->&#32;}}<!--
 
 -->{{#if:{{{brackets|}}}|&#91;}}<!--
 
--->[[{{transclude|{{{1}}}}}|<span title="View this template" style="{{{fontstyle|}}}"><!--
--->{{#if:{{{mini|}}}|v|view}}</span>]]<!--
+-->[[{{transclude|{{{1}}}}}|<span title="chhà-khon liá-ke mù-pán." style="{{{fontstyle|}}}"><!--
+-->{{#if:{{{mini|}}}|h|H}}</span>]]<!--
 
--->&nbsp;<span style="font-size:80%;">•</span>&nbsp;[[{{TALKPAGENAME:{{transclude|{{{1}}}}}}}|<span title="Discussion about this template" style="{{{fontstyle|}}}">{{#if:{{{mini|}}}|d|talk}}</span>]]<!--
+-->&nbsp;<span style="font-size:80%;">•</span>&nbsp;[[{{TALKPAGENAME:{{transclude|{{{1}}}}}}}|<span title="Thó-lun liá-ke mù-pán." style="{{{fontstyle|}}}">{{#if:{{{mini|}}}|l|L}}</span>]]<!--
 
 -->{{#if:{{{noedit|}}}|<!--nothing-->|<!--else:
--->&nbsp;<span style="font-size:80%;">•</span>&nbsp;[{{fullurl:{{transclude|{{{1}}}}}|action=edit}}<span title="Edit this template" style="{{{fontstyle|}}};">{{#if:{{{mini|}}}|e|edit}}</span>]<!--
+-->&nbsp;<span style="font-size:80%;">•</span>&nbsp;[{{fullurl:{{transclude|{{{1}}}}}|action=edit}}<span title="Phiên-siá liá-ke mù-pán." style="{{{fontstyle|}}};">{{#if:{{{mini|}}}|p|P}}</span>]<!--
 -->}}<!--
 
 -->{{#if:{{{brackets|}}}|]}}<!--
