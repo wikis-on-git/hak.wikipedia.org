@@ -1,0 +1,13 @@
+{{#switch:{{{1}}}
+|name   = Thú-ngí-khì
+|top    = 42.5
+|bottom = 35.5
+|left   = 25.4
+|right  = 45.0
+|image  = Turkey adm location map.svg
+|image1 = Turkey relief location map.jph
+}}<noinclude>{{Location map/Info}}
+[[Category:地理位置图模板|{{PAGENAME}}]]
+
+<noinclude>
+</noinclude>
