@@ -1,0 +1,77 @@
+{{ infobox
+| abovestyle = background-color: {{{background|{{{Background|lightgrey}}}}}}
+| above      = {{{name|{{{Name|<includeonly>{{PAGENAME}}</includeonly>}}}}}}
+| image      = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|{{{Image|}}}}}}|size={{{image_size|{{{Width|{{{width|}}}}}}}}}|sizedefault=frameless|upright=1.06|alt={{{alt|{{{Alt|}}}}}}}}
+| caption    = {{{caption|{{{Caption|}}}}}}
+
+| header1 = <includeonly>lui-phe̍t lâu ngoi-phu chṳ̂-liau</includeonly>
+
+| label2 = thu̍k
+|  data2 = {{#if:{{{pronounce|{{{Pronounce|{{{Pronunciation|{{{pronunciation|}}}}}}}}}}}}{{{pronounce comment|}}} |{{{pronounce|{{{Pronounce|{{{Pronunciation|{{{pronunciation|}}}}}}}}}}}}{{{pronounce ref|}}}&#x20;{{{pronounce comment|}}} }}<!--
+         -->{{#if:{{{pronounce 2|}}} |<br/>{{{pronounce 2|}}} }}
+
+| label3 = [[thùng-ngi-chhṳ̀]]
+|  data3 = {{{Synonym|{{{synonym|{{{Synonyms|{{{synonyms|}}}}}}}}}}}}
+
+| label4  = [[yî-ho̍k chôn-khô]]
+|  data4  = {{{field|{{{Field|{{{specialty|{{{Specialty|{{{Speciality|{{{speciality|{{#invoke:Wikidata|getValue|P1995|{{{style|FETCH_WIKIDATA}}}}}}}}}}}}}}}}}}}}}}}
+
+| label5  = [[ICD]]-[[ICD-10|10]]
+|  data5  = {{{ICD10|}}}
+
+| label6  = [[ICD]]-[[List of ICD-9 codes|9-CM]]
+|  data6  = {{{ICD9|}}}
+
+| label7  = [[ICD-O]]
+|  data7  = {{{ICDO|}}}
+
+| label8  = [[OMIM]]
+|  data8  = {{#if:{{{OMIM|}}}|[http://omim.org/entry/{{{OMIM}}} {{{OMIM}}}] {{{OMIM_mult|}}} }}
+
+| label9  = [[Diseases Database|DiseasesDB]]
+|  data9  = {{#if:{{{DiseasesDB|}}}|[http://www.diseasesdatabase.com/ddb{{{DiseasesDB}}}.htm {{{DiseasesDB}}}] {{{DiseasesDB_mult|}}} }}
+
+| label10  = [[MedlinePlus]]
+|  data10  = {{#if:{{{MedlinePlus|}}}|[http://www.nlm.nih.gov/medlineplus/ency/article/{{{MedlinePlus}}}.htm {{{MedlinePlus}}}]  {{{MedlinePlus_mult|}}} }}
+
+| label11  = [[eMedicine]]
+|  data11  = {{#if:{{{eMedicineSubj|}}}|{{#ifeq:{{{eMedicineSubj|}}}|search|[http://search.medscape.com/emedicine-search?queryText={{{eMedicineTopic}}} topic list]|{{#ifeq:{{{eMedicineSubj|}}}|article|[http://emedicine.medscape.com/article/{{{eMedicineTopic}}}-overview|[http://www.emedicine.com/{{{eMedicineSubj}}}/topic{{{eMedicineTopic}}}.htm}} {{{eMedicineSubj}}}/{{{eMedicineTopic}}}]}} }} {{{eMedicine_mult|}}}
+
+<!-- | label11 = [[Mî-koet koet-kâ ngàm ngièn-kiu-só|NCI]]
+|  data11 = {{#if:{{#property:P1395}}|[http://www.cancer.gov{{#property:P1395}} {{{name|{{PAGENAME}}}}}] }} -->
+
+| label12 = [[Patient UK]]
+|  data12 = {{#if:{{#property:P1461}}|[http://patient.info/doctor/{{#property:P1461}} {{{name|{{PAGENAME}}}}}] }}
+
+| label13 = [[yî-ho̍k chú-thì-chhṳ̀|MeSH]]
+| data13  = {{comma separated entries
+  | 1 = {{#if:{{{MeshID|{{{MeSH|{{{MeSH1|}}}}}}}}} | {{mesh2|{{{MeshID|{{{MeSH|{{{MeSH1}}}}}}}}}| year= {{{MeshYear|{{{MeshYear1|}}}}}} }} }}
+  | 2 = {{#if:{{{MeSH2|}}} | {{mesh2|{{{MeSH2|}}}|year={{{MeshYear2|}}}}} }}
+  | 3 = {{#if:{{{MeSH3|}}} | {{mesh2|{{{MeSH3|}}}|year={{{MeshYear3|}}}}} }}
+  | 4 = {{#if:{{{MeSH4|}}} | {{mesh2|{{{MeSH4|}}}|year={{{MeshYear4|}}}}} }}
+  | 5 = {{#if:{{{MeSH5|}}} | {{mesh2|{{{MeSH5|}}}|year={{{MeshYear5|}}}}} }}
+  | 6 = {{#if:{{{MeSH6|}}} | {{mesh2|{{{MeSH6|}}}|year={{{MeshYear6|}}}}} }}
+  | 7 = {{#if:{{{MeSH7|}}} | {{mesh2|{{{MeSH7|}}}|year={{{MeshYear7|}}}}} }}
+  | 8 = {{#if:{{{MeSH8|}}} | {{mesh2|{{{MeSH8|}}}|year={{{MeshYear8|}}}}} }}
+  | 9 = {{#if:{{{MeSH9|}}} | {{mesh2|{{{MeSH9|}}}|year={{{MeshYear9|}}}}} }}
+  |10 = {{#if: {{{MeshName|}}} | ''{{mesh2 | name = {{{MeshName}}} | number = {{{MeshNumber|}}} }}'' }}
+  }}
+
+| label14     = [[GeneReviews]]
+| class14     = plainlist
+| data14      = {{#if: {{{GeneReviewsNBK|}}}{{{GeneReviewsNBK1|}}}| 
+* {{NCBIBook2|{{{GeneReviewsNBK|{{{GeneReviewsNBK1}}}}}}|{{{GeneReviewsName|{{{GeneReviewsName1|}}}}}}}}|{{#if: {{{GeneReviewsID|}}}| 
+* [http://www.ncbi.nlm.nih.gov/books/n/gene/{{{GeneReviewsID}}}/ {{#if: {{{GeneReviewsName|}}}|{{{GeneReviewsName}}}|{{{GeneReviewsID}}}}}]}}}}{{#if: {{{GeneReviewsNBK2|}}}| 
+* {{NCBIBook2|{{{GeneReviewsNBK2}}}|{{{GeneReviewsName2|}}}}}}}{{#if: {{{GeneReviewsNBK3|}}}| 
+* {{NCBIBook2|{{{GeneReviewsNBK3}}}|{{{GeneReviewsName3|}}}}}}}{{#if: {{{GeneReviewsNBK4|}}}| 
+* {{NCBIBook2|{{{GeneReviewsNBK4}}}|{{{GeneReviewsName4|}}}}}}}{{#if: {{{GeneReviewsNBK5|}}}| 
+* {{NCBIBook2|{{{GeneReviewsNBK5}}}|{{{GeneReviewsName5|}}}}}}}{{#if: {{{GeneReviewsNBK6|}}}| 
+* {{NCBIBook2|{{{GeneReviewsNBK6}}}|{{{GeneReviewsName6|}}}}}}}{{#if: {{{GeneReviewsNBK7|}}}| 
+* {{NCBIBook2|{{{GeneReviewsNBK7}}}|{{{GeneReviewsName7|}}}}}}}
+| label15  = [[Orphanet]]
+|  data15 = {{#if:{{{Orphanet|}}}|[http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert={{{Orphanet}}} {{{Orphanet}}}]  {{{Orphanet_mult|}}} }}
+| data16     = <includeonly><div style="text-align: right;">&#91;[[d:{{#invoke:Wikidata|pageId}}|siû-kói Wikidata]]]</div></includeonly>
+| rowclass16 = noprint
+}}<noinclude>
+{{documentation}}
+</noinclude>
