@@ -694,4 +694,5 @@
 {{!}} style="padding:0.5em; text-align:left;" {{!}}
 {{{synonyms|}}} }}
 |}
+<templatestyles src="Infobox/styles.css" />
 </includeonly><noinclude>{{Documentation}}</noinclude>
