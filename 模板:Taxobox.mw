@@ -53,7 +53,7 @@
 |CD|cd=[[Image:Status EPBC CD.svg|frameless|link=]]<br />[[pó-fu yî-lai]] [[Category:EPBC Fap-on pó-fu yî-lai sâng-vu̍t khiùn]]
 |DL|dl|Delisted=[[Image:Status EPBC DL.Svg|frameless|link=]]<br /> chhù miàng 
 |''''' mò háu chhong-khóng '''''[[Category: mò háu pó-fu chhong-khóng]]
-}}<small> ({{#if:{{{status_text|}}}|[[{{{status_text|# pó-fu chhong-khóng }}}| kien hâ vùn]]|[[1999-ngièn fàn-kin pó-fu lâu sâng-vu̍t tô-ngióng sin pó-fu Fap-on |EPBC Fap-on]]}}) {{{status_ref|}}}</small>
+}}<small> ({{#if:{{{status_text|}}}|[[{{{status_text|# pó-fu chhong-khóng }}}| kien hâ vùn]]|[[1999-ngièn fàn-kin pó-fu lâu sâng-vu̍t tô-yong sin pó-fu Fap-on |EPBC Fap-on]]}}) {{{status_ref|}}}</small>
 |tnc|TNC={{#switch:{{{status}}}
 |GX=[[File:Status {{{status_system|TNC}}} GX.svg|frameless]]<br /> thûi chhet [[chhie̍t me̍t]] {{#if:{{{extinct|}}}| ({{{extinct}}}) }}
 |GH=[[File:Status {{{status_system|TNC}}} GH.svg|frameless]]<br /> khó-nèn [[chhie̍t me̍t]]
@@ -237,7 +237,7 @@
 |CD|cd=[[pó-fu yî-lai]] [[Category:EPBC Fap-on pó-fu yî-lai sâng-vu̍t khiùn]]
 |DL|dl|Delisted= chhù miàng 
 |''''' mò háu chhong-khóng '''''[[Category: mò háu pó-fu chhong-khóng]]
-}}<small> ({{#if:{{{status_text2|}}}|[[{{{status_text2|# pó-fu chhong-khóng }}}| kien hâ vùn]]|[[1999-ngièn fàn-kin pó-fu lâu sâng-vu̍t tô-ngióng sin pó-fu Fap-on |EPBC Fap-on]]}}) {{{status_ref2|}}}</small>
+}}<small> ({{#if:{{{status_text2|}}}|[[{{{status_text2|# pó-fu chhong-khóng }}}| kien hâ vùn]]|[[1999-ngièn fàn-kin pó-fu lâu sâng-vu̍t tô-yong sin pó-fu Fap-on |EPBC Fap-on]]}}) {{{status_ref2|}}}</small>
 |tnc|TNC={{#switch:{{{status2}}}
 |GX= thûi chhet [[chhie̍t me̍t]] {{#if:{{{extinct|}}}| ({{{extinct}}}) }}
 |GH= khó-nèn [[chhie̍t me̍t]]
@@ -454,7 +454,7 @@
 {{!}} <span style="white-space: nowrap"><span class="subphylum">{{{subphylum}}}</span></span><br /><small>{{{subphylum_authority|}}}</small>}}
 |-valign="top"
 {{#if:{{{infraphylum|}}}|
-{{!}} <span style="white-space: nowrap"> hâ mùn: </span>
+{{!}} <span style="white-space: nowrap"> ha mùn: </span>
 {{!}} {{{infraphylum}}}<br /><small>{{{infraphylum_authority|}}}</small>}}
 |-valign="top"
 {{#if:{{{microphylum|}}}|
@@ -470,19 +470,19 @@
 {{!}} {{{unranked_classis}}}<br /><small>{{{unranked_classis_authority|}}}</small>}}
 |-valign="top"
 {{#if:{{{superclassis|}}}|
-{{!}} <span style="white-space: nowrap"> chúng kong: </span>
+{{!}} <span style="white-space: nowrap"> chúng kông: </span>
 {{!}} {{{superclassis}}}<br /><small>{{{superclassis_authority|}}}</small>}}
 |-valign="top"
 {{#if:{{{classis|}}}|
-{{!}} kong: 
+{{!}} kông: 
 {{!}} <span style="white-space: nowrap"><span class="taxoclass">{{{classis}}}</span></span><br /><small>{{{classis_authority|}}}</small>}}
 |-valign="top"
 {{#if:{{{subclassis|}}}|
-{{!}} <span style="white-space: nowrap"> â kong: </span>
+{{!}} <span style="white-space: nowrap"> â kông: </span>
 {{!}} <span class="subclass">{{{subclassis}}}</span><br /><small>{{{subclassis_authority|}}}</small>}}
 |-valign="top"
 {{#if:{{{infraclassis|}}}|
-{{!}} <span style="white-space: nowrap"> hâ kong: </span>
+{{!}} <span style="white-space: nowrap"> ha kông: </span>
 {{!}} <span class="infraclass">{{{infraclassis}}}</span><br /><small>{{{infraclassis_authority|}}}</small>}}
 |-valign="top"
 {{#if:{{{unranked_ordo|}}}|
@@ -506,7 +506,7 @@
 {{!}} <span style="white-space: nowrap"><span class="suborder">{{{subordo}}}</span></span><br /><small>{{{subordo_authority|}}}</small>}}
 |-valign="top"
 {{#if:{{{infraordo|}}}|
-{{!}} <span style="white-space: nowrap"> hâ muk: </span>
+{{!}} <span style="white-space: nowrap"> ha muk: </span>
 {{!}} <span style="white-space: nowrap"><span class="infraorder">{{{infraordo}}}</span></span><br /><small>{{{infraordo_authority|}}}</small>}}
 |-valign="top"
 {{#if:{{{parvordo|}}}|
@@ -578,11 +578,11 @@
 {{!}} {{{subsectio}}}<br /><small>{{{subsectio_authority|}}}</small>}}
 |-valign="top"
 {{#if:{{{series|}}}|
-{{!}} hì: 
+{{!}} he: 
 {{!}} {{{series}}}<br /><small>{{{series_authority|}}}</small>}}
 |-valign="top"
 {{#if:{{{subseries|}}}|
-{{!}} <span style="white-space:nowrap;"> â hì: </span>
+{{!}} <span style="white-space:nowrap;"> â he: </span>
 {{!}} <span style="white-space:nowrap;">{{{subseries}}}</span><br /><small>{{{subseries_authority|}}}</small>}}
 |-valign="top"
 {{#if:{{{species_group|}}}|
@@ -594,7 +594,7 @@
 {{!}} {{{species_subgroup}}}<br /><small>{{{species_subgroup_authority|}}}</small>}}
 |-valign="top"
 {{#if:{{{species_complex|}}}|
-{{!}} <span style="white-space:nowrap;"> fu̍k ha̍p chúng: </span>
+{{!}} <span style="white-space:nowrap;"> fu̍k-ha̍p chúng: </span>
 {{!}} {{{species_complex}}}<br /><small>{{{species_complex_authority|}}}</small>}}
 |-valign="top"
 {{#if:{{{species|}}}|
@@ -614,16 +614,16 @@
 {{!}} <span class="subvarietas" style="white-space:nowrap;">{{{subvarietas}}}</span><br /><small>{{{subvarietas_authority|}}}</small>}}
 |-valign="top"
 {{#if:{{{forma|}}}|
-{{!}} <span style="white-space: nowrap"> pien hîn: </span>
+{{!}} <span style="white-space: nowrap"> pien hìn: </span>
 {{!}} <span class="forma" style="white-space:nowrap;">{{{forma}}}</span><br /><small>{{{forma_authority|}}}</small>}}
 |-valign="top"
 {{#if:{{{subforma|}}}|
-{{!}} <span style="white-space: nowrap"> â pien hîn: </span>
+{{!}} <span style="white-space: nowrap"> â pien hìn: </span>
 {{!}} <span class="subforma" style="white-space:nowrap;">{{{subforma}}}</span><br /><small>{{{subforma_authority|}}}</small>}}
 |}
 |- style="background:{{{color|{{{colour|{{Taxobox colour|{{{regnum|{{{domain|{{{virus_group|{{{unranked_phylum|{{{phylum}}}}}}}}}}}}}}}}}}}}}}};"
 {{#if:{{{diversity|}}}|
-! [[{{{diversity_link}}}| tô-ngióng sin]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | | }}
+! [[{{{diversity_link}}}| tô-yong sin]] {{#ifeq: {{NAMESPACEE}} | {{ns:0}} | | }}
 {{!}}- style="text-align:center;"
 {{!}} {{{diversity|}}}}} 
 |- style="background:{{{color|{{{colour|{{Taxobox colour|{{{regnum|{{{domain|{{{virus_group|{{{unranked_phylum|{{{phylum}}}}}}}}}}}}}}}}}}}}}}};"
@@ -648,7 +648,7 @@
 {{!}} {{{type_species}}}<br /><small>{{{type_species_authority|}}}</small>}}
 {{#if:{{{type_strain|}}}|
 {{!}}- style="background:{{{color|{{{colour|{{Taxobox colour|{{{regnum|{{{domain|{{{virus_group|{{{unranked_phylum|{{{phylum}}}}}}}}}}}}}}}}}}}}}}};"
-! [[Sâng-vu̍t-ho̍k mù-sṳt | mù-sṳt tsu]]
+! [[Sâng-vu̍t-ho̍k mù-sṳt | mù-sṳt chû]]
 {{!}}- style="text-align:center;"
 {{!}} {{{type_strain}}}}}
 |- style="text-align:center;" 
