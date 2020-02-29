@@ -1,4 +1,4 @@
-<includeonly><templatestyles src="nowrap/core.css"/><span class="nowrap">{{{1}}}</span></includeonly><noinclude>
+<includeonly><span class="nowrap">{{{1}}}</span></includeonly><noinclude>
 {{protected template}}
 {{/doc}}
 </noinclude>
