@@ -1,6 +1,4 @@
-<includeonly><templatestyles src="nowrap/core.css"/><span class="nowrap"></includeonly><noinclude>
-
-{{pp-template|small=yes}}
+<includeonly><span class="nowrap"></includeonly><noinclude>
 {{Documentation}} 
 <!-- Add categories and interwikis to the /doc subpage, not here! -->
 </noinclude>
