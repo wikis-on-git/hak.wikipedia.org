@@ -1,4 +1,1 @@
-<includeonly><span class="nowrap">{{{1}}}</span></includeonly><noinclude>
-{{protected template}}
-{{/doc}}
-</noinclude>
+<includeonly><span class="nowrap">{{{1}}}</span></includeonly><noinclude>{{protected template}}{{/doc}}</noinclude>
